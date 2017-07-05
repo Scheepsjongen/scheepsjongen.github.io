@@ -63,7 +63,7 @@ footer #ContactForm1_contact-form-submit::after {
     display: table;
 }
 
-@media (max-width: 970px) {
+@media (max-width: 1000px) {
     body,
     .btn, .btn-lg {
         font-size: 25px;
