@@ -11,6 +11,15 @@ footer .contact-form-widget,
 footer .contact-form-name,
 footer .contact-form-email,
 footer .contact-form-email-message {
-    width: 100%;
     max-width: none;
+}
+
+#ContactForm1_contact-form-submit {
+    float: right;
+}
+
+#ContactForm1_contact-form-submit::after {
+    content: "";
+    clear: both;
+    display: table;
 }
