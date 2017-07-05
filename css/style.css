@@ -1,0 +1,8 @@
+.navbar-right {
+    margin-right: 0;
+}
+
+#title .btn,
+.score .btn {
+    padding: 10px 50px;
+}

@@ -1,0 +1,24 @@
+﻿<section class="quiz" data-title="Тест мисливця" data-subtitle="Питання з іспиту для отримання &quot;Посвідчення мисливця&quot;">
+    <section class="question" number="1">
+        <section class="text">
+            Який термін дії посвідчення мисливця?
+        </section>
+        <section class="answer" data-correct="data-correct">Необмежений.</section>
+        <section class="answer">Календарний рік.</section>
+        <section class="answer">3 роки.</section>
+        <section class="description">
+            This is an answer description with a <a href="http://pietschsoft.com">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Яким органом видаються мисливцям відстрільні картки для полювання на пернату дичину і хутрового звіра?
+        </section>
+        <section class="answer" data-correct="data-correct">Користувачем мисливських угідь.</section>
+        <section class="answer">Спеціально уповноваженим центральним органом виконавчої влади у галузі мисливського господарства та полювання.</section>
+        <section class="answer">Спеціально уповноваженим центральним органом виконавчої влади у галузі охорони навколишнього природного середовища</section>
+        <section class="description">
+            This is an answer description with a <a href="http://pietschsoft.com">link</a>.
+        </section>
+    </section>
+</section>
