@@ -1,3 +1,7 @@
+body {
+    font-size: 16px;
+}
+
 .navbar-right {
     margin-right: 0;
 }
