@@ -26,6 +26,10 @@ hr {
     height: 400px;
 }
 
+#test {
+    margin-bottom: 30px;
+}
+
 footer {
     color: #fff;
     background-color: #3c5148;
