@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .navbar-right {
@@ -61,4 +61,11 @@ footer #ContactForm1_contact-form-submit::after {
     content: "";
     clear: both;
     display: table;
+}
+
+@media (max-width: 970px) {
+    body,
+    .btn, .btn-lg {
+        font-size: 25px;
+    }
 }
