@@ -6,3 +6,8 @@
 .score .btn {
     padding: 10px 50px;
 }
+
+footer input,
+footer textarea {
+    width: 100%;
+}
