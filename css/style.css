@@ -12,7 +12,7 @@ body {
 }
 
 .answer div {
-    max-width: calc(100% - 23px);
+    max-width: calc(100% - 40px);
 }
 
 hr {
