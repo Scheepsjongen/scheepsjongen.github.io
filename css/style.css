@@ -7,6 +7,17 @@
     padding: 10px 50px;
 }
 
+hr {
+    display: block;
+    border: 0;
+    height: 10px;
+    background: url('https://rawcdn.githack.com/Olezha/Blogger-Frontend/master/img/spruce_hr.png') no-repeat center;
+}
+
+#comment-editor {
+    height: 400px;
+}
+
 footer {
     color: #fff;
     background-color: #3c5148;
