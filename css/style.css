@@ -7,6 +7,10 @@
     padding: 10px 50px;
 }
 
+.answer div {
+    max-width: calc(100% - 23px);
+}
+
 hr {
     display: block;
     border: 0;
