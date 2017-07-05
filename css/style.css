@@ -16,6 +16,10 @@ footer {
     margin-top: 150px;
 }
 
+footer a, footer a:hover {
+    color: #fff;
+}
+
 footer .contact-form-widget,
 footer .contact-form-name,
 footer .contact-form-email,
@@ -23,11 +27,18 @@ footer .contact-form-email-message {
     max-width: none;
 }
 
-#ContactForm1_contact-form-submit {
+footer #ContactForm1_contact-form-submit {
     float: right;
+    font-size: 14px;
+    height: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid #fff;
 }
 
-#ContactForm1_contact-form-submit::after {
+footer #ContactForm1_contact-form-submit::after {
     content: "";
     clear: both;
     display: table;
