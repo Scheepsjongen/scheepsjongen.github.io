@@ -66,6 +66,6 @@ footer #ContactForm1_contact-form-submit::after {
 @media (max-width: 1000px) {
     body,
     .btn, .btn-lg {
-        font-size: 25px;
+        font-size: 32px;
     }
 }
