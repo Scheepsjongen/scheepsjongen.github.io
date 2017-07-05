@@ -1,24 +1,112 @@
 ﻿<section class="quiz" data-title="Тест мисливця" data-subtitle="Питання з іспиту для отримання &quot;Посвідчення мисливця&quot;">
     <section class="question" number="1">
         <section class="text">
-            Який термін дії посвідчення мисливця?
+            Що відноситься до державного мисливського фонду?
         </section>
-        <section class="answer" data-correct="data-correct">Необмежений.</section>
-        <section class="answer">Календарний рік.</section>
-        <section class="answer">3 роки.</section>
+        <section class="answer" data-correct="data-correct">Мисливські тварини, що перебувають у стані природної волі, а також утримуються в напіввільних умовах або у неволі в межах угідь державних мисливських господарств.</section>
+        <section class="answer">Мисливські тварини які знаходяться у межах мисьливських угідь.</section>
+        <section class="answer">Усі тварини які знаходяться на теріторії України.</section>
         <section class="description">
-            This is an answer description with a <a href="http://pietschsoft.com">link</a>.
+            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="2">
         <section class="text">
-            Яким органом видаються мисливцям відстрільні картки для полювання на пернату дичину і хутрового звіра?
+            Які території відносяться до мисливських угідь?
         </section>
-        <section class="answer" data-correct="data-correct">Користувачем мисливських угідь.</section>
-        <section class="answer">Спеціально уповноваженим центральним органом виконавчої влади у галузі мисливського господарства та полювання.</section>
-        <section class="answer">Спеціально уповноваженим центральним органом виконавчої влади у галузі охорони навколишнього природного середовища</section>
+        <section class="answer" data-correct="data-correct">Ділянки суші та водного простору, на яких перебувають мисливські тварини і які можуть бути використані для ведення мисливського господарства.</section>
+        <section class="answer">Обмежені ділянки суходолу та водного простору які затверджені як мисьливські угіддя та віддані під опіку користувача мисьливських угідь.</section>
+        <section class="answer">Усі ділянки які не мають сільскогосподарського або житлового значення.</section>
         <section class="description">
-            This is an answer description with a <a href="http://pietschsoft.com">link</a>.
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Що відноситься до мисливських тварин?
+        </section>
+        <section class="answer">Звірі та птахи, в межах мисливських угідь.</section>
+        <section class="answer">Всі звірі та птахи, що знаходяться на волі.</section>
+        <section class="answer" data-correct="data-correct">Дикі звірі та птахи, що можуть бути об'єктами полювання.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Кому належать мисливські тварини, що знаходяться в мисливських угіддях?
+        </section>
+        <section class="answer">Підприємствам лісового господарства.</section>
+        <section class="answer" data-correct="data-correct">Державі.</section>
+        <section class="answer">Орендарям цих угідь.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Хто здійснює державне управління в галузі охорони і використання тваринного світу?
+        </section>
+        <section class="answer" data-correct="data-correct">Міністерство охорони навколишнього середовища.</section>
+        <section class="answer">Міністерство екології та природних ресурсів України.</section>
+        <section class="answer">Держкомлісгосп.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Хто є спеціально уповноваженим органом у галузі ведення мисливського господарства?
+        </section>
+        <section class="answer">Мінекобезпеки.</section>
+        <section class="answer">Кабмін України.</section>
+        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Які документи обов'язкові при проведенні полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Дозвіл, посвідчення, картка обліку, ліцензія або відстрільна, паспорт на собаку.</section>
+        <section class="answer">Мисливський квиток громадської організації.</section>
+        <section class="answer">Усі перелічені документи.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Який термін дії посвідчення мисливця?
+        </section>
+        <section class="answer">Календарний рік.</section>
+        <section class="answer">3 роки.</section>
+        <section class="answer" data-correct="data-correct">Необмежений.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            Який термін дії контрольної картки обліку добутої дичини та порушень правил полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Календарний рік.</section>
+        <section class="answer">Необмежений.</section>
+        <section class="answer">Мисливський сезон.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="2">
+        <section class="text">
+            В якому віці можна стати мисливцем?
+        </section>
+        <section class="answer" data-correct="data-correct">В 18 років.</section>
+        <section class="answer">В 21 років.</section>
+        <section class="answer">В 16 років.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
 </section>
