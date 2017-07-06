@@ -70,8 +70,6 @@ footer #ContactForm1_contact-form-submit::after {
 @media only screen and (max-width: 1000px) {
     body {
         font-size: 44px;
-    }
-    #test {
         margin-bottom: 100px;
     }
     .btn, .btn-lg {
@@ -81,10 +79,10 @@ footer #ContactForm1_contact-form-submit::after {
         font-size: 7em;
     }
     input[type=radio] {
-        -webkit-transform: scale(3, 3);
+        -webkit-transform: scale(1.5, 1.5);
         margin: 1.2em;
     }
     .answer div {
-        max-width: calc(100% - 70px);
+        max-width: calc(100% - 1.5em);
     }
 }
