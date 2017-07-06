@@ -109,4 +109,1010 @@
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
+    <section class="question" number="11">
+        <section class="text">
+            Хто здійснює громадський контроль за проведенням полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Громадськими інспекторами охорони навколишнього природного середовища та громадськими інспекторами спеціально уповноважених центральних органів виконавчої влади з питань мисливського господарства та полювання і рибного господарства.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="12">
+        <section class="text">
+            Чи може здійснюватися полювання з мисливською зброєю, що належить іншій фізичній особі?
+        </section>
+        <section class="answer" data-correct="data-correct">Так, за умови присутності власника та наявності у обох дозволів МВС.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="13">
+        <section class="text">
+            Що таке трофейний відстріл диких тварин?
+        </section>
+        <section class="answer" data-correct="data-correct">Для інтер'єру, виставки.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="14">
+        <section class="text">
+            Що таке селекційний відстріл тварин?
+        </section>
+        <section class="answer" data-correct="data-correct">Відстріл для ветеринарно-санітарної експертизи.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="15">
+        <section class="text">
+            В який період дозволяється селекційний відстріл тварин?
+        </section>
+        <section class="answer" data-correct="data-correct">Проводяться незалежно від строків мисливського сезону.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="16">
+        <section class="text">
+            Яким відомством визначаються терміни відкриття та закриття полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="17">
+        <section class="text">
+            Який орган встановлює дні полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="18">
+        <section class="text">
+            Який орган встановлює норми відстрілу пернатої дичини та хутрових звірів на одного мисливця за день полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="19">
+        <section class="text">
+            За якими документами здійснюється полювання на пернату дичину, дикого кроля, зайця-русака, єнотоподібного собаку і лисицю?
+        </section>
+        <section class="answer" data-correct="data-correct">Відстрільна картка, що видається користувачем угідь.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="20">
+        <section class="text">
+            За якими документами здійснюється полювання на копитних, білку, бобра, ондатру, куниць, норку американську та тхора лісового?
+        </section>
+        <section class="answer" data-correct="data-correct">Ліцензія.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="21">
+        <section class="text">
+            Яка продукція від полювання на копитних тварин залишається мисливцю без додаткової оплати?
+        </section>
+        <section class="answer" data-correct="data-correct">Субпродукти.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="22">
+        <section class="text">
+            Хто є користувачем мисливських угідь?
+        </section>
+        <section class="answer" data-correct="data-correct">Спеціалізовані мисливські господарства з наданням в їх користування мисливських угідь.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="23">
+        <section class="text">
+            На який термін надаються у користування мисливські угіддя?
+        </section>
+        <section class="answer" data-correct="data-correct">Не менш ніж 15 років.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="24">
+        <section class="text">
+            Порядок добування поранених копитних тварин, які перейшли в сусіднє мисливське господарство.
+        </section>
+        <section class="answer" data-correct="data-correct">До початку добору на зворотному боці ліцензії керівник полювання робить відмітку про поранення тварини. При переході пораненої тварини в угіддя іншого користувача добір проводиться лише за погодженням з користувачем цих угідь.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="25">
+        <section class="text">
+            
+        </section>
+        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="26">
+        <section class="text">
+            
+        </section>
+        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="27">
+        <section class="text">
+            Як повинен вчинити мисливець, що добув зайця-русака з-під чужого собаки?
+        </section>
+        <section class="answer" data-correct="data-correct">Віддати зайця власнику собаки та взяти з нього відстріляні набої.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="28">
+        <section class="text">
+            Яка стаття Кодексу України про адміністративні правопорушення передбачає відповідальність за порушення правил полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Стаття 85.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="29">
+        <section class="text">
+            Яка стаття Кодексу України про адміністративні правопорушення регламентує відповідальність за порушення порядку придбання чи збуту об'єктів тваринного світу?
+        </section>
+        <section class="answer" data-correct="data-correct">Стаття 88-1.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="30">
+        <section class="text">
+            Яка стаття кримінального Кодексу України передбачає кримінальну відповідальність за порушення правил полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Стаття 248.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="31">
+        <section class="text">
+            Яка максимальна сума штрафу передбачена Кодексом України про адміністративні правопорушення за повторне порушення чи таке, яке мало наслідком добування тварини?
+        </section>
+        <section class="answer" data-correct="data-correct">50 неоподатковуваних мінімумів доходів громадян (посадовці). 40 - громадяни.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="32">
+        <section class="text">
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за порушення правил полювання, що призвело до поранення чи добування тварин?
+        </section>
+        <section class="answer" data-correct="data-correct">Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/~ конфіскація рушниць та добичі. Або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="33">
+        <section class="text">
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за повторне порушення правил полювання чи таке, яке мало наслідком добування, знищення або поранення тварини?
+        </section>
+        <section class="answer" data-correct="data-correct">Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі, або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="34">
+        <section class="text">
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за виготовлення, збут заборонених знарядь добування об'єктів тваринного світу, а так само збут незаконно добутої продукції?
+        </section>
+        <section class="answer" data-correct="data-correct">Штраф від трьох до семи неоподатковуваних мінімумів доходів громадян з конфіскацією цих знарядь, матеріалів та засобів для їх виготовлення.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="35">
+        <section class="text">
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за порушення порядку придбання чи збуту об'єктів тваринного світу?
+        </section>
+        <section class="answer" data-correct="data-correct">Штраф від одного до п'яти неоподатковуваних мінімумів доходів громадян з конфіскацією об'єктів тваринного або рослинного світу чи без такої.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="36">
+        <section class="text">
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення за порушення порядку придбання чи збуту об'єктів тваринного світу, занесених у Червону книгу України?
+        </section>
+        <section class="answer" data-correct="data-correct">Штраф від трьох до восьми неоподатковуваних мінімумів доходів громадян з конфіскацією об'єктів тваринного або рослинного світу чи без такої.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="37">
+        <section class="text">
+            Яка відповідальність передбачена Кодексом України про адміністративні правопорушення (для громадян) за невиконання законних вимог посадових осіб органів, що здійснюють державний контроль у галузі мисливського господарства та полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Громадяни, від 5-10 неоподатковуваних мінімумів доходів громадян. Посадові особи: 10-30 неоподатковуваних мінімумів доходів громадян.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="38">
+        <section class="text">
+            За які порушення правил полювання, здійснені повторно протягом року, стягується штраф від 340 до 680 грн.?
+        </section>
+        <section class="answer" data-correct="data-correct">Порушення правил полювання, що призвело до поранення чи добування тварин, тобто: полювання без належного на те дозволу, в заборонених місцях, у заборонений час, забороненими знаряддями або способами, на заборонених для добування тварин.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="39">
+        <section class="text">
+            За які порушення правил полювання наступає кримінальна відповідальність?
+        </section>
+        <section class="answer" data-correct="data-correct">Порушення правил полювання, якщо воно заподіяло істотну шкоду, а також незаконне полювання в заповідниках або на інших територіях та об'єктах природно-заповідного фонду, або полювання на звірів, птахів чи інші види тваринного світу, що занесені до Червоної книги України.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="40">
+        <section class="text">
+            Яка відповідальність передбачена ч.1 Ст. 248 кримінального Кодексу України за порушення правил полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Штраф до ста неоподатковуваних мінімумів доходів громадян. Громадськими роботами на строк від ста шістдесяти до двохсот сорока годин. Обмеженням волі на строк до трьох років, з конфіскацією знарядь і засобів полювання та всього добутого.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="41">
+        <section class="text">
+            Яка відповідальність передбачена ч.2 Ст. 248 кримінального Кодексу України за порушення правил полювання, зроблене за попередньою змовою групою людей чи з використанням транспортних засобів?
+        </section>
+        <section class="answer" data-correct="data-correct">Штраф від ста до двохсот неоподатковуваних мінімумів доходів громадян. Обмеженням волі на строк до п'яти років. Позбавленням волі на той самий строк, з конфіскацією знарядь і засобів полювання та всього добутого.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="42">
+        <section class="text">
+            Яка відповідальність наступає за відстріл оленя без належного дозволу? Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.
+        </section>
+        <section class="answer" data-correct="data-correct">Або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="43">
+        <section class="text">
+            Чи дозволяється подальше проведення полювання, якщо заявлена в ліцензії копитна тварина добута в першому загоні?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="44">
+        <section class="text">
+            При облавному полюванні на копитних поранено тварину, на яку полюють. Якими мають бути подальші дії?
+        </section>
+        <section class="answer" data-correct="data-correct">Зробити відмітку про поранення, організувати добір.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="45">
+        <section class="text">
+            На які види диких качок та гусей полювання в Україні заборонено?
+        </section>
+        <section class="answer" data-correct="data-correct">Гоголь, Чернь білоока, Савка, Огара, Галагаза, Гага звичайна, Лутка, Крохаль.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="46">
+        <section class="text">
+            Які наслідки для мисливця наступають за добування пернатої дичини понад визначену у відстрільній картці норму?
+        </section>
+        <section class="answer" data-correct="data-correct">Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі. Або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі. (Порушення правил полювання, що призвело до добичі тварин).</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="47">
+        <section class="text">
+            Яка відповідальність для мисливця наступає, якщо при полюванні за ліцензією на козулю він відстріляв зайця?
+        </section>
+        <section class="answer" data-correct="data-correct">Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі. Або позбавлення права полювання на строк до трьох років з конфіскацією або без Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі. (Порушення правил полювання, що призвело до добичі тварин).</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="48">
+        <section class="text">
+            Які правові основи полювання на борсука в Україні?
+        </section>
+        <section class="answer" data-correct="data-correct">Здійснюється за дозволами Мінекобезпеки.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="49">
+        <section class="text">
+            Яка настає відповідальність за незаконне добування борсука?
+        </section>
+        <section class="answer" data-correct="data-correct">Кримінальна. Ст. 248 1 Кодексу. Штраф до ста неоподатковуваних мінімумів доходів громадян. Громадськими роботами на строк від ста шістдесяти до двохсот сорока годин. Обмеженням волі на строк до трьох років, з конфіскацією знарядь і засобів полювання та всього добутого.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="50">
+        <section class="text">
+            Яка відповідальність наступає за добування луня польового?
+        </section>
+        <section class="answer" data-correct="data-correct">Кримінальна. Ст. 248-1 Кодексу. Штраф до ста неоподатковуваних мінімумів доходів громадян. Громадськими роботами на строк від ста шістдесяти до двохсот сорока годин. Обмеженням волі на строк до трьох років, з конфіскацією знарядь і засобів полювання та всього добутого.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="51">
+        <section class="text">
+            Яка відповідальність настає за добування чорного грифа?
+        </section>
+        <section class="answer" data-correct="data-correct">Кримінальна. Ст. 248-1 Кодексу. Штраф до ста неоподатковуваних мінімумів доходів громадян. Громадськими роботами на строк від ста шістдесяти до двохсот сорока годин. Обмеженням волі на строк до трьох років, з конфіскацією знарядь і засобів полювання та всього добутого.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="52">
+        <section class="text">
+            Які права мають посадові особи спеціально уповноважених державних органів виконавчої влади, що здійснюють державне управління і контроль в сфері охорони, використання і відтворення тваринного світу?
+        </section>
+        <section class="answer" data-correct="data-correct">1) давати обов'язкові до виконання вказівки (приписи) про усунення порушень вимог цього Закону;
+2) перевіряти документи на право полювання та добування мисливських тварин в інших цілях, зупиняти транспортні (плавучі) засоби та проводити їх огляд та огляд речей, знарядь полювання, добутої продукції та інших предметів;
+3) доставляти осіб, які порушують вимоги цього Закону, до органів внутрішніх справ, органів місцевого самоврядування;
+4) вилучати в осіб, які порушують правила полювання, знаряддя добування тварин, транспортні (плавучі) засоби, обладнання і предмети, що були знаряддям порушень, незаконно добутих тварин та іншу продукцію полювання, а також відповідні документи;
+5) проводити фотографування, звукозапис, кіно - та відео зйомку як додаткові заходи для запобігання та розкриття порушень правил полювання та інших вимог, установлених цим Законом;
+6) складати протоколи про порушення правил полювання, інших встановлених цим Законом вимог;
+7) вільно відвідувати підприємства, установи та організації, які здійснюють добування, утримання, зберігання або переробку мисливських тварин, території та об'єкти природно-заповідного фонду з метою здійснення нагляду за дотриманням вимог законодавства про охорону тваринного світу, ведення мисливського господарства та здійснення полювання;
+8) зупиняти чи припиняти полювання та іншу діяльність, що провадиться з порушень ними вимог, установлених цим Законом;
+9) визначати розмір збитків, завданих мисливському господарству, за затвердженими таксами та методиками;
+10) використовувати під час виконання службових обов'язків попутний транспорт засоби зв'язку, що належать користувачу мисливських угідь;
+11) анулювати видані ними дозволи на полювання та добування мисливських тварин
+в інших цілях, а також на переселення акліматизацію та утримання в неволі чи напіввільних умовах цих тварин;
+12) викликати посадових осіб, громадян України та іноземців для усних або письмових пояснень у зв'язку з порушенням ними вимог цього Закону; викликати посадових осіб, громадян України та іноземців для усних або письмових пояснень у зв'язку з порушенням ними вимог цього Закону;
+13) перевіряти й безоплатно одержувати від юридичних і фізичних осіб документи з ведення мисливського господарства, мисливського собаківництва, добування, зберігання, утримання, перероблення і реалізації мисливських тварин та продукції полювання;
+14) розглядати в установленому законодавством порядку справи про адміністративні правопорушення, пов'язані з добуванням мисливських тварин, порушенням вимог що до ведення мисливського господарства, у тому числі користування мисливськими угіддями, і накладати адміністративні стягнення;
+15) на стимулювання та матеріально-технічне забезпечення діяльності в установленому законодавством порядку;
+16) виконувати інші дії відповідно до законодавства про охорону навколишнього природного середовища і про тваринний світ.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="53">
+        <section class="text">
+            Чи дозволяється полювання в угіддях не зазначених у відстрільній картці або ліцензії?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="54">
+        <section class="text">
+            Чи дозволяється використовувати на полюванні петлі чи ловчі ями?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="55">
+        <section class="text">
+            Чи дозволяється використовувати на полюванні звуковідтворюючі прилади і пристрої?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="56">
+        <section class="text">
+            Чи дозволяється полювання з приладом нічного бачення?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="57">
+        <section class="text">
+            Чи дозволяється полювати з нарізним вкладишем, вкладеним у гладкоствольну мисливську зброю?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="58">
+        <section class="text">
+            Чи дозволяється транспортування, перенесення добутої дичини чи її частин без відмітки цього факту в дозволі на її добування?
+        </section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="59">
+        <section class="text">
+            Ви знайшли скинуті роги лані, оленя, козулі, лося чи травмовану тварину. Які ваші дії?
+        </section>
+        <section class="answer" data-correct="data-correct">Віддати користувачу угідь.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="60">
+        <section class="text">
+            Як кваліфікувати продукцію полювання (у тому числі трофейну) без документів, що засвідчують законність її придбання?
+        </section>
+        <section class="answer" data-correct="data-correct">Як незаконно добуту.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="61">
+        <section class="text">
+            За якими документами здійснюється полювання на кабана?
+        </section>
+        <section class="answer" data-correct="data-correct">Ліцензія.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="62">
+        <section class="text">
+            Чи дозволяється полювання на гоголя і якщо дозволяється, то за якими документами?
+        </section>
+        <section class="answer" data-correct="data-correct">Дозволяється лише за дозволом Мінекобезпеки.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="63">
+        <section class="text">
+            При наявності яких дозволів дозволяється полювання на дрофу, стрепета та глухаря?
+        </section>
+        <section class="answer" data-correct="data-correct">Ліцензія Мінекобезпеки.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="64">
+        <section class="text">
+            За яких умов дозволяється полювання на видру?
+        </section>
+        <section class="answer" data-correct="data-correct">Ліцензія Мінекобезпеки.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="65">
+        <section class="text">
+            Чиєю власністю є продукція полювання наявна у фізичних і юридичних осіб без документів на неї?
+        </section>
+        <section class="answer" data-correct="data-correct">Держави.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="66">
+        <section class="text">
+            Ким видаються мисливцям відстрільні картки для полювання на пернату дичину і зайця-русака?
+        </section>
+        <section class="answer" data-correct="data-correct">Користувачами мисливських угідь.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="67">
+        <section class="text">
+            Чи дозволяється полювання в темний період доби?
+        </section>
+        <section class="answer" data-correct="data-correct">Не пізніше 1 години після заходу сонця і 1 години до сходу.</section>
+        <section class="answer">Не пізніше 2 години після заходу сонця і 2 години до сходу.</section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="68">
+        <section class="text">
+            Які дії прирівнюються до полювання?
+        </section>
+        <section class="answer" data-correct="data-correct">Перебування осіб у межах мисливських угідь, у тому числі на польових і лісових дорогах (крім доріг загального користування), з будь-якою стрілецькою зброєю або з капканами та іншими знаряддями добування звірів і птахів, або з собаками мисливських порід чи ловчими звірами і птахами, або з продукцією полювання.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="69">
+        <section class="text">
+            Які дії осіб прирівнюються до полювання під час перебування їх на дорогах загального користування?
+        </section>
+        <section class="answer" data-correct="data-correct">Перебування осіб на дорогах загального користування з продукцією полювання або з будь-якою зібраною розчохленою стрілецькою зброєю.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="70">
+        <section class="text">
+            В які терміни проводиться добування мисливцями вовків, бродячих собак та котів, сірих ворон, сорок, граків?
+        </section>
+        <section class="answer" data-correct="data-correct">Цілий рік.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="71">
+        <section class="text">
+            Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на куріпку сіру та фазана.
+        </section>
+        <section class="answer" data-correct="data-correct">Жовтень-грудень, на самців тетерука -весною.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="72">
+        <section class="text">
+            Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на перепілку.
+        </section>
+        <section class="answer" data-correct="data-correct">Серпень-жовтень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="73">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на самців козулі.
+        </section>
+        <section class="answer" data-correct="data-correct">Травень-грудень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="74">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на самців кабана, лані, оленів європейського та плямистого, лося, муфлона.
+        </section>
+        <section class="answer" data-correct="data-correct">Серпень-Січень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="75">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на самиць кабана, лані, оленів європейського та плямистого, лося, муфлона.
+        </section>
+        <section class="answer" data-correct="data-correct">Вересень-січень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="76">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на білку, єнотоподібного собаку, лисицю, куницю лісову та кам'яну, тхора лісового.
+        </section>
+        <section class="answer" data-correct="data-correct">15 жовтня-лютий.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="77">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на бобра, ондатру, норку американську.
+        </section>
+        <section class="answer" data-correct="data-correct">Листопад-лютий.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="78">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на зайця-русака.
+        </section>
+        <section class="answer" data-correct="data-correct">Листопад-січень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="79">
+        <section class="text">
+            Вкажіть нормативно визначені терміни полювання на бабака.
+        </section>
+        <section class="answer" data-correct="data-correct">Липень-вересень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="80">
+        <section class="text">
+            Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на диких качок, куликів, голубів.
+        </section>
+        <section class="answer" data-correct="data-correct">Серпень-грудень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="81">
+        <section class="text">
+            Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на гуску сіру, гуменика, гуску білолобу велику.
+        </section>
+        <section class="answer" data-correct="data-correct">Серпень-січень.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="82">
+        <section class="text">
+            В який період здійснюється полювання на вовка?
+        </section>
+        <section class="answer" data-correct="data-correct">Цілий рік.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="83">
+        <section class="text">
+            На який термін користувачем мисливських угідь видається ліцензія при полюванні на парнокопитних тварин?
+        </section>
+        <section class="answer" data-correct="data-correct">Один світовий день.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="84">
+        <section class="text">
+            З якого віку можна користуватись мисливською гладкоствольною зброєю?
+        </section>
+        <section class="answer">З 18 років.</section>
+        <section class="answer" data-correct="data-correct">З 21 року.</section>
+        <section class="answer">З 25 років.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="85">
+        <section class="text">
+            З якого віку можна користуватись мисливською нарізною зброєю?
+        </section>
+        <section class="answer">З 18 років.</section>
+        <section class="answer">З 21 року.</section>
+        <section class="answer" data-correct="data-correct">З 25 років.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="86">
+        <section class="text">
+            Як часто перереєструється мисливська зброя?
+        </section>
+        <section class="answer">Раз на рік.</section>
+        <section class="answer" data-correct="data-correct">Раз в 3 роки.</section>
+        <section class="answer">Раз в 5 років.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="87">
+        <section class="text">
+            Що таке картеч?
+        </section>
+        <section class="answer" data-correct="data-correct">Шріт діаметром понад 5 мм називається картеччю.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="88">
+        <section class="text">
+            Що таке калібр гладкоствольної зброї?
+        </section>
+        <section class="answer" data-correct="data-correct">Число, що позначає діаметр каналу ствола рушниці.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="89">
+        <section class="text">
+            Який діаметр дробу № 0000?
+        </section>
+        <section class="answer" data-correct="data-correct">5 мм.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="90">
+        <section class="text">
+            Яке дульне звуження відповідає свердлінню "повний чок"?
+        </section>
+        <section class="answer" data-correct="data-correct">Дульне звуження від 0,68 мм (32) до 1 мм (12-й калібр).</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="91">
+        <section class="text">
+            Що таке "парадокс"?
+        </section>
+        <section class="answer" data-correct="data-correct">Нарізний чок, для стрільби спеціальними кулями на відстань до 100-150 м.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="92">
+        <section class="text">
+            Яку стрілецьку зброю забороняється використовувати на полюванні?
+        </section>
+        <section class="answer" data-correct="data-correct">Не мисливської (у тому числі військової) вогнепальної, пневматичної та іншої стрілецької зброї, а також нарізних вкладок, напівавтоматичної або автоматичної зброї з магазинами більш як на два патрони.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="93">
+        <section class="text">
+            Чи може мисливець продати свою мисливську зброю без дозволу органів внутрішніх справ?
+        </section>
+        <section class="answer" data-correct="data-correct">Так.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="94">
+        <section class="text">
+            Який діаметр має дріб № 4?
+        </section>
+        <section class="answer" data-correct="data-correct">3,25 мм.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="95">
+        <section class="text">
+            Рушниця якого калібру (12, 16 чи 20) має більший діаметр ствола?
+        </section>
+        <section class="answer" data-correct="data-correct">12.</section>
+        <section class="answer">16.</section>
+        <section class="answer">20.</section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="96">
+        <section class="text">
+            Яка максимально нормальна дальність польоту шроту в метрах?
+        </section>
+        <section class="answer" data-correct="data-correct">200-250.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="97">
+        <section class="text">
+            На які види тварин забороняється проводити полювання з використанням набоїв, споряджених картеччю?
+        </section>
+        <section class="answer" data-correct="data-correct">На копитних.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="98">
+        <section class="text">
+            Яким номером шроту рекомендується стріляти по лисиці?
+        </section>
+        <section class="answer" data-correct="data-correct">0 - 0000.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="99">
+        <section class="text">
+            Які набої слід використовувати при полюванні на вовка?
+        </section>
+        <section class="answer" data-correct="data-correct">Кулі.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
+    <section class="question" number="100">
+        <section class="text">
+            Який шріт краще використовувати при полюванні на зайця-русака?
+        </section>
+        <section class="answer" data-correct="data-correct">№3 - 0.</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
+        <section class="description">
+            This is an answer description with a <a href="#">link</a>.
+        </section>
+    </section>
 </section>
