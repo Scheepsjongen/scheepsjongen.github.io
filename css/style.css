@@ -68,8 +68,20 @@ footer #ContactForm1_contact-form-submit::after {
 }
 
 @media (max-width: 1000px) {
-    body,
-    .btn, .btn-lg {
+    body {
         font-size: 44px;
+    }
+    .btn, .btn-lg {
+        font-size: 32px;
+    }
+    .score .pass-indicator h1 {
+        font-size: 5em;
+    }
+    input[type=radio] {
+        -webkit-transform: scale(3, 3);
+        margin-right: 1em;
+    }
+    .answer div {
+        max-width: calc(100% - 60px);
     }
 }
