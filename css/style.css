@@ -78,7 +78,7 @@ footer #ContactForm1_contact-form-submit::after {
         font-size: 38px;
     }
     .score .pass-indicator h1 {
-        font-size: 5em;
+        font-size: 7em;
     }
     input[type=radio] {
         -webkit-transform: scale(3, 3);
