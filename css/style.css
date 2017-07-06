@@ -70,19 +70,12 @@ footer #ContactForm1_contact-form-submit::after {
 @media only screen and (max-width: 1000px) {
     body {
         font-size: 44px;
-        margin-bottom: 100px;
     }
     .btn, .btn-lg {
         font-size: 36px;
+        margin-bottom: 100px;
     }
     .score .pass-indicator h1 {
         font-size: 7em;
-    }
-    input[type=radio] {
-        -webkit-transform: scale(1.5, 1.5);
-        margin: 1.2em;
-    }
-    .answer div {
-        max-width: calc(100% - 1.5em);
     }
 }
