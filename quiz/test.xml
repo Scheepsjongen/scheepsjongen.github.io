@@ -2217,9 +2217,9 @@
     </section>
     <section class="question" number="201">
         <section class="text">
-            
+            Коли проходить гін у кабанів?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Листопад-січень.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2228,20 +2228,20 @@
     </section>
     <section class="question" number="202">
         <section class="text">
-            
+            До якої вікової групи належить кабан зі смугастим забарвленням?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Менше 1 року.</section>
+        <section class="answer">1 рік.</section>
+        <section class="answer">До 2 років.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="203">
         <section class="text">
-            
+            На який місяць припадає масовий опорос кабана?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Березень-квітень.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2250,20 +2250,20 @@
     </section>
     <section class="question" number="204">
         <section class="text">
-            
+            Скільки поросят найчастіше народжує самка кабана?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">3-4.</section>
+        <section class="answer" data-correct="data-correct">5-6.</section>
+        <section class="answer">5-8.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="205">
         <section class="text">
-            
+            Коли починається парування у лисиць?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Лютий.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2272,9 +2272,9 @@
     </section>
     <section class="question" number="206">
         <section class="text">
-            
+            Коли лисиця народжує дитинчат?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Кінець березня-квітень.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2283,20 +2283,20 @@
     </section>
     <section class="question" number="207">
         <section class="text">
-            
+            Яка кількість приплодів на рік може бути у лисиці?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Один.</section>
+        <section class="answer">Півтора.</section>
+        <section class="answer">Два.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="208">
         <section class="text">
-            
+            Скільки дитинчат може бути у лисиці в одному приплоді?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">4-5 до 12.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2305,9 +2305,9 @@
     </section>
     <section class="question" number="209">
         <section class="text">
-            
+            Розповсюдником яких хвороб є лисиця?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Сказ.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2316,9 +2316,9 @@
     </section>
     <section class="question" number="210">
         <section class="text">
-            
+            Вкажіть кількість окотів у зайця-русака на протязі року?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">3-4.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2327,9 +2327,9 @@
     </section>
     <section class="question" number="211">
         <section class="text">
-            
+            Скільки дитинчат в середньому народжується в одному приплоді зайця-русака?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">2-4.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2338,9 +2338,9 @@
     </section>
     <section class="question" number="212">
         <section class="text">
-            
+            Чи влаштовує зайчиха спеціальні укриття для народження дитинчат?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2349,9 +2349,9 @@
     </section>
     <section class="question" number="213">
         <section class="text">
-            
+            Чи здатні зайченята самостійно харчуватись після народження?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Ні.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2360,20 +2360,20 @@
     </section>
     <section class="question" number="214">
         <section class="text">
-            
+            Що робити мисливцю, який знайшов новонароджене зайченя?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Залишити на місці.</section>
+        <section class="answer">Накрити гілочками.</section>
+        <section class="answer">Забрати.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="215">
         <section class="text">
-            
+            Що таке туляремія?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Гостре інфекційне захворювання, яке супроводжується гарячкою й ураженням внутрішніх органів. Переносники - гризуни.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2382,9 +2382,9 @@
     </section>
     <section class="question" number="216">
         <section class="text">
-            
+            Вкажіть період, коли проходить парування вовків.
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Грудень-січень.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2393,9 +2393,9 @@
     </section>
     <section class="question" number="217">
         <section class="text">
-            
+            Скільки приплодів на рік може привести самка вовка?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Один.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2404,9 +2404,9 @@
     </section>
     <section class="question" number="218">
         <section class="text">
-            
+            Які основні особливості розмноження вовків?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Моногамні.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2415,9 +2415,9 @@
     </section>
     <section class="question" number="219">
         <section class="text">
-            
+            Які з перелічених видів птахів (рябчик, сіра куріпка, вальдшнеп) є перелітними?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Вальдшнеп.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2426,20 +2426,20 @@
     </section>
     <section class="question" number="220">
         <section class="text">
-            
+            Яка кількість яєць може бути в повній кладці вальдшнепа?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">4.</section>
+        <section class="answer">6-8.</section>
+        <section class="answer">10.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="221">
         <section class="text">
-            
+            До якої з груп пернатої дичини (болотної, польової чи лісової) відноситься вальдшнеп?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Лісова.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2448,9 +2448,9 @@
     </section>
     <section class="question" number="222">
         <section class="text">
-            
+            Який з перерахованих мисливських видів куликів (вальдшнеп, дупель чи бекас) є найбільший по вазі?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Вальдшнеп.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2459,9 +2459,9 @@
     </section>
     <section class="question" number="223">
         <section class="text">
-            
+            Вкажіть особливості гніздування рябчика?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Роблять гнізда на землі під пеньками, хмизом, кореневими лапами, вистелють мохом, листям, стеблами трав.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2470,9 +2470,9 @@
     </section>
     <section class="question" number="224">
         <section class="text">
-            
+            Який з мисливських птахів із ряду куриних зимує на півдні?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Перепел.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2481,9 +2481,9 @@
     </section>
     <section class="question" number="225">
         <section class="text">
-            
+            Які особливості гніздування глухаря?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Влаштовує самка під пеньками, великими брилами каміння, у кущах, невеликих заглибинах і вимощується сухим мохом, листям, тонкими гілками.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2492,9 +2492,9 @@
     </section>
     <section class="question" number="226">
         <section class="text">
-            
+            Характерні особливості гніздування тетерука.
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">На землі у невеликих виїмках, під поваленими деревами, камінням, пеньками і вимощують сухим мохом, листям, тонкими гілками.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2503,9 +2503,9 @@
     </section>
     <section class="question" number="227">
         <section class="text">
-            
+            Який вид голубів гніздиться в дуплах та скелях?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Голуб-синяк.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2514,9 +2514,9 @@
     </section>
     <section class="question" number="228">
         <section class="text">
-            
+            Назвіть період вилуплювання пташенят сірої куріпки.
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">З тижні (червень-липень).</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2525,9 +2525,9 @@
     </section>
     <section class="question" number="229">
         <section class="text">
-            
+            Особливості живлення молодих куріпок до 3-тижневого віку?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Можуть їсти тільки комах.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2536,9 +2536,9 @@
     </section>
     <section class="question" number="230">
         <section class="text">
-            
+            Скільки днів крижень висиджує пташенят?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">26-27.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2547,9 +2547,9 @@
     </section>
     <section class="question" number="231">
         <section class="text">
-            
+            Коли починається період початку відкладання яєць фазаном?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Квітень-травень.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2558,9 +2558,9 @@
     </section>
     <section class="question" number="232">
         <section class="text">
-            
+            Скільки яєць може бути в повній кладці фазана?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">До 18. в середньому 8-14.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2569,9 +2569,9 @@
     </section>
     <section class="question" number="233">
         <section class="text">
-            
+            Якими особливостями відрізняється кроншнеп від інших видів куликів?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Не має сезонного диморфізму.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2580,9 +2580,9 @@
     </section>
     <section class="question" number="234">
         <section class="text">
-            
+            Який з видів гусей (червоновола казарка, мала білолоба чи велика білолоба гуска) дозволені до відстрілу?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Мала білолоба та велика білолоба гуска.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2591,9 +2591,9 @@
     </section>
     <section class="question" number="235">
         <section class="text">
-            
+            Назвіть принципові відмінності огаря від інших качок.
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Кладуть яйця в дупла дерев або нори віддалені від води однаковий окрас - червоний.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2602,9 +2602,9 @@
     </section>
     <section class="question" number="236">
         <section class="text">
-            
+            Чим відрізняється крохаль від інших видів качок?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Гніздується в дуплах.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -2613,9 +2613,9 @@
     </section>
     <section class="question" number="237">
         <section class="text">
-            
+            Назвіть особливості гніздування гоголя.
         </section>
-        <section class="answer" data-correct="data-correct"></section>
+        <section class="answer" data-correct="data-correct">Гніздиться в дуплах.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
