@@ -68,12 +68,14 @@ footer #ContactForm1_contact-form-submit::after {
 }
 
 @media only screen and (max-width: 1000px) {
-    #test {
+    body {
         font-size: 44px;
+    }
+    #test {
         margin-bottom: 100px;
     }
     .btn, .btn-lg {
-        font-size: 38px;
+        font-size: 36px;
     }
     .score .pass-indicator h1 {
         font-size: 7em;
