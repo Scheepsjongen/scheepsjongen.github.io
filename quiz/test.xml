@@ -5,7 +5,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Мисливські тварини, що перебувають у стані природної волі, а також утримуються в напіввільних умовах або у неволі в межах угідь державних мисливських господарств.</section>
         <section class="answer">Мисливські тварини які знаходяться у межах мисьливських угідь.</section>
-        <section class="answer">Усі тварини які знаходяться на теріторії України.</section>
+        <section class="answer">Ліси, поля, звірі та птахи, що знаходяться у межах мисьливських угідь.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
@@ -26,7 +26,7 @@
             Що відноситься до мисливських тварин?
         </section>
         <section class="answer">Звірі та птахи, в межах мисливських угідь.</section>
-        <section class="answer">Всі звірі та птахи, що знаходяться на волі.</section>
+        <section class="answer">Звірі та птахи, що знаходяться на волі.</section>
         <section class="answer" data-correct="data-correct">Дикі звірі та птахи, що можуть бути об'єктами полювання.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
@@ -47,9 +47,9 @@
         <section class="text">
             Хто здійснює державне управління в галузі охорони і використання тваринного світу?
         </section>
+        <section class="answer">Держкомлісгосп.</section>
         <section class="answer" data-correct="data-correct">Міністерство охорони навколишнього середовища.</section>
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
-        <section class="answer">Держкомлісгосп.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
@@ -58,9 +58,9 @@
         <section class="text">
             Хто є спеціально уповноваженим органом у галузі ведення мисливського господарства?
         </section>
+        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
         <section class="answer">Мінекобезпеки.</section>
         <section class="answer">Кабмін України.</section>
-        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
@@ -73,7 +73,7 @@
         <section class="answer">Мисливський квиток громадської організації.</section>
         <section class="answer">Усі перелічені документи.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            Членство у громадській організації може надавати певні пільги, але участь сугубо на добровільній основі і не обмежує прав інших громадян.
         </section>
     </section>
     <section class="question" number="8">
@@ -91,9 +91,9 @@
         <section class="text">
             Який термін дії контрольної картки обліку добутої дичини та порушень правил полювання?
         </section>
+        <section class="answer">Мисливський сезон.</section>
         <section class="answer" data-correct="data-correct">Календарний рік.</section>
         <section class="answer">Необмежений.</section>
-        <section class="answer">Мисливський сезон.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
@@ -102,9 +102,9 @@
         <section class="text">
             В якому віці можна стати мисливцем?
         </section>
+        <section class="answer">В 16 років.</section>
         <section class="answer" data-correct="data-correct">В 18 років.</section>
         <section class="answer">В 21 років.</section>
-        <section class="answer">В 16 років.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
