@@ -44,8 +44,6 @@
                     }
                     answer.replaceWith(newAnswer);
                 });
-
-                return i <= 25;
             });
 
 
