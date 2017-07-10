@@ -454,9 +454,9 @@
     </section>
     <section class="question" number="42">
         <section class="text">
-            Яка відповідальність наступає за відстріл оленя без належного дозволу? Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.
+            Яка відповідальність наступає за відстріл оленя без належного дозволу?
         </section>
-        <section class="answer" data-correct="data-correct">Або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.</section>
+        <section class="answer" data-correct="data-correct">Громадяни: 20-40 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі. Або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 30-50 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
@@ -1415,9 +1415,9 @@
         <section class="text">
             На що вказують лишайники на стовбурах дерев та на кам'яних брилах?
         </section>
-        <section class="answer">Південь.</section>
-        <section class="answer">Схід.</section>
-        <section class="answer" data-correct="data-correct">Північ.</section>
+        <section class="answer">На те, що останні роки були дощовими.</section>
+        <section class="answer">На відсутність звірів, інакше вони би з'їли їх.</section>
+        <section class="answer" data-correct="data-correct">На Північ.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
