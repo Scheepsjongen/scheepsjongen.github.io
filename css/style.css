@@ -11,6 +11,10 @@ body {
     padding: 10px 50px;
 }
 
+.question-pool {
+    margin-top: 30px;
+}
+
 .answer div {
     max-width: calc(100% - 40px);
 }

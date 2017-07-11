@@ -63,12 +63,12 @@
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': currentProgress }, style: { width: currentProgress() + '%' }"></div>
                     </div>
-                    <div class="question-pool"></div>
                     <button class="btn btn-default" data-bind="click: movePreviousQuestion, disable: currentQuestionIsFirst">Назад</button>
                     <button class="btn btn-default" data-bind="click: showCurrentQuestionHint, visible: currentQuestionHasHint()">Show Hint</button>
                     <button class="btn btn-default" data-bind="click: showCurrentQuestionAnswer">Показати відповідь</button>
                     <button class="btn btn-primary" data-bind="click: moveNextQuestion, disable: currentQuestionIsLast, visible: !currentQuestionIsLast()">Далі</button>
                     <button class="btn btn-primary" data-bind="click: calculateScore, visible: currentQuestionIsLast">Завершити</button>
+                    <div class="question-pool"></div>
                 </section>
                 <section class="score" data-bind="visible: quizComplete">
                     <p>Результат:</p>

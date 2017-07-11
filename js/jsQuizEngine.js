@@ -34,6 +34,8 @@
         self.element.find('.question-pool').load(self.options.quizUrl, function () {
             // quiz loaded into browser from HTML file
 
+            self.element.find('.question-pool > .quiz .question.not-ready').remove();
+
             while (getAllQuestions(self.element).length > 24) {
                 var random = Math.floor(Math.random() * getAllQuestions(self.element).length);
                 getAllQuestions(self.element).eq(random).remove();
