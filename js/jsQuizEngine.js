@@ -17,6 +17,15 @@
         return dt.getMonth() + '/' + dt.getDate() + '/' + dt.getFullYear() + ' ' + dt.getHours() + ':' + (dt.getMinutes() >= 10 ? dt.getMinutes() : '0' + dt.getMinutes());
     }
 
+    $.fn.randomize = function(selector){
+        (selector ? this.find(selector) : this).parent().each(function(){
+            $(this).children(selector).sort(function(){
+                return Math.random() - 0.5;
+            }).detach().appendTo(this);
+        });
+        return this;
+    };
+
     var ViewModel = function (elem, options) {
         var self = this;
         self.element = $(elem);
@@ -25,11 +34,24 @@
         self.element.find('.question-pool').load(self.options.quizUrl, function () {
             // quiz loaded into browser from HTML file
 
+            while (getAllQuestions(self.element).length > 24) {
+                var random = Math.floor(Math.random() * getAllQuestions(self.element).length);
+                getAllQuestions(self.element).eq(random).remove();
+            }
+
+            getAllQuestions(self.element).randomize();
+
             getCurrentQuiz(self.element).find('.question').each(function (i, e) {
                 var question = $(this),
                     questionIndex = i,
+                    text = question.find('.text').eq(0),
+                    description = question.find('.description').eq(0),
                     answers = question.find('.answer'),
                     correctAnswerCount = question.find('.answer[data-correct]').length;
+
+                answers.eq(0).randomize();
+                text.detach().prependTo(question);
+                description.detach().appendTo(question);
 
                 question.find('.hint a, .description a').attr('target','_blank');
 
