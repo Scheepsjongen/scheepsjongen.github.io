@@ -1,5 +1,6 @@
 ﻿// jsQuizEngine https://github.com/crpietschmann/jsQuizEngine
 // Copyright (c) 2017 Chris Pietschmann http://pietschsoft.com
+// Modified Oleh Shklyar
 // Licensed under MIT License https://github.com/crpietschmann/jsQuizEngine/blob/master/LICENSE
 (function (window, $) {
 
