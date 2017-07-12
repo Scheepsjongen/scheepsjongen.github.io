@@ -1,4 +1,13 @@
-﻿<section class="quiz" data-title="Тест мисливця" data-subtitle="Питання з іспиту для отримання &quot;Посвідчення мисливця&quot;">
+﻿<!--
+// Jagten Exam https://github.com/Olezha/jagtex
+// Copyright (c) 2017 Oleh Shklyar, Vladimir G
+// 
+// jsQuizEngine https://github.com/crpietschmann/jsQuizEngine
+// Copyright (c) 2015 Chris Pietschmann http://pietschsoft.com
+// 
+// Licensed under MIT License https://github.com/crpietschmann/jsQuizEngine/blob/master/LICENSE
+-->
+<section class="quiz" data-title="Тест мисливця" data-subtitle="Питання з іспиту для отримання &quot;Посвідчення мисливця&quot;">
     <section class="question" number="1">
         <section class="text">
             Що відноситься до державного мисливського фонду?
@@ -144,6 +153,9 @@
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o174">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 15. Способи полювання</a><br />
             Полювання може здійснюватися з мисливською зброєю, що належить іншій фізичній особі або користувачу мисливських угідь, лише у присутності власника цієї зброї або уповноваженого працівника користувача мисливських угідь, за яким закріплена ця мисливська зброя, за умови наявності у власника зброї чи уповноваженого працівника користувача мисливських угідь відповідних документів дозвільного характеру, виданих уповноваженим державним органом.
+            <hr />
+            <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o136">Розділ III ПОЛЮВАННЯ Стаття 12. Право на полювання</a><br />
+            Полювання з використанням вогнепальної мисливської зброї дозволяється лише особам, які в установленому порядку одержали в уповноваженому державному органі відповідний документ дозвільного характеру на право користування цією зброєю.
         </section>
     </section>
     <section class="question" number="13">
@@ -383,7 +395,7 @@
         <section class="answer">120 неоподатковуваних мінімумів доходів громадян (посадовці), 60 — громадяни.</section>
         <section class="answer">30-90 неоподатковуваних мінімумів доходів громадян (посадовці), 6-60 - громадяни.</section>
         <section class="description"> 
-            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n561">КУпАП Стаття 85 - Порушення правил використання об'єктів тваринного світу</a>.
+            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n560">КУпАП Стаття 85 - Порушення правил використання об'єктів тваринного світу</a>.
         </section>
     </section>
     <section class="question" number="32">
@@ -394,7 +406,7 @@
         <section class="answer">Громадяни: 6-60 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі, або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 60-120 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі</section>
         <section class="answer">Громадяни: 60-90 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі, або позбавлення права полювання на строк до трьох років з конфіскацією або без. Посадовці: 90-120 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі</section>
         <section class="description">
-            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n561">КУпАП Стаття 85 - Порушення правил використання об'єктів тваринного світу</a>.
+            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n560">КУпАП Стаття 85 - Порушення правил використання об'єктів тваринного світу</a>.
         </section>
     </section>
     <section class="question" number="33">
@@ -408,7 +420,7 @@
         <section class="answer">Громадяни: 60-90 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі, або позбавлення права полювання на строк до трьох років з конфіскацією або без. 
         Посадовці: 90-120 неоподатковуваних мінімумів доходів громадян +/- конфіскація рушниць та добичі</section>
         <section class="description">
-            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n561">КУпАП Стаття 85 - Порушення правил використання об'єктів тваринного світу</a>.
+            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n560">КУпАП Стаття 85 - Порушення правил використання об'єктів тваринного світу</a>.
         </section>
     </section>
     <section class="question" number="34">
@@ -419,7 +431,7 @@
         <section class="answer">Якщо вперше, то попередження громадян з конфіскацією цих знарядь, матеріалів та засобів для їх виготовлення</section>
         <section class="answer">Попередження або штраф від 2 до 10 неоподатковуваних мінімумів доходів громадян з конфіскацією цих знарядь, матеріалів та засобів для їх виготовлення</section>
         <section class="description">
-            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n574">КУпАП Стаття 85-1 - Виготовлення, збут, зберігання чи реклама заборонених знарядь добування (збирання) об'єктів тваринного або рослинного світу</a>
+            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n573">КУпАП Стаття 85-1 - Виготовлення, збут, зберігання чи реклама заборонених знарядь добування (збирання) об'єктів тваринного або рослинного світу</a>
         </section>
     </section>
      <section class="question" number="35">
@@ -430,7 +442,7 @@
         <section class="answer">Накладення штрафу від 3 до 15 неоподатковуваних мінімумів доходів громадян з конфіскацією об’єктів тваринного або рослинного світу чи без такої</section>
         <section class="answer">Накладення штрафу від 30 до 150 неоподатковуваних мінімумів доходів громадян з конфіскацією об’єктів тваринного або рослинного світу чи без такої</section>
         <section class="description">
-            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n595">Стаття 88-1. Порушення порядку придбання чи збуту об'єктів тваринного або рослинного світу, правил утримання диких тварин у неволі або в напіввільних умовах</a>.
+            <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n594">Стаття 88-1. Порушення порядку придбання чи збуту об'єктів тваринного або рослинного світу, правил утримання диких тварин у неволі або в напіввільних умовах</a>.
         </section>
     </section>
     <section class="question not-ready" number="36">
@@ -721,114 +733,150 @@
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="61">
+    <section class="question" number="61">
         <section class="text">
             За якими документами здійснюється полювання на кабана?
         </section>
         <section class="answer" data-correct="data-correct">Ліцензія.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Відстрільна картка.</section>
+        <section class="answer">Дозвіл.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="http://zakon2.rada.gov.ua/laws/show/z0389-07#o48">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a><br />
+            2.2. За ліцензією здійснюється полювання на кабана, лань, оленів благородного та плямистого, козулю, лося, муфлона, білку, бабака, бобра, нутрію вільну, ондатру, куниць лісову та кам'яну, норку американську, тхора лісового (далі - мисливські тварини).
         </section>
     </section>
-    <section class="question not-ready" number="62">
+    <section class="question" number="62">
         <section class="text">
             Чи дозволяється полювання на гоголя і якщо дозволяється, то за якими документами?
         </section>
         <section class="answer" data-correct="data-correct">Дозволяється лише за дозволом Мінекобезпеки.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Відстрільна картка.</section>
+        <section class="answer">Ліцензія.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)">wiki Гоголь (птах)</a>
+            <hr />
+            <a href="http://redbook-ua.org/item/bucephala-clangula-linnaeus/">Червона книга України. Гоголь</a>
+            <hr />
+            МІНІСТЕРСТВО ОХОРОНИ НАВКОЛИШНЬОГО ПРИРОДНОГО СЕРЕДОВИЩА ТА ЯДЕРНОЇ БЕЗПЕКИ УКРАЇНИ
+            <a href="http://zakon2.rada.gov.ua/laws/show/z0608-99">Правила видачі дозволів на спеціальне використання диких тварин та інших об'єктів тваринного світу, віднесених до природних ресурсів загальнодержавного значення</a>
         </section>
     </section>
-    <section class="question not-ready" number="63">
+    <section class="question" number="63">
         <section class="text">
             При наявності яких дозволів дозволяється полювання на дрофу, стрепета та глухаря?
         </section>
         <section class="answer" data-correct="data-correct">Ліцензія Мінекобезпеки.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Дозвіл.</section>
+        <section class="answer">Відстрільна картка.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D1%85%D0%B2%D0%B0">wiki Дрохва</a><br />
+            <a href="https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D1%85%D1%96%D1%82%D0%B2%D0%B0">wiki Хохітва, стрепет</a><br />
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%88%D0%B5%D1%86%D1%8C">wiki Глушець</a>
+            <hr />
+            <a href="http://redbook-ua.org/item/otis-tarda-linnaeus/">Червона книга України. Дрохва</a><br />
+            <a href="http://redbook-ua.org/item/tetrax-tetrax-linnaeus/">Червона книга України. Хохітва</a><br />
+            <a href="http://redbook-ua.org/item/tetrao-urogallus-linnaeus/">Червона книга України. Глушець (глухар)</a>
         </section>
     </section>
-    <section class="question not-ready" number="64">
+    <section class="question" number="64">
         <section class="text">
             За яких умов дозволяється полювання на видру?
         </section>
         <section class="answer" data-correct="data-correct">Ліцензія Мінекобезпеки.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Якщо вона занадто докучає веденню веденню сільського господарства.</section>
+        <section class="answer">Відстрільна картка.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D1%80%D0%B0_%D1%80%D1%96%D1%87%D0%BA%D0%BE%D0%B2%D0%B0">wiki Видра річкова</a>
+            <hr />
+            <a href="http://redbook-ua.org/item/lutra-lutra-linnaeus/">Червона книга України. Видра річкова</a>
         </section>
     </section>
-    <section class="question not-ready" number="65">
+    <section class="question" number="65">
         <section class="text">
             Чиєю власністю є продукція полювання наявна у фізичних і юридичних осіб без документів на неї?
         </section>
         <section class="answer" data-correct="data-correct">Держави.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Фізичних чи юридичних осіб.</section>
+        <section class="answer">Користувача мисливських угідь.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14/page2#o393">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 35. Продукція полювання, мисливські трофеї</a><br />
+            Продукція полювання (у тому числі мисливські трофеї), яка знаходиться у юридичних і фізичних осіб без документів, що засвідчують законність її набуття, або продукція, добута з порушенням правил полювання, вважається незаконно добутою.
         </section>
     </section>
-    <section class="question not-ready" number="66">
+    <section class="question" number="66">
         <section class="text">
             Ким видаються мисливцям відстрільні картки для полювання на пернату дичину і зайця-русака?
         </section>
         <section class="answer" data-correct="data-correct">Користувачами мисливських угідь.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Лісгоспом.</section>
+        <section class="answer">УТМР.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o192">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            Відстрільні картки видаються мисливцям користувачем мисливських угідь.
         </section>
     </section>
-    <section class="question not-ready" number="67">
+    <section class="question" number="67">
         <section class="text">
             Чи дозволяється полювання в темний період доби?
         </section>
         <section class="answer" data-correct="data-correct">Не пізніше 1 години після заходу сонця і 1 години до сходу.</section>
         <section class="answer">Не пізніше 2 години після заходу сонця і 2 години до сходу.</section>
-        <section class="answer"></section>
+        <section class="answer">Лише в разі світлої ночі.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            3) полювання у заборонений час, а саме:<br />
+            ...<br />
+            у темний період доби (пізніше години після заходу сонця і раніше години до його сходу);
         </section>
     </section>
-    <section class="question not-ready" number="68">
+    <section class="question" number="68">
         <section class="text">
             Які дії прирівнюються до полювання?
         </section>
         <section class="answer" data-correct="data-correct">Перебування осіб у межах мисливських угідь, у тому числі на польових і лісових дорогах (крім доріг загального користування), з будь-якою стрілецькою зброєю або з капканами та іншими знаряддями добування звірів і птахів, або з собаками мисливських порід чи ловчими звірами і птахами, або з продукцією полювання.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Перебування на природі з зібраною розчохленою стрілецькою зброєю.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o136">Розділ III ПОЛЮВАННЯ Стаття 12. Право на полювання</a><br />
+            До полювання прирівнюється: <br />
+            перебування осіб у межах мисливських угідь, у тому числі на польових і лісових дорогах (крім доріг загального користування), з будь-якою стрілецькою зброєю або з капканами та іншими знаряддями добування звірів і птахів, або з собаками мисливських порід чи ловчими звірами і птахами, або з продукцією полювання (крім випадків регулювання чисельності диких тварин, польових випробувань і змагань мисливських собак (не нижче обласного рівня);<br />
+            перебування осіб на дорогах загального користування з продукцією полювання або з будь-якою зібраною розчохленою стрілецькою зброєю.
         </section>
     </section>
-    <section class="question not-ready" number="69">
+    <section class="question" number="69">
         <section class="text">
             Які дії осіб прирівнюються до полювання під час перебування їх на дорогах загального користування?
         </section>
         <section class="answer" data-correct="data-correct">Перебування осіб на дорогах загального користування з продукцією полювання або з будь-якою зібраною розчохленою стрілецькою зброєю.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Знаходження зі зброєю яка не у чохлі або не у багажному відділенні автомобіля.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o136">Розділ III ПОЛЮВАННЯ Стаття 12. Право на полювання</a><br />
+            До полювання прирівнюється: <br />
+            перебування осіб у межах мисливських угідь, у тому числі на польових і лісових дорогах (крім доріг загального користування), з будь-якою стрілецькою зброєю або з капканами та іншими знаряддями добування звірів і птахів, або з собаками мисливських порід чи ловчими звірами і птахами, або з продукцією полювання (крім випадків регулювання чисельності диких тварин, польових випробувань і змагань мисливських собак (не нижче обласного рівня);
         </section>
     </section>
-    <section class="question not-ready" number="70">
+    <section class="question" number="70">
         <section class="text">
             В які терміни проводиться добування мисливцями вовків, бродячих собак та котів, сірих ворон, сорок, граків?
         </section>
         <section class="answer" data-correct="data-correct">Цілий рік.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">З жовтня по лютий включно.</section>
+        <section class="answer">Під час полювання на інші види мисливських тварин.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="">Стаття 33. Відстріл та відлов хижих та шкідливих тварин, добування мисливських тварин для наукових цілей, переселення в нові місця перебування</a>
+            Відстріл та відлов вовків, бродячих собак і котів, сірих ворон здійснюються мисливцями під час полювання на інші види мисливських тварин.<br />
+            Відстріл та відлов перелічених тварин, а також вовка і лисиці не в мисливський сезон або в заборонених для полювання місцях здійснюються мисливцями за дозволом центрального органу виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, а в межах територій та об'єктів природно-заповідного фонду - за дозволом обласних, Київської, Севастопольської міських державних адміністрацій, за письмовою заявою користувача мисливських угідь.
+            <hr />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a><br>
+            Полювання може здійснюватися у такі строки:<br />
+            на білку, бобра, ондатру, куниць лісову та кам'яну, норку американську, тхора лісового, єнотовидного собаку, лисицю, вовка - з жовтня по лютий включно;
+            <hr />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o189">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            Добування вовка, лисиці, єнотовидного собаки та шакала дозволяється здійснювати також за наявності у мисливця ліцензії або відстрільної картки на добування інших мисливських тварин.
         </section>
     </section>
     <section class="question not-ready" number="71">
