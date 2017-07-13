@@ -883,125 +883,141 @@
             Добування вовка, лисиці, єнотовидного собаки та шакала дозволяється здійснювати також за наявності у мисливця ліцензії або відстрільної картки на добування інших мисливських тварин.
         </section>
     </section>
-    <section class="question not-ready" number="71">
+    <section class="question" number="71">
         <section class="text">
             Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на куріпку сіру та фазана.
         </section>
-        <section class="answer" data-correct="data-correct">Жовтень-грудень, на самців тетерука -весною.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer" data-correct="data-correct">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="72">
+    <section class="question" number="72">
         <section class="text">
             Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на перепілку.
         </section>
-        <section class="answer" data-correct="data-correct">Серпень-жовтень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer" data-correct="data-correct">У серпні - листопаді.</section>
+        <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="73">
+    <section class="question" number="73">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на самців козулі.
         </section>
-        <section class="answer" data-correct="data-correct">Травень-грудень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer" data-correct="data-correct">З 1 травня по грудень включно</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="74">
+    <section class="question" number="74">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на самців кабана, лані, оленів європейського та плямистого, лося, муфлона.
         </section>
-        <section class="answer" data-correct="data-correct">Серпень-Січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="75">
+    <section class="question" number="75">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на самиць кабана, лані, оленів європейського та плямистого, лося, муфлона.
         </section>
-        <section class="answer" data-correct="data-correct">Вересень-січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У вересені - січні.</section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            TODO<br />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="76">
+    <section class="question" number="76">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на білку, єнотоподібного собаку, лисицю, куницю лісову та кам'яну, тхора лісового.
         </section>
-        <section class="answer" data-correct="data-correct">15 жовтня-лютий.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">З 15 жовтня по лютий включно.</section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            TODO<br />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="77">
+    <section class="question" number="77">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на бобра, ондатру, норку американську.
         </section>
-        <section class="answer" data-correct="data-correct">Листопад-лютий.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">З жовтня по лютий включно.</section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="78">
+    <section class="question" number="78">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на зайця-русака.
         </section>
-        <section class="answer" data-correct="data-correct">Листопад-січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У листопаді - січені.</section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="79">
+    <section class="question" number="79">
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на бабака.
         </section>
-        <section class="answer" data-correct="data-correct">Липень-вересень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У червні - вересні.</section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="80">
+    <section class="question" number="80">
         <section class="text">
             Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на диких качок, куликів, голубів.
         </section>
-        <section class="answer" data-correct="data-correct">Серпень-грудень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У серпні - грудні.</section>
+        <section class="answer">У серпні - січні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="81">
+    <section class="question" number="81">
         <section class="text">
             Вкажіть нормативно визначені терміни, в які може здійснюватись полювання на гуску сіру, гуменика, гуску білолобу велику.
         </section>
-        <section class="answer" data-correct="data-correct">Серпень-січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У серпні - січні.</section>
+        <section class="answer">У серпні - грудні.</section>
+        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">У серпні - листопаді.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
     <section class="question not-ready" number="82">
