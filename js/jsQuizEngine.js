@@ -18,9 +18,9 @@
         return dt.getMonth() + '/' + dt.getDate() + '/' + dt.getFullYear() + ' ' + dt.getHours() + ':' + (dt.getMinutes() >= 10 ? dt.getMinutes() : '0' + dt.getMinutes());
     }
 
-    $.fn.randomize = function(selector){
-        (selector ? this.find(selector) : this).parent().each(function(){
-            $(this).children(selector).sort(function(){
+    $.fn.randomize = function(selector) {
+        (selector ? this.find(selector) : this).parent().each(function() {
+            $(this).children(selector).sort(function() {
                 return Math.random() - 0.5;
             }).detach().appendTo(this);
         });
