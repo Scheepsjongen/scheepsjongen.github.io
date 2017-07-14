@@ -1,6 +1,6 @@
 ﻿<!--
-// Jagten Exam https://github.com/Olezha/jagtex
-// Copyright (c) 2017 Oleh Shklyar, Vladimir G
+// Jagten Exam //github.com/Olezha/jagtex
+// Copyright (c) 2017 Oleh Shklyar, Vladimir G doc
 // 
 // jsQuizEngine https://github.com/crpietschmann/jsQuizEngine
 // Copyright (c) 2015 Chris Pietschmann http://pietschsoft.com
@@ -63,7 +63,7 @@
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
         <section class="description">
             TODO<br />
-            <a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D1%96%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%B8%D1%88%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Міністерство охорони навколишнього природного середовища України</a> - колишнє міністерство України. Тепер Міністерство охорони навколишнього природного середовища.
+            <a href="//uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D1%96%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%B8%D1%88%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Міністерство охорони навколишнього природного середовища України</a> - колишнє міністерство України. Тепер Міністерство охорони навколишнього природного середовища.
         </section>
     </section>
     <section class="question" number="6">
@@ -75,7 +75,7 @@
         <section class="answer">Кабмін України.</section>
         <section class="description">
             TODO<br />
-            <a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D1%96%D1%82%D0%B5%D1%82_%D0%BB%D1%96%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Держкомлісгосп</a> - колишній центральний орган виконавчої влади України з питань лісового, мисливського господарства, полювання та мисливського собаківництва. Реорганізований у <a href="http://dklg.kmu.gov.ua/forest/control/uk/index">Державне агентство лісових ресурсів України</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D1%96%D1%82%D0%B5%D1%82_%D0%BB%D1%96%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Держкомлісгосп</a> - колишній центральний орган виконавчої влади України з питань лісового, мисливського господарства, полювання та мисливського собаківництва. Реорганізований у <a href="http://dklg.kmu.gov.ua/forest/control/uk/index">Державне агентство лісових ресурсів України</a>.
         </section>
     </section>
     <section class="question" number="7">
@@ -86,7 +86,7 @@
         <section class="answer">Мисливський квиток громадської організації.</section>
         <section class="answer">Усі перелічені документи.</section>
         <section class="description">
-            <a href="zakon3.rada.gov.ua/laws/show/1478-14#o149">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Розділ III ПОЛЮВАННЯ Стаття 14. Документи на право полювання</a>:<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o149">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Розділ III ПОЛЮВАННЯ Стаття 14. Документи на право полювання</a>:<br />
             Документами на право полювання (для громадян України) є:<br />
             посвідчення мисливця;<br />
             щорічна контрольна картка обліку добутої дичини і порушень правил полювання з відміткою про сплату державного мита;<br />
@@ -166,7 +166,7 @@
         <section class="answer">Відстріл найбільш красивих особин.</section>
         <section class="answer">Африканське полювання.</section>
         <section class="description">
-            <a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F">Трофейне полювання (wiki)</a>
+            <a href="//uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F">Трофейне полювання (wiki)</a>
         </section>
     </section>
     <section class="question" number="14">
@@ -231,7 +231,7 @@
         <section class="answer">Державне агентство лісових ресурсів України.</section>
         <section class="answer">Міністерство аграрної політики та продовольства України.</section>
         <section class="description">
-            <a href="zakon2.rada.gov.ua/laws/show/1478-14#o176">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 16. Ліміти використання мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o176">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 16. Ліміти використання мисливських тварин, віднесених до державного мисливського фонду</a><br />
             Полювання на парнокопитних тварин, куницю лісову, бобра, ондатру, бабака, білку, віднесених до державного мисливського фонду, здійснюється відповідно до лімітів , які затверджуються на мисливський сезон центральним органом виконавчої влади, що забезпечує формування державної аграрної політики, за погодженням із центральним органом виконавчої влади, що забезпечує формування державної політики у сфері охорони навколишнього природного середовища, за поданням центрального органу виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, на підставі пропозицій користувачів мисливських угідь, погоджених з обласними, Київською, Севастопольською міськими державними адміністраціями.<hr />
             <a href="http://zakon2.rada.gov.ua/laws/show/z0986-16">НАКАЗ Міністерства аграрної політики та продовольства України</a><br />
             <a href="http://zakon2.rada.gov.ua/laws/show/z0601-16">НАКАЗ Міністерства екології та природних ресурсів України</a>
@@ -320,7 +320,7 @@
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o230">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання</a><br />
             Стаття 20. Заборони щодо здійснення полювання<br />
             З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
-            3) полювання у заборонений час, а саме:<br>
+            3) полювання у заборонений час, а саме:<br />
             у не дозволені для полювання строки на відповідні види тварин;<br />
             у темний період доби (пізніше години після заходу сонця і раніше години до його сходу);
         </section>
@@ -348,7 +348,7 @@
         <section class="answer" data-correct="data-correct">Віддати зайця власнику собаки та взяти з нього відстріляні набої.</section>
         <section class="answer">Подякувати власнику собаки.</section>
         <section class="description">
-            <a href="http://lesovod.blogspot.com/2016/12/blog-post_724.html">Держінспекція склала кодекс етики мисливця</a><br />
+            <a href="//lesovod.blogspot.com/2016/12/blog-post_724.html">Держінспекція склала кодекс етики мисливця</a><br />
             Здобута з-під чужого собаки дичина належить господареві собаки, який повертає патрони тому мисливцю, хто стріляв.<hr />
             <a href="http://allref.com.ua/uk/skachaty/Mislivs-ka_etika?page=3">Мисливська етика</a><br />
             Мисливська етика забороняє також відстріл зайця гону з-під чужого собаки. На жаль, серед мисливців існує помилкове представлення на цей рахунок. Багато хто вважає, що якщо заєць узятий з-під чужого собаки, то треба просто знайти її власника і віддати йому трофей. А той, нібито, з вдячністю вручить вам натомість заряджений патрон.
@@ -757,8 +757,12 @@
         <section class="answer">Відстрільна картка.</section>
         <section class="answer">Ліцензія.</section>
         <section class="description">
+<<<<<<< HEAD
             <a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)">Гоголь (птах) (wiki)</a>
             <br />
+=======
+            <a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)">Гоголь (птах) (wiki)</a>
+>>>>>>> 09186a6db2605c13913d920a49eabd0939dc027e
             <a href="http://redbook-ua.org/item/bucephala-clangula-linnaeus/">Гоголь (redbook)</a>
             <br />
             <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
@@ -775,6 +779,7 @@
         <section class="answer">Дозвіл.</section>
         <section class="answer">Відстрільна картка.</section>
         <section class="description">
+<<<<<<< HEAD
             <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D1%85%D0%B2%D0%B0">Дрохва (wiki)</a>
             <br />
             <a href="http://redbook-ua.org/item/otis-tarda-linnaeus/">Дрохва (redbook)</a>
@@ -785,6 +790,15 @@
             <br />
             <a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%88%D0%B5%D1%86%D1%8C">Глушець (wiki)</a>
             <br />
+=======
+            <a href="//uk.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D1%85%D0%B2%D0%B0">Дрохва (wiki)</a>
+            <a href="http://redbook-ua.org/item/otis-tarda-linnaeus/">Дрохва (redbook)</a>
+            <br />
+            <a href="//uk.wikipedia.org/wiki/%D0%A5%D0%BE%D1%85%D1%96%D1%82%D0%B2%D0%B0">Хохітва, стрепет (wiki)</a>
+            <a href="http://redbook-ua.org/item/tetrax-tetrax-linnaeus/">Хохітва (redbook)</a>
+            <br />
+            <a href="//uk.wikipedia.org/wiki/%D0%93%D0%BB%D1%83%D1%88%D0%B5%D1%86%D1%8C">Глушець (wiki)</a>
+>>>>>>> 09186a6db2605c13913d920a49eabd0939dc027e
             <a href="http://redbook-ua.org/item/tetrao-urogallus-linnaeus/">Глушець (глухар) (redbook)</a>
             <br />
             <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
@@ -798,8 +812,12 @@
         <section class="answer">Якщо вона занадто докучає веденню веденню сільського господарства.</section>
         <section class="answer">Відстрільна картка.</section>
         <section class="description">
+<<<<<<< HEAD
             <a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D1%80%D0%B0_%D1%80%D1%96%D1%87%D0%BA%D0%BE%D0%B2%D0%B0">Видра річкова (wiki)</a>
             <br />
+=======
+            <a href="//uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D1%80%D0%B0_%D1%80%D1%96%D1%87%D0%BA%D0%BE%D0%B2%D0%B0">Видра річкова (wiki)</a>
+>>>>>>> 09186a6db2605c13913d920a49eabd0939dc027e
             <a href="http://redbook-ua.org/item/lutra-lutra-linnaeus/">Видра річкова (redbook)</a>
             <br />
             <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
@@ -881,11 +899,11 @@
         <section class="answer">Під час полювання на інші види мисливських тварин.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
-            <a href="">Стаття 33. Відстріл та відлов хижих та шкідливих тварин, добування мисливських тварин для наукових цілей, переселення в нові місця перебування</a>
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14/page2#o363">Стаття 33. Відстріл та відлов хижих та шкідливих тварин, добування мисливських тварин для наукових цілей, переселення в нові місця перебування</a>
             Відстріл та відлов вовків, бродячих собак і котів, сірих ворон здійснюються мисливцями під час полювання на інші види мисливських тварин.<br />
             Відстріл та відлов перелічених тварин, а також вовка і лисиці не в мисливський сезон або в заборонених для полювання місцях здійснюються мисливцями за дозволом центрального органу виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, а в межах територій та об'єктів природно-заповідного фонду - за дозволом обласних, Київської, Севастопольської міських державних адміністрацій, за письмовою заявою користувача мисливських угідь.
             <hr />
-            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a><br>
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a><br />
             Полювання може здійснюватися у такі строки:<br />
             на білку, бобра, ондатру, куниць лісову та кам'яну, норку американську, тхора лісового, єнотовидного собаку, лисицю, вовка - з жовтня по лютий включно;
             <hr />
@@ -1030,29 +1048,44 @@
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
-    <section class="question not-ready" number="82">
+    <section class="question" number="82">
         <section class="text">
             В який період здійснюється полювання на вовка?
         </section>
         <section class="answer" data-correct="data-correct">Цілий рік.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">В мисливський сезон - під час полювання на інші види дичини; не в мисливський сезон - за спеціальним дозволом.</section>
+        <section class="answer">Серпень - Лютий.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B2%D0%BA">Вовк (wiki)</a><br />
+            <a href="//youtu.be/bx91hXKfz5A?t=4m21s">Дальний кордон. Андрей Никольченко (youtube)</a>
+            <hr />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            Добування вовка, лисиці, єнотовидного собаки та шакала дозволяється здійснювати також за наявності у мисливця ліцензії або відстрільної картки на добування інших мисливських тварин.
+            <br /><br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14/page2#o363">Стаття 33. Відстріл та відлов хижих та шкідливих тварин, добування мисливських тварин для наукових цілей, переселення в нові місця перебування</a><br />
+            Відстріл та відлов вовків, бродячих собак і котів, сірих ворон здійснюються мисливцями під час полювання на інші види мисливських тварин.<br />
+            Відстріл та відлов перелічених тварин, а також вовка і лисиці не в мисливський сезон або в заборонених для полювання місцях здійснюються мисливцями за дозволом центрального органу виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, а в межах територій та об'єктів природно-заповідного фонду - за дозволом обласних, Київської, Севастопольської міських державних адміністрацій, за письмовою заявою користувача мисливських угідь.
         </section>
     </section>
     <section class="question not-ready" number="83">
         <section class="text">
             На який термін користувачем мисливських угідь видається ліцензія при полюванні на парнокопитних тварин?
         </section>
-        <section class="answer" data-correct="data-correct">Один світовий день.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Один світловий день.</section>
+        <section class="answer">Мисливський сезон.</section>
+        <section class="answer">До добування тварини, але не більше ніж на мисливський сезон.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            МІНІСТЕРСТВО АГРАРНОЇ ПОЛІТИКИ ТА ПРОДОВОЛЬСТВА УКРАЇНИ<br />
+            НАКАЗ Про затвердження Положення про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n84">IV. Порядок видачі ліцензій на добування мисливських тварин</a><br />
+            4.10. Ліцензія видається користувачем на такий строк:<br />
+            на один світловий день - при полюванні на мисливських тварин при колективному, облавному та індивідуальному полюванні на парнокопитних тварин та при індивідуальному полюванні на хутрових звірів;<br />
+            на мисливський тур - іноземним мисливцям;<br />
+            до моменту відлову - при відлові тварин для переселення.
         </section>
     </section>
-    <section class="question not-ready" number="84">
+    <section class="question" number="84">
         <section class="text">
             З якого віку можна користуватись мисливською гладкоствольною зброєю?
         </section>
@@ -1060,10 +1093,14 @@
         <section class="answer" data-correct="data-correct">З 21 року.</section>
         <section class="answer">З 25 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОСТАНОВА ВЕРХОВНОЇ РАДИ УКРАЇНИ<br />
+            Про право власності на окремі види майна<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/2471-12#o23">СПЕЦІАЛЬНИЙ ПОРЯДОК набуття права власності громадянами на окремі види майна</a><br />
+            Громадяни набувають права власності на такі види майна, придбаного ними з відповідного дозволу, що надається:<br />
+            а) на вогнепальну гладкоствольну мисливську зброю - органами внутрішніх справ за місцем проживання особам, які досягли 21-річного віку;
         </section>
     </section>
-    <section class="question not-ready" number="85">
+    <section class="question" number="85">
         <section class="text">
             З якого віку можна користуватись мисливською нарізною зброєю?
         </section>
@@ -1071,10 +1108,15 @@
         <section class="answer">З 21 року.</section>
         <section class="answer" data-correct="data-correct">З 25 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОСТАНОВА ВЕРХОВНОЇ РАДИ УКРАЇНИ<br />
+            Про право власності на окремі види майна<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/2471-12#o23">СПЕЦІАЛЬНИЙ ПОРЯДОК набуття права власності громадянами на окремі види майна</a><br />
+            Громадяни набувають права власності на такі види майна, придбаного ними з відповідного дозволу, що надається:<br />
+            а) ...<br />
+            на вогнепальну мисливську нарізну зброю (мисливські карабіни, гвинтівки, комбіновану зброю з нарізними стволами) - органами внутрішніх справ за місцем проживання особам, які досягли 25-річного віку;
         </section>
     </section>
-    <section class="question not-ready" number="86">
+    <section class="question" number="86">
         <section class="text">
             Як часто перереєструється мисливська зброя?
         </section>
@@ -1082,7 +1124,15 @@
         <section class="answer" data-correct="data-correct">Раз в 3 роки.</section>
         <section class="answer">Раз в 5 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            МІНІСТЕРСТВО ВНУТРІШНІХ СПРАВ УКРАЇНИ<br />
+            НАКАЗ Про затвердження Інструкції про порядок виготовлення, придбання, зберігання, обліку, перевезення та використання вогнепальної, пневматичної, холодної і охолощеної зброї, пристроїв вітчизняного виробництва для відстрілу патронів, споряджених гумовими чи аналогічними за своїми властивостями метальними снарядами несмертельної дії, та патронів до них, а також боєприпасів до зброї, основних частин зброї та вибухових матеріалів<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/z0637-98#n90">Строк дії дозволів:</a><br />
+            на виготовлення, зберігання та використання предметів, матеріалів і речовин, відкриття та функціонування підприємств, майстерень і лабораторій, на які поширюється дозвільна система, які видаються на ім'я керівників підприємств, установ і організацій, а також громадянам, - 3 роки;<br />
+            на придбання та перевезення цих предметів, матеріалів і речовин - до 3 місяців;
+            <hr />
+            Єдиний державний портал адміністративних послуг<br />
+            <a href="https://poslugy.gov.ua/info/service/byservicescope-91/2656/details">Видача дозволу на зберігання і носіння (реєстрація, перереєстрація) мисливської, холодної, пневматичної зброї, інших предметів, на які поширюється дозвільна система - для фізичних осіб</a><br />
+            Адміністративний збір: 9 гривень
         </section>
     </section>
     <section class="question not-ready" number="87">
@@ -1090,10 +1140,10 @@
             Що таке картеч?
         </section>
         <section class="answer" data-correct="data-correct">Шріт діаметром понад 5 мм називається картеччю.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Подвійна, потрійна куля.</section>
+        <section class="answer">Так називають шріт діаметром понад 4 мм.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%87">Картеч (wiki)</a>.
         </section>
     </section>
     <section class="question not-ready" number="88">
@@ -1101,10 +1151,9 @@
             Що таке калібр гладкоствольної зброї?
         </section>
         <section class="answer" data-correct="data-correct">Число, що позначає діаметр каналу ствола рушниці.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Вид придатного патрону.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%96%D0%B1%D1%80">Калібр (wiki)</a>
         </section>
     </section>
     <section class="question not-ready" number="89">
@@ -1112,10 +1161,10 @@
             Який діаметр дробу № 0000?
         </section>
         <section class="answer" data-correct="data-correct">5 мм.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">4,5 мм.</section>
+        <section class="answer">4 мм.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D1%96%D0%B1_(%D0%B7%D0%B1%D1%80%D0%BE%D0%B9%D0%BE%D0%B2%D0%B8%D0%B9)">Дріб (збройовий) (wiki)</a>
         </section>
     </section>
     <section class="question not-ready" number="90">
@@ -1294,7 +1343,7 @@
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="106">
+    <section class="question" number="106">
         <section class="text">
             Якими набоями дозволяеться добувати лося, кабана, оленя, козулю?
         </section>

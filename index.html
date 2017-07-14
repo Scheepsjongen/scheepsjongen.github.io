@@ -1,5 +1,5 @@
 ﻿<!--
-// Jagten Exam https://github.com/Olezha/jagtex
+// Jagten Exam //github.com/Olezha/jagtex
 // Copyright (c) 2017 Oleh Shklyar
 // 
 // jsQuizEngine https://github.com/crpietschmann/jsQuizEngine
@@ -8,24 +8,28 @@
 // Licensed under MIT License https://github.com/crpietschmann/jsQuizEngine/blob/master/LICENSE
 -->
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="//www.w3.org/1999/xhtml">
 <head>
     <title>Jagten Exam</title>
 
     <b:skin><![CDATA[]]></b:skin>
 
-    <link rel="stylesheet" type="text/css" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/css/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="https://rawcdn.githack.com/Olezha/jagtex/master/css/jsQuizEngine.css" />
-    <link rel="stylesheet" type="text/css" href="https://rawcdn.githack.com/Olezha/jagtex/68004a8203d8820868cb9673a6359c2530f7c541/css/style.css" />
+    <link rel="stylesheet" href="//ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="//rawcdn.githack.com/Olezha/jagtex/master/css/jsQuizEngine.css" />
+    <link rel="stylesheet" href="//rawcdn.githack.com/Olezha/jagtex/68004a8203d8820868cb9673a6359c2530f7c541/css/style.css" />
 
-    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.js"></script>
-    <script src="https://ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
-    <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/bootstrap.min.js"></script>
-    <script src="https://rawcdn.githack.com/Olezha/jagtex/68004a8203d8820868cb9673a6359c2530f7c541/js/jsQuizEngine.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/bootstrap.min.js"></script>
+    <script src="//rawcdn.githack.com/Olezha/jagtex/68004a8203d8820868cb9673a6359c2530f7c541/js/jsQuizEngine.js"></script>
     <script>
         var quizEngine = null;
         $(function () {
+<<<<<<< HEAD
             quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: 'https://rawcdn.githack.com/Olezha/jagtex/1474020b9b54e7656d4a5064b5635f68187c597d/quiz/test.xml' });
+=======
+            quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: '//rawcdn.githack.com/Olezha/jagtex/0c3f4a184dac4ff651d8b4ba21814d0268403abb/quiz/test.xml' });
+>>>>>>> 09186a6db2605c13913d920a49eabd0939dc027e
         });
     </script>
 </head>
@@ -43,7 +47,7 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="https://jagtex.blogspot.com/p/about.html">About</a></li>
+                    <li class="active"><a href="//jagtex.blogspot.com/p/about.html">About</a></li>
                 </ul>
             </div>
         </div>
@@ -56,7 +60,7 @@
                     <div class="jumbotron">
                         <h1 data-bind="text: quizTitle"></h1>
                         <p data-bind="text: quizSubTitle"></p>
-                        <p style="line-height: .8;"><span style="color: red;">В розробці.</span> <span style="font-size: 14px;">Багато білетів <a href="https://jagtex.blogspot.com/p/about.html">ще не попало в тест</a>. В білетах що вже в тесті присутні відповіді які позначені правильними але суперечать закону наведеному в підказці.</span></p>
+                        <p style="line-height: .8;"><span style="color: red;">В розробці.</span> <span style="font-size: 14px;">Багато білетів <a href="//jagtex.blogspot.com/p/about.html">ще не попало в тест</a>. В білетах що вже в тесті присутні відповіді які позначені правильними але суперечать закону наведеному в підказці.</span></p>
                         <p><button class="btn btn-primary btn-lg" data-bind="click: startQuiz">Почати</button></p>
                     </div>
                 </section>
@@ -80,7 +84,7 @@
                     <div>Date: <span data-bind="text: calculatedScoreDate"></span></div>
                     <div>Overall Score: <span data-bind="text: calculatedScore"></span>%</div>
                     <div>Correct Questions: <span data-bind="text: totalQuestionsCorrect"></span></div>
-                    <div>УВАГА: в даному тесті були використані не всі білети і любий користувач може його <a href="https://jagtex.blogspot.com/p/about.html">доповнити</a>.</div>
+                    <div>УВАГА: в даному тесті були використані не всі білети і любий користувач може його <a href="//jagtex.blogspot.com/p/about.html">доповнити</a>.</div>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': calculatedScore }, style: { width: calculatedScore() + '%' }, css: { 'progress-bar-success': quizPassed, 'progress-bar-danger': !quizPassed() }"></div>
                     </div>
@@ -113,7 +117,6 @@
                         <ul>
                             <li>Олег Шкляр, Київ</li>
                             <li>Vladimir G doc, Київ</li>
-                            <li>Тут є вільні місця</li>
                         </ul>
                     </div>
                     <div class="col-md-4 col-md-offset-4">
