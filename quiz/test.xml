@@ -2010,103 +2010,106 @@
             Використати специфічні сироватки, перетяжку кінцівки краще не робити, висмоктувати кров з рани також, можливо використання місцевих примочок з марганцівки.
         </section>
     </section>
-    <section class="question not-ready" number="162">
+    <section class="question" number="162">
         <section class="text">
             Що таке біотехнія?
         </section>
-        <section class="answer" data-correct="data-correct">Комплекс заходів, направлений на збільшення кількості диких тварин, і покращенню їх репродуктивних якостей.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Заходи по поліпшенню умов існування диких тварин.</section>
+        <section class="answer">Використання хімікатів та гербіцидів у мисливському господарстві.</section>
+        <section class="answer">Використання заборонених методів полювання.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/1478-14/page#o27">Стаття 1. Терміни та їх визначення</a><br />
+            біотехнічні заходи - комплекс різноманітних господарських робіт, спрямованих на поліпшення умов існування, розмноження та збільшення чисельності мисливських тварин;
         </section>
     </section>
-    <section class="question not-ready" number="163">
+    <section class="question" number="163">
         <section class="text">
             Які місяці року є місяцями тиші в мисливських угіддях?
         </section>
-        <section class="answer" data-correct="data-correct">Квітень - липень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Квітень - червень.</section>
+        <section class="answer">Березень-квітень.</section>
+        <section class="answer">Квітень - липень.</section>
+        <section class="answer">Липень-серпень.</section>
+        <section class="answer">Березень-липень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_%D1%82%D0%B8%D1%88%D1%96">Сезон тиші (wiki)</a>
+            <br /><br />
+            ЗАКОН УКРАЇНИ Про тваринний світ<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/2894-14/page2#o287">Стаття 39. Охорона середовища існування, умов розмноження, шляхів міграції тварин</a><br />
+            У період масового розмноження диких тварин, з 1 квітня до 15 червня, забороняється проведення робіт та заходів, які є джерелом підвищеного шуму та неспокою (пальба, проведення вибухових робіт, феєрверків, санітарних рубок лісу, використання моторних маломірних суден, проведення ралі та інших змагань на транспортних засобах).
         </section>
     </section>
-    <section class="question not-ready" number="164">
+    <section class="question" number="164">
         <section class="text">
             Що таке штучний солонець?
         </section>
-        <section class="answer" data-correct="data-correct">Штучна споруда для підгодівлі сіллю та мінеральними речовинами.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Звичайна сіль, або сіль-лизунець, покладена в спеціальну біотехнічну споруду.</section>
+        <section class="answer">Водойма із солоною водою.</section>
+        <section class="answer">Посудина із солоною водою.</section>
+        <section class="description TODO">
+            Штучна споруда для підгодівлі сіллю та мінеральними речовинами.
         </section>
     </section>
-    <section class="question not-ready" number="165">
+    <section class="question" number="165">
         <section class="text">
             В якому місяці найкраще заготовляти кормові віники для тварин?
         </section>
         <section class="answer" data-correct="data-correct">Травень-Червень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">Липень-вересень.</section>
+        <section class="answer">Вересень-жовтень.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="166">
+    <section class="question" number="166">
         <section class="text">
             Вкажіть на скільки відсотків збільшується щорічно поголів'я козулі при нормальному стані популяції?
         </section>
-        <section class="answer" data-correct="data-correct">15-20%.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">20%.</section>
+        <section class="answer">40%</section>
+        <section class="answer">60%</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="167">
+    <section class="question" number="167">
         <section class="text">
             Який відсоток з популяції козуль за звичайних кліматичних умов можна вилучати щорічно?
         </section>
-        <section class="answer" data-correct="data-correct">10%.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">5-10%.</section>
+        <section class="answer">15%.</section>
+        <section class="answer">20-25%.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="168">
+    <section class="question" number="168">
         <section class="text">
             Якщо потрібно збільшити чисельність кабана, то яких тварин необхідно вилучати із стада?
         </section>
         <section class="answer" data-correct="data-correct">Вагою менше 50 кг.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">З вагою більше 80кг. і більше.</section>
+        <section class="answer">Одиноких.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="169">
+    <section class="question" number="169">
         <section class="text">
             Що значить термін "апортувати"?
         </section>
-        <section class="answer" data-correct="data-correct">Принести дичину.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Здатність собаки підносити дичину до ніг мисливця.</section>
+        <section class="answer">Здатність собаки швидко знаходити дичину, що притаїлася.</section>
+        <section class="answer">Здатність собаки переслідувати поранену дичину.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="170">
+    <section class="question" number="170">
         <section class="text">
             Який документ підтверджує походження собаки?
         </section>
-        <section class="answer" data-correct="data-correct">Родовід.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Родовід (свідоцтво) встановленого зразка з вказівками про 4 ряди предків.</section>
+        <section class="answer">Довідка про походження, що видає первинна організація мисливців.</section>
+        <section class="answer">Сертифікат про походження собаки.</section>
+        <section class="answer">Паспорт мисливської собаки.</section>
+        <section class="description TODO">
         </section>
     </section>
     <section class="question not-ready" number="171">
