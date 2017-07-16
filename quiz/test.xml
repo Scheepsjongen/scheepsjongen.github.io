@@ -763,6 +763,10 @@
             <br />
             <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
             <hr />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            За дозволом може здійснюватися відстріл (відлов) будь-якого виду мисливських тварин з метою селекційного відбору, ветеринарно-санітарної експертизи, регулювання чисельності.
+            <hr />
             МІНІСТЕРСТВО ОХОРОНИ НАВКОЛИШНЬОГО ПРИРОДНОГО СЕРЕДОВИЩА ТА ЯДЕРНОЇ БЕЗПЕКИ УКРАЇНИ<br />
             <a href="http://zakon2.rada.gov.ua/laws/show/z0608-99">Правила видачі дозволів на спеціальне використання диких тварин та інших об'єктів тваринного світу, віднесених до природних ресурсів загальнодержавного значення</a>
         </section>
@@ -788,6 +792,10 @@
             <a href="http://redbook-ua.org/item/tetrao-urogallus-linnaeus/">Глушець (глухар) (redbook)</a>
             <br />
             <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
+            <hr />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            За дозволом може здійснюватися відстріл (відлов) будь-якого виду мисливських тварин з метою селекційного відбору, ветеринарно-санітарної експертизи, регулювання чисельності.
         </section>
     </section>
     <section class="question" number="64">
@@ -802,6 +810,10 @@
             <a href="http://redbook-ua.org/item/lutra-lutra-linnaeus/">Видра річкова (redbook)</a>
             <br />
             <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
+            <hr />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
+            За дозволом може здійснюватися відстріл (відлов) будь-якого виду мисливських тварин з метою селекційного відбору, ветеринарно-санітарної експертизи, регулювання чисельності.
         </section>
     </section>
     <section class="question" number="65">
@@ -1641,114 +1653,136 @@
         <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="131">
+    <section class="question" number="131">
         <section class="text">
             Які гільзи не можна використовувати в самозарядних напівавтоматичних рушницях?
         </section>
         <section class="answer" data-correct="data-correct">Металеві.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">Папкові.</section>
+        <section class="answer">Пластикові.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="132">
+    <section class="question" number="132">
         <section class="text">
             В складі скількох мисливців дозволяється колективне та облавне полювання на парнокопитних тварин?
         </section>
-        <section class="answer">До 10.</section>
-        <section class="answer" data-correct="data-correct">До 20.</section>
+        <section class="answer">Не більше 15 чоловік включаючи розпорядника та нагоничів.</section>
+        <section class="answer" data-correct="data-correct">Не більше 20 чоловік включаючи розпорядника та нагоничів.</section>
         <section class="answer">Немає обмежень.</section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="133">
+    <section class="question" number="133">
         <section class="text">
             Поводження мисливця зі зброєю на привалі.
         </section>
-        <section class="answer" data-correct="data-correct">Повісити або вперти на основу.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Розрядити рушницю і повісити її на надійну опору.</section>
+        <section class="answer">Поставити рушницю на запобіжник, і покласти її на землю.</section>
+        <section class="answer">Поставити рушницю на запобіжник, і повісити її на надійну опору.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.18. Під час відпочинку зброю необхідно в незарядженому стані підвішувати або класти на надійну опору.
         </section>
     </section>
-    <section class="question not-ready" number="134">
+    <section class="question" number="134">
         <section class="text">
             Як потрібно носити мисливську зброю на полюванні, якщо немає снігу?
         </section>
         <section class="answer" data-correct="data-correct">На лівій руці, на правому плечі, стволи вгору або вниз.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">Стволами в землю.</section>
+        <section class="answer">Горизонтально.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="135">
+    <section class="question" number="135">
         <section class="text">
             Поводження мисливця зі зброєю при перевезенні її в автомобілі.
         </section>
-        <section class="answer" data-correct="data-correct">Зброя може бути розчохлена та розряджена тільки при переїзді під час полювання, інакше - в розібраному виді.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Зброя може бути розчохлена та розряджена тільки при переїзді під час полювання; інакше - в розібраному виді, в чохлі.</section>
+        <section class="answer">Кладеться пластом.</section>
+        <section class="answer">Кладеться відкритою.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.20. При переміщеннях на всіх видах транспорту зброя повинна бути в розібраному вигляді в чохлі. Тільки при коротких переїздах всередині угідь при зміні місця проведення полювання, при переміщенні в човні по воді під час полювання, а також при прямуванні до шалашів і засідок дозволяється тримати рушницю зібраною, але обов'язково розрядженою і направленою стволами вгору або в сторону, протилежну від людей, які перебувають поряд.
         </section>
     </section>
-    <section class="question not-ready" number="136">
+    <section class="question" number="136">
         <section class="text">
             Чи можна добувати кабана вночі з засідки з використанням освітлювальних пристроїв?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Правила техніки безпеки не дозволяють полювати вночі.</section>
+        <section class="answer">Ні, полювання з засідки є браконьєрство.</section>
+        <section class="answer">Так, якщо освітлювальні прибори зареєстровані в установленому порядку.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.7. Полювання проводиться лише в умовах повної видимості (повністю розвидниться, розсіється туман, припиниться сильний дощ чи снігопад).
         </section>
     </section>
-    <section class="question not-ready" number="137">
+    <section class="question" number="137">
         <section class="text">
             Чи можна полювати на території садово-дачних ділянок?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Не можна.</section>
+        <section class="answer">Можна, але тільки в осіннє-зимній період на хутрових звірів.</section>
+        <section class="answer">Можна при суворому дотриманні правил безпеки.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            2) полювання в заборонених для цього місцях, а саме:<br />
+            у межах населених пунктів (сіл, селищ, міст), за винятком випадків, передбачених рішеннями Ради міністрів Автономної Республіки Крим, обласних, Київської та Севастопольської міських рад;
         </section>
     </section>
-    <section class="question not-ready" number="138">
+    <section class="question" number="138">
         <section class="text">
             Чи дозволяється стріляти з рушниці з транспорту, що рухається?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Не дозволяється.</section>
+        <section class="answer">Дозволяється.</section>
+        <section class="answer">Дозволяється тільки з відкритого автомобіля.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            4) полювання із застосуванням або використанням заборонених знарядь та забороненими способами, а саме:<br />
+            з під'їзду на автомототранспорті, а також на плавучих засобах з працюючим двигуном;
+            <br /><br />
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.21. Забороняється стрільба з автомототранспортного засобу незалежно від того, знаходиться він в русі чи ні.
         </section>
     </section>
-    <section class="question not-ready" number="139">
+    <section class="question" number="139">
         <section class="text">
             Чи дозволяється стріляти з рушниці по цілі, яку погано видно?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Не дозволяється.</section>
+        <section class="answer">Дозволяється тільки по пернатій дичині.</section>
+        <section class="answer">Дозволяється по качці на відкритій воді.</section>
+        <section class="answer">Дозволяється тільки по копитним звірам.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.8. Забороняється стріляти на шум, шарудіння, по невиразно видимій цілі.
         </section>
     </section>
-    <section class="question not-ready" number="140">
+    <section class="question" number="140">
         <section class="text">
             На якій відстані від населеного пункту забороняється стрільба з мисливської гладкоствольної зброї?
         </section>
-        <section class="answer" data-correct="data-correct">Менше 200 м.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Ближче, ніж 200 м.</section>
+        <section class="answer">Ближче ніж 350 м.</section>
+        <section class="answer">Ближче ніж 500 м.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            2) полювання в заборонених для цього місцях, а саме:<br />
+            на відстані ближче ніж 200 метрів від будівель населеного пункту та окремо розташованих будівель, де можливе перебування людей;
         </section>
     </section>
     <section class="question not-ready" number="141">
