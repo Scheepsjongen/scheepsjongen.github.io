@@ -2279,7 +2279,6 @@
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="187">
@@ -2322,73 +2321,69 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="191">
+    <section class="question" number="191">
         <section class="text">
             В якому віці роги оленя європейського досягають максимального розвитку?
         </section>
-        <section class="answer" data-correct="data-correct">5 років (8-10).</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">8-10 років.</section>
+        <section class="answer">5 років.</section>
+        <section class="answer">15 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="192">
+    <section class="question" number="192">
         <section class="text">
             За який період у дорослого оленя європейського відростають і формуються нові роги?
         </section>
-        <section class="answer" data-correct="data-correct">4-5 місяців.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">За 4-5 місяців.</section>
+        <section class="answer">За 2-3 місяці.</section>
+        <section class="answer">За 6 місяців. </section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question not-ready" number="193">
         <section class="text">
             Коли самка оленя європейського народжує оленят?
         </section>
-        <section class="answer" data-correct="data-correct">Травень-червень.</section>
+        <section class="answer" data-correct="data-correct">У травні-червні.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="194">
+    <section class="question" number="194">
         <section class="text">
             Яку максимальну кількість ростків має ріг плямистого оленя?
         </section>
-        <section class="answer" data-correct="data-correct">В середньому 4.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Не більше 5.</section>
+        <section class="answer">Не більше 6.</section>
+        <section class="answer">Не більше 7.</section>
+        <section class="description TODO">
+            В середньому 4.
         </section>
     </section>
-    <section class="question not-ready" number="195">
+    <section class="question" number="195">
         <section class="text">
             В якому місяці в умовах України проходить гін у козулі?
         </section>
-        <section class="answer" data-correct="data-correct">Серпень-вересень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Серпень.</section>
+        <section class="answer">Червень.</section>
+        <section class="answer">Жовтень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            Серпень-вересень.
         </section>
     </section>
-    <section class="question not-ready" number="196">
+    <section class="question" number="196">
         <section class="text">
             Коли самець козулі скидає роги?
         </section>
-        <section class="answer" data-correct="data-correct">Листопад.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У жовтні-листопаді.</section>
+        <section class="answer">У Серпні-вересні.</section>
+        <section class="answer">На 7 році життя.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="197">
+    <section class="question" number="197">
         <section class="text">
             Яка максимальна кількість відростків на рогах козулі?
         </section>
@@ -2396,40 +2391,36 @@
         <section class="answer">4.</section>
         <section class="answer">5.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="198">
+    <section class="question" number="198">
         <section class="text">
             Скільки в середньому козлят щорічно приводить самка козулі?
         </section>
-        <section class="answer" data-correct="data-correct">1-2, рідше 3.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">1-2.</section>
+        <section class="answer">3.</section>
+        <section class="answer">4.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            1-2, рідше 3.
         </section>
     </section>
-    <section class="question not-ready" number="199">
+    <section class="question" number="199">
         <section class="text">
             До якого систематичного ряду тварин відноситься кабан?
         </section>
-        <section class="answer" data-correct="data-correct">Парнокопитні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Ряд парнокопитні.</section>
+        <section class="answer">Ряд непарнокопитні.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="200">
+    <section class="question" number="200">
         <section class="text">
             Яка тварина за статево - віковими ознаками очолює стадо кабанів?
         </section>
         <section class="answer" data-correct="data-correct">Свиноматка.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Сильний самець.</section>
+        <section class="answer">Старий самець.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question not-ready" number="201">
