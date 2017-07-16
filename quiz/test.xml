@@ -1785,114 +1785,111 @@
             на відстані ближче ніж 200 метрів від будівель населеного пункту та окремо розташованих будівель, де можливе перебування людей;
         </section>
     </section>
-    <section class="question not-ready" number="141">
+    <section class="question" number="141">
         <section class="text">
             Чи дозволяється стріляти на шум, шурхіт, в напрямку хитання гілок чи заростей очерету?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Заборонено.</section>
+        <section class="answer">Дозволяється в окремих випадках.</section>
+        <section class="answer">Дозволяється тільки в зарослях очерету.</section>
+        <section class="answer">Дозволяється тільки в болотах.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.8. Забороняється стріляти на шум, шарудіння, по невиразно видимій цілі.
         </section>
     </section>
-    <section class="question not-ready" number="142">
+    <section class="question" number="142">
         <section class="text">
             Чи дозволяється добування фазана, який злітає перед перепоною на висоту людини?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Не дозволяється.</section>
+        <section class="answer">Дозволяється.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="143">
+    <section class="question" number="143">
         <section class="text">
             Як повинні сидіти мисливці в човні?
         </section>
-        <section class="answer" data-correct="data-correct">Спиною один до одного.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Спиною до спини.</section>
+        <section class="answer">Обоє в передній частині.</section>
+        <section class="answer">Обоє в задній частині.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.19. Особливої обережності мисливці повинні дотримуватися при стрільбі з човна, враховуючи при цьому такі вимоги:<br />
+            3.19.1. Стрільці в човні повинні сидіти спиною до спини, не дозволяється стріляти поверх голів людей, що перебувають в човні.
         </section>
     </section>
-    <section class="question not-ready" number="144">
+    <section class="question" number="144">
         <section class="text">
             Поводження зі зброєю при перестрибуванні через рів.
         </section>
-        <section class="answer" data-correct="data-correct">На лівій руці, або на правому плечі, стволи або вниз.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Розрядити рушницю.</section>
+        <section class="answer">Відкрити рушницю.</section>
+        <section class="answer">Поставити рушницю на запобіжник.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.6. Під час долання перешкод (канав, струмків, огороджень тощо) зброю потрібно розрядити.
         </section>
     </section>
-    <section class="question not-ready" number="145">
+    <section class="question" number="145">
         <section class="text">
             Де розчохляється мисливська зброя?
         </section>
-        <section class="answer" data-correct="data-correct">На полюванні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Безпосередньо на полюванні.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="146">
+    <section class="question" number="146">
         <section class="text">
             На який час може бути накладений кровозупиняючий джгут?
         </section>
-        <section class="answer" data-correct="data-correct">2 години.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">На 0,5-1,5 години.</section>
+        <section class="answer">На 3-4 години.</section>
+        <section class="answer">Час не обмеженний.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="147">
+    <section class="question" number="147">
         <section class="text">
             Що необхідно зробити для надання першої медичної допомоги потерпілому, який втратив свідомість, але не має помітних зовнішніх пошкоджень?
         </section>
-        <section class="answer" data-correct="data-correct">Розстебнути комір, надати тілу напівсидячого положення, оббризкати обличчя, дати понюхати нашатирного спирту.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Повернути голову набік, укрити, контролювати наявність дихання і серцевої діяльності.</section>
+        <section class="answer">Піднести до носа ватку з нашатирним спиртом, припідняти голову, дати попити.</section>
+        <section class="answer">Підкласти під голову валік, дати анальгін і валідол.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="148">
+    <section class="question" number="148">
         <section class="text">
             Що необхідно зробити для надання першої медичної допомоги при переломі ключиці?
         </section>
-        <section class="answer" data-correct="data-correct">Накласти з хустки або косинки пов'язку, що називається перев'язом. Руку при цьому згинають у лікті, під пахвову ділянку кладуть грудку вати. Транспортування постраждалого здійснюється в положенні сидячи.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Підвісити руку на косинці, прибинтувати руку до тулуба.</section>
+        <section class="answer">Накласти дві шини на плече.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="149">
+    <section class="question" number="149">
         <section class="text">
             Як правильно зняти одяг із потерпілого при пошкодженні руки або ноги?
         </section>
-        <section class="answer" data-correct="data-correct">Спочатку здорова кінцівка.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Одяг необхідно зняти спочатку із здорової кінцівки.</section>
+        <section class="answer">Одяг необхідно зняти спочатку із хворої кінцівки.</section>
+        <section class="answer">Послідовність дій не має значення.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="150">
+    <section class="question" number="150">
         <section class="text">
             В чому полягає перша медична допомога потерпілому при травматичному шоці?
         </section>
-        <section class="answer" data-correct="data-correct">Гарячий солодкий міцний чай, кава або вино (якщо не пошкоджений живіт), Соляно-солодке питво (чайна ложка питної соди та половина чайної ложки харчової соди на 1 л води). Доставити в лікарню.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Дати повний спокій, укрити, застосувати болевгамовуючі засоби.</section>
+        <section class="answer">Побризкати обличчя холодною водою, енергійно розтерти шкіру на обличчі, дати понюхати нашатирного спирту.</section>
+        <section class="answer">Надати потерпілому лижачого, чи напівсидячого положення, на лоб, і на потилицю покласти холодні примочки.</section>
+        <section class="description TODO">
         </section>
     </section>
     <section class="question not-ready" number="151">
