@@ -103,7 +103,7 @@
         <section class="answer">Календарний рік.</section>
         <section class="answer">3 роки.</section>
         <section class="answer" data-correct="data-correct">Необмежений.</section>
-        <section class="description">
+        <section class="description TODO">
             Законом не врегульовано. Аналогія закону? Принцип свободи?
         </section>
     </section>
@@ -337,7 +337,6 @@
             Стаття 20. Заборони щодо здійснення полювання<br />
             З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
             2) полювання в заборонених для цього місцях, а саме:<br />
-            ...<br />
             у межах населених пунктів (сіл, селищ, міст), за винятком випадків, передбачених рішеннями Ради міністрів Автономної Республіки Крим, обласних, Київської та Севастопольської міських рад;
         </section>
     </section>
@@ -348,6 +347,7 @@
         <section class="answer" data-correct="data-correct">Віддати зайця власнику собаки та взяти з нього відстріляні набої.</section>
         <section class="answer">Подякувати власнику собаки.</section>
         <section class="description">
+            TODO<br />
             <a href="//lesovod.blogspot.com/2016/12/blog-post_724.html">Держінспекція склала кодекс етики мисливця</a><br />
             Здобута з-під чужого собаки дичина належить господареві собаки, який повертає патрони тому мисливцю, хто стріляв.<hr />
             <a href="http://allref.com.ua/uk/skachaty/Mislivs-ka_etika?page=3">Мисливська етика</a><br />
@@ -1195,8 +1195,7 @@
         <section class="answer" data-correct="data-correct">Не може.</section>
         <section class="answer">Може, якщо покупець - близький родич і мисливець.</section>
         <section class="answer">Може, але через спеціалізований магазин.</section>
-        <section class="description">
-            TODO
+        <section class="description TODO">
         </section>
     </section>
     <section class="question" number="94">
@@ -1232,8 +1231,8 @@
         <section class="answer" data-correct="data-correct">В 80 раз їх діаметр в мм.</section>
         <section class="answer">В 40 раз їх діаметр в мм.</section>
         <section class="answer">В 150 раз їх діаметр в мм.</section>
-        <section class="description">
-            TODO: Бутурлин "Дробовое ружье и стрельба из него"?
+        <section class="description TODO">
+            Бутурлин "Дробовое ружье и стрельба из него"?
         </section>
     </section>
     <section class="question" number="97">
@@ -1351,7 +1350,9 @@
         <section class="answer">Кулі та картеч.</section>
         <section class="answer">Усі перелічені.</section>
         <section class="description">
-            1.3. Полювання на парнокопитних тварин дозволяється лише набоями, спорядженими кулями. Забороняється полювання на таких тварин з використанням малокаліберної гвинтівки під патрон кільцевого запалювання або набоїв, споряджених круглими кулями, картеччю чи шротом. <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n16">правила полювань</a>
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n16">I. Правила проведення полювання на тварин, добування яких здійснюється за ліцензією</a><br />
+            1.3. Полювання на парнокопитних тварин дозволяється лише набоями, спорядженими кулями. Забороняється полювання на таких тварин з використанням малокаліберної гвинтівки під патрон кільцевого запалювання або набоїв, споряджених круглими кулями, картеччю чи шротом.
         </section>
     </section>
     <section class="question" number="107">
@@ -1363,6 +1364,10 @@
         <section class="answer">Зарядити рушницю і продовжити полювання.</section>
         <section class="answer">Розрядити рушницю і перевірити чи не залишилося в каналі ствола клейтуха, прокладки або частини розірваної гільзи.</section>
         <section class="description">
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.11. Під час стрільби при осічці мисливець не повинен відкривати рушницю раніше ніж через сім-вісім секунд.
+            <hr />
             <a href="//www.youtube.com/watch?v=lC86w_WlgD8">Затжний постріл</a>
         </section>
     </section>
@@ -1374,6 +1379,10 @@
         <section class="answer">Звести курки, і зробити повторний постріл.</section>
         <section class="answer">Не повинен відкривати рушницю раніше ніж через 3-4 секунди.</section>
         <section class="description">
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.11. Під час стрільби при осічці мисливець не повинен відкривати рушницю раніше ніж через сім-вісім секунд.
+            <hr />
             <a href="//www.youtube.com/watch?v=lC86w_WlgD8">Затжний постріл</a>
         </section>
     </section>
@@ -1396,118 +1405,134 @@
         </section>
         <section class="answer">250 м.</section>
         <section class="answer" data-correct="data-correct">Більше, ніж звичайна, для даного номену шроту.</section>
-        <section class="description">
-            TODO
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="111">
+    <section class="question" number="111">
         <section class="text">
             Чи можна стріляти патроном 70 мм із ствола, що передбачений під гільзу 65 мм.
         </section>
-        <section class="answer" data-correct="data-correct">Ні, розрив ствола.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Ні, можливий розрив ствола.</section>
+        <section class="answer">Треба врахувати, що дальність пострілу буде збільшена.</section>
+        <section class="answer">Можна, буде збільшено діаметр "снопа".</section>
+        <section class="description TODO">
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
+            3.14. У разі якщо патрон не входить в патронник стволів, категорично заборонено його туди втискати, треба обережно вийняти і замінити іншим.
         </section>
     </section>
-    <section class="question not-ready" number="112">
+    <section class="question" number="112">
         <section class="text">
             Яка небезпечна відстань для життя людини при пострілі кулею із мисливської гладкоствольної рушниці.
         </section>
-        <section class="answer" data-correct="data-correct">300 м.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">До 300 м.</section>
+        <section class="answer">До 500 м.</section>
+        <section class="answer" data-correct="data-correct">До 1000 м.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="113">
+    <section class="question" number="113">
         <section class="text">
             Якою є небезпечна відстань для життя людини при пострілі кулею із карабіна?
         </section>
-        <section class="answer" data-correct="data-correct">1500м.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">500 м.</section>
+        <section class="answer">1000 м.</section>
+        <section class="answer" data-correct="data-correct">1500 м.</section>
+        <section class="answer">2000 м.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="114">
+    <section class="question" number="114">
         <section class="text">
             Коли заряджається зброя при облавному полюванні?
         </section>
         <section class="answer" data-correct="data-correct">На номері.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">При прибутті в район полювання.</section>
+        <section class="answer">Коли появився звір.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.12. Під час облавного полювання заряджати та розряджати вогнепальну зброю мисливці повинні тільки на номері і по сигналу розпорядника полювання.
         </section>
     </section>
-    <section class="question not-ready" number="115">
+    <section class="question" number="115">
         <section class="text">
             Кому із учасників колективного полювання рекомендується бути в одязі, який своїм кольором різко виділяється на загальному фоні?
         </section>
         <section class="answer" data-correct="data-correct">Загонщикам (Нагоничам).</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Керівнику полювання.</section>
+        <section class="answer">Стрілкам.</section>
+        <section class="answer">Розпоряднику.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.4. На стрільців заганяють звіра загоничі. Загоничі повинні бути одягненні в яскраві жилети.
         </section>
     </section>
-    <section class="question not-ready" number="116">
+    <section class="question" number="116">
         <section class="text">
             Що повиннi робити нагоничi при наближеннi до стрiлецькоi лiнii?
         </section>
-        <section class="answer">Більше вигнати тварин.</section>
-        <section class="answer" data-correct="data-correct">Уважно дивитись i частiше подавати голос.</section>
+        <section class="answer">Припинити шум, іти тихо.</section>
+        <section class="answer" data-correct="data-correct">Посилити шум, показуючи голосом про місце свого находження.</section>
         <section class="answer">Розрядити зброю.</section>
+        <section class="answer">Вести себе так, як і на початку загону.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.11. Загоничі при наближенні до стрілецької лінії повинні бути більш уважні та частіше подавати голос.
         </section>
     </section>
-    <section class="question not-ready" number="117">
+    <section class="question" number="117">
         <section class="text">
             Коли припиняється стрільба в бік загону при облавному полюванні на копитних тварин?
         </section>
-        <section class="answer" data-correct="data-correct">200 м.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Стріляти в бік загону не можна взагалі.</section>
+        <section class="answer">Коли вже чути нагоничів.</section>
+        <section class="answer">Коли вже видно нагоничів.</section>
+        <section class="description TODO">
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.5. Загоничам забороняється перебувати в облаві із зарядженою зброєю. За попередньою домовленістю мисливців, розпорядника та загоничів дозволяється стрільба в облаві з гладкоствольної зброї кулями тільки по тварині, на яку оформлено ліцензію, що виходить із облави, тобто в протилежному напрямку від стрілецької лінії.<br />
+            2.10. Стрільба вздовж стрілецької лінії та за межами свого сектора обстрілу категорично забороняється.
         </section>
     </section>
-    <section class="question not-ready" number="118">
+    <section class="question" number="118">
         <section class="text">
             Чи може мисливець, що знаходиться на номері при облавному полюванні, зійти з номера, не дочекавшись сигналу закінчення загону?
         </section>
-        <section class="answer">Так.</section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
+        <section class="answer">Може.</section>
+        <section class="answer" data-correct="data-correct">Не може.</section>
         <section class="answer">Лише попередивши сусідів.</section>
+        <section class="answer">Може, якщо на нього вийшов загонщик.</section>
+        <section class="answer">Може, якщо в секторі його стрільби нема звіра.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.6. Стрільці на номери стрілецької лінії розставляються розпорядником полювання. Розпорядник полювання, ставлячи мисливця на номер, повинен вказати йому напрямок стрільби і сектор обстрілу, що має беззаперечно виконуватись мисливцем. Залишати номер мисливцем без дозволу розпорядника категорично забороняється.
         </section>
     </section>
-    <section class="question not-ready" number="119">
+    <section class="question" number="119">
         <section class="text">
             Як повинен поводитись зі зброєю мисливець, який наближається до іншого мисливця?
         </section>
-        <section class="answer" data-correct="data-correct">Розрядити.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Відкрити рушницю.</section>
+        <section class="answer">Поставити рушницю на запобіжник.</section>
+        <section class="answer">Взяти рушницю на плече.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="120">
+    <section class="question" number="120">
         <section class="text">
             Як повинен себе вести мисливець на номері при проведенні облавного полювання у випадку, якщо ним була добута дичина?
         </section>
-        <section class="answer" data-correct="data-correct">Стояти на місці.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Дочекатися кінця загінки.</section>
+        <section class="answer">Одразу іти, але попередити сусіда по номеру.</section>
+        <section class="answer">Одразу ж іти за дичиною.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.13. Підходити до вбитої чи пораненої тварини до закінчення облави категорично забороняється. Це можливо після закінчення облави і тільки з дозволу розпорядника полювання.
         </section>
     </section>
     <section class="question not-ready" number="121">
