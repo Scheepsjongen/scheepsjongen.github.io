@@ -2219,59 +2219,56 @@
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="181">
+    <section class="question" number="181">
         <section class="text">
             В який період року зубр скидає роги?
         </section>
         <section class="answer" data-correct="data-correct">Не скидає.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Восени.</section>
+        <section class="answer">Взимку.</section>
+        <section class="answer">Влітку.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="182">
+    <section class="question" number="182">
         <section class="text">
             Хто знаходиться на чолі стада зубрів?
         </section>
-        <section class="answer" data-correct="data-correct">Самиця.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Стара самка.</section>
+        <section class="answer">Сильний самець.</section>
+        <section class="answer">Старий самець.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="183">
+    <section class="question" number="183">
         <section class="text">
             З якою періодичністю самка зубра приводить потомство?
         </section>
-        <section class="answer" data-correct="data-correct">Раз на 2 роки.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Раз в 3-4 роки.</section>
+        <section class="answer">Раз в 2-3 роки.</section>
+        <section class="answer">Раз в 4-5 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="184">
+    <section class="question" number="184">
         <section class="text">
             Коли проходить гін у лося?
         </section>
-        <section class="answer" data-correct="data-correct">Серпень-вересень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">В серпні-вересні.</section>
+        <section class="answer">В липні-серпні.</section>
+        <section class="answer">В вересні-жовтні.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="185">
+    <section class="question" number="185">
         <section class="text">
             В який період року лось втрачає роги?
         </section>
         <section class="answer" data-correct="data-correct">Листопад-січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Серпень-жовтень.</section>
+        <section class="answer">Лютий-березень.</section>
+        <section class="answer">Коли досягне 5-річного віку.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question not-ready" number="186">
@@ -2285,48 +2282,44 @@
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="187">
+    <section class="question" number="187">
         <section class="text">
             Скільки лосенят щорічно народжує стара лосиха?
         </section>
-        <section class="answer" data-correct="data-correct">1-2.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Найчастіше 2.</section>
+        <section class="answer">Найчастіше 1.</section>
+        <section class="answer">Найчастіше 3.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="188">
+    <section class="question" number="188">
         <section class="text">
             Яка середня вага дорослого самця оленя європейського?
         </section>
-        <section class="answer" data-correct="data-correct">100-160.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">100 - 160 кг.</section>
+        <section class="answer">140 - 200 кг.</section>
+        <section class="answer">120 - 180 кг.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="189">
+    <section class="question" number="189">
         <section class="text">
             Коли проходить гін у оленя європейського?
         </section>
         <section class="answer" data-correct="data-correct">Вересень-жовтень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Червень-липень.</section>
+        <section class="answer">Грудень-січень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="190">
+    <section class="question" number="190">
         <section class="text">
             Коли олень європейський скидає роги?
         </section>
-        <section class="answer" data-correct="data-correct">Лютий-березень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Щорічно у лютому-березні.</section>
+        <section class="answer">Коли досягне 7-річного віку.</section>
+        <section class="answer">Щорічно у січні.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question not-ready" number="191">
