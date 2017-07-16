@@ -2112,92 +2112,89 @@
         <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="171">
+    <section class="question" number="171">
         <section class="text">
             Яке основне застосування на полюванні спанієлів?
         </section>
-        <section class="answer" data-correct="data-correct">Полювання по водоплавній, болотній та лісовій дичині. Знімає дичину на крило та потім подає трофеї.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Вигон пернатої дичини під постріл мисливця, та пошук підранків.</section>
+        <section class="answer">Робота по пернатій дичині зі стойкою.</section>
+        <section class="answer">Загонне полювання на зайця.</section>
+        <section class="description TODO">
+            Полювання по водоплавній, болотній та лісовій дичині. Знімає дичину на крило та потім подає трофеї.
         </section>
     </section>
-    <section class="question not-ready" number="172">
+    <section class="question" number="172">
         <section class="text">
             Чи можна притягти мисливця до адміністративної відповідальності за знаходження в угіддях без зброї зі спущеним з повідка собакою мисливської породи?
         </section>
-        <section class="answer" data-correct="data-correct">Так.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Можна, коли у мисливця не має відповідних документів на право полювання та паспорту на собаку, з допуском до полювання в поточному році.</section>
+        <section class="answer">Не можна ні в якому разі.</section>
+        <section class="answer">Можна, коли собака нанесла збитки мисливській фауні.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="173">
+    <section class="question" number="173">
         <section class="text">
             Що повинен зробити мисливець зустрівши мисливського собаку без господаря в населеному пункті або в угіддях?
         </section>
-        <section class="answer" data-correct="data-correct">Відловлюються, про що письмово повідомляються районні та обласні організації, які провадять реєстрацію відповідних порід собак. Відловлені собаки залишаються у користувача мисливських угідь, де вони були відловлені, або в особи, яка їх відловила та утримує.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Зловити його і повідомити про це товариство мисливців, користувача мисливських угідь.</section>
+        <section class="answer">Зловити і знайти господаря.</section>
+        <section class="answer">Залишити без уваги.</section>
+        <section class="answer">Зловити і здати в прийомник для тварин.</section>
+        <section class="description TODO">
+            Відловлюються, про що письмово повідомляються районні та обласні організації, які провадять реєстрацію відповідних порід собак. Відловлені собаки залишаються у користувача мисливських угідь, де вони були відловлені, або в особи, яка їх відловила та утримує.
         </section>
     </section>
-    <section class="question not-ready" number="174">
+    <section class="question" number="174">
         <section class="text">
             На які види тварин проводиться полювання з лягавою собакою?
         </section>
-        <section class="answer" data-correct="data-correct">На пахів.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">На мисливських птахів.</section>
+        <section class="answer">На хутрових звірів.</section>
+        <section class="answer">На копитних тварин.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="175">
+    <section class="question" number="175">
         <section class="text">
             На які види тварин проводиться полювання з гончою собакою?
         </section>
-        <section class="answer" data-correct="data-correct">Копитних, хутрових.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">На на зайця та лисицю.</section>
+        <section class="answer">На мисливських птахів.</section>
+        <section class="answer">На копитних тварин.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready not-ready" number="176">
+    <section class="question" number="176">
         <section class="text">
             Чи дозволяється натаскування собак в закритий для полювання час?
         </section>
-        <section class="answer" data-correct="data-correct">Ні. Лише в спеціально відведених місцях.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Проводиться у встановленому порядку в спеціально відведених місцях.</section>
+        <section class="answer">Дозволяється тільки в зеленій зоні.</section>
+        <section class="answer">Забороняється.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="177">
+    <section class="question" number="177">
         <section class="text">
             Який документ дає право мисливцю використовувати на полюванні мисливського собаку?
         </section>
-        <section class="answer" data-correct="data-correct">Паспорт з відміткою про допуск до полювання у поточному році.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Паспорт з фотографією собаки та допуском до полювання в поточному році.</section>
+        <section class="answer">Родовід.</section>
+        <section class="answer">Ветеринарне свідотство.</section>
+        <section class="answer">Фотографія собаки поруч з господаркем.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="178">
+    <section class="question" number="178">
         <section class="text">
             Що таке бонітування мисливських собак?
         </section>
-        <section class="answer" data-correct="data-correct">Комплексна оцінка якостей собаки: мисливські дипломи, екстер'єр, походження, наявність потомства.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Комплексна оцінка якостей для всіх мисливських собак.</section>
+        <section class="answer">Нагородження дипломом після виставки мисливських собак.</section>
+        <section class="answer">Спеціальна підготовка мисливських собак для полювання на копитних тварин.</section>
+        <section class="description TODO">
+            Комплексна оцінка якостей собаки: мисливські дипломи, екстер'єр, походження, наявність потомства.
         </section>
     </section>
     <section class="question not-ready" number="179">
@@ -2205,8 +2202,8 @@
             Хто затверджує правила проведення натаскування, наганяння, протравлювання та польові випробування мисливських собак?
         </section>
         <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Громадською мисливською організацією.</section>
+        <section class="answer">Кінологічними секціями а областях.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
