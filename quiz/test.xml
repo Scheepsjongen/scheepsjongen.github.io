@@ -1535,121 +1535,117 @@
             2.13. Підходити до вбитої чи пораненої тварини до закінчення облави категорично забороняється. Це можливо після закінчення облави і тільки з дозволу розпорядника полювання.
         </section>
     </section>
-    <section class="question not-ready" number="121">
+    <section class="question" number="121">
         <section class="text">
             Чи дозволяється стріляти по звіру, що виходить на чужий номер?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">Не дозволяється.</section>
+        <section class="answer">Дозволяється.</section>
+        <section class="answer" data-correct="data-correct">Дозволяється після того, коли мисливець, на якого іде звір зробив два постріли, а звір продовжує бігти.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="122">
+    <section class="question" number="122">
         <section class="text">
             Що повинен зробити керівник колективного полювання, коли один із мисливців знаходиться в нетверезому стані?
         </section>
-        <section class="answer" data-correct="data-correct">Вилучити його з полювання.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Звільнити його від участі в полюванні.</section>
+        <section class="answer">Дозволити далі брати участь у полюванні, але без зброї.</section>
+        <section class="answer">Заборонити взагалі полювати в цей день.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
+            2.14. Категорично забороняється перед полюванням і під час його проведення вживати спиртні напої. Особи в нетверезому стані до полювання не допускаються.<br />
+            2.15. Розпорядник полювання стежить за точним виконанням учасниками полювання порядку облави і правил безпеки, робить необхідні вказівки, організовує переслідування і добір пораненої тварини, має право заборонити у разі порушення особою правил полювання подальшу участь в полюванні, вирішує інші організаційні питання, що виникають під час полювання, а також відповідає за дотриманням мисливцями вимог цього Положення.<br />
+            2.16. Рішення розпорядника полювання, прийняті відповідно до вимог цього Положення, є обов'язковими і виконуються всіма учасниками полювання.<br />
         </section>
     </section>
-    <section class="question not-ready" number="123">
+    <section class="question" number="123">
         <section class="text">
             Чи можна мисливцю, який не вміє плавати, полювати на пернату дичину з човна?
         </section>
-        <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Не можна.</section>
+        <section class="answer">Можна.</section>
+        <section class="answer">Не можна, якщо глибина водойми перевищує зріст людини.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="124">
+    <section class="question" number="124">
         <section class="text">
             Кому дозволяється переслідувати підранка дорослого кабана?
         </section>
-        <section class="answer" data-correct="data-correct">Кількість мисливців не обмежена, добір 2-3 найбільш досвідчених.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">2 мисливцям з собаками.</section>
+        <section class="answer">Одному досвідченому мисливцю.</section>
+        <section class="answer">Кількість мисливців не обмежується.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="125">
+    <section class="question" number="125">
         <section class="text">
             За якими ознаками визначають, що копитна тварина жива після пострілу?
         </section>
-        <section class="answer" data-correct="data-correct">Стоїть шерсть, вуха.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Вуха щільно притиснуті до голови, шерсть на загривку та спині піднята.</section>
+        <section class="answer">Очі відкриті, ноги притиснуті до тулуба.</section>
+        <section class="answer">Тварина лежить на животі, ноги притиснуті до тулуба.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="126">
+    <section class="question" number="126">
         <section class="text">
             З якої сторони треба підходити до лежачого пораненого звіра?
         </section>
-        <section class="answer" data-correct="data-correct">Зі спини.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">З заду.</section>
+        <section class="answer">Спереду.</section>
+        <section class="answer">Збоку.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="127">
+    <section class="question" number="127">
         <section class="text">
             В якому випадку потрібно добивати поранену тварину прикладом зброї?
         </section>
-        <section class="answer" data-correct="data-correct">Ніколи.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Це робити суворо заборонено.</section>
+        <section class="answer">Коли в мисливця немає патронів.</section>
+        <section class="answer">Коли поранена тварина може зникнути під час перезаряджання зброї.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="128">
+    <section class="question" number="128">
         <section class="text">
             На що вказують лишайники на стовбурах дерев та на кам'яних брилах?
         </section>
         <section class="answer">На те, що останні роки були дощовими.</section>
-        <section class="answer">На відсутність звірів, інакше вони би з'їли їх.</section>
+        <section class="answer">На Південь.</section>
+        <section class="answer">На Захід.</section>
         <section class="answer" data-correct="data-correct">На Північ.</section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="129">
+    <section class="question" number="129">
         <section class="text">
             Які набої повинен використовувати мисливець, якщо довжина патронника його рушниці становить 70 мм?
         </section>
-        <section class="answer" data-correct="data-correct">До 70 мм включно.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">Набої з довжиною гільзи до 70 мм включно.</section>
+        <section class="answer" data-correct="data-correct">Набої з довжиною гільзи 70 мм.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="130">
+    <section class="question" number="130">
         <section class="text">
             З якого дульного звуження не дозволяється стріляти кулею, картеччю та крупним номером шроту?
         </section>
         <section class="answer" data-correct="data-correct">Сильний чок.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer">Чок.</section>
+        <section class="answer">Раструб.</section>
+        <section class="answer">Циліндр.</section>
+        <section class="description TODO">
         </section>
     </section>
     <section class="question not-ready" number="131">
         <section class="text">
             Які гільзи не можна використовувати в самозарядних напівавтоматичних рушницях?
         </section>
-        <section class="answer" data-correct="data-correct">Металічні.</section>
+        <section class="answer" data-correct="data-correct">Металеві.</section>
         <section class="answer"></section>
         <section class="answer"></section>
         <section class="description">
