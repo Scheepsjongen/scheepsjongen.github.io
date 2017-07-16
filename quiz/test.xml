@@ -1892,125 +1892,112 @@
         <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="151">
+    <section class="question" number="151">
         <section class="text">
             В якій послідовності необхідно надати першу медичну допомогу потерпілому, якщо у нього зупинилось серце?
         </section>
-        <section class="answer" data-correct="data-correct">Кладуть на спину на тверде, видаляють з рота слиз, кров, землю, інше, розстібнути комір та пояс, під лопатки валик з одягу, рот прикривають марлею, після кожних 4 натискань - 1 вдування повітря. За хвилину 48 стискань і 12 вдувань.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Звільнення дихальних шляхів, штучна вентиляція легень, зовнішній масаж серця.</section>
+        <section class="answer">Зовнішній масаж серця, звільнення дихальних шляхів.</section>
+        <section class="answer">Штучна вентиляція легень, зовнішній масаж серця.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="152">
+    <section class="question" number="152">
         <section class="text">
             Що необхідно зробити для надання першої допомоги при пошкодженні хребта?
         </section>
-        <section class="answer" data-correct="data-correct">Транспортувати в положенні на животі, підклавши під груди валик з одягу, якщо на спині то тільки на жорсткій основі.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Покласти потерпілого на спину на тверду рівну поверхню, підкласти валики під шию і поясницю.</section>
+        <section class="answer">Накласти пов'язку на грудну клітину, підкласти потерпілому валик під спину ,щоб він прийняв напівсидячи положення.</section>
+        <section class="answer">Покласти потерпілого на бік.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="153">
+    <section class="question" number="153">
         <section class="text">
             Як правильно застосовувати бактерицидні серветки?
         </section>
-        <section class="answer" data-correct="data-correct">Промити рану, накласти серветку.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">На рану накласти бактерицидну пов’язку, зафіксувавши її лейкопластирем чи бинтом.</section>
+        <section class="answer">Промити рану, видалити інородці тіла, накласти бактерицидну пов’язку.</section>
+        <section class="answer">Обробити рану розчином йоду, накласти бактерицидну пов’язку.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="154">
+    <section class="question" number="154">
         <section class="text">
             Як правильно застосовувати розчин йоду в якості дезінфікуючого засобу?
         </section>
-        <section class="answer" data-correct="data-correct">Змащують навколо рани.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Змазати тільки край рани і шкіру навколо неї.</section>
+        <section class="answer">Змазати всю поверхню рани.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="155">
+    <section class="question" number="155">
         <section class="text">
             Що необхідно зробити для надання першої медичної допомоги потерпілому при переломі плеча?
         </section>
-        <section class="answer" data-correct="data-correct">При накладенні пов'язки згинають руку в ліктьовому суглобі. Плече обережно витягають по довжині, уникаючи рухів і перегинів у місці ушкодження. Накладають шину по задньо-зовнішньої поверхні плеча, захоплюючи плечовий, ліктьовий і зап'ястний суглоби. Шину (краще дротова або з фанери) закріплюють бинтами або хустками. Руку підвішують на косинку або прибинтовують разом із шиною до тулуба. Постраждалого можна транспортувати в положенні сидячи.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Накласти дві шини з внутрішньої і зовнішньої сторін плеча, підкласти валик із м’якої тканини під пахву і зафіксувати руку у зігнутому положенні косинковою пов’язкою.</section>
+        <section class="answer">Туго прибинтувати руку до тулуба, накласти шину із зовнішньої сторони плеча.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="156">
+    <section class="question" number="156">
         <section class="text">
             Як накласти шину при переломі кісток гомілки?
         </section>
-        <section class="answer" data-correct="data-correct">Накласти шину, яка буде захоплювати гомілковостопний і колінний суглоби.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Накласти 2 шини із зовнішньої і внутрішньої сторін, сторін ноги від кінця стопи до середини бедра.</section>
+        <section class="answer">Накласти шину з внутрішньої сторони ноги, від кінця стопи до тазобедренного сустава.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="157">
+    <section class="question" number="157">
         <section class="text">
             В якому положенні необхідно транспортувати потерпілого з переломами ребер і грудної клітини?
         </section>
-        <section class="answer" data-correct="data-correct">Сидячі.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">В сидячому чи напівсидячому положенні.</section>
+        <section class="answer">Лежачи на боку.</section>
+        <section class="answer">Лежачи на спині.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="158">
+    <section class="question" number="158">
         <section class="text">
             Що необхідно зробити для припинення артеріальної чи венозної кровотечі із кінцівок?
         </section>
-        <section class="answer" data-correct="data-correct">Накласти джут або давлючу пов'язку.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Накласти стискаючу пов’язку вище місця пошкодження.</section>
+        <section class="answer">Накласти стискаючу пов’язку нижче місця пошкодження.</section>
+        <section class="answer">Накласти стискаючу пов’язку на місце пошкодження.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="159">
+    <section class="question" number="159">
         <section class="text">
             В який момент слід закінчити затягування джгута при кровотечі з кінцівок?
         </section>
-        <section class="answer" data-correct="data-correct">В момент зникнення пульсу.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">З моменту припинення кровотечі.</section>
+        <section class="answer">З початку вдавлювання жгута в тіло.</section>
+        <section class="answer">При больовому реагуванні потерпілого.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="160">
+    <section class="question" number="160">
         <section class="text">
             Які характерні ознаки струсу мозку?
         </section>
-        <section class="answer" data-correct="data-correct">Утрата свідомості в момент ушкодження хоча б на короткий термін, наступна блювота, запаморочення, головний біль.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Головний біль, тошнота, рвота, втрата свідомості.</section>
+        <section class="answer">Сонливість, в’ялість, бліда шкіра, прискорення пульсу і дихання.</section>
+        <section class="answer">Збуджений стан, почервоніння шкіри, підвищенне слиновиділення, потемніння в очах.</section>
+        <section class="description TODO">
         </section>
     </section>
-    <section class="question not-ready" number="161">
+    <section class="question" number="161">
         <section class="text">
             Що необхідно робити при укусі гадюки?
         </section>
-        <section class="answer" data-correct="data-correct">Використати специфічні сироватки, перетяжку кінцівки краще не робити, висмоктувати кров з рани також, можливо використання місцевих примочок з марганцівки.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+        <section class="answer" data-correct="data-correct">Дати потерпілому багато рідини, застосувати сироватку.</section>
+        <section class="answer">Висмоктати кров з рани та перетягнути кінцівку.</section>
+        <section class="answer">Попередньо перетягнувши кінцівку, зробити розріз в місці укусу та спустити кров.</section>
+        <section class="description TODO">
+            Використати специфічні сироватки, перетяжку кінцівки краще не робити, висмоктувати кров з рани також, можливо використання місцевих примочок з марганцівки.
         </section>
     </section>
     <section class="question not-ready" number="162">
