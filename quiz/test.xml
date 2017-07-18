@@ -614,18 +614,25 @@
             This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="51">
+    <section class="question" number="51">
         <section class="text">
             Яка відповідальність настає за добування чорного грифа?
         </section>
-        <section class="answer" data-correct="data-correct">Кримінальна. Ст. 248-1 Кодексу. Штраф до ста неоподатковуваних мінімумів доходів громадян. Громадськими роботами на строк від ста шістдесяти до двохсот сорока годин. Обмеженням волі на строк до трьох років, з конфіскацією знарядь і засобів полювання та всього добутого.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Штрафом від 100 до 200 неоподатковуваних мінімумів доходів громадян або громадськими роботами на строк від 160 до 240 годин, або обмеженням волі на строк до 3 років.</section>
+        <section class="answer">Штрафом до 240 неоподатковуваних мінімумів доходів громадян або громадськими роботами на строк від до 280 годин, або обмеженням волі на строк до 3 років.</section>
+        <section class="answer">Штрафом від 60 до 160 неоподатковуваних мінімумів доходів громадян або громадськими роботами на строк від 80 до 200 годин, або обмеженням волі на строк до 3 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D1%84_%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9">Гриф чорний (wiki)</a><br />
+            <a href="http://redbook-ua.org/item/aegypius-monachus-linnaeus/">Гриф чорний (redbook)</a><br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/3055-14">ЗАКОН УКРАЇНИ Про Червону книгу України</a>
+            <hr />
+            КРИМІНАЛЬНИЙ КОДЕКС УКРАЇНИ<br />
+            <a href="http://zakon5.rada.gov.ua/laws/show/2341-14/page8#n1661">Стаття 248. Незаконне полювання</a><br />
+            1. Порушення правил полювання, якщо воно заподіяло істотну шкоду, а також незаконне полювання в заповідниках або на інших територіях та об'єктах природно-заповідного фонду, або полювання на звірів, птахів чи інші види тваринного світу, що занесені до Червоної книги України, -<br />
+            караються штрафом від ста до двохсот неоподатковуваних мінімумів доходів громадян або громадськими роботами на строк від ста шістдесяти до двохсот сорока годин, або обмеженням волі на строк до трьох років.
         </section>
     </section>
-    <section class="question not-ready" number="52">
+    <section class="question" number="52">
         <section class="text">
             Які права мають посадові особи спеціально уповноважених державних органів виконавчої влади, що здійснюють державне управління і контроль в сфері охорони, використання і відтворення тваринного світу?
         </section>
@@ -646,95 +653,120 @@
         <section class="answer" data-correct="data-correct">15) на стимулювання та матеріально-технічне забезпечення діяльності в установленому законодавством порядку;</section>
         <section class="answer" data-correct="data-correct">16) виконувати інші дії відповідно до законодавства про охорону навколишнього природного середовища і про тваринний світ.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            TODO: які варіанти відповіді в тесті?
+            <hr />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon3.rada.gov.ua/laws/show/1478-14/page2#o415">Стаття 39. Права працівників, уповноважених здійснювати контроль у галузі мисливського господарства та полювання</a>
         </section>
     </section>
-    <section class="question not-ready" number="53">
+    <section class="question" number="53">
         <section class="text">
             Чи дозволяється полювання в угіддях не зазначених у відстрільній картці або ліцензії?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Лише в сусідніх.</section>
+        <section class="answer">Лише з дозволу єгеря.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            2) полювання в заборонених для цього місцях, а саме:<br />
+            в угіддях, не зазначених у дозволі;
         </section>
     </section>
-    <section class="question not-ready" number="54">
+    <section class="question" number="54">
         <section class="text">
             Чи дозволяється використовувати на полюванні петлі чи ловчі ями?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Можна використовувати петлі на зайця.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            4) полювання із застосуванням або використанням заборонених знарядь та забороненими способами, а саме:<br />
+            клеїв, петель, капканів, підрізів, закотів, гачків, самострілів, ловчих ям;
         </section>
     </section>
-    <section class="question not-ready" number="55">
+    <section class="question" number="55">
         <section class="text">
             Чи дозволяється використовувати на полюванні звуковідтворюючі прилади і пристрої?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Так.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            4) полювання із застосуванням або використанням заборонених знарядь та забороненими способами, а саме:<br />
+            звуковідтворювальних приладів та пристроїв;
         </section>
     </section>
-    <section class="question not-ready" number="56">
+    <section class="question" number="56">
         <section class="text">
             Чи дозволяється полювання з приладом нічного бачення?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Так.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            4) полювання із застосуванням або використанням заборонених знарядь та забороненими способами, а саме:<br />
+            штучних світлових джерел, приладів та пристроїв для підсвічування мішеней, у тому числі приладів нічного бачення;
         </section>
     </section>
-    <section class="question not-ready" number="57">
+    <section class="question" number="57">
         <section class="text">
             Чи дозволяється полювати з нарізним вкладишем, вкладеним у гладкоствольну мисливську зброю?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Так.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            4) полювання із застосуванням або використанням заборонених знарядь та забороненими способами, а саме:<br />
+            немисливської (у тому числі військової) вогнепальної, пневматичної та іншої стрілецької зброї, а також нарізних вкладок, напівавтоматичної або автоматичної зброї з магазинами більш як на два патрони;
         </section>
     </section>
-    <section class="question not-ready" number="58">
+    <section class="question" number="58">
         <section class="text">
             Чи дозволяється транспортування, перенесення добутої дичини чи її частин без відмітки цього факту в дозволі на її добування?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Так.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            5) транспортування або перенесення добутих тварин чи їх частин без відмітки цього факту у щорічній контрольній картці обліку добутої дичини і порушень правил полювання, а також у дозволі на їх добування;
         </section>
     </section>
-    <section class="question not-ready" number="59">
+    <section class="question" number="59">
         <section class="text">
             Ви знайшли скинуті роги лані, оленя, козулі, лося чи травмовану тварину. Які ваші дії?
         </section>
         <section class="answer" data-correct="data-correct">Віддати користувачу угідь.</section>
-        <section class="answer"></section>
+        <section class="answer">Забрати собі.</section>
         <section class="answer"></section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            З метою раціонального використання мисливських тварин, охорони диких тварин, а також середовища їх перебування забороняється:<br />
+            9) збирання яєць птахів, загиблих мисливських птахів, самовільне привласнення знайдених в угіддях загиблих мисливських тварин або їх частин, руйнування, нищення або псування штучних гніздищ, солонців, годівниць для звірів і птахів, посівів кормових рослин, мисливських вишок, вказівних знаків, відповідних вивісок та інших атрибутів мисливського господарства.
         </section>
     </section>
-    <section class="question not-ready" number="60">
+    <section class="question" number="60">
         <section class="text">
             Як кваліфікувати продукцію полювання (у тому числі трофейну) без документів, що засвідчують законність її придбання?
         </section>
         <section class="answer" data-correct="data-correct">Як незаконно добуту.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Ніяк.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
+            <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
+            Виявлені тварини (або їх частини) та знаряддя добування таких тварин, законність набуття яких не підтверджена відповідними документами, вважаються незаконно добутими.
         </section>
     </section>
     <section class="question" number="61">
