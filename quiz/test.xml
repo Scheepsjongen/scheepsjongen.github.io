@@ -2423,18 +2423,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="201">
+    <section class="question" number="201">
         <section class="text">
             Коли проходить гін у кабанів?
         </section>
         <section class="answer" data-correct="data-correct">Листопад-січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Липень-вересень.</section>
+        <section class="answer">Серпень-жовтень.</section>
+        <section class="answer">Вересень-листопад.</section>
+        <section class="answer">Жовтень-грудень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="202">
+    <section class="question" number="202">
         <section class="text">
             До якої вікової групи належить кабан зі смугастим забарвленням?
         </section>
@@ -2442,21 +2443,20 @@
         <section class="answer">1 рік.</section>
         <section class="answer">До 2 років.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="203">
+    <section class="question" number="203">
         <section class="text">
             На який місяць припадає масовий опорос кабана?
         </section>
         <section class="answer" data-correct="data-correct">Березень-квітень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Лютий-березень.</section>
+        <section class="answer">Квітень-травень.</section>
+        <section class="answer">Травень-червень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="204">
+    <section class="question" number="204">
         <section class="text">
             Скільки поросят найчастіше народжує самка кабана?
         </section>
@@ -2464,73 +2464,68 @@
         <section class="answer" data-correct="data-correct">5-6.</section>
         <section class="answer">5-8.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="205">
+    <section class="question" number="205">
         <section class="text">
             Коли починається парування у лисиць?
         </section>
-        <section class="answer" data-correct="data-correct">Лютий.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Лютий-березень.</section>
+        <section class="answer">Вересень-жовтень.</section>
+        <section class="answer">Листопад-грудень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            Лютий.
         </section>
     </section>
-    <section class="question not-ready" number="206">
+    <section class="question" number="206">
         <section class="text">
             Коли лисиця народжує дитинчат?
         </section>
         <section class="answer" data-correct="data-correct">Кінець березня-квітень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Квітень-травень.</section>
+        <section class="answer">На початку червня.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="207">
+    <section class="question" number="207">
         <section class="text">
             Яка кількість приплодів на рік може бути у лисиці?
         </section>
         <section class="answer" data-correct="data-correct">Один.</section>
         <section class="answer">Півтора.</section>
         <section class="answer">Два.</section>
+        <section class="answer">Три.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="208">
+    <section class="question" number="208">
         <section class="text">
             Скільки дитинчат може бути у лисиці в одному приплоді?
         </section>
         <section class="answer" data-correct="data-correct">4-5 до 12.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">1-2.</section>
+        <section class="answer">15-18.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="209">
+    <section class="question" number="209">
         <section class="text">
             Розповсюдником яких хвороб є лисиця?
         </section>
         <section class="answer" data-correct="data-correct">Сказ.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Ящура.</section>
+        <section class="answer">Бруцельозу.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="210">
+    <section class="question" number="210">
         <section class="text">
             Вкажіть кількість окотів у зайця-русака на протязі року?
         </section>
         <section class="answer" data-correct="data-correct">3-4.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">1-2.</section>
+        <section class="answer">5-6.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question not-ready" number="211">
