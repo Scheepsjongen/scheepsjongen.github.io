@@ -2641,103 +2641,101 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="222">
+    <section class="question" number="222">
         <section class="text">
             Який з перерахованих мисливських видів куликів (вальдшнеп, дупель чи бекас) є найбільший по вазі?
         </section>
         <section class="answer" data-correct="data-correct">Вальдшнеп.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Дупель.</section>
+        <section class="answer">Бекас.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="223">
+    <section class="question" number="223">
         <section class="text">
             Вкажіть особливості гніздування рябчика?
         </section>
-        <section class="answer" data-correct="data-correct">Роблять гнізда на землі під пеньками, хмизом, кореневими лапами, вистелють мохом, листям, стеблами трав.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Роблять гнізда на землі.</section>
+        <section class="answer">Не роблять гнізда.</section>
+        <section class="answer">Роблять гнізда на дереві.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            Роблять гнізда на землі під пеньками, хмизом, кореневими лапами, вистелють мохом, листям, стеблами трав.
         </section>
     </section>
-    <section class="question not-ready" number="224">
+    <section class="question" number="224">
         <section class="text">
             Який з мисливських птахів із ряду куриних зимує на півдні?
         </section>
         <section class="answer" data-correct="data-correct">Перепел.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Сіра куріпка.</section>
+        <section class="answer">Тетерук.</section>
+        <section class="answer">Глухар.</section>
+        <section class="answer">Всі.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D1%96%D0%BB%D0%BA%D0%B0">Перепілка (wiki)</a>
         </section>
     </section>
-    <section class="question not-ready" number="225">
+    <section class="question" number="225">
         <section class="text">
             Які особливості гніздування глухаря?
         </section>
-        <section class="answer" data-correct="data-correct">Влаштовує самка під пеньками, великими брилами каміння, у кущах, невеликих заглибинах і вимощується сухим мохом, листям, тонкими гілками.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Роблять гнізда на землі.</section>
+        <section class="answer">Не роблять гнізда.</section>
+        <section class="answer">Роблять гнізда на дереві.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            Влаштовує самка під пеньками, великими брилами каміння, у кущах, невеликих заглибинах і вимощується сухим мохом, листям, тонкими гілками.
         </section>
     </section>
-    <section class="question not-ready" number="226">
+    <section class="question" number="226">
         <section class="text">
             Характерні особливості гніздування тетерука.
         </section>
-        <section class="answer" data-correct="data-correct">На землі у невеликих виїмках, під поваленими деревами, камінням, пеньками і вимощують сухим мохом, листям, тонкими гілками.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Роблять гнізда на землі.</section>
+        <section class="answer">Не роблять гнізда.</section>
+        <section class="answer">Роблять гнізда на дереві.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            На землі у невеликих виїмках, під поваленими деревами, камінням, пеньками і вимощують сухим мохом, листям, тонкими гілками.
         </section>
     </section>
-    <section class="question not-ready" number="227">
+    <section class="question" number="227">
         <section class="text">
             Який вид голубів гніздиться в дуплах та скелях?
         </section>
         <section class="answer" data-correct="data-correct">Голуб-синяк.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Горлиця кі́льчаста.</section>
+        <section class="answer">Припутень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="228">
+    <section class="question" number="228">
         <section class="text">
             Назвіть період вилуплювання пташенят сірої куріпки.
         </section>
         <section class="answer" data-correct="data-correct">З тижні (червень-липень).</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">2 тижні (липень-серпень).</section>
+        <section class="answer">4 тижні (травень-червень).</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%96%D0%BF%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0">Куріпка сіра (wiki)</a>
         </section>
     </section>
-    <section class="question not-ready" number="229">
+    <section class="question" number="229">
         <section class="text">
             Особливості живлення молодих куріпок до 3-тижневого віку?
         </section>
         <section class="answer" data-correct="data-correct">Можуть їсти тільки комах.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Можуть їсти тільки насіння.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="230">
+    <section class="question" number="230">
         <section class="text">
             Скільки днів крижень висиджує пташенят?
         </section>
-        <section class="answer" data-correct="data-correct">26-27.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">26-27 днів.</section>
+        <section class="answer">21 день.</section>
+        <section class="answer">20-24 дні.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B6%D0%B5%D0%BD%D1%8C">Крижень (wiki)</a>
         </section>
     </section>
     <section class="question not-ready" number="231">
