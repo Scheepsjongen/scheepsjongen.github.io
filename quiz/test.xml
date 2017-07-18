@@ -531,8 +531,8 @@
             Чи дозволяється подальше проведення полювання, якщо заявлена в ліцензії копитна тварина добута в першому загоні?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Лише один додатковий загін.</section>
+        <section class="answer">Так.</section>
         <section class="description">
             This is an answer description with a <a href="#">link</a>.
         </section>
@@ -1371,11 +1371,12 @@
         <section class="text">
             Що зобов'язаний зробити мисливець після "затяжного пострілу" слабкого за звуком?
         </section>
-        <section class="answer" data-correct="data-correct">Зачекати 7-8 секунд.</section>
         <section class="answer">Зарядити рушницю і зробити другий постріл.</section>
         <section class="answer">Зарядити рушницю і продовжити полювання.</section>
-        <section class="answer">Розрядити рушницю і перевірити чи не залишилося в каналі ствола клейтуха, прокладки або частини розірваної гільзи.</section>
+        <section class="answer" data-correct="data-correct">Розрядити рушницю і перевірити чи не залишилося в каналі ствола клейтуха, прокладки або частини розірваної гільзи.</section>
         <section class="description">
+            TODO: выстрел уже произошел
+            <br /><br />
             ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
             <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
             3.11. Під час стрільби при осічці мисливець не повинен відкривати рушницю раніше ніж через сім-вісім секунд.
