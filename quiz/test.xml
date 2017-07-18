@@ -1640,9 +1640,9 @@
         <section class="text">
             Які набої повинен використовувати мисливець, якщо довжина патронника його рушниці становить 70 мм?
         </section>
-        <section class="answer">Набої з довжиною гільзи до 70 мм включно.</section>
-        <section class="answer" data-correct="data-correct">Набої з довжиною гільзи 70 мм.</section>
-        <section class="description TODO">
+        <section class="answer" data-correct="data-correct">Набої з довжиною гільзи до 70 мм включно.</section>
+        <section class="answer">Тільки набої з довжиною гільзи 70 мм.</section>
+        <section class="description">
         </section>
     </section>
     <section class="question" number="130">
