@@ -2528,106 +2528,100 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="211">
+    <section class="question" number="211">
         <section class="text">
             Скільки дитинчат в середньому народжується в одному приплоді зайця-русака?
         </section>
-        <section class="answer" data-correct="data-correct">2-4.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">2-4, до 6 зайченят.</section>
+        <section class="answer">Близько 10 зайченят.</section>
+        <section class="answer">Близько 15 зайченят.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="212">
+    <section class="question" number="212">
         <section class="text">
             Чи влаштовує зайчиха спеціальні укриття для народження дитинчат?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Знаходить нору.</section>
+        <section class="answer">Робить гніздо з пуху.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="213">
+    <section class="question" number="213">
         <section class="text">
             Чи здатні зайченята самостійно харчуватись після народження?
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Так.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="214">
+    <section class="question" number="214">
         <section class="text">
             Що робити мисливцю, який знайшов новонароджене зайченя?
         </section>
         <section class="answer" data-correct="data-correct">Залишити на місці.</section>
         <section class="answer">Накрити гілочками.</section>
-        <section class="answer">Забрати.</section>
+        <section class="answer">Забрати додому.</section>
+        <section class="answer">Спробувати знайти зайчиху.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="215">
+    <section class="question" number="215">
         <section class="text">
             Що таке туляремія?
         </section>
-        <section class="answer" data-correct="data-correct">Гостре інфекційне захворювання, яке супроводжується гарячкою й ураженням внутрішніх органів. Переносники - гризуни.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Інфекційне захворювання тварин і людей.</section>
+        <section class="answer">Вакцина проти інфекційних захворювань тварин.</section>
+        <section class="answer">Біотехнічне обладнання.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            Гостре інфекційне захворювання, яке супроводжується гарячкою й ураженням внутрішніх органів. Переносники - гризуни.
         </section>
     </section>
-    <section class="question not-ready" number="216">
+    <section class="question" number="216">
         <section class="text">
             Вкажіть період, коли проходить парування вовків.
         </section>
-        <section class="answer" data-correct="data-correct">Грудень-січень.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Січень-березень.</section>
+        <section class="answer">Вересень-жовтень.</section>
+        <section class="answer">Листопад-грудень.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="217">
+    <section class="question" number="217">
         <section class="text">
             Скільки приплодів на рік може привести самка вовка?
         </section>
         <section class="answer" data-correct="data-correct">Один.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Два.</section>
+        <section class="answer">Три.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="218">
+    <section class="question" number="218">
         <section class="text">
             Які основні особливості розмноження вовків?
         </section>
         <section class="answer" data-correct="data-correct">Моногамні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="219">
+    <section class="question" number="219">
         <section class="text">
             Які з перелічених видів птахів (рябчик, сіра куріпка, вальдшнеп) є перелітними?
         </section>
         <section class="answer" data-correct="data-correct">Вальдшнеп.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Рябчик.</section>
+        <section class="answer">Сіра куріпка.</section>
+        <section class="answer">Усі.</section>
+        <section class="answer">Рябчик та вальдшнеп.</section>
+        <section class="answer">Рябчик та сіра куріпка.</section>
+        <section class="answer">Сіра куріпка та вальдшнеп.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="220">
+    <section class="question" number="220">
         <section class="text">
             Яка кількість яєць може бути в повній кладці вальдшнепа?
         </section>
@@ -2635,18 +2629,16 @@
         <section class="answer">6-8.</section>
         <section class="answer">10.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
-    <section class="question not-ready" number="221">
+    <section class="question" number="221">
         <section class="text">
             До якої з груп пернатої дичини (болотної, польової чи лісової) відноситься вальдшнеп?
         </section>
         <section class="answer" data-correct="data-correct">Лісова.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Болотна.</section>
+        <section class="answer">Польова.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question not-ready" number="222">
