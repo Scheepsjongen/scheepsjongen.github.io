@@ -12,9 +12,14 @@
         <section class="text">
             Що відноситься до державного мисливського фонду?
         </section>
-        <section class="answer" data-correct="data-correct">Мисливські тварини, що перебувають у стані природної волі, а також утримуються в напіввільних умовах або у неволі в межах угідь державних мисливських господарств.</section>
-        <section class="answer">Мисливські тварини які знаходяться у межах мисьливських угідь.</section>
+        <section class="answer" data-correct="data-correct">Мисливські тварини що перебувають у стані природної волі в межах мисливських угідь.</section>
+        <section class="answer">Тварини які знаходяться у межах мисьливських угідь.</section>
         <section class="answer">Ліси, поля, болота, водний простір, звірі та птахи, що знаходяться у межах мисьливських угідь.</section>
+        <section class="answer">Землі, на яких ведеться мисливське господарство.</section>
+        <section class="answer">Мисливська зброя та боєприпаси.</section>
+        <section class="answer">Рекреаційні зони в угіддях мисливських господарств.</section>
+        <section class="answer">Державні мисливські господарства.</section>
+        <section class="answer">Територія природних національних парків, заповідників.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o32">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Розділ I Стаття 1. Терміни та їх визначення</a>: державний мисливський фонд - мисливські тварини, що перебувають у стані природної волі, а також утримуються в напіввільних умовах або у неволі в межах угідь державних мисливських господарств;
         </section>
@@ -26,6 +31,7 @@
         <section class="answer" data-correct="data-correct">Ділянки суші та водного простору, на яких перебувають мисливські тварини і які можуть бути використані для ведення мисливського господарства.</section>
         <section class="answer">Обмежені ділянки суходолу та водного простору які затверджені як мисьливські угіддя та віддані під опіку користувача мисьливських угідь.</section>
         <section class="answer">Усі ділянки які не мають сільскогосподарського або житлового значення.</section>
+        <section class="answer">Ліси і поля.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o39">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Розділ I Стаття 1. Терміни та їх визначення</a>: мисливські угіддя - ділянки суші та водного простору, на яких перебувають мисливські тварини і які можуть бути використані для ведення мисливського господарства;
         </section>
@@ -61,6 +67,8 @@
         <section class="answer">Держкомлісгосп.</section>
         <section class="answer" data-correct="data-correct">Міністерство охорони навколишнього середовища.</section>
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
+        <section class="answer">Кабінет Міністрів України.</section>
+        <section class="answer">Громадські мисливські організації.</section>
         <section class="description">
             TODO<br />
             <a href="//uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D1%96%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%B8%D1%88%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Міністерство охорони навколишнього природного середовища України</a> - колишнє міністерство України. Тепер Міністерство охорони навколишнього природного середовища.
@@ -70,9 +78,10 @@
         <section class="text">
             Хто є спеціально уповноваженим органом у галузі ведення мисливського господарства?
         </section>
-        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
-        <section class="answer">Мінекобезпеки.</section>
-        <section class="answer">Кабмін України.</section>
+        <section class="answer" data-correct="data-correct">Державний комітет лісового господарства та його органи на місцях.</section>
+        <section class="answer">Міністерство охорони навколишнього природного середовища України.</section>
+        <section class="answer">Кабінет Міністрів України.</section>
+        <section class="answer">Громадські мисливські організації.</section>
         <section class="description">
             TODO<br />
             <a href="//uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D1%96%D1%82%D0%B5%D1%82_%D0%BB%D1%96%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Держкомлісгосп</a> - колишній центральний орган виконавчої влади України з питань лісового, мисливського господарства, полювання та мисливського собаківництва. Реорганізований у <a href="http://dklg.kmu.gov.ua/forest/control/uk/index">Державне агентство лісових ресурсів України</a>.
@@ -101,6 +110,7 @@
             Який термін дії посвідчення мисливця?
         </section>
         <section class="answer">Календарний рік.</section>
+        <section class="answer">Мисливський сезон.</section>
         <section class="answer">3 роки.</section>
         <section class="answer" data-correct="data-correct">Необмежений.</section>
         <section class="description TODO">
@@ -114,6 +124,7 @@
         <section class="answer">Мисливський сезон.</section>
         <section class="answer" data-correct="data-correct">Календарний рік.</section>
         <section class="answer">Необмежений.</section>
+        <section class="answer">2 роки.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/z1316-14#n18">ПОРЯДОК видачі посвідчення мисливця і контрольної картки обліку добутої дичини й порушень правил полювання І. Загальні положення пп 1.3.</a><br />
             Контрольна картка видається з 01 травня поточного року по 30 квітня наступного року і діє з дня видачі до 30 квітня включно.
@@ -125,6 +136,7 @@
         </section>
         <section class="answer">В 16 років.</section>
         <section class="answer" data-correct="data-correct">В 18 років.</section>
+        <section class="answer">В 20 років.</section>
         <section class="answer">В 21 років.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/z1316-14#n19">ПОРЯДОК видачі посвідчення мисливця і контрольної картки обліку добутої дичини й порушень правил полювання І. Загальні положення пп 1.4.</a><br />
@@ -162,9 +174,9 @@
         <section class="text">
             Що таке трофейний відстріл диких тварин?
         </section>
-        <section class="answer" data-correct="data-correct">Для інтер'єру, виставки.</section>
-        <section class="answer">Відстріл найбільш красивих особин.</section>
-        <section class="answer">Африканське полювання.</section>
+        <section class="answer" data-correct="data-correct">Полювання з метою добування тварин з трофейними якостями.</section>
+        <section class="answer">Добування хворих, травмованих, ненормально розвинених тварин.</section>
+        <section class="answer">Будь-яке полювання, при якому мисливець добув дичину.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F">Трофейне полювання (wiki)</a>
         </section>
@@ -173,9 +185,9 @@
         <section class="text">
             Що таке селекційний відстріл тварин?
         </section>
-        <section class="answer" data-correct="data-correct">Відстріл для ветеринарно-санітарної експертизи.</section>
-        <section class="answer">Відстріл хворих, поранених тварин, старих особин з явними ознаками деградації, дворічного нерозвинутого молодняку, тварин з нехарактерним для виду забарвленням, а при відстрілі самців оленів, лосів, ланей, козуль - особин з недорозвинутими рогами.</section>
-        <section class="answer">Вилучення із природних популяцій тварин, які мають певні відхилення у своєму розвитку від здорових тварин, з метою формування здорового, високопродуктивного маточного поголів’я, регулювання вікової та статевої структури популяцій.</section>
+        <section class="answer" data-correct="data-correct">Добування небажаної популяції тварин (хворої, ослабленої та ін.)</section>
+        <section class="answer">Відстріл тварин з трофейними цілями.</section>
+        <section class="answer">Відстріл найбільших плідників.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14/page2#o355">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 32. Селекційний та вибірковий діагностичний відстріли мисливських тварин для ветеринарно-санітарної експертизи</a><br />
             Селекційний та вибірковий діагностичний відстріли мисливських тварин для ветеринарно-санітарної експертизи проводяться незалежно від строків мисливського сезону працівниками, уповноваженими здійснювати охорону мисливських угідь, за дозволом центрального органу виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, а в межах територій та об'єктів природно-заповідного фонду - за дозволом обласних, Київської, Севастопольської міських державних адміністрацій, за письмовою заявою користувача мисливських угідь.<hr />
@@ -190,9 +202,10 @@
         <section class="text">
             В який період дозволяється селекційний відстріл тварин?
         </section>
-        <section class="answer" data-correct="data-correct">Проводяться незалежно від строків мисливського сезону.</section>
+        <section class="answer" data-correct="data-correct">Протягом усього року.</section>
         <section class="answer">У мисливський сезон.</section>
         <section class="answer">Цілий рік, виключаючи період тиші.</section>
+        <section class="answer">Тільки взимку.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/z0413-14#n21">ІНСТРУКЦІЯ про селекційний відстріл мисливських тварин</a><br />
             ІV. Порядок здійснення селекційного відстрілу<br />
@@ -203,9 +216,10 @@
         <section class="text">
             Яким відомством визначаються терміни відкриття та закриття полювання?
         </section>
-        <section class="answer" data-correct="data-correct">Держкомлісгоспом.</section>
+        <section class="answer">Держліскомгоспом за погодженням з Міністерством екології та природних ресурсів.</section>
         <section class="answer">Обласними управліннями лісового господарства.</section>
-        <section class="answer">Користувачем мисливських угідь.</section>
+        <section class="answer" data-correct="data-correct">Користувачем мисливських угідь.</section>
+        <section class="answer">Громадськими мисливськими організаціями.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o215">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 19. Строки полювання</a><br />
             Строки полювання (конкретна дата відкриття та закриття полювання на певний вид мисливських тварин, дні полювання протягом тижня) та порядок його здійснення, а також норма добування мисливських тварин визначаються користувачем мисливських угідь у межах строків, визначених цим Законом, за погодженням з центральним органом виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, обласними, Київською, Севастопольською міськими державними адміністраціями та доводяться користувачами мисливських угідь до відома громадськості.
@@ -215,22 +229,28 @@
         <section class="text">
             Який орган встановлює дні полювання?
         </section>
-        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
-        <section class="answer">Користувачем мисливських угідь, за погодженням з центральним органом виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, обласними, Київською, Севастопольською міськими державними адміністраціями.</section>
+        <section class="answer">Держкомлісгосп.</section>
+        <section class="answer" data-correct="data-correct">Користувачем мисливських угідь.</section>
+        <section class="answer">Міністерство екології та природних ресурсів.</section>
+        <section class="answer">Громадські мисливські організації.</section>
+        <section class="answer">Державний комітет лісового господарства та його органи на місцях.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o215">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 19. Строки полювання</a><br />
             Строки полювання (конкретна дата відкриття та закриття полювання на певний вид мисливських тварин, дні полювання протягом тижня) та порядок його здійснення, а також норма добування мисливських тварин визначаються користувачем мисливських угідь у межах строків, визначених цим Законом, за погодженням з центральним органом виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, обласними, Київською, Севастопольською міськими державними адміністраціями та доводяться користувачами мисливських угідь до відома громадськості.
         </section>
     </section>
-    <section class="question not-ready" number="18">
+    <section class="question" number="18">
         <section class="text">
             Який орган встановлює норми відстрілу пернатої дичини та хутрових звірів на одного мисливця за день полювання?
         </section>
-        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
+        <section class="answer" data-correct="data-correct">Держкомлісгосп за погодженням з Міністерством екології та природних ресурсів.</section>
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
         <section class="answer">Державне агентство лісових ресурсів України.</section>
         <section class="answer">Міністерство аграрної політики та продовольства України.</section>
+        <section class="answer">Кабінет Міністрів України.</section>
+        <section class="answer">Громадські мисливські організації.</section>
         <section class="description">
+            TODO<br /><br />
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o176">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 16. Ліміти використання мисливських тварин, віднесених до державного мисливського фонду</a><br />
             Полювання на парнокопитних тварин, куницю лісову, бобра, ондатру, бабака, білку, віднесених до державного мисливського фонду, здійснюється відповідно до лімітів , які затверджуються на мисливський сезон центральним органом виконавчої влади, що забезпечує формування державної аграрної політики, за погодженням із центральним органом виконавчої влади, що забезпечує формування державної політики у сфері охорони навколишнього природного середовища, за поданням центрального органу виконавчої влади, що реалізує державну політику у сфері лісового та мисливського господарства, на підставі пропозицій користувачів мисливських угідь, погоджених з обласними, Київською, Севастопольською міськими державними адміністраціями.<hr />
             <a href="http://zakon2.rada.gov.ua/laws/show/z0986-16">НАКАЗ Міністерства аграрної політики та продовольства України</a><br />
@@ -241,9 +261,10 @@
         <section class="text">
             За якими документами здійснюється полювання на пернату дичину, дикого кроля, зайця-русака, єнотоподібного собаку і лисицю?
         </section>
-        <section class="answer" data-correct="data-correct">Відстрільна картка, що видається користувачем угідь.</section>
-        <section class="answer">Дозвіл.</section>
-        <section class="answer">Ліцензія.</section>
+        <section class="answer" data-correct="data-correct">Відстрільною карткою.</section>
+        <section class="answer">Дозволом, що видається користувачем угідь.</section>
+        <section class="answer">Ліцензією.</section>
+        <section class="answer">Іншими дозволами.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o187">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
             За відстрільною карткою здійснюється полювання на пернату дичину, кроля дикого, зайця-русака, єнотовидного собаку, вовка, лисицю, шакала, куницю кам'яну, норку американську, тхора лісового.
@@ -253,9 +274,10 @@
         <section class="text">
             За якими документами здійснюється полювання на копитних, білку, бобра, ондатру, куниць, норку американську та тхора лісового?
         </section>
-        <section class="answer">Дозвіл.</section>
+        <section class="answer">Дозвіл користувача.</section>
         <section class="answer" data-correct="data-correct">Ліцензія.</section>
         <section class="answer">Відстрільна картка.</section>
+        <section class="answer">Дозволами громадських мисливських організацій.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o186">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
             За ліцензією здійснюється полювання на кабана, лань, оленів європейського та плямистого, козулю, лося, муфлона, білку, бабака, бобра, борсука, ондатру, куницю лісову.
@@ -268,6 +290,8 @@
         <section class="answer" data-correct="data-correct">Субпродукти.</section>
         <section class="answer">Роги і копита.</section>
         <section class="answer">Шкури, роги, ікла.</section>
+        <section class="answer">М’ясо та шкіра.</section>
+        <section class="answer">Вся добута тварина.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n30">ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин</a><br />
             I. Правила проведення полювання на тварин, добування яких здійснюється за ліцензією<br />
@@ -278,8 +302,9 @@
         <section class="text">
             Хто є користувачем мисливських угідь?
         </section>
-        <section class="answer" data-correct="data-correct">Спеціалізовані мисливські господарства, інші підприємства, установи та організації, в яких створені спеціалізовані підрозділи для ведення мисливського господарства з наданням в їх користування мисливських угідь.</section>
-        <section class="answer">Підприємства, установи та організації, а також фізичні особи яким надано в користування мисливскі угіддя.</section>
+        <section class="answer" data-correct="data-correct">Юридичні особи за якими закріплено угіддя.</section>
+        <section class="answer">Землекористувачі та власники земельних ділянок.</section>
+        <section class="answer">Всі мисливці, які отримали право на полювання.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o33">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання</a><br />
             користувачі мисливських угідь - спеціалізовані мисливські господарства, інші підприємства, установи та організації, в яких створені спеціалізовані підрозділи для ведення мисливського господарства з наданням в їх користування мисливських угідь;
@@ -292,6 +317,8 @@
         <section class="answer" data-correct="data-correct">Не менш ніж 15 років.</section>
         <section class="answer">На 25 або 50 років.</section>
         <section class="answer">На 10-15 років.</section>
+        <section class="answer">На 20 років.</section>
+        <section class="answer">Не менш ніж на 25 років.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14/page2#o274">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання</a><br />
             Мисливські угіддя надаються у користування на строк не менш як на 15 років.
@@ -301,7 +328,7 @@
         <section class="text">
             Порядок добування поранених копитних тварин, які перейшли в сусіднє мисливське господарство.
         </section>
-        <section class="answer" data-correct="data-correct">До початку добору на зворотному боці ліцензії керівник полювання робить відмітку про поранення тварини. При переході пораненої тварини в угіддя іншого користувача добір проводиться лише за погодженням з користувачем цих угідь.</section>
+        <section class="answer" data-correct="data-correct">До початку добору на зворотному боці ліцензії робиться відмітка про поранення тварини. Добір проводиться лише за погодженням з користувачем цих угідь.</section>
         <section class="answer">Заборонено переслідування тварини у мисливському господарстві, на полювання в якому відсутні документи. В такому випадку необхідно проінформувати єгеря відповідного господарства, щоб він організував добір.</section>
         <section class="answer">У разі поранення тварини ліцензія закривається. Добір проводиться не залежно від територій мисливських господарств.</section>
         <section class="description">
@@ -316,6 +343,7 @@
         <section class="answer" data-correct="data-correct">Нi.</section>
         <section class="answer">Так.</section>
         <section class="answer">Лише з приладом нічного бачення.</section>
+        <section class="answer">Дозволяється тільки в деяких випадках.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o230">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання</a><br />
             Стаття 20. Заборони щодо здійснення полювання<br />
@@ -330,7 +358,7 @@
             Чи можна добувати зайця-русака на городi в населеному пунктi?
         </section>
         <section class="answer">Так.</section>
-        <section class="answer">Можна поставивши капкан.</section>
+        <section class="answer">Можна відловити капканом.</section>
         <section class="answer" data-correct="data-correct">Нi.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o225">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання</a><br />
@@ -346,6 +374,8 @@
         </section>
         <section class="answer" data-correct="data-correct">Віддати зайця власнику собаки та взяти з нього відстріляні набої.</section>
         <section class="answer">Подякувати власнику собаки.</section>
+        <section class="answer">Поділити дичину с господарем собаки.</section>
+        <section class="answer">Забрати зайця собі, але господарю дати декілька патронів.</section>
         <section class="description">
             TODO<br />
             <a href="//lesovod.blogspot.com/2016/12/blog-post_724.html">Держінспекція склала кодекс етики мисливця</a><br />
@@ -361,6 +391,8 @@
         <section class="answer" data-correct="data-correct">Стаття 85.</section>
         <section class="answer">Стаття 88-1.</section>
         <section class="answer">Стаття 248.</section>
+        <section class="answer">Стаття 188-5.</section>
+        <section class="answer">Стаття 50.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n560">КУпАП Стаття 85. Порушення правил використання об'єктів тваринного світу</a>
         </section>
@@ -372,6 +404,8 @@
         <section class="answer" data-correct="data-correct">Стаття 88-1.</section>
         <section class="answer">Стаття 85.</section>
         <section class="answer">Стаття 248.</section>
+        <section class="answer">Стаття 188-5.</section>
+        <section class="answer">Стаття 50.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/80731-10/page4#n594">КУпАП Стаття 88-1. Порушення порядку придбання чи збуту об'єктів тваринного або рослинного світу, правил утримання диких тварин у неволі або в напіввільних умовах</a>
         </section>
@@ -383,6 +417,10 @@
         <section class="answer" data-correct="data-correct">Стаття 248.</section>
         <section class="answer">Стаття 85.</section>
         <section class="answer">Стаття 88-1.</section>
+        <section class="answer">Стаття 161.</section>
+        <section class="answer">Стаття 162.</section>
+        <section class="answer">Стаття 163.</section>
+        <section class="answer">Стаття 222.</section>
         <section class="description">
             <a href="http://zakon2.rada.gov.ua/laws/show/2341-14/page8#n1661">ККУ Стаття 248. Незаконне полювання</a>
         </section>
@@ -956,6 +994,8 @@
         <section class="answer" data-correct="data-correct">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
+        <section class="answer">Полювання на цих видів птахів забороняється.</section>
+        <section class="answer">Протягом усього року за погодженням з користувачем угідь.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
@@ -968,6 +1008,7 @@
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer" data-correct="data-correct">У серпні - листопаді.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
+        <section class="answer">Протягом усього року за погодженням з користувачем угідь.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
@@ -977,6 +1018,7 @@
             Вкажіть нормативно визначені терміни полювання на самців козулі.
         </section>
         <section class="answer">У серпні - січні.</section>
+        <section class="answer">З 15 листопада по лютий включно.</section>
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer" data-correct="data-correct">З 1 травня по грудень включно</section>
@@ -991,6 +1033,7 @@
         <section class="answer" data-correct="data-correct">У серпні - січні.</section>
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">Протягом усього року за погодженням користувача угідь.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
@@ -1033,6 +1076,7 @@
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
+        <section class="answer"> З 15 листопада по вересень включно.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
@@ -1069,6 +1113,8 @@
         <section class="answer">У серпні - січні.</section>
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">У серпні-грудні, а також весною на самців крижня та вальдшнепа.</section>
+        <section class="answer">Протягом усього року за погодженням з користувачем угідь.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
@@ -1081,6 +1127,8 @@
         <section class="answer">У серпні - грудні.</section>
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
+        <section class="answer">Протягом усього року, за погодженням з користувачем угідь.</section>
+        <section class="answer">У серпні-грудні, а також на самців-весною.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
@@ -1092,6 +1140,7 @@
         <section class="answer" data-correct="data-correct">Цілий рік.</section>
         <section class="answer">В мисливський сезон - під час полювання на інші види дичини; не в мисливський сезон - за спеціальним дозволом.</section>
         <section class="answer">Серпень - Лютий.</section>
+        <section class="answer">При полюванні на хутрових звірів.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B2%D0%BA">Вовк (wiki)</a><br />
             <a href="//youtu.be/bx91hXKfz5A?t=4m21s">Дальний кордон. Андрей Никольченко (youtube)</a>
@@ -1128,6 +1177,7 @@
         </section>
         <section class="answer">З 18 років.</section>
         <section class="answer" data-correct="data-correct">З 21 року.</section>
+        <section class="answer">З 23 років.</section>
         <section class="answer">З 25 років.</section>
         <section class="description">
             ПОСТАНОВА ВЕРХОВНОЇ РАДИ УКРАЇНИ<br />
@@ -1141,8 +1191,9 @@
         <section class="text">
             З якого віку можна користуватись мисливською нарізною зброєю?
         </section>
-        <section class="answer">З 18 років.</section>
+        <section class="answer">З 19 років.</section>
         <section class="answer">З 21 року.</section>
+        <section class="answer">З 23 років.</section>
         <section class="answer" data-correct="data-correct">З 25 років.</section>
         <section class="description">
             ПОСТАНОВА ВЕРХОВНОЇ РАДИ УКРАЇНИ<br />
@@ -1157,8 +1208,8 @@
         <section class="text">
             Як часто перереєструється мисливська зброя?
         </section>
-        <section class="answer">Раз на рік.</section>
-        <section class="answer" data-correct="data-correct">Раз в 3 роки.</section>
+        <section class="answer">Щорічно.</section>
+        <section class="answer" data-correct="data-correct">Раз на 3 роки.</section>
         <section class="answer">Раз в 5 років.</section>
         <section class="description">
             МІНІСТЕРСТВО ВНУТРІШНІХ СПРАВ УКРАЇНИ<br />
@@ -1176,9 +1227,11 @@
         <section class="text">
             Що таке картеч?
         </section>
-        <section class="answer" data-correct="data-correct">Шріт діаметром понад 5 мм називається картеччю.</section>
+        <section class="answer" data-correct="data-correct">Шріт діаметром понад 5 мм.</section>
+        <section class="answer" data-correct="data-correct">Шріт діаметром до 5 мм.</section>
         <section class="answer">Подвійна, потрійна куля.</section>
         <section class="answer">Так називають шріт діаметром понад 4 мм.</section>
+        <section class="answer">Так називають шріт діаметром до 4 мм.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%87">Картеч (wiki)</a>.
         </section>
@@ -1189,6 +1242,8 @@
         </section>
         <section class="answer" data-correct="data-correct">Число, що позначає діаметр каналу ствола рушниці.</section>
         <section class="answer">Вид придатного патрону.</section>
+        <section class="answer">Внутрішній діаметр ствола в мм.</section>
+        <section class="answer">Внутрішній діаметр ствола в дюймах.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%96%D0%B1%D1%80">Калібр (wiki)</a>
         </section>
@@ -1198,6 +1253,7 @@
             Який діаметр дробу № 0000?
         </section>
         <section class="answer" data-correct="data-correct">5 мм.</section>
+        <section class="answer">4,75 мм.</section>
         <section class="answer">4,5 мм.</section>
         <section class="answer">4 мм.</section>
         <section class="description">
@@ -1208,9 +1264,10 @@
         <section class="text">
             Яке дульне звуження відповідає свердлінню "повний чок"?
         </section>
-        <section class="answer" data-correct="data-correct">Для 12 калібру - 1 мм (~0,9-1 мм).</section>
+        <section class="answer" data-correct="data-correct">Для 12 калібру - 1 мм.</section>
         <section class="answer">Для 12 калібру - більше 1 мм.</section>
-        <section class="answer">Для 12 калібру - більше 0,5 мм (звуження, яке сильніше напівчока).</section>
+        <section class="answer">Для 12 калібру - 0,5 мм.</section>
+        <section class="answer">Для 12 калібру - 0,25 мм.</section>
         <section class="description">
             <a href="//ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BA">Чок (wiki)</a>
         </section>
@@ -1220,7 +1277,6 @@
             Що таке "парадокс"?
         </section>
         <section class="answer" data-correct="data-correct">Особливо просверлений канал ствола гладкоствольної мисливської рушниці.</section>
-        <section class="answer">З усіх живих істот скоріш за всіх росте риба, особливо вже спіймана. "Пшекруй".</section>
         <section class="answer">Скільки вовка не корми, всіх лосів заповідника на нього не спишеш. Кубліцкій.</section>
         <section class="answer">Лівостороння нарізка ствола.</section>
         <section class="answer">Правостороння нарізка ствола.</section>
@@ -1281,14 +1337,12 @@
         <section class="text">
             Яка максимально нормальна дальність польоту шроту в метрах?
         </section>
-        <section class="answer">200-250.</section>
-        <section class="answer">150-200.</section>
-        <section class="answer">250-300.</section>
-        <section class="answer" data-correct="data-correct">В 80 раз їх діаметр в мм.</section>
-        <section class="answer">В 40 раз їх діаметр в мм.</section>
-        <section class="answer">В 150 раз їх діаметр в мм.</section>
+        <section class="answer">Перевищує 200-250.</section>
+        <section class="answer">Перевищує 250-300.</section>
+        <section class="answer" data-correct="data-correct">Перевищує в 80 раз діаметр шроту в мм.</section>
+        <section class="answer">Перевищує в 40 раз діаметр шроту в мм.</section>
+        <section class="answer">Перевищує в 150 раз діаметр шроту в мм.</section>
         <section class="description TODO">
-            Бутурлин "Дробовое ружье и стрельба из него"?
         </section>
     </section>
     <section class="question" number="97">
@@ -1419,11 +1473,7 @@
         <section class="answer">Зарядити рушницю і продовжити полювання.</section>
         <section class="answer" data-correct="data-correct">Розрядити рушницю і перевірити чи не залишилося в каналі ствола клейтуха, прокладки або частини розірваної гільзи.</section>
         <section class="description">
-            TODO: выстрел уже произошел
-            <br /><br />
-            ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
-            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
-            3.11. Під час стрільби при осічці мисливець не повинен відкривати рушницю раніше ніж через сім-вісім секунд.
+            TODO
             <hr />
             <a href="//www.youtube.com/watch?v=lC86w_WlgD8">Затжний постріл (youtube)</a>
         </section>
@@ -1548,7 +1598,7 @@
         <section class="answer">Коли вже чути нагоничів.</section>
         <section class="answer">Коли вже видно нагоничів.</section>
         <section class="description TODO">
-            TODO: потрібне пояснення. Так розумію, що мається на увазі напрямок від загоничів на стрілецьку лінію.
+            TODO: потрібне пояснення.
             <hr />
             ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
             <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57#n34">II. Правила проведення облавного полювання</a><br />
@@ -1737,7 +1787,7 @@
         <section class="text">
             Як потрібно носити мисливську зброю на полюванні, якщо немає снігу?
         </section>
-        <section class="answer" data-correct="data-correct">На лівій руці, на правому плечі, стволи вгору або вниз.</section>
+        <section class="answer" data-correct="data-correct">Стволом вгору.</section>
         <section class="answer">Стволами в землю.</section>
         <section class="answer">Горизонтально.</section>
         <section class="description TODO">
@@ -2769,6 +2819,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Можуть їсти тільки комах.</section>
         <section class="answer">Можуть їсти тільки насіння.</section>
+        <section class="answer">Можуть їсти тільки паростки рослин.</section>
         <section class="description">
         </section>
     </section>
