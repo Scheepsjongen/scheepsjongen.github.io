@@ -597,15 +597,12 @@
             1.7. У разі поранення зазначеної у ліцензії тварини під час проведення полювання організовується добір цієї тварини. До початку добору на зворотному боці ліцензії керівник полювання проставляє відмітку про поранення тварини. Під час добору добування інших тварин (крім вовка) забороняється. Порядок добору пораненої тварини визначає розпорядник полювання. При переході пораненої тварини в угіддя іншого користувача добір проводиться лише за погодженням з користувачем цих угідь.
         </section>
     </section>
-    <section class="question not-ready" number="45">
+    <section class="question" number="45">
         <section class="text">
             На які види диких качок та гусей полювання в Україні заборонено?
         </section>
         <section class="answer" data-correct="data-correct">Гоголь, Чернь білоока, Савка, Огара, Галагаза, Гага звичайна, Лутка, Крохаль.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="46">
@@ -663,10 +660,14 @@
         <section class="text">
             Яка відповідальність наступає за добування луня польового?
         </section>
-        <section class="answer" data-correct="data-correct">Кримінальну відповідальність по ст. 248 КК України і відшкодування нанесеного збитку.</section>
-        <section class="answer">Адміністративну відповідальність по ст. 85 КУпАП і відшкодування нанесеного збитку.</section>
+        <section class="answer" data-correct="data-correct">Кримінальна по ст. 248 ККУ.</section>
+        <section class="answer">Адміністративна по ст. 85 КУпАП.</section>
+        <section class="answer">Моральна.</section>
         <section class="description">
-            <a href="http://zakon2.rada.gov.ua/laws/show/2341-14/page8#n1661">ККУ Стаття 248. Незаконне полювання</a>
+            <a href="//uk.wikipedia.org/wiki/%D0%9B%D1%83%D0%BD%D1%8C_%D0%BF%D0%BE%D0%BB%D1%8C%D0%BE%D0%B2%D0%B8%D0%B9">Луня польового (wiki)</a> занесено до Червоної книги України.
+            <hr />
+            <a href="http://zakon2.rada.gov.ua/laws/show/2341-14/page8#n1661">ККУ Стаття 248. Незаконне полювання</a><br />
+            1. Порушення правил полювання, якщо воно заподіяло істотну шкоду, а також незаконне полювання в заповідниках або на інших територіях та об'єктах природно-заповідного фонду, або полювання на звірів, птахів чи інші види тваринного світу, що занесені до Червоної книги України, -
         </section>
     </section>
     <section class="question" number="51">
@@ -939,7 +940,6 @@
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
             3) полювання у заборонений час, а саме:<br />
-            ...<br />
             у темний період доби (пізніше години після заходу сонця і раніше години до його сходу);
         </section>
     </section>
@@ -1002,7 +1002,12 @@
         <section class="answer">Полювання на цих видів птахів забороняється.</section>
         <section class="answer">Протягом усього року за погодженням з користувачем угідь.</section>
         <section class="description">
-            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
+            <a href="//uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%96%D0%BF%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0">Куріпка сіра (wiki)</a><br />
+            <a href="//uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9">Фазан звичайний (wiki)</a>
+            <hr />
+            ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a><br />
+            Полювання може здійснюватися у такі строки:<br />
+            на куріпку сіру, фазана - у жовтні - грудні;
         </section>
     </section>
     <section class="question" number="72">
@@ -2298,7 +2303,7 @@
             Комплексна оцінка якостей собаки: мисливські дипломи, екстер'єр, походження, наявність потомства.
         </section>
     </section>
-    <section class="question not-ready" number="179">
+    <section class="question" number="179">
         <section class="text">
             Хто затверджує правила проведення натаскування, наганяння, протравлювання та польові випробування мисливських собак?
         </section>
@@ -2306,18 +2311,15 @@
         <section class="answer">Громадською мисливською організацією.</section>
         <section class="answer">Кінологічними секціями а областях.</section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
+            TODO
         </section>
     </section>
-    <section class="question not-ready" number="180">
+    <section class="question" number="180">
         <section class="text">
             3 якими породами мисливських собак дозволяється полювання на перепела?
         </section>
         <section class="answer" data-correct="data-correct">Всі, лягава.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
         <section class="description">
-            This is an answer description with a <a href="#">link</a>.
         </section>
     </section>
     <section class="question" number="181">
@@ -2372,13 +2374,14 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="186">
+    <section class="question" number="186">
         <section class="text">
             В якому місяці самка лося народжує лосенят?
         </section>
         <section class="answer" data-correct="data-correct">Травні-червні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">Квітені-травні.</section>
+        <section class="answer">Червні-липні.</section>
+        <section class="answer">Липні-серпні.</section>
         <section class="description">
         </section>
     </section>
@@ -2442,13 +2445,14 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="193">
+    <section class="question" number="193">
         <section class="text">
             Коли самка оленя європейського народжує оленят?
         </section>
         <section class="answer" data-correct="data-correct">У травні-червні.</section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer">У квітні-травні.</section>
+        <section class="answer">У червні-липні.</section>
+        <section class="answer">У липні-серпні.</section>
         <section class="description">
         </section>
     </section>
@@ -2597,6 +2601,8 @@
         <section class="answer">Два.</section>
         <section class="answer">Три.</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D1%8F_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0">Лисиця звичайна (wiki)</a><br />
+            Подібно до вовка, лисиця належить до моногамних тварин, що розмножуються тільки один раз на рік.
         </section>
     </section>
     <section class="question" number="208">
@@ -2698,6 +2704,7 @@
         <section class="answer">Два.</section>
         <section class="answer">Три.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B2%D0%BA">Вовк (wiki)</a>
         </section>
     </section>
     <section class="question" number="218">
@@ -2705,7 +2712,9 @@
             Які основні особливості розмноження вовків?
         </section>
         <section class="answer" data-correct="data-correct">Моногамні.</section>
+        <section class="answer">Коло молодих та самотніх старих вовчиць може збиратись група самців.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B2%D0%BA">Вовк (wiki)</a>
         </section>
     </section>
     <section class="question" number="219">
@@ -2720,6 +2729,12 @@
         <section class="answer">Рябчик та сіра куріпка.</section>
         <section class="answer">Сіра куріпка та вальдшнеп.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%9E%D1%80%D1%8F%D0%B1%D0%BE%D0%BA">Орябок, або рябчик (wiki)</a>
+            Живуть осіло, здійснюючи лише коротку кормову кочівлю.
+            Включено до Червоної книги України.<br />
+            <a href="//uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%96%D0%BF%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0">Куріпка сіра (wiki)</a>
+            В Україні осілий птах всіх областей окрім Карпат і суцільних лісових масивів Полісся.<br />
+            <a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%BA%D0%B2%D0%B0">Слуква, або вальдшнеп (wiki)</a>
         </section>
     </section>
     <section class="question" number="220">
