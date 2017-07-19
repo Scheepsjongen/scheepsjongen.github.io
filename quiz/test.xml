@@ -639,8 +639,8 @@
         <section class="text">
             Які правові основи полювання на борсука в Україні?
         </section>
-        <section class="answer" data-correct="data-correct">Заборонено.</section>
-        <section class="answer">За ліцензією.</section>
+        <section class="answer">Заборонено.</section>
+        <section class="answer" data-correct="data-correct">За ліцензією.</section>
         <section class="description">
             <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%81%D1%83%D0%BA_%D1%94%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9">Борсук європейський (wiki)</a>
             <hr />
