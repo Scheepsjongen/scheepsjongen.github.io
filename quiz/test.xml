@@ -1543,10 +1543,12 @@
         <section class="text">
             Яка небезпечна відстань для життя людини при пострілі кулею із мисливської гладкоствольної рушниці.
         </section>
+        <section class="answer" data-correct="data-correct">До 1000 м.</section>
         <section class="answer">До 300 м.</section>
         <section class="answer">До 500 м.</section>
-        <section class="answer" data-correct="data-correct">До 1000 м.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon3.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            1.13. Стрільбу мисливець має вести із особливою обережністю і попередньо переконавшись в тому, що в напрямку пострілу немає людей і домашніх тварин. Враховуючи, що куля випущена із гладкоствольної зброї, небезпечна на відстані 300 метрів.
         </section>
     </section>
     <section class="question" number="113">
@@ -1712,7 +1714,9 @@
         <section class="answer" data-correct="data-correct">Вуха щільно притиснуті до голови, шерсть на загривку та спині піднята.</section>
         <section class="answer">Очі відкриті, ноги притиснуті до тулуба.</section>
         <section class="answer">Тварина лежить на животі, ноги притиснуті до тулуба.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon3.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            4.28. Підходити до звіра, який лежить, слід тільки з боку спини, звертаючи увагу на вуха і шерсть на загривку. Якщо вуха притиснуті, а шерсть піднята, то звір ще живий і небезпечний. Виявивши це, не підходячи близько до звіра, потрібно дострелити його.
         </section>
     </section>
     <section class="question" number="126">
@@ -1732,7 +1736,9 @@
         <section class="answer" data-correct="data-correct">Це робити суворо заборонено.</section>
         <section class="answer">Коли в мисливця немає патронів.</section>
         <section class="answer">Коли поранена тварина може зникнути під час перезаряджання зброї.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon3.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            1.18. Не можна використовувати не за призначенням приклад зброї (добивати пораненого звіра).
         </section>
     </section>
     <section class="question" number="128">
@@ -1924,7 +1930,9 @@
         </section>
         <section class="answer" data-correct="data-correct">Не дозволяється.</section>
         <section class="answer">Дозволяється.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon3.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            1.11. Особливої обережності мисливець повинен дотримуватися при стрільбі в чагарнику. Забороняється стрільба по птахах, які злітають, нижче 3 метрів на дистанції 10 метрів.
         </section>
     </section>
     <section class="question" number="143">
