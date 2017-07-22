@@ -243,9 +243,9 @@
         <section class="text">
             Який орган встановлює норми відстрілу пернатої дичини та хутрових звірів на одного мисливця за день полювання?
         </section>
-        <section class="answer" data-correct="data-correct">Держкомлісгосп за погодженням з Міністерством екології та природних ресурсів.</section>
+        <section class="answer" data-correct="data-correct">Державне агентство лісових ресурсів України.</section>
+        <section class="answer">Держкомлісгосп за погодженням з Міністерством екології та природних ресурсів.</section>
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
-        <section class="answer">Державне агентство лісових ресурсів України.</section>
         <section class="answer">Міністерство аграрної політики та продовольства України.</section>
         <section class="answer">Кабінет Міністрів України.</section>
         <section class="answer">Громадські мисливські організації.</section>
@@ -1971,7 +1971,11 @@
             Де розчохляється мисливська зброя?
         </section>
         <section class="answer" data-correct="data-correct">Безпосередньо на полюванні.</section>
-        <section class="description TODO">
+        <section class="answer">По приїзду до користувача мисливських угідь.</section>
+        <section class="answer">В місці збору мисливців.</section>
+        <section class="answer">Після оформлення ліцензії або відстрільної картки.</section>
+        <section class="description">
+
         </section>
     </section>
     <section class="question" number="146">
@@ -2152,6 +2156,8 @@
         <section class="answer">Висмоктати кров з рани та перетягнути кінцівку.</section>
         <section class="answer">Попередньо перетягнувши кінцівку, зробити розріз в місці укусу та спустити кров.</section>
         <section class="description TODO">
+            <a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D1%8E%D0%BA%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0">Гадюка звичайна (wiki)</a>
+            <hr />
             Використати специфічні сироватки, перетяжку кінцівки краще не робити, висмоктувати кров з рани також, можливо використання місцевих примочок з марганцівки.
         </section>
     </section>
@@ -2372,6 +2378,7 @@
         <section class="answer">Взимку.</section>
         <section class="answer">Влітку.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%97%D1%83%D0%B1%D1%80">Зубр (wiki)</a>
         </section>
     </section>
     <section class="question" number="182">
@@ -2402,6 +2409,8 @@
         <section class="answer">В липні-серпні.</section>
         <section class="answer">В вересні-жовтні.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D1%8C">Лось (wiki)</a><br />
+            <a href="//uk.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D1%8C_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9">Лось звичайний (wiki)</a>
         </section>
     </section>
     <section class="question" number="185">
@@ -2670,6 +2679,7 @@
         <section class="answer">Ящура.</section>
         <section class="answer">Бруцельозу.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D1%8F_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0">Лисиця звичайна (wiki)</a>
         </section>
     </section>
     <section class="question" number="210">
@@ -2680,6 +2690,7 @@
         <section class="answer">1-2.</section>
         <section class="answer">5-6.</section>
         <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%97%D0%B0%D1%94%D1%86%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9">Заєць сірий (wiki)</a>
         </section>
     </section>
     <section class="question" number="211">
@@ -2786,6 +2797,7 @@
             <a href="//uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%96%D0%BF%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0">Куріпка сіра (wiki)</a>
             В Україні осілий птах всіх областей окрім Карпат і суцільних лісових масивів Полісся.<br />
             <a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%BA%D0%B2%D0%B0">Слуква, або вальдшнеп (wiki)</a>
+            В Україні звичайний гніздовий, перелітний птах північної частини Полісся, Карпат і Закарпаття;
         </section>
     </section>
     <section class="question" number="220">
