@@ -113,7 +113,7 @@
         <section class="answer">Мисливський сезон.</section>
         <section class="answer">3 роки.</section>
         <section class="answer" data-correct="data-correct">Необмежений.</section>
-        <section class="description TODO">
+        <section class="description">
             Законом не врегульовано. Аналогія закону? Принцип свободи?
         </section>
     </section>
@@ -1318,7 +1318,7 @@
         <section class="answer" data-correct="data-correct">Не може.</section>
         <section class="answer">Може, якщо покупець - близький родич і мисливець.</section>
         <section class="answer">Може, але через спеціалізований магазин.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="94">
@@ -1493,8 +1493,6 @@
         <section class="answer">Зарядити рушницю і продовжити полювання.</section>
         <section class="answer" data-correct="data-correct">Розрядити рушницю і перевірити чи не залишилося в каналі ствола клейтуха, прокладки або частини розірваної гільзи.</section>
         <section class="description">
-            TODO
-            <hr />
             <a href="//www.youtube.com/watch?v=lC86w_WlgD8">Затжний постріл (youtube)</a>
         </section>
     </section>
@@ -1532,7 +1530,7 @@
         </section>
         <section class="answer">250 м.</section>
         <section class="answer" data-correct="data-correct">Більше, ніж звичайна, для даного номену шроту.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="111">
@@ -1542,7 +1540,7 @@
         <section class="answer" data-correct="data-correct">Ні, можливий розрив ствола.</section>
         <section class="answer">Треба врахувати, що дальність пострілу буде збільшена.</section>
         <section class="answer">Можна, буде збільшено діаметр "снопа".</section>
-        <section class="description TODO">
+        <section class="description">
             ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br />
             <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n57">III. Правила поводження з мисливською вогнепальною зброєю на полюванні</a><br />
             3.14. У разі якщо патрон не входить в патронник стволів, категорично заборонено його туди втискати, треба обережно вийняти і замінити іншим.
@@ -1572,7 +1570,7 @@
         <section class="answer">1000 м.</section>
         <section class="answer" data-correct="data-correct">1500 м.</section>
         <section class="answer">2000 м.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="114">
@@ -1659,7 +1657,9 @@
         <section class="answer" data-correct="data-correct">Відкрити рушницю.</section>
         <section class="answer">Поставити рушницю на запобіжник.</section>
         <section class="answer">Взяти рушницю на плече.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon2.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            1.6. Зустрівши людину в мисливських угіддях, зброю потрібно відкрити, вийняти з неї патрони, якщо вона заряджена.
         </section>
     </section>
     <section class="question" number="120">
@@ -1682,7 +1682,10 @@
         <section class="answer">Не дозволяється.</section>
         <section class="answer">Дозволяється.</section>
         <section class="answer" data-correct="data-correct">Дозволяється після того, коли мисливець, на якого іде звір зробив два постріли, а звір продовжує бігти.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon2.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            4.24. Стрільба по звірові, що рухається в напрямку сусіднього номера, забороняється.<br />
+            4.26. Забороняється стрільба по тварині, яка впала від пострілу іншого мисливця.
         </section>
     </section>
     <section class="question" number="122">
@@ -1707,7 +1710,7 @@
         <section class="answer" data-correct="data-correct">Не можна.</section>
         <section class="answer">Можна.</section>
         <section class="answer">Не можна, якщо глибина водойми перевищує зріст людини.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="124">
@@ -1717,7 +1720,7 @@
         <section class="answer" data-correct="data-correct">2 мисливцям з собаками.</section>
         <section class="answer">Одному досвідченому мисливцю.</section>
         <section class="answer">Кількість мисливців не обмежується.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="125">
@@ -1739,7 +1742,10 @@
         <section class="answer" data-correct="data-correct">З заду.</section>
         <section class="answer">Спереду.</section>
         <section class="answer">Збоку.</section>
-        <section class="description TODO">
+        <section class="description">
+            <a href="http://zakon2.rada.gov.ua/laws/show/z0389-07">ПОЛОЖЕННЯ про порядок поводження із зброєю, видачі ліцензій на добування мисливських тварин та проведення полювань</a> (втратив чинність)<br />
+            4.27. Підходити до лося, кабана чи іншого великого звіра, що впав і лежить нерухомо, потрібно з рушницею, повністю готовою до пострілу.<br />
+            4.28. Підходити до звіра, який лежить, слід тільки з боку спини, звертаючи увагу на вуха і шерсть на загривку. Якщо вуха притиснуті, а шерсть піднята, то звір ще живий і небезпечний. Виявивши це, не підходячи близько до звіра, потрібно дострелити його.
         </section>
     </section>
     <section class="question" number="127">
@@ -1762,7 +1768,7 @@
         <section class="answer">На Південь.</section>
         <section class="answer">На Захід.</section>
         <section class="answer" data-correct="data-correct">На Північ.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="129">
@@ -1782,7 +1788,7 @@
         <section class="answer">Чок.</section>
         <section class="answer">Раструб.</section>
         <section class="answer">Циліндр.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="131">
@@ -1792,7 +1798,7 @@
         <section class="answer" data-correct="data-correct">Металеві.</section>
         <section class="answer">Папкові.</section>
         <section class="answer">Пластикові.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="132">
@@ -1827,7 +1833,7 @@
         <section class="answer" data-correct="data-correct">Стволом вгору.</section>
         <section class="answer">Стволами в землю.</section>
         <section class="answer">Горизонтально.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="135">
@@ -2134,7 +2140,7 @@
         <section class="answer" data-correct="data-correct">Накласти стискаючу пов’язку вище місця пошкодження.</section>
         <section class="answer">Накласти стискаючу пов’язку нижче місця пошкодження.</section>
         <section class="answer">Накласти стискаючу пов’язку на місце пошкодження.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="159">
@@ -2144,7 +2150,7 @@
         <section class="answer" data-correct="data-correct">З моменту припинення кровотечі.</section>
         <section class="answer">З початку вдавлювання жгута в тіло.</section>
         <section class="answer">При больовому реагуванні потерпілого.</section>
-        <section class="description TODO">
+        <section class="description">
             В момент зникнення пульсу.
         </section>
     </section>
@@ -2155,7 +2161,7 @@
         <section class="answer" data-correct="data-correct">Головний біль, тошнота, рвота, втрата свідомості.</section>
         <section class="answer">Сонливість, в’ялість, бліда шкіра, прискорення пульсу і дихання.</section>
         <section class="answer">Збуджений стан, почервоніння шкіри, підвищенне слиновиділення, потемніння в очах.</section>
-        <section class="description TODO">
+        <section class="description">
             Утрата свідомості в момент ушкодження хоча б на короткий термін, наступна блювота, запаморочення, головний біль.
         </section>
     </section>
@@ -2166,7 +2172,7 @@
         <section class="answer" data-correct="data-correct">Дати потерпілому багато рідини, застосувати сироватку.</section>
         <section class="answer">Висмоктати кров з рани та перетягнути кінцівку.</section>
         <section class="answer">Попередньо перетягнувши кінцівку, зробити розріз в місці укусу та спустити кров.</section>
-        <section class="description TODO">
+        <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D1%8E%D0%BA%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0">Гадюка звичайна (wiki)</a>
             <hr />
             Використати специфічні сироватки, перетяжку кінцівки краще не робити, висмоктувати кров з рани також, можливо використання місцевих примочок з марганцівки.
@@ -2209,7 +2215,7 @@
         <section class="answer" data-correct="data-correct">Звичайна сіль, або сіль-лизунець, покладена в спеціальну біотехнічну споруду.</section>
         <section class="answer">Водойма із солоною водою.</section>
         <section class="answer">Посудина із солоною водою.</section>
-        <section class="description TODO">
+        <section class="description">
             Штучна споруда для підгодівлі сіллю та мінеральними речовинами.
         </section>
     </section>
@@ -2220,7 +2226,7 @@
         <section class="answer" data-correct="data-correct">Травень-Червень.</section>
         <section class="answer">Липень-вересень.</section>
         <section class="answer">Вересень-жовтень.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="166">
@@ -2230,7 +2236,7 @@
         <section class="answer" data-correct="data-correct">20%.</section>
         <section class="answer">40%</section>
         <section class="answer">60%</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="167">
@@ -2240,7 +2246,7 @@
         <section class="answer" data-correct="data-correct">5-10%.</section>
         <section class="answer">15%.</section>
         <section class="answer">20-25%.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="168">
@@ -2250,7 +2256,7 @@
         <section class="answer" data-correct="data-correct">Вагою менше 50 кг.</section>
         <section class="answer">З вагою більше 80кг. і більше.</section>
         <section class="answer">Одиноких.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="169">
@@ -2260,7 +2266,7 @@
         <section class="answer" data-correct="data-correct">Здатність собаки підносити дичину до ніг мисливця.</section>
         <section class="answer">Здатність собаки швидко знаходити дичину, що притаїлася.</section>
         <section class="answer">Здатність собаки переслідувати поранену дичину.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="170">
@@ -2271,7 +2277,7 @@
         <section class="answer">Довідка про походження, що видає первинна організація мисливців.</section>
         <section class="answer">Сертифікат про походження собаки.</section>
         <section class="answer">Паспорт мисливської собаки.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="171">
@@ -2281,7 +2287,7 @@
         <section class="answer" data-correct="data-correct">Вигон пернатої дичини під постріл мисливця, та пошук підранків.</section>
         <section class="answer">Робота по пернатій дичині зі стойкою.</section>
         <section class="answer">Загонне полювання на зайця.</section>
-        <section class="description TODO">
+        <section class="description">
             Полювання по водоплавній, болотній та лісовій дичині. Знімає дичину на крило та потім подає трофеї.
         </section>
     </section>
@@ -2292,7 +2298,7 @@
         <section class="answer" data-correct="data-correct">Можна, коли у мисливця не має відповідних документів на право полювання та паспорту на собаку, з допуском до полювання в поточному році.</section>
         <section class="answer">Не можна ні в якому разі.</section>
         <section class="answer">Можна, коли собака нанесла збитки мисливській фауні.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="173">
@@ -2316,7 +2322,7 @@
         <section class="answer" data-correct="data-correct">На мисливських птахів.</section>
         <section class="answer">На хутрових звірів.</section>
         <section class="answer">На копитних тварин.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="175">
@@ -2326,7 +2332,7 @@
         <section class="answer" data-correct="data-correct">На на зайця та лисицю.</section>
         <section class="answer">На мисливських птахів.</section>
         <section class="answer">На копитних тварин.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="176">
@@ -2336,7 +2342,7 @@
         <section class="answer" data-correct="data-correct">Проводиться у встановленому порядку в спеціально відведених місцях.</section>
         <section class="answer">Дозволяється тільки в зеленій зоні.</section>
         <section class="answer">Забороняється.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="177">
@@ -2347,7 +2353,7 @@
         <section class="answer">Родовід.</section>
         <section class="answer">Ветеринарне свідотство.</section>
         <section class="answer">Фотографія собаки поруч з господаркем.</section>
-        <section class="description TODO">
+        <section class="description">
         </section>
     </section>
     <section class="question" number="178">
@@ -2357,7 +2363,7 @@
         <section class="answer" data-correct="data-correct">Комплексна оцінка якостей для всіх мисливських собак.</section>
         <section class="answer">Нагородження дипломом після виставки мисливських собак.</section>
         <section class="answer">Спеціальна підготовка мисливських собак для полювання на копитних тварин.</section>
-        <section class="description TODO">
+        <section class="description">
             Комплексна оцінка якостей собаки: мисливські дипломи, екстер'єр, походження, наявність потомства.
         </section>
     </section>
@@ -2524,7 +2530,7 @@
         <section class="answer" data-correct="data-correct">Не більше 5.</section>
         <section class="answer">Не більше 6.</section>
         <section class="answer">Не більше 7.</section>
-        <section class="description TODO">
+        <section class="description">
             В середньому 4.
         </section>
     </section>
