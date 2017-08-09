@@ -25,7 +25,7 @@
     <script>
         var quizEngine = null;
         $(function () {
-            quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: '//rawcdn.githack.com/Olezha/jagtex/5b024dd14f15592fc3bd5fe8617b985fb0fa1350/quiz/test.xml' });
+            quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: '//rawcdn.githack.com/Olezha/jagtex/f59aa28b2afc52ac62494828b21e6592796d4361/quiz/test.xml' });
         });
     </script>
 </head>
@@ -56,7 +56,6 @@
                     <div class="jumbotron">
                         <h1 data-bind="text: quizTitle"></h1>
                         <p data-bind="text: quizSubTitle"></p>
-                        <p style="line-height: .8;"><span style="color: red;">В розробці.</span> <span style="font-size: 14px;">Багато білетів ще <a href="//jagtex.blogspot.com/p/about.html">потребують виправлень</a>.</span></p>
                         <p><button class="btn btn-primary btn-lg" data-bind="click: startQuiz">Почати</button></p>
                     </div>
                 </section>
@@ -80,7 +79,6 @@
                     <div>Date: <span data-bind="text: calculatedScoreDate"></span></div>
                     <div>Overall Score: <span data-bind="text: calculatedScore"></span>%</div>
                     <div>Correct Questions: <span data-bind="text: totalQuestionsCorrect"></span></div>
-                    <div>УВАГА: в даному тесті опрацьовані не всі білети і любий користувач може його <a href="//jagtex.blogspot.com/p/about.html">доповнити</a>.</div>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': calculatedScore }, style: { width: calculatedScore() + '%' }, css: { 'progress-bar-success': quizPassed, 'progress-bar-danger': !quizPassed() }"></div>
                     </div>
@@ -107,7 +105,7 @@
         </div>
         <footer>
             <div class="container">
-                <div class="row">
+                <div class="row" id="contacts">
                     <div class="col-md-4">
                         Розробка:
                         <ul>
@@ -123,6 +121,12 @@
                 </div>
             </div>
         </footer>
+        <script>
+            $('a[href="#contacts"]').on('click', function(event){
+                event.preventDefault();
+                $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+            });
+        </script>
     </b:if>
 </body>
 </html>
