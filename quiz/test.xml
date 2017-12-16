@@ -830,6 +830,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Як незаконно добуту.</section>
         <section class="answer">Ніяк.</section>
+        <section class="answer">Як добуту з порушеннями.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
@@ -866,8 +867,7 @@
             <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
             За дозволом може здійснюватися відстріл (відлов) будь-якого виду мисливських тварин з метою селекційного відбору, ветеринарно-санітарної експертизи, регулювання чисельності.
             <hr />
-            МІНІСТЕРСТВО ОХОРОНИ НАВКОЛИШНЬОГО ПРИРОДНОГО СЕРЕДОВИЩА ТА ЯДЕРНОЇ БЕЗПЕКИ УКРАЇНИ<br />
-            <a href="http://zakon2.rada.gov.ua/laws/show/z0608-99">Правила видачі дозволів на спеціальне використання диких тварин та інших об'єктів тваринного світу, віднесених до природних ресурсів загальнодержавного значення</a>
+            Міністерство екології та природних ресурсів (Мінприроди) України
         </section>
     </section>
     <section class="question" number="63">
@@ -895,6 +895,8 @@
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
             За дозволом може здійснюватися відстріл (відлов) будь-якого виду мисливських тварин з метою селекційного відбору, ветеринарно-санітарної експертизи, регулювання чисельності.
+            <hr />
+            Міністерство екології та природних ресурсів (Мінприроди) України
         </section>
     </section>
     <section class="question" number="64">
@@ -913,6 +915,8 @@
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
             За дозволом може здійснюватися відстріл (відлов) будь-якого виду мисливських тварин з метою селекційного відбору, ветеринарно-санітарної експертизи, регулювання чисельності.
+            <hr />
+            Міністерство екології та природних ресурсів (Мінприроди) України
         </section>
     </section>
     <section class="question" number="65">
@@ -3037,7 +3041,9 @@
         <section class="text">
             Чим відрізняється крохаль від інших видів качок?
         </section>
-        <section class="answer" data-correct="data-correct">Гніздується в дуплах.</section>
+        <section class="answer" data-correct="data-correct">Має загнутий на кінці дзьоб.</section>
+        <section class="answer">Мешкає в лісах.</section>
+        <section class="answer">Харчується рибою.</section>
         <section class="description">
             <a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%85">Крех (wiki)</a>
         </section>
@@ -3060,6 +3066,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Бездимний порох і капсуль "жевело".</section>
         <section class="answer">Бездимний порох і капсуль "центробой".</section>
+        <section class="answer">Димний порох і капсуль "жевело".</section>
         <section class="description">
         </section>
     </section>
@@ -3078,6 +3085,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Всеїдні.</section>
         <section class="answer">Травоїдні.</section>
+        <section class="answer">Хижі.</section>
         <section class="description">
         </section>
     </section>
