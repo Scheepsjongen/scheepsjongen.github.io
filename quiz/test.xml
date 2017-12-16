@@ -34,6 +34,8 @@
         <section class="answer">Ліси і поля.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o39">ЗАКОН УКРАЇНИ Про мисливське господарство та полювання Розділ I Стаття 1. Терміни та їх визначення</a>: мисливські угіддя - ділянки суші та водного простору, на яких перебувають мисливські тварини і які можуть бути використані для ведення мисливського господарства;
+            <hr />
+            Можлива вірна відповідь: Всі ділянки суші та водного простору.
         </section>
     </section>
     <section class="question" number="3">
@@ -64,30 +66,24 @@
         <section class="text">
             Хто здійснює державне управління в галузі охорони і використання тваринного світу?
         </section>
-        <section class="answer">Держкомлісгосп.</section>
+        <section class="answer">Держлісагентство України.</section>
         <section class="answer" data-correct="data-correct">Міністерство охорони навколишнього середовища.</section>
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
         <section class="answer">Кабінет Міністрів України.</section>
         <section class="answer">Громадські мисливські організації.</section>
         <section class="description">
-            TODO: Кабінет Міністрів України.<br />
-            <a href="//uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BD%D1%96%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%B8%D1%88%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Міністерство охорони навколишнього природного середовища України</a> - колишнє міністерство України. Тепер Міністерство охорони навколишнього природного середовища.
         </section>
     </section>
     <section class="question" number="6">
         <section class="text">
             Хто є спеціально уповноваженим органом у галузі ведення мисливського господарства?
         </section>
-        <section class="answer" data-correct="data-correct">Державний комітет лісового господарства та його органи на місцях.</section>
+        <section class="answer" data-correct="data-correct">Держлісагенство України та його територіальні органи на місцях.</section>
         <section class="answer">Міністерство охорони навколишнього природного середовища України.</section>
         <section class="answer">Кабінет Міністрів України.</section>
         <section class="answer">Громадські мисливські організації.</section>
         <section class="description">
-            TODO
-            <hr />
-            КУпАП <a href="http://zakon3.rada.gov.ua/laws/show/80732-10/page3#n212">Стаття 242. Центральний орган виконавчої влади, що реалізує державну політику у сфері мисливського господарства</a>
-            <hr />
-            <a href="//uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BC%D1%96%D1%82%D0%B5%D1%82_%D0%BB%D1%96%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8">Держкомлісгосп</a> - колишній центральний орган виконавчої влади України з питань лісового, мисливського господарства, полювання та мисливського собаківництва. Реорганізований у <a href="http://dklg.kmu.gov.ua/forest/control/uk/index">Державне агентство лісових ресурсів України</a>.
+            <a href="http://zakon3.rada.gov.ua/laws/show/521-2014-%D0%BF#n7">Державне агентство лісових ресурсів України (Держлісагентство)</a> - є центральним органом виконавчої влади ... який реалізує державну політику у сфері лісового та мисливського господарства.
         </section>
     </section>
     <section class="question" number="7">
@@ -253,7 +249,7 @@
         <section class="answer">Міністерство аграрної політики та продовольства України.</section>
         <section class="answer">Кабінет Міністрів України.</section>
         <section class="answer">Громадські мисливські організації.</section>
-        <section class="answer" data-correct="data-correct">Користувачем мисливських угідь.</section>
+        <section class="answer" data-correct="data-correct">Користувач мисливських угідь.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o184">Стаття 17. Дозволи на добування мисливських тварин, віднесених до державного мисливського фонду</a><br />
@@ -326,9 +322,10 @@
         <section class="text">
             На який термін надаються у користування мисливські угіддя?
         </section>
-        <section class="answer" data-correct="data-correct">Не менш ніж 15 років.</section>
+        <section class="answer" data-correct="data-correct">Не менше 15 років.</section>
         <section class="answer">На 25 або 50 років.</section>
         <section class="answer">На 10-15 років.</section>
+        <section class="answer">На 5 років.</section>
         <section class="answer">На 20 років.</section>
         <section class="answer">Не менш ніж на 25 років.</section>
         <section class="description">
@@ -350,10 +347,10 @@
     </section>
     <section class="question" number="25">
         <section class="text">
-            Чи дозволяеться полювання вночi?
+            Чи дозволяється полювання вночі?
         </section>
-        <section class="answer" data-correct="data-correct">Нi.</section>
-        <section class="answer">Так.</section>
+        <section class="answer" data-correct="data-correct">Заборонено в усіх випадках.</section>
+        <section class="answer">Дозволяється.</section>
         <section class="answer">Лише з приладом нічного бачення.</section>
         <section class="answer">Дозволяється тільки в деяких випадках.</section>
         <section class="description">
@@ -723,7 +720,7 @@
         <section class="answer">визначати та вказувати межі для полування</section>
         <section class="answer">залучати мисливців до трудової участі</section>
         <section class="description">
-            TODO: які варіанти відповіді в тесті?
+            TODO ?
             <hr />
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="http://zakon3.rada.gov.ua/laws/show/1478-14/page2#o415">Стаття 39. Права працівників, уповноважених здійснювати контроль у галузі мисливського господарства та полювання</a>
@@ -855,7 +852,7 @@
         <section class="text">
             Чи дозволяється полювання на гоголя і якщо дозволяється, то за якими документами?
         </section>
-        <section class="answer" data-correct="data-correct">Дозволяється лише за дозволом Мінекобезпеки.</section>
+        <section class="answer" data-correct="data-correct">Дозволяється лише за дозволом Мінприроди України.</section>
         <section class="answer">Відстрільна картка.</section>
         <section class="answer">Ліцензія.</section>
         <section class="description">
@@ -877,7 +874,7 @@
         <section class="text">
             При наявності яких дозволів дозволяється полювання на дрофу, стрепета та глухаря?
         </section>
-        <section class="answer" data-correct="data-correct">Ліцензія Мінекобезпеки.</section>
+        <section class="answer" data-correct="data-correct">Ліцензія Мінприроди України.</section>
         <section class="answer">Дозвіл.</section>
         <section class="answer">Відстрільна картка.</section>
         <section class="description">
@@ -904,7 +901,7 @@
         <section class="text">
             За яких умов дозволяється полювання на видру?
         </section>
-        <section class="answer" data-correct="data-correct">Ліцензія Мінекобезпеки.</section>
+        <section class="answer" data-correct="data-correct">Ліцензія Мінприроди України.</section>
         <section class="answer">Якщо вона занадто докучає веденню веденню сільського господарства.</section>
         <section class="answer">Відстрільна картка.</section>
         <section class="description">
@@ -1067,13 +1064,13 @@
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на самиць кабана, лані, оленів європейського та плямистого, лося, муфлона.
         </section>
-        <section class="answer" data-correct="data-correct">У вересені - січні.</section>
+        <section class="answer" data-correct="data-correct">У вересні - грудні.</section>
+        <section class="answer">У вересені - січні.</section>
         <section class="answer">У серпні - січні.</section>
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            TODO<br />
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
@@ -1081,13 +1078,12 @@
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на білку, єнотоподібного собаку, лисицю, куницю лісову та кам'яну, тхора лісового.
         </section>
-        <section class="answer" data-correct="data-correct">З 15 жовтня по лютий включно.</section>
+        <section class="answer" data-correct="data-correct">У жовтні - лютому.</section>
         <section class="answer">У серпні - січні.</section>
         <section class="answer">У жовтні - грудні.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
-            TODO<br />
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202">Стаття 19. Строки полювання</a>.
         </section>
     </section>
@@ -1160,10 +1156,11 @@
     </section>
     <section class="question" number="82">
         <section class="text">
-            В який період здійснюється полювання на вовка?
+            В який період дозволяється полювання на вовка?
         </section>
-        <section class="answer" data-correct="data-correct">Цілий рік.</section>
+        <section class="answer" data-correct="data-correct">В мисливський сезон, а не в мисливський сезон - за спеціальним дозволом.</section>
         <section class="answer">Серпень - Лютий.</section>
+        <section class="answer">Лише в мисливський сезон.</section>
         <section class="answer">При полюванні на хутрових звірів.</section>
         <section class="description">
             В мисливський сезон - під час полювання на інші види дичини; не в мисливський сезон - за спеціальним дозволом.
@@ -1271,7 +1268,7 @@
         <section class="answer">Вид придатного патрону.</section>
         <section class="answer">Внутрішній діаметр ствола в мм.</section>
         <section class="answer">Внутрішній діаметр ствола в дюймах.</section>
-        <section class="answer" data-correct="data-correct">Число калібру означає кількість куль, які можна відлити з 1 англійського фунта свинцю.</section>
+        <section class="answer" data-correct="data-correct">Число калібру означає кількість куль, які можна відлити з одного англійського фунта свинцю.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%96%D0%B1%D1%80">Калібр (wiki)</a>
         </section>
@@ -1388,7 +1385,7 @@
         <section class="text">
             На які види тварин забороняється проводити полювання з використанням набоїв, споряджених картеччю?
         </section>
-        <section class="answer" data-correct="data-correct">На копитних.</section>
+        <section class="answer" data-correct="data-correct">На копитних тварин всіх вікових груп.</section>
         <section class="answer">На копитних старших вікових груп.</section>
         <section class="answer">На ведмедя.</section>
         <section class="description">
@@ -1637,7 +1634,7 @@
         <section class="text">
             Коли припиняється стрільба в бік загону при облавному полюванні на копитних тварин?
         </section>
-        <section class="answer" data-correct="data-correct">~300 м.</section>
+        <section class="answer" data-correct="data-correct">Коли нагоничі наблизились на 300 м до стрілецької лінії.</section>
         <section class="answer">Стріляти в бік загону не можна взагалі.</section>
         <section class="answer">Коли вже чути нагоничів.</section>
         <section class="answer">Коли вже видно нагоничів.</section>
@@ -1771,7 +1768,7 @@
     </section>
     <section class="question" number="127">
         <section class="text">
-            В якому випадку потрібно добивати поранену тварину прикладом зброї?
+            В якому випадку можна добивати поранену тварину прикладом зброї?
         </section>
         <section class="answer" data-correct="data-correct">Це робити суворо заборонено.</section>
         <section class="answer">Коли в мисливця немає патронів.</section>
@@ -2256,9 +2253,9 @@
         <section class="text">
             Вкажіть на скільки відсотків збільшується щорічно поголів'я козулі при нормальному стані популяції?
         </section>
-        <section class="answer" data-correct="data-correct">20%.</section>
-        <section class="answer">40%</section>
-        <section class="answer">60%</section>
+        <section class="answer" data-correct="data-correct">На 20%.</section>
+        <section class="answer">На 40%</section>
+        <section class="answer">На 60%</section>
         <section class="description">
         </section>
     </section>
@@ -2350,7 +2347,7 @@
     </section>
     <section class="question" number="175">
         <section class="text">
-            На які види тварин проводиться полювання з гончою собакою?
+            З гончою собакою переважно полюють на:
         </section>
         <section class="answer" data-correct="data-correct">На на зайця та лисицю.</section>
         <section class="answer">На мисливських птахів.</section>
@@ -2394,11 +2391,10 @@
         <section class="text">
             Хто затверджує правила проведення натаскування, наганяння, протравлювання та польові випробування мисливських собак?
         </section>
-        <section class="answer" data-correct="data-correct">Держкомлісгосп.</section>
-        <section class="answer">Громадською мисливською організацією.</section>
-        <section class="answer">Кінологічними секціями а областях.</section>
+        <section class="answer" data-correct="data-correct">Держлісагенство України.</section>
+        <section class="answer">Громадські мисливські організації.</section>
+        <section class="answer">Кінологічні секції по областях.</section>
         <section class="description">
-            TODO
         </section>
     </section>
     <section class="question" number="180">
@@ -2499,9 +2495,9 @@
         <section class="text">
             Коли проходить гін у оленя європейського?
         </section>
-        <section class="answer" data-correct="data-correct">Вересень-жовтень.</section>
-        <section class="answer">Червень-липень.</section>
-        <section class="answer">Грудень-січень.</section>
+        <section class="answer" data-correct="data-correct">Вересні-жовтні.</section>
+        <section class="answer">Червні-липні.</section>
+        <section class="answer">Грудні-січні.</section>
         <section class="description">
         </section>
     </section>
@@ -2720,7 +2716,7 @@
         <section class="text">
             Розповсюдником яких хвороб є лисиця?
         </section>
-        <section class="answer" data-correct="data-correct">Сказ.</section>
+        <section class="answer" data-correct="data-correct">Сказу.</section>
         <section class="answer">Ящура.</section>
         <section class="answer">Бруцельозу.</section>
         <section class="description">
@@ -2757,6 +2753,16 @@
         <section class="answer" data-correct="data-correct">Ні.</section>
         <section class="answer">Знаходить нору.</section>
         <section class="answer">Робить гніздо з пуху.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="212a">
+        <section class="text">
+            Зайчиха приводить зайчат:
+        </section>
+        <section class="answer" data-correct="data-correct">На землі.</section>
+        <section class="answer">У норі.</section>
+        <section class="answer">Зробивши гніздо з пуху.</section>
         <section class="description">
         </section>
     </section>
@@ -2989,6 +2995,8 @@
         <section class="answer">4-7 яєць.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9">Фазан звичайний (wiki)</a>
+            <hr />
+            Можлива правильна відповідь на іспиті: Не більше 20.
         </section>
     </section>
     <section class="question" number="233">
@@ -3044,6 +3052,33 @@
         <section class="answer">Гніздиться у норі.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)">Гоголь (птах) (wiki)</a>
+        </section>
+    </section>
+    <section class="question" number="400">
+        <section class="text">
+            При зарядці патронів, яка із поданих нижче комбінації пороху і капсуля є правильною?
+        </section>
+        <section class="answer" data-correct="data-correct">Бездимний порох і капсуль "жевело".</section>
+        <section class="answer">Бездимний порох і капсуль "центробой".</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="401">
+        <section class="text">
+            При якому співвідношенні в популяції можна добувати зайців?
+        </section>
+        <section class="answer" data-correct="data-correct">Коли молодняка більше дорослих.</section>
+        <section class="answer">Коли дорослих більше молодняка.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="402">
+        <section class="text">
+            До якої групи тварин відноситься кабан?
+        </section>
+        <section class="answer" data-correct="data-correct">Всеїдні.</section>
+        <section class="answer">Травоїдні.</section>
+        <section class="description">
         </section>
     </section>
 </section>
