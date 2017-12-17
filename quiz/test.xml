@@ -611,6 +611,8 @@
             На які види диких качок та гусей полювання в Україні заборонено?
         </section>
         <section class="answer" data-correct="data-correct">Гоголь, Чернь білоока, Савка, Огара, Галагаза, Гага звичайна, Лутка, Крохаль.</section>
+        <section class="answer">Огара, Галагаза, Гага звичайна, Гоголь, Чернь білоока, Гуска білолоба.</section>
+        <section class="answer">Гоголь, Огара, Галагаза, Крижень, Крохаль.</section>
         <section class="description">
         </section>
     </section>
@@ -1471,7 +1473,9 @@
         <section class="text">
             З якою зброєю і якими набоями забороняється полювання на копитних тварин?
         </section>
-        <section class="answer" data-correct="data-correct">Малокаліберної гвинтівки під патрон кільцевого запалювання або набоїв, споряджених картеччю чи шротом.</section>
+        <section class="answer" data-correct="data-correct">З малокаліберної гвинтівки під патрон кільцевого запалювання або набоїв, споряджених картеччю чи шротом.</section>
+        <section class="answer">Набоями, спорядженими кулями.</section>
+        <section class="answer">Лише набоями, спорядженими картеччю чи шротом.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
@@ -1484,6 +1488,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
         <section class="answer">Так.</section>
+        <section class="answer">Лише за погодженням користувача угідь.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br />
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217">Стаття 20. Заборони щодо здійснення полювання</a><br />
@@ -1549,6 +1554,7 @@
             Яка максимальна дальність польоту шротин, що склеїлись?
         </section>
         <section class="answer">250 м.</section>
+        <section class="answer">220 - 300 м.</section>
         <section class="answer" data-correct="data-correct">Більше, ніж звичайна, для даного номену шроту.</section>
         <section class="description">
         </section>
@@ -1800,6 +1806,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Набої з довжиною гільзи до 70 мм включно.</section>
         <section class="answer">Тільки набої з довжиною гільзи 70 мм.</section>
+        <section class="answer">З таким патронником можна використовувати всі набої.</section>
         <section class="description">
         </section>
     </section>
@@ -2405,7 +2412,10 @@
         <section class="text">
             3 якими породами мисливських собак дозволяється полювання на перепела?
         </section>
-        <section class="answer" data-correct="data-correct">Всі, лягава.</section>
+        <section class="answer" data-correct="data-correct">З усіма.</section>
+        <section class="answer">З лягавими та спаніелями.</section>
+        <section class="answer">З ретриверами.</section>
+        <section class="answer">З лайками та гончими.</section>
         <section class="description">
         </section>
     </section>
@@ -2776,6 +2786,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Ні.</section>
         <section class="answer">Так.</section>
+        <section class="answer">Залежить від його ваги.</section>
         <section class="description">
         </section>
     </section>
