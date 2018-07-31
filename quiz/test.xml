@@ -1338,6 +1338,7 @@
         <section class="answer" data-correct="data-correct">Не може.</section>
         <section class="answer">Може, якщо покупець - близький родич і мисливець.</section>
         <section class="answer">Може, але через спеціалізований магазин.</section>
+        <section class="answer">Може, обов'язково зателефонувавши потiм дозвiльному iнспекторовi.</section>
         <section class="description">
         </section>
     </section>
@@ -2077,7 +2078,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Дати повний спокій, укрити, застосувати болевгамовуючі засоби.</section>
         <section class="answer">Побризкати обличчя холодною водою, енергійно розтерти шкіру на обличчі, дати понюхати нашатирного спирту.</section>
-        <section class="answer">Надати потерпілому лижачого, чи напівсидячого положення, на лоб, і на потилицю покласти холодні примочки.</section>
+        <section class="answer">Надати потерпілому лежачого, чи напівсидячого положення, на лоб, і на потилицю покласти холодні примочки.</section>
         <section class="description">
             Травматичний шок - глибоке пригнічення життєво важливих функцій, стан, що вимагає кваліфікованої медичної допомоги. У порядку першої долікарської медичної допомоги необхідно створити найбільш прийнятні умови для потерпілого. В даному випадку, покласти потерпілого, укрити і дати наявні болезаспокійливі засоби, контролювати дихання і пульс, буде для потерпілого найбезпечніше.
         </section>
@@ -3097,6 +3098,17 @@
         <section class="answer" data-correct="data-correct">Всеїдні.</section>
         <section class="answer">Травоїдні.</section>
         <section class="answer">Хижі.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="403">
+        <section class="text">
+            Якщо мисливець здобув на одну качку бiльше, нiж зазначений лiмiт у вiдстрiльнiй картцi, то мисливець:
+        </section>
+        <section class="answer" data-correct="data-correct">Несе вiдповiдальнiсть за Статею 85 Кодексу України про адміністративні правопорушення, штраф вiд 1020 до 2040 грн.</section>
+        <section class="answer">Платить за ще одну вiдстрiльну картку.</section>
+        <section class="answer">Платить за додатковi 0,5 кг м'яса згiдно Статтi 43 Закону "Про мисливське господарство та полювання" - "Відшкодування збитків..."</section>
+        <section class="answer">Може вiддати позалiмiтну качку кумовi, затребувавши з ньго замiсть вiдстрiляного набою ...</section>
         <section class="description">
         </section>
     </section>
