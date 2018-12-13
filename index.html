@@ -26,8 +26,9 @@
     <script src="js/jsQuizEngine.js"></script>
     <script>
         var quizEngine = null;
+        var quizUrl = 'quiz/test.xml';
         $(function () {
-            quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: 'quiz/test.xml' });
+            quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: quizUrl });
         });
     </script>
 </head>
@@ -45,6 +46,7 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
+                    <li><a href="//jagtex.blogspot.com/p/list.html">List</a></li>
                     <li class="active"><a href="//jagtex.blogspot.com/p/about.html">About</a></li>
                 </ul>
             </div>

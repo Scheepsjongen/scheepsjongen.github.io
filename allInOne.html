@@ -1,0 +1,52 @@
+<!--
+// Jagten Exam //github.com/Olezha/jagtex
+// Copyright (c) 2018 Oleh Shklyar
+-->
+<!DOCTYPE html>
+<html xmlns="//www.w3.org/1999/xhtml">
+<head>
+    <title>Jagten Exam</title>
+    <meta name="description" content="Тест для підготовки до проходження іспиту на посвідчення мисливця (неофіційна версія)">
+    <meta name="keywords" content="тест, мисливця, охотника, відповіді, ответы, посвідчення, удостоверение, екзамен, экзамен, охотбилет, Україна, Украина, вопросы, питання, лесхоз">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/jsQuizEngine.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <script src="js/jquery-1.11.2.js"></script>
+    <script src="js/knockout-2.2.1.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jsQuizEngine.js"></script>
+    <script>
+        var quizEngine = null;
+        var quizUrl = 'quiz/test.xml';
+        $(function () {
+            quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: quizUrl });
+        });
+    </script>
+</head>
+<body>
+
+<div class="question-pool"></div>
+<style type="text/css">
+    .question-pool .question .text {
+        margin: 25px 0 0;
+    }
+    .question-pool .question .text:before {
+        content: "Q: ";
+    }
+    .question-pool .question .answer:before {
+        content: "A: ";
+    }
+</style>
+<script>
+$(function () {
+    $('.question-pool').load(quizUrl, function () {
+        $('.question-pool > .quiz .question .answer[data-correct!="data-correct"]').remove();
+        $('.question-pool > .quiz .question .description').remove();
+    });
+});
+</script>
+
+</body>
+</html>
