@@ -47,9 +47,9 @@
 $(function () {
     $('.question-pool').load(quizUrl, function() {
         $('.question-pool > .quiz .question .answer[data-correct!="data-correct"]').remove();
-        $('.question-pool .question .description').after('<a href="#">info</a>');
+        $('.question-pool .question .description').after('<a href="#" class="info">info</a>');
         $('.question-pool .question').after('<hr class="question-separator">');
-        $('.question-pool .question a').click(function(e) {
+        $('.question-pool .question a.info').click(function(e) {
             e.preventDefault();
             $(this).hide();
             $(this).closest('.question').children('.description').show(600);
