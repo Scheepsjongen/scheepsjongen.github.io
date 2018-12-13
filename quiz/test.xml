@@ -67,11 +67,13 @@
             Хто здійснює державне управління в галузі охорони і використання тваринного світу?
         </section>
         <section class="answer">Держлісагентство України.</section>
-        <section class="answer" data-correct="data-correct">Міністерство охорони навколишнього середовища.</section>
+        <section class="answer">Міністерство охорони навколишнього середовища.</section>
         <section class="answer">Міністерство екології та природних ресурсів України.</section>
-        <section class="answer">Кабінет Міністрів України.</section>
+        <section class="answer">Мінприроди України.</section>
+        <section class="answer" data-correct="data-correct">Кабінет Міністрів України.</section>
         <section class="answer">Громадські мисливські організації.</section>
         <section class="description">
+            <a href="http://zakon.rada.gov.ua/laws/show/2894-14#o73" target="_blank">ЗАКОН УКРАЇНИ Про тваринний світ Стаття 11. Державне управління та регулювання у галузі охорони, використання і відтворення тваринного світу</a>.
         </section>
     </section>
     <section class="question" number="6">
@@ -126,7 +128,7 @@
         <section class="answer">Календарний рік.</section>
         <section class="answer">Необмежений.</section>
         <section class="answer">2 роки.</section>
-        <section class="answer" data-correct="data-correct">01 травня поточного року по 30 квітня наступного року.</section>
+        <section class="answer" data-correct="data-correct">З 1 травня поточного року по 30 квітня наступного року.</section>
         <section class="description">
             <a href="http://zakon3.rada.gov.ua/laws/show/z1316-14#n18" target="_blank">ПОРЯДОК видачі посвідчення мисливця і контрольної картки обліку добутої дичини й порушень правил полювання І. Загальні положення пп 1.3.</a><br/>
             Контрольна картка видається з 01 травня поточного року по 30 квітня наступного року і діє з дня видачі до 30 квітня включно.
@@ -190,6 +192,7 @@
             Що таке селекційний відстріл тварин?
         </section>
         <section class="answer" data-correct="data-correct">Добування небажаних для популяції тварин (хворі, ослаблені та ін.)</section>
+        <section class="answer">Добування тварин для вивчення.</section>
         <section class="answer">Відстріл тварин з трофейними цілями.</section>
         <section class="answer">Відстріл найбільших плідників.</section>
         <section class="description">
@@ -1075,7 +1078,7 @@
     </section>
     <section class="question" number="73">
         <section class="text">
-            Вкажіть нормативно визначені терміни полювання на самців козулі.
+            Вкажіть нормативно визначені терміни полювання на самців козулі в межах України.
         </section>
         <section class="answer">У серпні - січні.</section>
         <section class="answer">З 15 листопада по лютий включно.</section>
@@ -1083,6 +1086,8 @@
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer" data-correct="data-correct">З 1 травня по грудень включно</section>
         <section class="description">
+            * В білеті вірною відповіддю є: "З 1 травня по січень включно"
+            <hr />
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202" target="_blank">Стаття 19. Строки полювання</a>.
         </section>
     </section>
@@ -1117,10 +1122,10 @@
         <section class="text">
             Вкажіть нормативно визначені терміни полювання на білку, єнотоподібного собаку, лисицю, куницю лісову та кам'яну, тхора лісового.
         </section>
-        <section class="answer" data-correct="data-correct">У жовтні - лютому.</section>
-        <section class="answer">У серпні - січні.</section>
-        <section class="answer">У жовтні - грудні.</section>
-        <section class="answer">У серпні - листопаді.</section>
+        <section class="answer" data-correct="data-correct">З жовтня по лютий включно.</section>
+        <section class="answer">З серпня по січнень включно.</section>
+        <section class="answer">З жовтня по грудень включно.</section>
+        <section class="answer">З серпня по листопад включно.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202" target="_blank">Стаття 19. Строки полювання</a>.
@@ -1133,6 +1138,7 @@
         <section class="answer" data-correct="data-correct">З жовтня по лютий включно.</section>
         <section class="answer">У серпні - січні.</section>
         <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">Вересень - грудень.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="answer">З 1 травня по грудень включно.</section>
         <section class="answer"> З 15 листопада по вересень включно.</section>
@@ -1142,11 +1148,12 @@
     </section>
     <section class="question" number="78">
         <section class="text">
-            Вкажіть нормативно визначені терміни полювання на зайця-русака.
+            Вкажіть нормативно визначені терміни полювання на кроля дикого і зайця-русака в межах України.
         </section>
-        <section class="answer" data-correct="data-correct">У листопаді - січені.</section>
+        <section class="answer" data-correct="data-correct">З 1 листопада по січень включно.</section>
         <section class="answer">У серпні - січні.</section>
-        <section class="answer">У жовтні - грудні.</section>
+        <section class="answer">Вересень - грудень.</section>
+        <section class="answer">З 1 жовтня по грудень включно.</section>
         <section class="answer">У серпні - листопаді.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання <a href="http://zakon3.rada.gov.ua/laws/show/1478-14#o202" target="_blank">Стаття 19. Строки полювання</a>.
@@ -1353,7 +1360,7 @@
         <section class="text">
             Яку стрілецьку зброю забороняється використовувати на полюванні?
         </section>
-        <section class="answer" data-correct="data-correct">Напівавтоматичну або автоматичну з магазином більш як на два патрони.</section>
+        <section class="answer" data-correct="data-correct">Напівавтоматичну та автоматичну з магазином більш як на два патрони.</section>
         <section class="answer">Малокаліберну гвинтівку з встановленим оптичним прицілом.</section>
         <section class="answer">Луки, арбалети.</section>
         <section class="answer">Усі перелічені.</section>
@@ -1362,6 +1369,8 @@
             <a href="http://zakon2.rada.gov.ua/laws/show/1478-14#o217" target="_blank">Стаття 20. Заборони щодо здійснення полювання</a><br/>
             4) полювання із застосуванням або використанням заборонених знарядь та забороненими способами, а саме:<br/>
             немисливської (у тому числі військової) вогнепальної, пневматичної та іншої стрілецької зброї, а також нарізних вкладок, напівавтоматичної або автоматичної зброї з магазинами більш як на два патрони;
+            <hr />
+            <a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%96%D0%BB%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_%D0%B7%D0%B1%D1%80%D0%BE%D1%8F" target="_blank">Стрілецька зброя</a>
         </section>
     </section>
     <section class="question" number="93">
@@ -1401,7 +1410,7 @@
     </section>
     <section class="question" number="96">
         <section class="text">
-            Яка максимально нормальна дальність польоту шроту в метрах?
+            Яка максимально нормальна дальність льоту шроту в метрах?
         </section>
         <section class="answer">Перевищує 200-250.</section>
         <section class="answer">Перевищує 250-300.</section>
@@ -1560,7 +1569,7 @@
         <section class="text">
             Дії мисливця при осічці при стрільбі бездимним порохом.
         </section>
-        <section class="answer" data-correct="data-correct">Зачекати 7-8 секунд.</section>
+        <section class="answer" data-correct="data-correct">Не повинен відкривати рушницю раніше ніж через 7-8 секунди.</section>
         <section class="answer">Звести курки, і зробити повторний постріл.</section>
         <section class="answer">Не повинен відкривати рушницю раніше ніж через 3-4 секунди.</section>
         <section class="description">
@@ -1666,7 +1675,7 @@
             Що повиннi робити нагоничi при наближеннi до стрiлецькоi лiнii?
         </section>
         <section class="answer">Припинити шум, іти тихо.</section>
-        <section class="answer" data-correct="data-correct">Посилити шум, показуючи голосом про місце свого находження.</section>
+        <section class="answer" data-correct="data-correct">Посилити шум, показуючи голосом про місце свого знаходження.</section>
         <section class="answer">Розрядити зброю.</section>
         <section class="answer">Вести себе так, як і на початку загону.</section>
         <section class="description">
@@ -1911,10 +1920,10 @@
     </section>
     <section class="question" number="135">
         <section class="text">
-            Поводження мисливця зі зброєю при перевезенні її в автомобілі.
+            При перевезенні рушниці в автомобілі, вона:
         </section>
-        <section class="answer" data-correct="data-correct">В розібраному виді, в чохлі.</section>
-        <section class="answer">Кладеться пластом.</section>
+        <section class="answer" data-correct="data-correct">Розібрана в чохлі.</section>
+        <section class="answer">Кладеться пластом в багажному відділенні.</section>
         <section class="answer">Кладеться відкритою.</section>
         <section class="description">
             ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин<br/>
@@ -1994,8 +2003,8 @@
             На якій відстані від населеного пункту забороняється стрільба з мисливської гладкоствольної зброї?
         </section>
         <section class="answer" data-correct="data-correct">Ближче, ніж 200 м.</section>
-        <section class="answer">Ближче ніж 350 м.</section>
-        <section class="answer">Ближче ніж 500 м.</section>
+        <section class="answer">Ближче, ніж 350 м.</section>
+        <section class="answer">Ближче, ніж 500 м.</section>
         <section class="description">
             ЗАКОН УКРАЇНИ Про мисливське господарство та полювання<br/>
             <a href="zakon3.rada.gov.ua/laws/show/1478-14/page#o217" target="_blank">Стаття 20. Заборони щодо здійснення полювання</a><br/>
@@ -2121,13 +2130,14 @@
         <section class="answer" data-correct="data-correct">Дати повний спокій, укрити, застосувати болевгамовуючі засоби.</section>
         <section class="answer">Побризкати обличчя холодною водою, енергійно розтерти шкіру на обличчі, дати понюхати нашатирного спирту.</section>
         <section class="answer">Надати потерпілому лежачого, чи напівсидячого положення, на лоб, і на потилицю покласти холодні примочки.</section>
+        <section class="answer">Накласти пов'язку.</section>
         <section class="description">
             Травматичний шок - глибоке пригнічення життєво важливих функцій, стан, що вимагає кваліфікованої медичної допомоги. У порядку першої долікарської медичної допомоги необхідно створити найбільш прийнятні умови для потерпілого. В даному випадку, покласти потерпілого, укрити і дати наявні болезаспокійливі засоби, контролювати дихання і пульс, буде для потерпілого найбезпечніше.
         </section>
     </section>
     <section class="question" number="151">
         <section class="text">
-            В якій послідовності необхідно надати першу медичну допомогу потерпілому, якщо у нього зупинилось серце?
+            В якій послідовності необхідно надати першу медичну допомогу потерпілому, якщо у нього зупинилось дихання і серце?
         </section>
         <section class="answer" data-correct="data-correct">Звільнення дихальних шляхів, штучна вентиляція легень, зовнішній масаж серця.</section>
         <section class="answer">Зовнішній масаж серця, звільнення дихальних шляхів.</section>
@@ -2142,7 +2152,7 @@
         <section class="text">
             Що необхідно зробити для надання першої допомоги при пошкодженні хребта?
         </section>
-        <section class="answer" data-correct="data-correct">Покласти потерпілого на спину на тверду рівну поверхню.</section>
+        <section class="answer" data-correct="data-correct">Покласти потерпілого на спину на тверду рівну поверхню. Підкласти валики під шию і поясницю.</section>
         <section class="answer">Накласти пов'язку на грудну клітину, підкласти потерпілому валик під спину, щоб він прийняв напівсидяче положення.</section>
         <section class="answer">Покласти потерпілого на бік.</section>
         <section class="answer">Покласти потерпілого на живіт, на м'яку поверхню, голову повернути набік.</section>
@@ -2309,7 +2319,10 @@
             Вкажіть на скільки відсотків збільшується щорічно поголів'я козулі при нормальному стані популяції?
         </section>
         <section class="answer" data-correct="data-correct">На 20%.</section>
+        <section class="answer">На 10%</section>
+        <section class="answer">На 30%</section>
         <section class="answer">На 40%</section>
+        <section class="answer">На 50%</section>
         <section class="answer">На 60%</section>
         <section class="description">
         </section>
@@ -2350,7 +2363,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Родовід (свідоцтво) встановленого зразка з вказівками про 4 ряди предків.</section>
         <section class="answer">Довідка про походження, що видає первинна організація мисливців.</section>
-        <section class="answer">Сертифікат про походження собаки.</section>
+        <section class="answer">Сертифікат встановленого зразка про походження собаки.</section>
         <section class="answer">Паспорт мисливської собаки.</section>
         <section class="description">
         </section>
@@ -2359,7 +2372,7 @@
         <section class="text">
             Яке основне застосування на полюванні спанієлів?
         </section>
-        <section class="answer" data-correct="data-correct">Вигон пернатої дичини під постріл мисливця, та пошук підранків.</section>
+        <section class="answer" data-correct="data-correct">Вигон пернатої дичини під постріл мисливця та пошук підранків.</section>
         <section class="answer">Робота по пернатій дичині зі стойкою.</section>
         <section class="answer">Загонне полювання на зайця.</section>
         <section class="description">
@@ -2404,7 +2417,7 @@
         <section class="text">
             З гончою собакою переважно полюють на:
         </section>
-        <section class="answer" data-correct="data-correct">На на зайця та лисицю.</section>
+        <section class="answer" data-correct="data-correct">На зайця та лисицю.</section>
         <section class="answer">На мисливських птахів.</section>
         <section class="answer">На копитних тварин.</section>
         <section class="description">
@@ -2477,7 +2490,7 @@
     </section>
     <section class="question" number="182">
         <section class="text">
-            Хто знаходиться на чолі стада зубрів?
+            Хто верховодить у стаді зубрів?
         </section>
         <section class="answer" data-correct="data-correct">Стара самка.</section>
         <section class="answer">Сильний самець.</section>
@@ -2574,8 +2587,8 @@
             В якому віці роги оленя європейського досягають максимального розвитку?
         </section>
         <section class="answer" data-correct="data-correct">8-10 років.</section>
-        <section class="answer">5 років.</section>
-        <section class="answer">15 років.</section>
+        <section class="answer">5-6 років.</section>
+        <section class="answer">12-15 років.</section>
         <section class="description">
         </section>
     </section>
@@ -2585,7 +2598,7 @@
         </section>
         <section class="answer" data-correct="data-correct">За 4-5 місяців.</section>
         <section class="answer">За 2-3 місяці.</section>
-        <section class="answer">За 6 місяців. </section>
+        <section class="answer">За 6-7 місяців. </section>
         <section class="description">
         </section>
     </section>
@@ -2640,6 +2653,7 @@
         <section class="text">
             Яка максимальна кількість відростків на рогах козулі?
         </section>
+        <section class="answer">2.</section>
         <section class="answer" data-correct="data-correct">3.</section>
         <section class="answer">4.</section>
         <section class="answer">5.</section>
@@ -2696,7 +2710,8 @@
         <section class="text">
             До якої вікової групи належить кабан зі смугастим забарвленням?
         </section>
-        <section class="answer" data-correct="data-correct">Менше 1 року.</section>
+        <section class="answer" data-correct="data-correct">3-6 місяців.</section>
+        <section class="answer">8-12 місяців.</section>
         <section class="answer">1 рік.</section>
         <section class="answer">До 2 років.</section>
         <section class="description">
@@ -2794,11 +2809,12 @@
     </section>
     <section class="question" number="211">
         <section class="text">
-            Скільки дитинчат в середньому народжується в одному приплоді зайця-русака?
+            В одному приплоді самки зайця-русака в середньому народжується:
         </section>
-        <section class="answer" data-correct="data-correct">2-4, до 6 зайченят.</section>
+        <section class="answer">2-3 зайченя.</section>
+        <section class="answer" data-correct="data-correct">До 6 зайченят.</section>
+        <section class="answer">До 8 зайченят.</section>
         <section class="answer">Близько 10 зайченят.</section>
-        <section class="answer">Близько 15 зайченят.</section>
         <section class="description">
             <a href="//uk.wikipedia.org/wiki/%D0%97%D0%B0%D1%94%D1%86%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9" target="_blank">Заєць сірий (wiki)</a><br/>
             Період розмноження розтягнутий з березня до вересня (2—3 рази на рік). Перший гін відбувається наприкінці зими, в лютому-березні. Вагітність триває 40—50 днів і зайченята народжуються зрячими і вкритими шерстю (2—9, найчастіше 3—4) наприкінці березня або в квітні.
@@ -2959,7 +2975,7 @@
         <section class="text">
             Який з мисливських птахів із ряду куриних зимує на півдні?
         </section>
-        <section class="answer" data-correct="data-correct">Перепел.</section>
+        <section class="answer" data-correct="data-correct">Перепілка.</section>
         <section class="answer">Сіра куріпка.</section>
         <section class="answer">Тетерук.</section>
         <section class="answer">Глухар.</section>
@@ -3054,6 +3070,8 @@
         <section class="answer">6-8, до 12 яєць.</section>
         <section class="answer">4-7 яєць.</section>
         <section class="description">
+            * В білеті: "Не більше 20."
+            <hr />
             <a href="//uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" target="_blank">Фазан звичайний (wiki)</a>
             <hr/>
             Можлива правильна відповідь на іспиті: Не більше 20.
@@ -3116,6 +3134,29 @@
             <a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)" target="_blank">Гоголь (птах) (wiki)</a>
         </section>
     </section>
+    <section class="question" number="300" original-number="24">
+        <section class="text">
+            Мисливець поранив оленя в одному господарстві, а тварина перейшла в сусіднє господарство. Подальше добування:
+        </section>
+        <section class="answer" data-correct="data-correct">Дозволяється з дозволу користувача угідь, в які перейшов підранок.</section>
+        <section class="answer">Заборонено переслідування тварини у мисливському господарстві, на полювання в якому відсутні документи. В такому випадку необхідно проінформувати єгеря відповідного господарства, щоб він організував добір.</section>
+        <section class="answer">Проводиться не залежно від територій мисливських господарств.</section>
+        <section class="description">
+            <a href="http://zakon3.rada.gov.ua/laws/show/z1211-11#n26" target="_blank">ПОЛОЖЕННЯ про правила проведення полювань, поводження із зброєю та порядок видачі ліцензій на добування мисливських тварин</a><br/>
+            1.7. У разі поранення зазначеної у ліцензії тварини під час проведення полювання організовується добір цієї тварини. До початку добору на зворотному боці ліцензії керівник полювання проставляє відмітку про поранення тварини. Під час добору добування інших тварин (крім вовка) забороняється. Порядок добору пораненої тварини визначає розпорядник полювання. При переході пораненої тварини в угіддя іншого користувача добір проводиться лише за погодженням з користувачем цих угідь.
+        </section>
+    </section>
+    <section class="question" number="301" original-number="228">
+        <section class="text">
+            Коли найчастіше вилуплюються пташенята сірої куріпки?
+        </section>
+        <section class="answer" data-correct="data-correct">У другій половині червня — початку липня.</section>
+        <section class="answer">У другій половині липеня - початку серпня.</section>
+        <section class="answer">У травні — першій половині червня.</section>
+        <section class="description">
+            <a href="//uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%96%D0%BF%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0" target="_blank">Куріпка сіра (wiki)</a>
+        </section>
+    </section>
     <section class="question" number="400">
         <section class="text">
             При зарядці патронів, яка із поданих нижче комбінації пороху і капсуля є правильною?
@@ -3169,6 +3210,38 @@
             <a href="//ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%BB%D0%B8%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" target="_blank">Акклиматизация (wiki rus)</a>
             <br/>
             <a href="//jagtex.blogspot.com/p/acclimatization.html" target="_blank">Обговорення</a>
+        </section>
+    </section>
+    <section class="question" number="405">
+        <section class="text">
+            Для яких мисливських видів влаштовують годівниці у виді навісу та накриття?
+        </section>
+        <section class="answer" data-correct="data-correct">Для сірої куріпки.</section>
+        <section class="answer">Для тетерева.</section>
+        <section class="answer">Для голуба.</section>
+        <section class="answer">Для вальдшнепа.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="406">
+        <section class="text">
+            Зайченя народжується:
+        </section>
+        <section class="answer" data-correct="data-correct">Зрячим і в шерсті.</section>
+        <section class="answer">Сліпим і в шерсті.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="407">
+        <section class="text">
+            На скільки може збільшуватись щорічно поголів'я кабанів?
+        </section>
+        <section class="answer" data-correct="data-correct">На 200%.</section>
+        <section class="answer">На 100%.</section>
+        <section class="answer">На 150%.</section>
+        <section class="answer">На 250%.</section>
+        <section class="answer">На 300%.</section>
+        <section class="description">
         </section>
     </section>
 </section>
