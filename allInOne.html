@@ -38,12 +38,22 @@
     .question-pool .question .answer:before {
         content: "A: ";
     }
+    .question-pool .question .description {
+        border: 1px solid #aaa;
+        padding: 15px;
+    }
 </style>
 <script>
 $(function () {
-    $('.question-pool').load(quizUrl, function () {
+    $('.question-pool').load(quizUrl, function() {
         $('.question-pool > .quiz .question .answer[data-correct!="data-correct"]').remove();
-        $('.question-pool > .quiz .question .description').remove();
+        $('.question-pool .question .description').after('<a href="#">info</a>');
+        $('.question-pool .question').after('<hr class="question-separator">');
+        $('.question-pool .question a').click(function(e) {
+            e.preventDefault();
+            $(this).hide();
+            $(this).closest('.question').children('.description').show(600);
+        });
     });
 });
 </script>
