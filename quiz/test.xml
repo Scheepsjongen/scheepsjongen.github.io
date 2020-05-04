@@ -228,7 +228,8 @@
     </section>
     <section class="question" number="1.24">
         <section class="text">
-            У який термін часу повинно здійснюватися інформування підрозділів Державної прикордонної служби України
+            У який термін часу повинно здійснюватися інформування
+            підрозділів Державної прикордонної служби України
             при здійсненні виходу маломірних суден за межі 2-х морських миль?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
@@ -256,7 +257,8 @@
     </section>
     <section class="question" number="1.27">
         <section class="text">
-            Швидкість в місцях масового відпочинку людей з буйковим огородженням повинна складатися?
+            Швидкість в місцях масового відпочинку людей з буйковим огородженням
+            повинна складатися?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -277,7 +279,7 @@
             Про що інформує береговий заборонний знак: "Якір не кидати!"?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer">Якір не кидати.</section>
         <section class="description">
         </section>
     </section>
@@ -287,8 +289,1479 @@
             "Додержувати надводний габарит!"?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">Треба додержувати надводний габарит.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.31">
+        <section class="text">
+            На яких УКХ каналах під час руху судна необхідно нести радіо вахту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
-    </section>    
+    </section>
+    <section class="question" number="1.32">
+        <section class="text">
+            Що означає даний плавучий навігаційний знак системи МАМС, регіон А?<br/>
+            <img src="quiz/img/1.32.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.33">
+        <section class="text">
+            Який колір та порядок розташування бортових вогнів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.34">
+        <section class="text">
+            Які вогні судно з механічним двигуном довжиною менше 12 м може виставляти?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.35">
+        <section class="text">
+            Який тип та призначення у вказаного на малюнку судна?<br/>
+            <img src="quiz/img/1.35.png"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.36">
+        <section class="text">
+            Яке судно несе даний сигнал?<br/>
+            <img src="quiz/img/1.36.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.37">
+        <section class="text">
+            Яке судно несе на найбільш видному місці сигнал:
+            чорний конус вершиною вниз?<br/>
+            <img src="quiz/img/1.37.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.38">
+        <section class="text">
+            Що означають дані плавучі навігаційні знаки системи МАМС в регіоні А?<br/>
+            <img src="quiz/img/1.38.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.39">
+        <section class="text">
+            Що означає даний береговий знак?<br/>
+            <img src="quiz/img/1.39.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.40">
+        <section class="text">
+            Що означають ці плавучі навігаційні знаки системи МАМС в регіоні А?<br/>
+            <img src="quiz/img/1.40.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.41">
+        <section class="text">
+            Що означає даний знак?<br/>
+            <img src="quiz/img/1.41.png"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.42">
+        <section class="text">
+            Що означає даний береговий знак?<br/>
+            <img src="quiz/img/1.42.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.43">
+        <section class="text">
+            Яке судно несе даний сигнал:
+            чорна куля на видному місці?<br/>
+            <img src="quiz/img/1.43.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.44">
+        <section class="text">
+            Які вогні має нести мале судно на стоянці,
+            за винятком суднових шлюпок, вночі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.45">
+        <section class="text">
+            Яка форма мостового знаку є указником
+            вісі суднового ходу для маломірних суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.46">
+        <section class="text">
+            При здійсненні руху на річках маломірне судно, яке йде вверх?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.47">
+        <section class="text">
+            Що означає даний знак?<br/>
+            <img src="quiz/img/1.47.png"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.48">
+        <section class="text">
+            Як називається огорожа, що складається з вертикальних стійок,
+            з'єднаних між собою ланцюгами, тросами або круглими прутами?<br/>
+            <img src="quiz/img/1.48.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.49">
+        <section class="text">
+            Яким способом здійснити перевірку на
+            водонепроникність люкових зачинень?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.50">
+        <section class="text">
+            Що означає даний плавучій навігаційний знак?<br/>
+            <img src="quiz/img/1.50.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.51">
+        <section class="text">
+            Здатність судна залишатися на плаву і зберігати остійність та деякий запас плавучості
+            при пошкодженні його корпусу і затопленні одного або декількох відсіків, це - ?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.52">
+        <section class="text">
+            Дії судноводія в ситуація зближення суден, що йдуть прямо один на одного?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.53">
+        <section class="text">
+            Які з перерахованих сигналів відносяться до сигналів біди?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.54">
+        <section class="text">
+            Яка швидкість судна вважається безпечною?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.55">
+        <section class="text">
+            У який строк судновласники повинні зареєструвати
+            маломірне (мале) судне після купівлі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.56">
+        <section class="text">
+            Визначити термін "база для стоянки маломірних (малих) суден".
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.57">
+        <section class="text">
+            У яких місцях заборонено обгін маломірного судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.58">
+        <section class="text">
+            За яких умов дозволяється вихід маломірних (малих) суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.59">
+        <section class="text">
+            Що повинен зробити судноводій перед виходом у плавання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.60">
+        <section class="text">
+            Як потрібно проводити перетин фарватеру (суднового ходу)?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.61">
+        <section class="text">
+            Якщо виникає загроза зіткнення між вітрильним та моторним судном,
+            хто повинен надати перевагу?
+        </section>
+        <section class="answer" data-correct="data-correct">Моторне судно.</section>
+        <section class="answer">Вітрильне судно.</section>
+        <section class="answer">Судно у якого менша швидкість руху.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.62">
+        <section class="text">
+            З якого борту може виковуватися обгін судна за межами суднового ходу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.63">
+        <section class="text">
+            За скільки метрів дозволяється починати обгін судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.64">
+        <section class="text">
+            З якою швидкістю повинні здійснювати рух судна уздовж пляжів,
+            місць масового відпочинку громадян, затоках, під мостами?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.65">
+        <section class="text">
+            Чи дозволяється рух маломірних суден у темний час доби
+            (від заходу та сходу сонця)?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.66">
+        <section class="text">
+            Ким здійснюється випуск самохідних і несамохідних суден,
+            інших плавзасобів у внутрішні води?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.67">
+        <section class="text">
+            Як рекомендовано виконувати перетин курсу іншого судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.68">
+        <section class="text">
+            У яких випадках встановлюється обмеження руху суден
+            на акваторії бази стоянки?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.69">
+        <section class="text">
+            Які встановлюються райони для плавання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.70">
+        <section class="text">
+            Якщо два малі судна прямують зустрічними курсами таким чином,
+            що може виникнути небезпека зіткнення,
+            то як кожне судно має змінити свій курс?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.71">
+        <section class="text">
+            Під час зустрічного плавання судна, що прямують уверх,
+            як повинні поступатися шляхом іншим суднам що прямують униз?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.72">
+        <section class="text">
+            У якому випадку дозволено обгін судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.73">
+        <section class="text">
+            З якою швидкістю дозволяється рух суден в нічний час?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.74">
+        <section class="text">
+            Де дозволено пересікати судновий хід в межах міста?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.75">
+        <section class="text">
+            Якщо два моторні судна наближаються по курсах, що  перетинаються,
+            яке судно повинно поступитися?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.76">
+        <section class="text">
+            З якого напрямку судно вважається таким, що обганяє інше судно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.77">
+        <section class="text">
+            Що перш за все потрібно визначати при наявності небезпеки зіткнення?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.78">
+        <section class="text">
+            У разі запобігання зіткнення, які дії з судном повинен зробити судноводій?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.79">
+        <section class="text">
+            Які дії судна, яке поступається дорогою?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.80">
+        <section class="text">
+            У якому випадку дозволяється зустрічне плавання суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.81">
+        <section class="text">
+            Якщо судноводій помічає небезпеку зіткнення, які його дії?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.82">
+        <section class="text">
+            У разі виникнення небезпеки, судна що прямують уверх,
+            які сигнали повинні подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.83">
+        <section class="text">
+            За допомогою чого високошвидкісні судна узгоджують між собою зустрічне плавання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.84">
+        <section class="text">
+            Які звуки судна подають у разі обгону з лівого боку?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.85">
+        <section class="text">
+            Які звуки судна подають у разі обгону з правого боку?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.86">
+        <section class="text">
+            Як здійснюється поворот суднами?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.87">
+        <section class="text">
+            При здійсненні повороту праворуч або маневру,
+            які сигнали подаються судном?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.88">
+        <section class="text">
+            При здійсненні повороту ліворуч або маневру,
+            які сигнали подаються судном?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.89">
+        <section class="text">
+            Судна, що прямують уверх уночі та поступаються шляхом з правого борту суднам,
+            що прямують униз, мають завчасно подати який сигнал з правого борту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.90">
+        <section class="text">
+            Судна, що прямують уверх удень та поступаються шляхом з правого борту суднам,
+            що прямують униз, мають завчасно подати який сигнал з правого борт?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.91">
+        <section class="text">
+            Де повинні рухатись маломірні судна по відношенню фарватеру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.92">
+        <section class="text">
+            Хто встановлює терміни щорічного відкриття та закриття навігації
+            для маломірних суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.93">
+        <section class="text">
+            Нічна ходова сигналізація одиночного судна.
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.94">
+        <section class="text">
+            Вогні буксирних суден на ходу.
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.95">
+        <section class="text">
+            Що потрібно мати на увазі під терміном "База"?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.96">
+        <section class="text">
+            Що означає термін  "Парусне судно"?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.97">
+        <section class="text">
+            Де дозволяється зупинятись маломірним суднам
+            у межах суднового ходу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.98">
+        <section class="text">
+            Що означає термін "безпечна швидкість"?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.99">
+        <section class="text">
+            При якій видимості дозволяється рух маломірних суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.100">
+        <section class="text">
+            Які вогні повинно мати маломірне судно при стоянці на якорі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.101">
+        <section class="text">
+            Який знак вказує на перехід фарватеру від одного берега до іншого?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.102">
+        <section class="text">
+            З якою швидкістю маломірні судна повинні рухатися уздовж границь пляжів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.103">
+        <section class="text">
+            Управляти судном під час плавання має кваліфікована особа не молодше ніж…?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.104">
+        <section class="text">
+            Що  означає даний знак?<br/>
+            <img src="quiz/img/1.104.png"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.105">
+        <section class="text">
+            В яких межах забороняється постановка суден на якір?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.106">
+        <section class="text">
+            Який знак що має маломірне судно, що йде під вітрилом
+            і в той же час може рухатися за допомогою мотору?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.107">
+        <section class="text">
+            За яких умов можливе використання водних лиж?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.108">
+        <section class="text">
+            Знак на малюнку, що означає "УВАГА" знаходиться під літерою?<br/>
+            <img src="quiz/img/1.108.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">а.</section>
+        <section class="answer">б.</section>
+        <section class="answer">в.</section>
+        <section class="answer">г.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.109">
+        <section class="text">
+            Обмін відмашками виконується не менше ніж за…?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.110">
+        <section class="text">
+            В яких місцях дозволяється пересікати фарватер маломірним суднам в межах міст?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.111">
+        <section class="text">
+            Що показує даний знак?<br/>
+            <img src="quiz/img/1.111.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.112">
+        <section class="text">
+            Що означає даний знак?<br/>
+            <img src="quiz/img/1.112.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.113">
+        <section class="text">
+            Що означає даний знак?<br/>
+            <img src="quiz/img/1.113.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.114">
+        <section class="text">
+            Що означає даний знак?<br/>
+            <img src="quiz/img/1.114.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.115">
+        <section class="text">
+            Що називають повороткістю?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.116">
+        <section class="text">
+            Що називають креном?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.117">
+        <section class="text">
+            Що означає даний знак?<br/>
+            <img src="quiz/img/1.117.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.118">
+        <section class="text">
+            Що називають плавучістю?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.119">
+        <section class="text">
+            Що показує даний знак?<br/>
+            <img src="quiz/img/1.119.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.120">
+        <section class="text">
+            Що називається остійністю?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.121">
+        <section class="text">
+            Знаки навігаційної плавучої обстановки на річках?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.122">
+        <section class="text">
+            Які суднові документи на маломірних суднах до 75 к.с. повинні бути в наявності?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.123">
+        <section class="text">
+            Сигналізація плавучих засобів які виконують водолазні роботи.
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.124">
+        <section class="text">
+            Яка відповідальність судноводіїв за порушення
+            Правил плавання і Правил користування малими суднами?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.125">
+        <section class="text">
+            Які правила руху під мостами?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.126">
+        <section class="text">
+            На якій відстані від границі суднового ходу
+            забороняється маломірному судну знаходитись на якорі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.127">
+        <section class="text">
+            Яка сигналізація суден органів судноплавного нагляду?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.128">
+        <section class="text">
+            В яких випадках заборонено виходити в плавання маломірним суднам?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.129">
+        <section class="text">
+            Міра безпеки при перевезенні дітей.
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.130">
+        <section class="text">
+            Які правила передачі управління судном іншій особі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.131">
+        <section class="text">
+            Який термін реєстрації маломірних суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.132">
+        <section class="text">
+            Які маломірні судна не підлягають реєстрації в
+            Державному судновому реєстрі України та в Судновій книзі України?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.133">
+        <section class="text">
+            Зустрічне плавання - це?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.134">
+        <section class="text">
+            Обгін - це?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.135">
+        <section class="text">
+            Перетинання курсу чи обгін дозволяється..?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.136">
+        <section class="text">
+            Який сигнал подають судна,
+            що йдуть вверх і дають дорогу з лівого борту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.137">
+        <section class="text">
+            Який сигнал подають судна,
+            що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.138">
+        <section class="text">
+            Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+            повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту удень?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.139">
+        <section class="text">
+            Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+            повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту уночі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.140">
+        <section class="text">
+            Вимоги до відмашки для суден, що йдуть вверх і звільняють шлях суднам,
+            що йдуть униз із правого борту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.141">
+        <section class="text">
+            Коли розходження повинне відбутися лівим бортом,
+            судна, що йдуть вверх, повинні подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.142">
+        <section class="text">
+            Коли розходження повинне відбутися правим бортом,
+            судна, що йдуть вверх, повинні подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.143">
+        <section class="text">
+            Як судна повинні проходити через вузькі проходи?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.144">
+        <section class="text">
+            Якщо судна, що йдуть вверх, бачать, що
+            судно, яке йде вниз, входить у вузький прохід?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.145">
+        <section class="text">
+            Якщо зустріч у вузькому проході стає неминучою
+            та судноводій помічає небезпеку зіткнення, то судно повинне подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.146">
+        <section class="text">
+            Коли існує вірогідність зіткнення, то
+            судно, що обганяє інше судно ліворуч, повинне подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.147">
+        <section class="text">
+            Коли існує вірогідність зіткнення, то судно,
+            що обганяє інше судно праворуч, повинне подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.148">
+        <section class="text">
+            Судно, що обганяють з лівого боку, повинне подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.149">
+        <section class="text">
+            Судно, що обганяють з правого боку повинно подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.150">
+        <section class="text">
+            Коли обгін неможливий через небезпеку зіткнення
+            судно, що обганяють повинне подати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.151">
+        <section class="text">
+            На якій мінімальній відстані від судна, що наближається,
+            дозволяється пересікати судовий хід малому судну?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.152">
+        <section class="text">
+            При якій видимості малому судну забороняється виходити на судовий хід?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.153">
+        <section class="text">
+            При якій висоті хвилі дозволяється виходити в плавання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.154">
+        <section class="text">
+            Яка швидкість судна вважається безпечною?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.155">
+        <section class="text">
+            Статтями якого документа визначається розмір штрафів
+            за порушення, допущені судноводіями?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.156">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            управління маломірним судном, що не пройшло технічного огляду?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.157">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            управління маломірним судном, що не несе бортових номерів і позначень?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.158">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            умисне зупинення або стоянку судна в забороненому місці?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.159">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            перевищення установленої швидкості руху?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.160">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            порушення обмежень по району та умовах плавання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.161">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            керування судном особою, яка не має права керування?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.162">
+        <section class="text">
+            Яке адміністративне покарання передбачено за
+            керування судном у стані сп’яніння?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.163">
+        <section class="text">
+            При якій вантажопідйомності надувного безмоторного човна
+            він підлягає державній реєстрації в Судновій книзі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.164">
+        <section class="text">
+            На протязі якого часу судноводій повинен повідомити
+            орган реєстрації судна про будь-які зміни відомостей,
+            що підлягають внесенню в Суднову книгу України?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.165">
+        <section class="text">
+            При якій потужності двигуна маломірне судно підлягає державній реєстрації?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.166">
+        <section class="text">
+            При перевозці на трейлері зареєстрованого маломірного судна,
+            які документи повинні підтвердити право власності на це судно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.167">
+        <section class="text">
+            Які документи повинен мати при собі судноводій маломірного судна під час плавання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.168">
+        <section class="text">
+            Який вогонь одиночні малі моторні судна повинні нести уночі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.169">
+        <section class="text">
+            Які з перерахованих сигналів відносяться до сигналів біди?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.170">
+        <section class="text">
+            Чи дозволяється зберігати незареєстровані маломірні судна на базі стоянок?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.171">
+        <section class="text">
+            Обгін суден заборонено?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.172">
+        <section class="text">
+            Гребні судна, водні велосипеди видаються напрокат особам, яким виповнилося:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.173">
+        <section class="text">
+            Моторні судна, водні мотоцикли і вітрильні судна видаються напрокат особам, яким виповнилося:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.174">
+        <section class="text">
+            Що означає сигнал один короткий звук, який подає судно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.175">
+        <section class="text">
+            Що означає сигнал два коротких звуки, який подає судно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.176">
+        <section class="text">
+            Що означає сигнал три коротких звуки, який подає судно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.177">
+        <section class="text">
+            Маломірним (малим) суднам, за винятком випадків,
+            коли вони виконують службові завдання, забороняється?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.178">
+        <section class="text">
+            Вихід маломірних (малих) суден у плавання дозволяється при?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.179">
+        <section class="text">
+            Яке судно несе на найбільш видному місці сигнал:
+            чорний конус вершиною вниз?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.180">
+        <section class="text">
+            При скоєнні адміністративного правопорушення,
+            що тягне затримання маломірного судна, воно затримується до?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.181">
+        <section class="text">
+            Що позначають жовті поплавці або жовті прапори,
+            розставлені на поверхні води в безпосередній близькості від суднового ходу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.182">
+        <section class="text">
+            Яке судно несе сигнал: червоний конус вершиною вниз?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.183">
+        <section class="text">
+            Протягом якого терміну громадянин,
+            щодо якого винесено адміністративне покарання за порушення
+            правил користування маломірними суднами, має право подати скаргу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="1.184">
+        <section class="text">
+            Що означає сигнал, піднятий на судні:
+            два чорних кулі, розміщені по вертикалі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+
 </section>
