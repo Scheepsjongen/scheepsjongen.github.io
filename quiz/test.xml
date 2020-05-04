@@ -2867,4 +2867,532 @@
         <section class="description">
         </section>
     </section>
+    <section class="question" number="4.1">
+        <section class="text">
+            У чому полягають особливі умови плавання на ММС?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.2">
+        <section class="text">
+            У чому проявляється вплив вітру на рух і управління маломірного судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.3">
+        <section class="text">
+            Як впливають мілини на керованість судном?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.4">
+        <section class="text">
+            Як діє течія на керованість судном?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.5">
+        <section class="text">
+            Під впливом, яких чинників відбувається "дрейф судна"?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.6">
+        <section class="text">
+            Які фактори впливають на величину дрейфу судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.7">
+        <section class="text">
+            Який оптимальний спосіб управління МС за допомогою гіромагнітних компасів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.8">
+        <section class="text">
+            Які дії судноводія при управлінні МС в умовах сильного хвилювання на воді?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.9">
+        <section class="text">
+            Як діяти при сильному хвилюванні повертаючи судно під вітер?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.10">
+        <section class="text">
+            Як діяти при сильному хвилюванні повертаючи судно на вітер?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.11">
+        <section class="text">
+            Яка з сил, що діють на перо керма, змінює напрямок руху судна
+            під час перекладання його на деякий кут від ДП?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.12">
+        <section class="text">
+            Яка команда подається на кермо при наближенні судна
+            до призначеного курсу і кермо встановлюється в ДП?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.13">
+        <section class="text">
+            Які дії слід зробити при плаванні судна на мілині?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.14">
+        <section class="text">
+            У яких випадках дозволяється перетинання курсів і обгін суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.15">
+        <section class="text">
+            Як повинні діяти судна, що йдуть курсами,
+            які виключають усяку небезпеку зіткнення?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.16">
+        <section class="text">
+            Як повинно діяти судно,
+            якому при зустрічному плаванні чи при перетині курсів дають дорогу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.17">
+        <section class="text">
+            Як повинні поступити судна, які мають радіотелефонний зв'язок,
+            при розходженні або обгоні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.18">
+        <section class="text">
+            У яких випадках швидкісні судна можуть
+            рухатися у неводотоннажному положенні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.19">
+        <section class="text">
+            Яке з суден, повинне дати дорогу іншому, якщо їхні курси перетинаються?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.20">
+        <section class="text">
+            Хто з 2-х малих суден, курси яких перетинаються таким чином,
+            що може виникнути небезпека зіткнення, повинен звільнити дорогу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.21">
+        <section class="text">
+            Які дії повинні виконати судна, що йдуть вверх при зустрічному плаванні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.22">
+        <section class="text">
+            Чи подають сигнал про розходження, судна,
+            що йдуть вверх пропускаючи з лівого борту судна, що йдуть вниз?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.23">
+        <section class="text">
+            Чи повинні судна на підводних крилах і судна на повітряній подушці
+            вимагати щоб всі інші судна давали їм дорогу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.24">
+        <section class="text">
+            Що таке обгін?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.25">
+        <section class="text">
+            При яких умовах дозволяється обгін суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.26">
+        <section class="text">
+            Як повинно діяти судно, яке обганяють?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.27">
+        <section class="text">
+            З якого борту, маломірне судно, що обганяє, повинне обходити інше ММС?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.28">
+        <section class="text">
+            Про що свідчить сигнал "п’ять коротких звуків" судна, яке обганяють?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.29">
+        <section class="text">
+            Що повинно зробити ММС, якщо при здійсненні обгону воно створює високу хвилю?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.30">
+        <section class="text">
+            Чи повинні зменшувати швидкість судна іншої категорії, коли їх обганяє ММС?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.31">
+        <section class="text">
+            В яких випадках маломірному судну дозволено
+            заходити та маневрувати на акваторії пляжів?<br/>
+            <img src="quiz/img/4.31.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.32">
+        <section class="text">
+            Чи повинне маломірне судно на ходу поступитися дорогою вітрильному судну?<br/>
+            <img src="quiz/img/4.32.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.33">
+        <section class="text">
+            Якщо два моторних судна йдуть пересічними курсами так,
+            що виникає небезпека зіткнення,
+            яке судно повинно дати дорогу іншому судну?<br/>
+            <img src="quiz/img/4.33.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.34">
+        <section class="text">
+            Як повинні маневрувати маломірні судна для розходження
+            один з одним на акваторії, яка не має судноплавної обстановки?<br/>
+            <img src="quiz/img/4.34.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.35">
+        <section class="text">
+            Звуковий сигнал?<br/>
+            <img src="quiz/img/4.35.png"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.36">
+        <section class="text">
+            Що вимірюється ручним анемометром?<br/>
+            <img src="quiz/img/4.36.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.37">
+        <section class="text">
+            Як потрібно підходити на човні для спасіння потопаючого при вітряній погоді?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.38">
+        <section class="text">
+            За скільки метрів можна починати обгін?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.39">
+        <section class="text">
+            Які дії необхідно зробити водію маломірного судна,
+            який потрапив в штормові умови, щоб забезпечити безпеку?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.40">
+        <section class="text">
+            Який порядок розходження маломірних суден що відійшли
+            від різних берегів назустріч один одному при небезпечному зближенні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.41">
+        <section class="text">
+            В якому випадку краще керувати судном, якщо воно рухається?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.42">
+        <section class="text">
+            Дія вітру на судно залежить від?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.43">
+        <section class="text">
+            Борт судна, звернений до вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.44">
+        <section class="text">
+            Борт судна, протилежний вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.45">
+        <section class="text">
+            Вітер, за напрямом корми судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.46">
+        <section class="text">
+            Вітер, за напрямом носу судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.47">
+        <section class="text">
+            Дрейф судна менший при?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.48">
+        <section class="text">
+            Підхід судна, яке йде за течією, до причалу чи берега здійснюється?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.49">
+        <section class="text">
+            Найбільший знос судно зазнає?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.50">
+        <section class="text">
+            Під час руху судна на мілководді?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.51">
+        <section class="text">
+            Під час руху судна на мілководді потрібно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.52">
+        <section class="text">
+            Виводити катер із суводі потрібно?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.53">
+        <section class="text">
+            Дії судноводія для безпечного переходу через перекат?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.54">
+        <section class="text">
+            На скільки градусів рекомендується перекласти руль
+            в навітряну сторону відразу після падіння людини за борт,
+            щоб здійснити підхід до неї з поверненням на зворотній курс?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.55">
+        <section class="text">
+            На якій відстані, щоб запобігти присмоктуванню,
+            необхідно проводити обгін на ММС великих суден?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="4.56">
+        <section class="text">
+            Які дії повинен вжити судноводій ММС в районі перекату?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
 </section>
