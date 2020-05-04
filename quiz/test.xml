@@ -5692,4 +5692,337 @@
         <section class="description">
         </section>
     </section>
+    <section class="question" number="11.1">
+        <section class="text">
+            Основним рушієм вітрильного судна є:
+        </section>
+        <section class="answer" data-correct="data-correct">Вітер.</section>
+        <section class="answer">Мотор.</section>
+        <section class="answer">Вітрила.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.2">
+        <section class="text">
+            Які бувають види вітрил на вітрильних суднах?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.3">
+        <section class="text">
+            Від чого залежить висока остійність вітрильного судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.4">
+        <section class="text">
+            Від чого залежить швидкість ходу вітрильного судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.5">
+        <section class="text">
+            Основні типи вітрил?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.6">
+        <section class="text">
+            Чи можуть вітрильні судна користуватися водними об’єктами
+            в період закритої навігації?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.7">
+        <section class="text">
+            Як називається відстань між сусідніми шпангоутами?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.8">
+        <section class="text">
+            Як називається вертикальна зв'язок (балка) бортового набору судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.9">
+        <section class="text">
+            Для чого на задню стаксельну шкоту нашивається ультрафіолетовий захист?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.10">
+        <section class="text">
+            Яким чином рекомендується складати знятий грот для подальшого його зберігання?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.11">
+        <section class="text">
+            Який елемент вітрила є найбільш вразливим?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.12">
+        <section class="text">
+            Яким чином рекомендується підвішувати вітрило для просушки на березі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.13">
+        <section class="text">
+            З'єднання сталевих тросів може виконуватися:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.14">
+        <section class="text">
+            Якщо степс щогли розташований нижче палуби,
+            діаметр щогли біля шпора повинен становити:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.15">
+        <section class="text">
+            Які види такелажів використовуються на вітрильних суднах?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.16">
+        <section class="text">
+            Для бігучого такелажу повинні використовуватися троси з:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.17">
+        <section class="text">
+            Із якого волокна не допускається використання тросів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.18">
+        <section class="text">
+            Площа вітрильності повинна відповідати?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.19">
+        <section class="text">
+            Рульова система для вітрильних суден в цілому
+            повинна бути спроектована таким чином,
+            щоб її робота забезпечувалася при тривалому крені до:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.20">
+        <section class="text">
+            Чи дозволяється встановлювати на вітрильному судні
+            додаткові кругові червоний та зелений сигнально-розпізнавальні ліхтарі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.21">
+        <section class="text">
+            Який сигнально-розпізнавальний ліхтар має бути на кормі вітрильному судні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.22">
+        <section class="text">
+            Які типи сигнально-розпізнавальних ліхтарів використовуються на вітрильному судні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.23">
+        <section class="text">
+            При повороті оверштаг вітрильне судно:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.24">
+        <section class="text">
+            Підйомна сила на вітрилі або крилі виникає за рахунок?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.25">
+        <section class="text">
+            Який вітер здійснює роботу у вітрилах судна та забезпечує його рух?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.26">
+        <section class="text">
+            В якому напрямку необхідно здійснювати поворот
+            на зворотній курс за умови сильного бокового вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.27">
+        <section class="text">
+            Напрямок якого вітру показує вітропокажчик який встановлюється на щоглі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.28">
+        <section class="text">
+            Загальна назва усіх снастей на вітрильному судні
+            (тросів, канатів, линв, тощо):
+        </section>
+        <section class="answer" data-correct="data-correct">Такелаж.</section>
+        <section class="answer">Проводка.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.29">
+        <section class="text">
+            Як називаються пристосування для натягування стоячого такелажу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.30">
+        <section class="text">
+            При повороті через фордевінд вітрильне судно:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.31">
+        <section class="text">
+            Борт, що повернутий до вітру, називається:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.32">
+        <section class="text">
+            Борт, що повернутий від вітру, називається:
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.33">
+        <section class="text">
+            Як називається зигзагоподібний рух вітрильного судна,
+            коли судно лягає то на лівий галс, то на правий?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.34">
+        <section class="text">
+            За якої умови судно йде у бейдевінд?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.35">
+        <section class="text">
+            За якої умови судно йде у бакштаг?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="11.36">
+        <section class="text">
+            Для чого застосовуються на парусних яхтах носовий та кормовий релінги?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
 </section>
