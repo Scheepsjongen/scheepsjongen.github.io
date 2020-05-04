@@ -4176,4 +4176,359 @@
         <section class="description">
         </section>
     </section>
+    <section class="question" number="7.1">
+        <section class="text">
+            У чому полягають  основи морської навігації?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.2">
+        <section class="text">
+            Яким способом, при плаванні на ВВШ можна визначити положення МС?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.3">
+        <section class="text">
+            Одиницею виміру великих відстаней на морі є - морська миля.
+            Чому вона дорівнює?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.4">
+        <section class="text">
+            Одиницею виміру незначних відстаней на морі є - кабельтов.
+            Чому він дорівнює?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.5">
+        <section class="text">
+            Однією із систем розподілення горизонту є румбова.
+            На стільки румбів ділиться горизонт? Чому дорівнює один румб?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.6">
+        <section class="text">
+            Відносно яких точок істинного горизонту
+            можна визначити різні напрямки при плаванні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.7">
+        <section class="text">
+            Від чого залежить дальність видимого горизонту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.8">
+        <section class="text">
+            За допомогою чого можна приблизно
+            визначити дальність видимого предмету?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.9">
+        <section class="text">
+            Які напрямки наносяться або знімаються на навігаційних мапах?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.10">
+        <section class="text">
+            У яких межах вимірюється курсовий кут (КУ)
+            на орієнтир відносно діаметральної плоскості судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.11">
+        <section class="text">
+            Як буде називатися положення орієнтира
+            розташованого відносно діаметральної плоскості судна
+            на 900 лівого або правого борту?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.12">
+        <section class="text">
+            Під дією яких сил створюється магнітне схилення магнітного компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.13">
+        <section class="text">
+            Яким буває магнітне схилення і його знак?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.14">
+        <section class="text">
+            Від чого виникає магнетизм суднового заліза?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.15">
+        <section class="text">
+            Які показання знімаються з магнітного компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.16">
+        <section class="text">
+            Як буде називатися відхилення стрілки компасу
+            під дією магнітних сил суднового заліза?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.17">
+        <section class="text">
+            Яке найменування та математичний знак
+            має девіація магнітного компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.18">
+        <section class="text">
+            У чому полягає принцип знищення девіації магнітного компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.19">
+        <section class="text">
+            У який термін знищується девіація магнітного компасу на судні?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.20">
+        <section class="text">
+            Для чого складається таблиця остаточної девіації магнітного компаса?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.21">
+        <section class="text">
+            Що називається загальною поправкою магнітного компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.22">
+        <section class="text">
+            Від якої точки горизонту і в якому напрямку відраховуються компасні напрямки?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.23">
+        <section class="text">
+            З якою метою проводиться урахування поправок магнітного компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.24">
+        <section class="text">
+            У яких межах, від чого і в якому напрямку відраховується поправка компасу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.25">
+        <section class="text">
+            Для чого виконується виправлення курсів та пеленгів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.26">
+        <section class="text">
+            Для яких дій на судні виконується перевід курсів та пеленгів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.27">
+        <section class="text">
+            У яких межах, від чого і в якому напрямку,
+            вимірюється географічна координата місця - широта?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.28">
+        <section class="text">
+            Географічна координата місця - довгота.
+            У яких межах, від чого і в якому напрямку вимірюється?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.29">
+        <section class="text">
+            По якій стороні рамки навігаційної мапи визначається широта місця?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.30">
+        <section class="text">
+            По якій стороні рамки навігаційної мапи визначається довгота місця?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.31">
+        <section class="text">
+            Що означає визначення місця судна за крюйс-пеленгами?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.32">
+        <section class="text">
+            Пеленг це - ?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.33">
+        <section class="text">
+            Що визначає Локсодрома?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.34">
+        <section class="text">
+            Що означає позначення на навігаційній карті?<br/>
+            <img src="quiz/img/7.34.jpg"/>
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.35">
+        <section class="text">
+            Як називається кут відхилення судна від курсу під дією вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.36">
+        <section class="text">
+            В яких випадках існує загроза зіткнення з судном, що наближається?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.38">
+        <section class="text">
+            Як називається прилад для вимірювання глибини?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="7.39">
+        <section class="text">
+            Як називається прилад для вимірювання швидкості судна?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
 </section>
