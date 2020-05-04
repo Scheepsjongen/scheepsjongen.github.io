@@ -3773,4 +3773,407 @@
         <section class="description">
         </section>
     </section>
+    <section class="question" number="6.1">
+        <section class="text">
+            Яке значення має метеорологія для судноводіння?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.2">
+        <section class="text">
+            Яка із наук вивчає фізичні процеси у атмосфері
+            і океанах та їх вплив на судноплавство?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.3">
+        <section class="text">
+            В чому проявляються основні признаки зміни погоди до погіршення?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.4">
+        <section class="text">
+            Про що свідчить таке явище, коли слоїсті хмари світлішають,
+            а атмосферний тиск повільно збільшується?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.5">
+        <section class="text">
+            В чому проявляються основні признаки зміни погоди до поліпшення?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.6">
+        <section class="text">
+            Що називається нормальним атмосферним тиском?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.7">
+        <section class="text">
+            Для чого використовується на суднах прилад барометр-анероїд?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.8">
+        <section class="text">
+            Яке призначення має прилад барограф?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.9">
+        <section class="text">
+            У чому проявляється вплив температури повітря на управління ММС?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.10">
+        <section class="text">
+            Які явища характеризують вологість повітря?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.11">
+        <section class="text">
+            В чому проявляється конденсація парів?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.12">
+        <section class="text">
+            Як називається атмосферний вихор великого діаметру
+            з низьким тиском повітря в центрі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.13">
+        <section class="text">
+            Як називається область високого атмосферного тиску?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.14">
+        <section class="text">
+            Яким приладом обчислюється швидкість та напрямок вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.15">
+        <section class="text">
+            Яку назву має рух повітря у горизонтальному напрямку,
+            якщо воно рухається з області високого тиску до області низького тиску?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.16">
+        <section class="text">
+            Що таке істинний вітер?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.17">
+        <section class="text">
+            Що таке уявний вітер?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.18">
+        <section class="text">
+            Яким способом і в яких одиницях виміру визначають силу вітру
+            по його дії на водну поверхню?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.19">
+        <section class="text">
+            Який напрямок руху має вітер-бриз,
+            що дує на побережжя морів і великих озер в день і в ночі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.20">
+        <section class="text">
+            Яку назву має сильний, поривчатий, теплий і сухий вітер,
+            що дує з гір в долини?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.21">
+        <section class="text">
+            Яку назву має сильний, холодний вітер,
+            що дує з прибережних гір в сторону моря?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.22">
+        <section class="text">
+            З яких причин виникає шквал - різке посилення вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.23">
+        <section class="text">
+            Як можливо передбачити зберігання поганої погоди
+            по хмарам та місцевим признакам?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.24">
+        <section class="text">
+            Як можливо передбачити зберігання хорошої погоди
+            по хмарам та місцевим признакам?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.25">
+        <section class="text">
+            Які бувають течії викликані вітром?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.26">
+        <section class="text">
+            На які види і форми,
+            залежно від стадії розвитку і умов льодоутворення бувають льоди?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.27">
+        <section class="text">
+            Які явища свідчать про ознаки крижаних полів що наближаються?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.28">
+        <section class="text">
+            В чому полягають особливості керування судном на мілині?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.29">
+        <section class="text">
+            Як повинен діяти судноводій ММС при керуванні судном
+            в умовах хвилювання та при штормі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.30">
+        <section class="text">
+            В чому полягає основне завдання судноводія при наближенні шквалу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.31">
+        <section class="text">
+            Який порядок руху швидкісних маломірних суден при видимості, менше 0,5 км?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.32">
+        <section class="text">
+            Звуковий сигнал?
+        </section>
+        <section class="answer" data-correct="data-correct">Так.</section>
+        <section class="answer">Ні.</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.33">
+        <section class="text">
+            Дійсний вітер це - ?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.34">
+        <section class="text">
+            Ознаки наближення циклону?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.35">
+        <section class="text">
+            Яка кількість балів в шкалі оцінки хвилювання моря,
+            розробленої Всесвітньою гідрометеорологічною організацією?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.36">
+        <section class="text">
+            Чи дозволяється вихід маломірних (малих) суден
+            в несприятливі погодні умови на внутрішніх водних шляхах України?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.37">
+        <section class="text">
+            Дії судноводіїв маломірних (малих) суден
+            при погіршенні гідрометеорологічних умов?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.38">
+        <section class="text">
+            Яка кількість балів в шкалі оцінки сили вітру Бофорта?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.39">
+        <section class="text">
+            Дії судноводія при штормі?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.40">
+        <section class="text">
+            Дії судноводія при наближенні шквалу?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.41">
+        <section class="text">
+            Які дії необхідно вжити судноводію малого судна,
+            що попав в шторм, щоб забезпечити остійність?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.42">
+        <section class="text">
+            Які дії необхідно вжити судноводію МС, що потрапив в шторм?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
+    <section class="question" number="6.43">
+        <section class="text">
+            Як називається прилад для виміру швидкості вітру?
+        </section>
+        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer">2</section>
+        <section class="description">
+        </section>
+    </section>
 </section>
