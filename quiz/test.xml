@@ -136,7 +136,7 @@
     </section>
     <section class="question" number="1.14">
         <section class="text">
-            Для проходу ММС під мостом в обох напрямах  на його  фермі встановлюється?
+            Для проходу ММС під мостом в обох напрямах на його фермі встановлюється?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -147,8 +147,10 @@
         <section class="text">
             Які документи необхідні для плавання на ВВШ судноводіям ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судновий білет (або його копію) та посвідчення на право керування</section>
+        <section class="answer">Посвідчення на право керування</section>
+        <section class="answer">Судновий білет (або його копію)</section>
+        <section class="answer">Акт технічного огляду</section>
         <section class="description">
         </section>
     </section>
@@ -241,9 +243,19 @@
         <section class="text">
             На річці маломірним суднам дозволяється перетинати судновий хід?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Курсом під прямим кутом до напрямку загального руху</section>
+        <section class="answer">Курсом під гострим кутом до напрямку загального руху</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Если судно вынужденно пересечь полосу движения, то оно должно делать это,
+                    насколько возможно, курсом под прямым углом к общему направлению потока движения.
+                </p>
+                <div class="blockquote-footer">
+                    с.133
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.26">
@@ -257,8 +269,7 @@
     </section>
     <section class="question" number="1.27">
         <section class="text">
-            Швидкість в місцях масового відпочинку людей з буйковим огородженням
-            повинна складатися?
+            Швидкість в місцях масового відпочинку людей з буйковим огородженням повинна складатися?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -279,17 +290,16 @@
             Про що інформує береговий заборонний знак: "Якір не кидати!"?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">Якір не кидати.</section>
+        <section class="answer">Якір не кидати</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="1.30">
         <section class="text">
-            Про що інформує береговий попереджувальний знак:
-            "Додержувати надводний габарит!"?
+            Про що інформує береговий попереджувальний знак: "Додержувати надводний габарит!"?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">Треба додержувати надводний габарит.</section>
+        <section class="answer">Треба додержувати надводний габарит</section>
         <section class="description">
         </section>
     </section>
@@ -307,8 +317,10 @@
             Що означає даний плавучий навігаційний знак системи МАМС, регіон А?<br/>
             <img src="quiz/img/1.32.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Огороджує окрему небезпеку</section>
+        <section class="answer">Спеціального призначення</section>
+        <section class="answer">Осьовий</section>
+        <section class="answer">Чистої води</section>
         <section class="description">
         </section>
     </section>
@@ -335,9 +347,11 @@
             Який тип та призначення у вказаного на малюнку судна?<br/>
             <img src="quiz/img/1.35.png"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">?</section>
         <section class="description">
+            Судно, лишенное возможности управляться, должно выставлять:
+            два красных круговых огня, расположенные по вертикальной линии на наиболее видном месте;
+            два шара или подобных знака, расположенные по вертикальной линии на наиболее видном месте;
         </section>
     </section>
     <section class="question" number="1.36">
@@ -345,8 +359,10 @@
             Яке судно несе даний сигнал?<br/>
             <img src="quiz/img/1.36.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно, зайняте водолазними роботами</section>
+        <section class="answer">Судно, зайняте днопоглиблювальними роботами</section>
+        <section class="answer">Судно, що стоїть на якорі</section>
+        <section class="answer">Судно, яке має на борту лоцмана</section>
         <section class="description">
         </section>
     </section>
@@ -356,8 +372,18 @@
             чорний конус вершиною вниз?<br/>
             <img src="quiz/img/1.37.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">
+            Судно, що йде під вітрилом і одночасно приводиться в рух механічною установкою
+        </section>
+        <section class="answer">Рибальське</section>
+        <section class="answer">Буксир</section>
+        <section class="answer">Вітрильне судно</section>
+        <section class="answer">Судно, яке здійснює перевезення радіоактивних вантажів</section>
+        <section class="answer">Судно, що стоїть на якорі</section>
+        <section class="answer">Судно, що стоїть на мілині</section>
+        <section class="answer">Судно, що йде під вітрилами, довжиною понад 20 м</section>
+        <section class="answer">Судно, що йде під вітрилами, довжиною понад 50 м</section>
+        <section class="answer">Судно, що йде під вітрилом і обмежене в можливості маневрувати</section>
         <section class="description">
         </section>
     </section>
@@ -366,8 +392,10 @@
             Що означають дані плавучі навігаційні знаки системи МАМС в регіоні А?<br/>
             <img src="quiz/img/1.38.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Огороджує окрему небезпеку</section>
+        <section class="answer">Спеціального призначення</section>
+        <section class="answer">Осьовий</section>
+        <section class="answer">Чистої води</section>
         <section class="description">
         </section>
     </section>
@@ -386,8 +414,10 @@
             Що означають ці плавучі навігаційні знаки системи МАМС в регіоні А?<br/>
             <img src="quiz/img/1.40.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Обійти знак з боку півночі</section>
+        <section class="answer">Обійти знак з боку півдня</section>
+        <section class="answer">Обійти знак з боку сходу</section>
+        <section class="answer">Обійти знак з боку заходу</section>
         <section class="description">
         </section>
     </section>
@@ -413,19 +443,20 @@
     </section>
     <section class="question" number="1.43">
         <section class="text">
-            Яке судно несе даний сигнал:
-            чорна куля на видному місці?<br/>
+            Яке судно несе даний сигнал: чорна куля на видному місці?<br/>
             <img src="quiz/img/1.43.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно на якорі</section>
+        <section class="answer">Судно на мілині</section>
+        <section class="answer">Судно, позбавлене можливості маневрувати</section>
+        <section class="answer">Рибальське судно</section>
+        <section class="answer">Судно, що йде під вітрилом і одночасно використовує силову установку</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="1.44">
         <section class="text">
-            Які вогні має нести мале судно на стоянці,
-            за винятком суднових шлюпок, вночі?
+            Які вогні має нести мале судно на стоянці, за винятком суднових шлюпок, вночі?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -434,8 +465,7 @@
     </section>
     <section class="question" number="1.45">
         <section class="text">
-            Яка форма мостового знаку є указником
-            вісі суднового ходу для маломірних суден?
+            Яка форма мостового знаку є указником вісі суднового ходу для маломірних суден?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -467,15 +497,19 @@
             з'єднаних між собою ланцюгами, тросами або круглими прутами?<br/>
             <img src="quiz/img/1.48.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Леєрна огорожа</section>
+        <section class="answer">Бортова огорожа</section>
+        <section class="answer">Палубна огорожа</section>
+        <section class="answer">Штормова огорожа</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D1%94%D1%80" target="_blank">
+                Леєр (вікі)
+            </a>
         </section>
     </section>
     <section class="question" number="1.49">
         <section class="text">
-            Яким способом здійснити перевірку на
-            водонепроникність люкових зачинень?
+            Яким способом здійснити перевірку на водонепроникність люкових зачинень?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -487,8 +521,10 @@
             Що означає даний плавучій навігаційний знак?<br/>
             <img src="quiz/img/1.50.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Позначає особливо небезпечне місце у лівої кромки суднового ходу</section>
+        <section class="answer">Позначає особливо небезпечне місце біля правої кромки суднового ходу</section>
+        <section class="answer">Позначає вісь суднового ходу</section>
+        <section class="answer">Позначає поворот суднового ходу</section>
         <section class="description">
         </section>
     </section>
@@ -531,8 +567,7 @@
     </section>
     <section class="question" number="1.55">
         <section class="text">
-            У який строк судновласники повинні зареєструвати
-            маломірне (мале) судне після купівлі?
+            У який строк судновласники повинні зареєструвати маломірне (мале) судне після купівлі?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -541,7 +576,7 @@
     </section>
     <section class="question" number="1.56">
         <section class="text">
-            Визначити термін "база для стоянки маломірних (малих) суден".
+            Визначити термін "База для стоянки маломірних (малих) суден".
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -579,9 +614,19 @@
         <section class="text">
             Як потрібно проводити перетин фарватеру (суднового ходу)?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Курсом під прямим кутом до напрямку загального руху</section>
+        <section class="answer">Курсом під гострим кутом до напрямку загального руху</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Если судно вынужденно пересечь полосу движения, то оно должно делать это,
+                    насколько возможно, курсом под прямым углом к общему направлению потока движения.
+                </p>
+                <div class="blockquote-footer">
+                    с.133
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.61">
@@ -654,8 +699,7 @@
     </section>
     <section class="question" number="1.68">
         <section class="text">
-            У яких випадках встановлюється обмеження руху суден
-            на акваторії бази стоянки?
+            У яких випадках встановлюється обмеження руху суден на акваторії бази стоянки?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -674,8 +718,7 @@
     <section class="question" number="1.70">
         <section class="text">
             Якщо два малі судна прямують зустрічними курсами таким чином,
-            що може виникнути небезпека зіткнення,
-            то як кожне судно має змінити свій курс?
+            що може виникнути небезпека зіткнення, то як кожне судно має змінити свій курс?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -721,7 +764,7 @@
     </section>
     <section class="question" number="1.75">
         <section class="text">
-            Якщо два моторні судна наближаються по курсах, що  перетинаються,
+            Якщо два моторні судна наближаються по курсах, що перетинаються,
             яке судно повинно поступитися?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
@@ -785,8 +828,7 @@
     </section>
     <section class="question" number="1.82">
         <section class="text">
-            У разі виникнення небезпеки, судна що прямують уверх,
-            які сигнали повинні подати?
+            У разі виникнення небезпеки, судна що прямують уверх, які сигнали повинні подати?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -831,8 +873,7 @@
     </section>
     <section class="question" number="1.87">
         <section class="text">
-            При здійсненні повороту праворуч або маневру,
-            які сигнали подаються судном?
+            При здійсненні повороту праворуч або маневру, які сигнали подаються судном?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -841,8 +882,7 @@
     </section>
     <section class="question" number="1.88">
         <section class="text">
-            При здійсненні повороту ліворуч або маневру,
-            які сигнали подаються судном?
+            При здійсненні повороту ліворуч або маневру, які сигнали подаються судном?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -880,8 +920,7 @@
     </section>
     <section class="question" number="1.92">
         <section class="text">
-            Хто встановлює терміни щорічного відкриття та закриття навігації
-            для маломірних суден?
+            Хто встановлює терміни щорічного відкриття та закриття навігації для маломірних суден?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -917,7 +956,7 @@
     </section>
     <section class="question" number="1.96">
         <section class="text">
-            Що означає термін  "Парусне судно"?
+            Що означає термін "Парусне судно"?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -926,8 +965,7 @@
     </section>
     <section class="question" number="1.97">
         <section class="text">
-            Де дозволяється зупинятись маломірним суднам
-            у межах суднового ходу?
+            Де дозволяється зупинятись маломірним суднам у межах суднового ходу?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -936,7 +974,7 @@
     </section>
     <section class="question" number="1.98">
         <section class="text">
-            Що означає термін "безпечна швидкість"?
+            Що означає термін "Безпечна швидкість"?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -981,7 +1019,7 @@
     </section>
     <section class="question" number="1.103">
         <section class="text">
-            Управляти судном під час плавання має кваліфікована особа не молодше ніж…?
+            Управляти судном під час плавання має кваліфікована особа не молодше ніж ..?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -990,11 +1028,13 @@
     </section>
     <section class="question" number="1.104">
         <section class="text">
-            Що  означає даний знак?<br/>
+            Що означає даний знак?<br/>
             <img src="quiz/img/1.104.png"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Місце підводного переходу</section>
+        <section class="answer">Місце розташування поста судноплавної інспекції</section>
+        <section class="answer">Місце якірної стоянки</section>
+        <section class="answer">Місце знаходження стоянки маломірних суден</section>
         <section class="description">
         </section>
     </section>
@@ -1040,7 +1080,7 @@
     </section>
     <section class="question" number="1.109">
         <section class="text">
-            Обмін відмашками виконується не менше ніж за…?
+            Обмін відмашками виконується не менше ніж за ..?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1061,8 +1101,13 @@
             Що показує даний знак?<br/>
             <img src="quiz/img/1.111.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Максимально допустима швидкість водоизмещающих судів 15 км/год</section>
+        <section class="answer">Максимально допустима осадка суден на цій ділянці 15 дм</section>
+        <section class="answer">Максимально допустима ширина судів на цій ділянці 15 м</section>
+        <section class="answer">Глибина суднового ходу 15 м</section>
+        <section class="answer">Попереду надводний перехід з мінімальною висотою 15 м</section>
+        <section class="answer"></section>
+        <section class="answer"></section>
         <section class="description">
         </section>
     </section>
@@ -1081,8 +1126,10 @@
             Що означає даний знак?<br/>
             <img src="quiz/img/1.113.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Рух дрібних плавзасобів заборонено</section>
+        <section class="answer">Місце перетину суднового ходу</section>
+        <section class="answer">Знак, що забороняє створювати хвилювання</section>
+        <section class="answer">Ділянка, де необхідно дотримуватися особливої обережності</section>
         <section class="description">
         </section>
     </section>
@@ -1091,8 +1138,10 @@
             Що означає даний знак?<br/>
             <img src="quiz/img/1.114.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Знак, що забороняє створювати хвилювання</section>
+        <section class="answer">Місце перетину суднового ходу</section>
+        <section class="answer">Рух дрібних плавзасобів заборонено</section>
+        <section class="answer">Ділянка, де необхідно дотримуватися особливої обережності</section>
         <section class="description">
         </section>
     </section>
@@ -1138,8 +1187,10 @@
             Що показує даний знак?<br/>
             <img src="quiz/img/1.119.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Місце перетину суднового ходу судами і поромними переправами</section>
+        <section class="answer">Вісь суднового ходу</section>
+        <section class="answer">Перехрестя суднових ходів</section>
+        <section class="answer">Попереджає про наближення до перекату</section>
         <section class="description">
         </section>
     </section>
@@ -1221,8 +1272,10 @@
         <section class="text">
             В яких випадках заборонено виходити в плавання маломірним суднам?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У всіх перерахованих випадках</section>
+        <section class="answer">При наявності наскрізних пробоїн корпусу судна</section>
+        <section class="answer">При розгерметизації гермовідсіків</section>
+        <section class="answer">При пошкодженні системи дистанційного керування двигуном</section>
         <section class="description">
         </section>
     </section>
@@ -1283,7 +1336,7 @@
     </section>
     <section class="question" number="1.135">
         <section class="text">
-            Перетинання курсу чи обгін дозволяється..?
+            Перетинання курсу чи обгін дозволяється ..?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1429,8 +1482,7 @@
     </section>
     <section class="question" number="1.150">
         <section class="text">
-            Коли обгін неможливий через небезпеку зіткнення
-            судно, що обганяють повинне подати?
+            Коли обгін неможливий через небезпеку зіткнення судно, що обганяють повинне подати?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1442,8 +1494,10 @@
             На якій мінімальній відстані від судна, що наближається,
             дозволяється пересікати судовий хід малому судну?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">1 км</section>
+        <section class="answer">0,5 км</section>
+        <section class="answer">0,8 км</section>
+        <section class="answer">1,5 км</section>
         <section class="description">
         </section>
     </section>
@@ -1476,8 +1530,7 @@
     </section>
     <section class="question" number="1.155">
         <section class="text">
-            Статтями якого документа визначається розмір штрафів
-            за порушення, допущені судноводіями?
+            Статтями якого документа визначається розмір штрафів за порушення, допущені судноводіями?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1516,18 +1569,21 @@
     </section>
     <section class="question" number="1.159">
         <section class="text">
-            Яке адміністративне покарання передбачено за
-            перевищення установленої швидкості руху?
+            Яке адміністративне покарання передбачено за перевищення установленої швидкості руху?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">
+            Попередження, або адміністративний штраф,
+            або позбавлення права керування маломірним судном на строк до шести місяців
+        </section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Адміністративний штраф</section>
+        <section class="answer">Попередження або адміністративний штраф</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="1.160">
         <section class="text">
-            Яке адміністративне покарання передбачено за
-            порушення обмежень по району та умовах плавання?
+            Яке адміністративне покарання передбачено за порушення обмежень по району та умовах плавання?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1536,8 +1592,7 @@
     </section>
     <section class="question" number="1.161">
         <section class="text">
-            Яке адміністративне покарання передбачено за
-            керування судном особою, яка не має права керування?
+            Яке адміністративне покарання передбачено за керування судном особою, яка не має права керування?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1546,11 +1601,12 @@
     </section>
     <section class="question" number="1.162">
         <section class="text">
-            Яке адміністративне покарання передбачено за
-            керування судном у стані сп’яніння?
+            Яке адміністративне покарання передбачено за керування судном у стані сп’яніння?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Штраф або позбавлення права керування</section>
+        <section class="answer">Штраф</section>
+        <section class="answer">Попередження або штраф, або позбавлення права керування</section>
+        <section class="answer">Попередження або штраф</section>
         <section class="description">
         </section>
     </section>
@@ -1589,8 +1645,10 @@
             При перевозці на трейлері зареєстрованого маломірного судна,
             які документи повинні підтвердити право власності на це судно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судновий білет</section>
+        <section class="answer">Посвідчення на право керування маломірним судном</section>
+        <section class="answer">Технічний талон</section>
+        <section class="answer">Судновий білет і посвідчення на право керування маломірним судном</section>
         <section class="description">
         </section>
     </section>
@@ -1703,23 +1761,17 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="1.179">
-        <section class="text">
-            Яке судно несе на найбільш видному місці сигнал:
-            чорний конус вершиною вниз?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
     <section class="question" number="1.180">
         <section class="text">
             При скоєнні адміністративного правопорушення,
             що тягне затримання маломірного судна, воно затримується до?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">До усунення причини затримання</section>
+        <section class="answer">До складання протоколу про адміністративне правопорушення</section>
+        <section class="answer">До винесення постанови у справі про адміністративне правопорушення</section>
+        <section class="answer">До виконання постанови по справі про адміністративне правопорушення</section>
+        <section class="answer">До розгляду справи про адміністративне правопорушення</section>
+        <section class="answer">До вступу постанови у справі про адміністративне правопорушення в законну силу</section>
         <section class="description">
         </section>
     </section>
@@ -1728,8 +1780,7 @@
             Що позначають жовті поплавці або жовті прапори,
             розставлені на поверхні води в безпосередній близькості від суднового ходу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Розставлені риболовні сітки</section>
         <section class="description">
         </section>
     </section>
@@ -1747,16 +1798,6 @@
             Протягом якого терміну громадянин,
             щодо якого винесено адміністративне покарання за порушення
             правил користування маломірними суднами, має право подати скаргу?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="1.184">
-        <section class="text">
-            Що означає сигнал, піднятий на судні:
-            два чорних кулі, розміщені по вертикалі?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1785,17 +1826,10 @@
         <section class="text">
             Як називається умовна лінія, що обмежує судновий хід?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="2.4">
-        <section class="text">
-            Як називається умовна лінія в середній частині суднового ходу?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Кромка</section>
+        <section class="answer">Стрижень</section>
+        <section class="answer">Смуга</section>
+        <section class="answer">Перевал</section>
         <section class="description">
         </section>
     </section>
@@ -1882,8 +1916,7 @@
     </section>
     <section class="question" number="2.14">
         <section class="text">
-            Для чого використовуються в системі МАМС
-            латеральні знаки?
+            Для чого використовуються в системі МАМС латеральні знаки?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1892,8 +1925,7 @@
     </section>
     <section class="question" number="2.15">
         <section class="text">
-            Для чого використовуються в системі МАМС
-            знаки спеціального призначення?
+            Для чого використовуються в системі МАМС знаки спеціального призначення?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1902,7 +1934,7 @@
     </section>
     <section class="question" number="2.16">
         <section class="text">
-            Для чого використовуються осьові знаки  системи МАМС?
+            Для чого використовуються осьові знаки системи МАМС?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1913,15 +1945,13 @@
         <section class="text">
             Для виміру яких відстаней на морі, застосовується морська миля?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Відстаней</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="2.18">
         <section class="text">
-            У яких одиницях проводяться виміри відстаней
-            при плаванні на озерах і річках?
+            У яких одиницях проводяться виміри відстаней при плаванні на озерах і річках?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1930,7 +1960,7 @@
     </section>
     <section class="question" number="2.19">
         <section class="text">
-            З  яких  основних засобів можна отримати навігаційну інформацію?
+            З яких основних засобів можна отримати навігаційну інформацію?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -1939,11 +1969,21 @@
     </section>
     <section class="question" number="2.20">
         <section class="text">
-            Одиницею виміру яких відстаней на морі є -  кабельтов?
+            Одиницею виміру яких відстаней на морі є - кабельтов?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Відстаней</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    В качестве единицы длины в морской навигации принята миля,
+                    соответствующая одной минуте мередиана и равная 1852,3 м.
+                    Одна десятая часть мили называется кабельтовым, равным 185 м.
+                </p>
+                <div class="blockquote-footer">
+                    с.20
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="2.21">
@@ -2016,8 +2056,10 @@
             Як називається стійке скупчення наносів, відкладених по ширині русла?<br/>
             <img src="quiz/img/2.28.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Перекат</section>
+        <section class="answer">Коса</section>
+        <section class="answer">Поріг</section>
+        <section class="answer">Мілина</section>
         <section class="description">
         </section>
     </section>
@@ -2027,8 +2069,10 @@
             і позначений на місцевості і (або) на карті?<br/>
             <img src="quiz/img/2.29.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судновий хід</section>
+        <section class="answer">Акваторія</section>
+        <section class="answer">Смуга руху</section>
+        <section class="answer">Стрежень</section>
         <section class="description">
         </section>
     </section>
@@ -2038,8 +2082,10 @@
             що омивається водою з усіх боків?<br/>
             <img src="quiz/img/2.30.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Осередок</section>
+        <section class="answer">Заплесок</section>
+        <section class="answer">Заструга</section>
+        <section class="answer">Заманиха</section>
         <section class="description">
         </section>
     </section>
@@ -2048,8 +2094,10 @@
             Як називається обертальний рух води за підводним або надводним виступом в яру?<br/>
             <img src="quiz/img/2.31.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Суводь</section>
+        <section class="answer">Майдан</section>
+        <section class="answer">Вир</section>
+        <section class="answer">Сулой</section>
         <section class="description">
         </section>
     </section>
@@ -2065,12 +2113,14 @@
     </section>
     <section class="question" number="2.33">
         <section class="text">
-            Як називається піщана мілина-бугор, утворена на судновому ході по випадковим причин:
+            Як називається піщана мілина-бугор, утворена на судновому ході по випадковим причинам:
             за затонулими предметами, за суднами, що стоять на мілині?<br/>
             <img src="quiz/img/2.33.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шалига</section>
+        <section class="answer">Печина</section>
+        <section class="answer">Лещадь</section>
+        <section class="answer">Огрудок</section>
         <section class="description">
         </section>
     </section>
@@ -2099,8 +2149,10 @@
             що проходить у середній частині суднового ходу?<br/>
             <img src="quiz/img/2.36.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вісь суднового ходу</section>
+        <section class="answer">Фарватер</section>
+        <section class="answer">Перевал суднового ходу</section>
+        <section class="answer">Кромка суднового ходу</section>
         <section class="description">
         </section>
     </section>
@@ -2110,8 +2162,11 @@
             випрямлена новим руслом і ізольована від нього?<br/>
             <img src="quiz/img/2.37.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">Старик.</section>
-        <section class="answer">Старуха.</section>
+        <section class="answer" data-correct="data-correct">Старик</section>
+        <section class="answer">Старуха</section>
+        <section class="answer">Протока</section>
+        <section class="answer">Воложка</section>
+        <section class="answer">Рукав</section>
         <section class="description">
         </section>
     </section>
@@ -2130,9 +2185,14 @@
         <section class="text">
             Що означає термін "Фарватер" (Судновий хід)?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Прохід для суден серед навігаційних небезпек</section>
+        <section class="answer">Центральна частина водного простору, все одно де - в річці, в затоці, протоці або на відкритому плесі</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B2%D0%B0%D1%82%D0%B5%D1%80" target="_blank">
+                Фарватер (вікі)
+            </a>
+            - прохід для суден серед навігаційних небезпек,
+            огороджений знаками навігаційного обладнання морських шляхів: буями, віхами, створами тощо
         </section>
     </section>
     <section class="question" number="2.40">
@@ -2229,8 +2289,10 @@
         <section class="text">
             Як називається накопичення наносів по ширині русла?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Перекат</section>
+        <section class="answer">Коса</section>
+        <section class="answer">Поріг</section>
+        <section class="answer">Мілина</section>
         <section class="description">
         </section>
     </section>
@@ -2297,8 +2359,10 @@
             Як називається горизонтальна плоскість, яка проходить по всій довжині судна
             і співпадаюча з поверхнею спокійної води?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">Ватерлайн.</section>
+        <section class="answer" data-correct="data-correct">Ватерлінія</section>
+        <section class="answer">Валова лінія</section>
+        <section class="answer">Основна лінія</section>
+        <section class="answer">Мідельлінія</section>
         <section class="description">
         </section>
     </section>
@@ -2324,8 +2388,7 @@
     </section>
     <section class="question" number="3.9">
         <section class="text">
-            У яких відповідях перераховані всі можливі сили,
-            що діють на корпус судна?
+            У яких відповідях перераховані всі можливі сили, що діють на корпус судна?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -2435,8 +2498,7 @@
     </section>
     <section class="question" number="3.21">
         <section class="text">
-            Плавучість судна характеризується запасом плавучості,
-            в чому він виражається?
+            Плавучість судна характеризується запасом плавучості, в чому він виражається?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -2464,15 +2526,6 @@
     <section class="question" number="3.24">
         <section class="text">
             Які види робіт відносяться до суднових такелажних робіт?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="3.25">
-        <section class="text">
-            Що називається транцем?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -2528,23 +2581,30 @@
     </section>
     <section class="question" number="3.31">
         <section class="text">
-            Як називається вертикальна носова балка,
-            що є продовженням кіля?<br/>
+            Як називається вертикальна носова балка, що є продовженням кіля?<br/>
             <img src="quiz/img/3.31.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Форштевень</section>
+        <section class="answer">Форкіль</section>
+        <section class="answer">Кільсон</section>
+        <section class="answer">Фальшкіль</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D1%88%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C" target="_blank">
+                Форштевень (вікі)
+            </a>
+            - передня, найбільш міцна, конструкція носової частини судна у вигляді балки,
+            зігнутої за формою носа, що є продовженням кіля і, якою закінчується набір судна у носі.
         </section>
     </section>
     <section class="question" number="3.32">
         <section class="text">
-            Як називається бортова частина балки
-            поперечного набору корпусу судна?<br/>
+            Як називається бортова частина балки поперечного набору корпусу судна?<br/>
             <img src="quiz/img/3.32.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шпангоут</section>
+        <section class="answer">Флор</section>
+        <section class="answer">Стрінгер</section>
+        <section class="answer">Бімс</section>
         <section class="description">
         </section>
     </section>
@@ -2553,10 +2613,10 @@
             Який з цих якорів є адміралтейським?<br/>
             <img src="quiz/img/3.33.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">г.</section>
-        <section class="answer">а.</section>
-        <section class="answer">б.</section>
-        <section class="answer">в.</section>
+        <section class="answer" data-correct="data-correct">г</section>
+        <section class="answer">а</section>
+        <section class="answer">б</section>
+        <section class="answer">в</section>
         <section class="description">
         </section>
     </section>
@@ -2565,9 +2625,19 @@
             Як на цій схемі називається швартовий позначення цифрою 3?<br/>
             <img src="quiz/img/3.34.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шпринг</section>
+        <section class="answer">Поперечний</section>
+        <section class="answer">Поздовжний</section>
+        <section class="answer">Притискний</section>
         <section class="description">
+            <a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%BF%D1%80%D0%B8%D0%BD%D0%B3" target="_blank">
+                Шпринг (wiki)
+            </a>
+            (нидерл. spring) - швартов, поданный с носа судна и заложенный в районе кормы,
+            или наоборот, поданный с кормы в район носа,
+            для удержания судна в заданном положении при швартовке у причала.<br/>
+            Как следует из названия (spring — рус. пружина), шпринг пружинит и поглощает «гуляние» —
+            колебательные движения корабля, которые другими средствами не компенсируются.
         </section>
     </section>
     <section class="question" number="3.35">
@@ -2576,9 +2646,16 @@
             яка на маломірному судні служить для установки підвісного двигуна?<br/>
             <img src="quiz/img/3.35.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Транець</section>
+        <section class="answer">Кокпіт</section>
+        <section class="answer">Комінгс</section>
+        <section class="answer">Ахтерпік</section>
+        <section class="answer">Ахтерштевень</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B5%D1%86%D1%8C" target="_blank">
+                Транець (вікі)
+            </a>
+            - нижня частина прямої корми на суднах, а на шлюпках назва дошки, яка утворює корму.
         </section>
     </section>
     <section class="question" number="3.36">
@@ -2634,8 +2711,10 @@
         <section class="text">
             Чи дозволяється на гребному човні встановлювати двигун?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Якщо в судновому білеті є відповідний запис</section>
+        <section class="answer">Якщо потужність двигуна не перевищує 10 к.с</section>
+        <section class="answer">Якщо човен має транец</section>
+        <section class="answer">Таких випадків не передбачено</section>
         <section class="description">
         </section>
     </section>
@@ -2651,8 +2730,7 @@
     </section>
     <section class="question" number="3.43">
         <section class="text">
-            Що характеризує додаткову кількість вантажу,
-            яке може прийняти судно, тримаючись на воді?
+            Що характеризує додаткову кількість вантажу, яке може прийняти судно, тримаючись на воді?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -2736,9 +2814,13 @@
         <section class="text">
             Що називається дрейфом судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Знесення судна з лінії його курсу під впливом вітру</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+                Дрейф (вікі)
+            </a>
+            - знесення судна з лінії його курсу під впливом вітру,
+            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).
         </section>
     </section>
     <section class="question" number="3.53">
@@ -2754,8 +2836,10 @@
         <section class="text">
             З якою метою на маломірному судні встановлюються блоки з пінопласту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для забезпечення аварійного запасу плавучості</section>
+        <section class="answer">Для посилення міцності бортового набору</section>
+        <section class="answer">Для збільшення вантажопідйомності</section>
+        <section class="answer">Для додаткової остійності</section>
         <section class="description">
         </section>
     </section>
@@ -2779,9 +2863,8 @@
     </section>
     <section class="question" number="3.57">
         <section class="text">
-            Контроль опору антистатичного заземлення повинен
-            проводитися переносними приладами будь-якого типу
-            з напругою постійного струму?
+            Контроль опору антистатичного заземлення повинен проводитися
+            переносними приладами будь-якого типу з напругою постійного струму?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -2858,8 +2941,7 @@
     </section>
     <section class="question" number="3.65">
         <section class="text">
-            Скільки пусків одного двигуна внутрішнього згоряння
-            в підготовленому до пуску стані
+            Скільки пусків одного двигуна внутрішнього згоряння в підготовленому до пуску стані
             повинна забезпечувати ємність стартерної батареї?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
@@ -2907,18 +2989,30 @@
         <section class="text">
             Під впливом, яких чинників відбувається "дрейф судна"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Під впливом вітру або течії</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+                Дрейф (вікі)
+            </a>
+            - знесення судна з лінії його курсу під впливом вітру,
+            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).
         </section>
     </section>
     <section class="question" number="4.6">
         <section class="text">
             Які фактори впливають на величину дрейфу судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">
+            Напрямок та сила вітру або течії;
+            розміри та форма підводної і надводної частин корпусу;
+            курс та швидкість судна
+        </section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+                Дрейф (вікі)
+            </a>
+            - знесення судна з лінії його курсу під впливом вітру,
+            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).
         </section>
     </section>
     <section class="question" number="4.7">
@@ -3017,8 +3111,7 @@
     </section>
     <section class="question" number="4.17">
         <section class="text">
-            Як повинні поступити судна, які мають радіотелефонний зв'язок,
-            при розходженні або обгоні?
+            Як повинні поступити судна, які мають радіотелефонний зв'язок, при розходженні або обгоні?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -3027,8 +3120,7 @@
     </section>
     <section class="question" number="4.18">
         <section class="text">
-            У яких випадках швидкісні судна можуть
-            рухатися у неводотоннажному положенні?
+            У яких випадках швидкісні судна можуть рухатися у неводотоннажному положенні?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -3114,8 +3206,10 @@
         <section class="text">
             З якого борту, маломірне судно, що обганяє, повинне обходити інше ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">По лівому борту судна, що обганяється</section>
+        <section class="answer">По правому борту судна, що обганяється</section>
+        <section class="answer">По любому борту</section>
+        <section class="answer">Обгін забороняється</section>
         <section class="description">
         </section>
     </section>
@@ -3148,12 +3242,13 @@
     </section>
     <section class="question" number="4.31">
         <section class="text">
-            В яких випадках маломірному судну дозволено
-            заходити та маневрувати на акваторії пляжів?<br/>
+            В яких випадках маломірному судну дозволено заходити та маневрувати на акваторії пляжів?<br/>
             <img src="quiz/img/4.31.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Ні в одному з перерахованих не дозволяється</section>
+        <section class="answer">Тільки на самому малому ходу</section>
+        <section class="answer">Тільки проходити через акваторію пляжу з прийняттям всіх необхідних заходів обережності, але не маневрувати</section>
+        <section class="answer">Якщо в безпосередній близькості від судна немає людей, що купаються</section>
         <section class="description">
         </section>
     </section>
@@ -3162,20 +3257,25 @@
             Чи повинне маломірне судно на ходу поступитися дорогою вітрильному судну?<br/>
             <img src="quiz/img/4.32.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Повинно в будь-якому випадку</section>
+        <section class="answer">Повинно, якщо вітрильне судно йде правим галсом</section>
+        <section class="answer">Повинно, якщо вітрильне судно наближається з правого борту</section>
+        <section class="answer">Не повинно</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="4.33">
         <section class="text">
-            Якщо два моторних судна йдуть пересічними курсами так,
-            що виникає небезпека зіткнення,
+            Якщо два моторних судна йдуть пересічними курсами так, що виникає небезпека зіткнення,
             яке судно повинно дати дорогу іншому судну?<br/>
             <img src="quiz/img/4.33.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно, яке має інше судно на своїй правій стороні</section>
+        <section class="answer">Судно, яке має інше судно на своїй лівій стороні</section>
+        <section class="answer">Судно, що знаходиться на північ від іншого судна</section>
+        <section class="answer">Судно, що знаходиться на південь від іншого судна</section>
+        <section class="answer">Судно, яке має більшу швидкість</section>
+        <section class="answer">Судно, яке має меншу швидкість</section>
         <section class="description">
         </section>
     </section>
@@ -3192,7 +3292,7 @@
     </section>
     <section class="question" number="4.35">
         <section class="text">
-            Звуковий сигнал?<br/>
+            Що означає звуковий сигнал?<br/>
             <img src="quiz/img/4.35.png"/>
         </section>
         <section class="answer" data-correct="data-correct">1</section>
@@ -3205,18 +3305,18 @@
             Що вимірюється ручним анемометром?<br/>
             <img src="quiz/img/4.36.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Сила вітру</section>
+        <section class="answer">Швидкість руху відносно води</section>
+        <section class="answer">Температура навколишнього середовища</section>
+        <section class="answer">Пройдену відстань</section>
+        <section class="answer">Атмосферний тиск</section>
+        <section class="answer">Напрямок вітру</section>
+        <section class="answer">Швидкість течії</section>
         <section class="description">
-        </section>
-    </section>
-    <section class="question" number="4.37">
-        <section class="text">
-            Як потрібно підходити на човні для спасіння потопаючого при вітряній погоді?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" target="_blank">
+                Анемометр (вікі)
+            </a>
+            - прилад для вимірювання швидкості повітря
         </section>
     </section>
     <section class="question" number="4.38">
@@ -3233,8 +3333,10 @@
             Які дії необхідно зробити водію маломірного судна,
             який потрапив в штормові умови, щоб забезпечити безпеку?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Дати малий хід і тримати судно носом на вітер</section>
+        <section class="answer">Лягти в дрейф</section>
+        <section class="answer">Збільшити хід і йти врозріз хвилі</section>
+        <section class="answer">Йти по хвилі на повному ходу</section>
         <section class="description">
         </section>
     </section>
@@ -3306,9 +3408,13 @@
         <section class="text">
             Дрейф судна менший при?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Курсі бакштаг</section>
+        <section class="answer">Курсі бейдевінд</section>
+        <section class="answer">Курсі галфвінд</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%81_%D0%B2%D1%96%D0%B4%D0%BD%D0%BE%D1%81%D0%BD%D0%BE_%D0%B2%D1%96%D1%82%D1%80%D1%83" target="_blank">
+                Курс відносно вітру (вікі)
+            </a>
         </section>
     </section>
     <section class="question" number="4.48">
@@ -3351,9 +3457,16 @@
         <section class="text">
             Виводити катер із суводі потрібно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Ведучи судно по зовнішньому краю суводі і, збільшуючи хід виходити до стрижня</section>
+        <section class="answer">Збільшити хід і пройти через центр суводі</section>
+        <section class="answer">Зменшити хід і різко виходити до стрижня</section>
+        <section class="answer">Вести судно по зовнішньому краю суводі і, зменшуючи хід виходити до стрижня</section>
         <section class="description">
+            <img src="quiz/img/4.52.jpg"/><br/>
+            <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%BD%D0%B0" target="_blank">
+                Бистрина, стрижень
+            </a>
+            - частина річкового потоку, що має швидкість течії більшу від середньої швидкості річки.
         </section>
     </section>
     <section class="question" number="4.53">
@@ -3371,8 +3484,10 @@
             в навітряну сторону відразу після падіння людини за борт,
             щоб здійснити підхід до неї з поверненням на зворотній курс?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На 10&deg;</section>
+        <section class="answer">На 5&deg;</section>
+        <section class="answer">На 20&deg;</section>
+        <section class="answer">На 30&deg;</section>
         <section class="description">
         </section>
     </section>
@@ -3381,8 +3496,10 @@
             На якій відстані, щоб запобігти присмоктуванню,
             необхідно проводити обгін на ММС великих суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не менш довжини корпусу судна, що обганяється</section>
+        <section class="answer">Не менше двох довжин корпуса судна, що обганяється</section>
+        <section class="answer">Не менш довжини корпусу маломірного судна</section>
+        <section class="answer">Не менш трьох довжин корпуса маломірного судна</section>
         <section class="description">
         </section>
     </section>
@@ -3390,8 +3507,10 @@
         <section class="text">
             Які дії повинен вжити судноводій ММС в районі перекату?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Пройти через перекат, дотримуючись обережності</section>
+        <section class="answer">Зупинитися перед перекатних щоглою</section>
+        <section class="answer">Подати звуковий сигнал на перекаті і залишити білий буй зліва</section>
+        <section class="answer">Зменшити хід і пройти перекат, залишаючи червоні плавучі знаки зліва</section>
         <section class="description">
         </section>
     </section>
@@ -3565,7 +3684,7 @@
     <section class="question" number="5.19">
         <section class="text">
             В чому полягають дії судноводія при забезпеченні
-            безпеки стояни судна на якорі?
+            безпеки стоянки судна на якорі?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -3758,19 +3877,23 @@
         <section class="text">
             З якою метою на судні використовується плавучий якір?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для зменшення дрейфу</section>
+        <section class="answer">Для зупинки на малих глибинах</section>
+        <section class="answer">Для зменшення швидкості</section>
+        <section class="answer">Для швартування</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="5.41">
         <section class="text">
-            Як на малому судні потрібно підходити
-            до необладнаного берегу при сильній хвилі?
+            Як на малому судні потрібно підходити до необладнаного берегу при сильній хвилі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На хвилі</section>
+        <section class="answer">Між хвилями</section>
+        <section class="answer">Під кутом до хвилі</section>
+        <section class="answer">Лагом</section>
         <section class="description">
+            <img src="quiz/img/5.41.jpg"/>
         </section>
     </section>
     <section class="question" number="6.1">
@@ -4171,9 +4294,14 @@
         <section class="text">
             Як називається прилад для виміру швидкості вітру?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Анемометр</section>
+        <section class="answer">Анероид</section>
+        <section class="answer">Лот</section>
+        <section class="answer">Ветрочет</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" target="_blank">Анемометр (вікі)</a>
+            (грец. ανεμος — вітер, μετρεω — міряю) — прилад для вимірювання швидкості,
+            а часто і напрямку руху потоків (газів і рідин), наприклад, повітря
         </section>
     </section>
     <section class="question" number="7.1">
@@ -4199,9 +4327,20 @@
             Одиницею виміру великих відстаней на морі є - морська миля.
             Чому вона дорівнює?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Одній минуті мередіана</section>
+        <section class="answer">Одному градусу</section>
+        <section class="answer">1.6 км</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    ... миля,
+                    соответствующая одной минуте мередиана и равная 1852,3 м.
+                </p>
+                <div class="blockquote-footer">
+                    с.20
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.4">
@@ -4209,9 +4348,20 @@
             Одиницею виміру незначних відстаней на морі є - кабельтов.
             Чому він дорівнює?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">185 м.</section>
+        <section class="answer">260 м.</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    В качестве единицы длины в морской навигации принята миля,
+                    соответствующая одной минуте мередиана и равная 1852,3 м.
+                    Одна десятая часть мили называется кабельтовым, равным 185 м.
+                </p>
+                <div class="blockquote-footer">
+                    с.20
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.5">
@@ -4238,9 +4388,29 @@
         <section class="text">
             Від чого залежить дальність видимого горизонту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Від висоти глазу спостерігача</section>
+        <section class="answer">Від широти</section>
+        <section class="answer">Від швидкості руху судна</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    2.2 Дальность видимости горизонта и навигационных ориентиров<br/><br/>
+                    С борта судна судоводитель видит определенную акваторию,
+                    ограниченную окружностью видимого горизонта.
+                    Радиус этой окружности называется дальностью видимости горизонта,
+                    которая может быть рассчитана в милях по формуле<br/><br/>
+                    Дг = 2,08 &radic;e,<br/>
+                    где е - высота глаза наблюдателя, м.<br/><br/>
+                    Для экипажа яхты дальность видимости горизонта ограничена из-за небольшой высоты глаза наблюдателя.
+                    Если эта высота равна 2 м, то дальность видимости горизонта составляет около 3 миль,
+                    при высоте 3 м - 3,6 мили.<br/>
+                    ...<br/><br/>
+                </p>
+                <div class="blockquote-footer">
+                    с.20
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.8">
@@ -4287,9 +4457,29 @@
         <section class="text">
             Під дією яких сил створюється магнітне схилення магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Під дією магнітного поля Землі</section>
+        <section class="answer">Під дією магнітного поля судна</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Магнитные полюса земли не совпадают с географическими полюсами,
+                    поэтому направление магнитного меридиана не совпадает с направлением
+                    географического (истинного) меридиана.
+                </p>
+                <p class="mb-0">
+                    Угол в плоскости истинного горизонта наблюдателя между северной частью
+                    истинного и магнитного меридианов называется магнитным склонением
+                    и обозначается буквой <var>d</var>.
+                </p>
+                <p class="mb-0">
+                    Магнитное склонение с течением времени изменяется,
+                    поскольку изменяется положение северного и южного магнитных полюсов Земли.
+                </p>
+                <div class="blockquote-footer">
+                    с.26
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.13">
@@ -4305,9 +4495,23 @@
         <section class="text">
             Від чого виникає магнетизм суднового заліза?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Від постійного впливу магнітного поля Землі</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    У яхт с металлическим корпусом проблемы с девиацией магнитного компаса
+                    существенны особенно тогда, когда такая яхта в течении длительного времени
+                    находится в одном и том же положении (ремонт, зимовка и т.д.)
+                    В этом случае корпус яхты намагничивается из-за постоянного влияния магнитного поля Земли,
+                    поэтому с началом плавания после перерыва девиацию надо определять заново.
+                    Это следует делать также при приеме на яхту металлических грузов и материалов
+                    или электрооборудования.
+                </p>
+                <div class="blockquote-footer">
+                    с.34
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.15">
@@ -4324,19 +4528,46 @@
             Як буде називатися відхилення стрілки компасу
             під дією магнітних сил суднового заліза?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Девиацією магнітного компасу</section>
+        <section class="answer">Компасним меридіаном</section>
+        <section class="answer">Магнітним відхиленням</section>
+        <section class="answer">Поправкою компасу</section>
+        <section class="answer">Дрейф</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    На катушку магнитного компаса действует не только магнитное поле Земли,
+                    но и магнитное поле судна или яхты.
+                    Вследствие этого влияния катушка компаса отклоняется
+                    от направления магнитного меридиана и устанавливается по направлению,
+                    которое принято называть компасным меридианом.
+                    Угол в плоскости истинного горизонта наблюдателя между
+                    северной частью магнитного и компасного меридианов
+                    называется девиацией магнитного компаса и обозначается буквой &delta; (греческая буква "дельта").
+                </p>
+                <div class="blockquote-footer">
+                    с.27
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.17">
         <section class="text">
-            Яке найменування та математичний знак
-            має девіація магнітного компасу?
+            Яке найменування та математичний знак має девіація магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">+ або -</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Девиация магнитного компаса измеряется в полукруговой системе счета направлений,
+                    имеет знак "+" или "-" и приделы изменений от 0&deg; до 180&deg;.
+                </p>
+                <div class="blockquote-footer">
+                    с.27
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.18">
@@ -4346,6 +4577,21 @@
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    На суднах магнитные компасы устанавливают на нактоузах,
+                    внутри которых монтируется девиационный прибор с магнитами-уничтожителями.
+                    С помощью этих специальных магнитов, а также брусков так называемого мягкого железа
+                    выполняют уничтожение девиации, то есть ее уменьшение до минимального уровня.
+                    Остаточное значение девиации сводят в таблицу девиации,
+                    входным аргументом в которой является компасный или, в крайнем случае, магнитный курс.
+                    Курсы в таблице для удобства интерполяции приведены с интервалом 10&deg;.
+                </p>
+                <div class="blockquote-footer">
+                    с.27
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.19">
@@ -4361,8 +4607,7 @@
         <section class="text">
             Для чого складається таблиця остаточної девіації магнітного компаса?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для розрахунка поправки магнітного компасу</section>
         <section class="description">
         </section>
     </section>
@@ -4370,9 +4615,20 @@
         <section class="text">
             Що називається загальною поправкою магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Сума магнітного схилення та девіації магнітного компасу</section>
+        <section class="answer">Різниця магнітного схилення та девіації магнітного компасу</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Сумма приведенного в году плавания магнитного склонения
+                    и девиации магнитного компаса
+                    представляет собой поправку магнитного компаса,
+                </p>
+                <div class="blockquote-footer">
+                    с.28
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.22">
@@ -4491,17 +4747,37 @@
             <img src="quiz/img/7.34.jpg"/>
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
+            Затонуле судно?
         </section>
     </section>
     <section class="question" number="7.35">
         <section class="text">
             Як називається кут відхилення судна від курсу під дією вітру?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Кут дрейфу</section>
+        <section class="answer">Кут зносу</section>
+        <section class="answer">Відхиленням</section>
+        <section class="answer">Кут ухилу</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+                Дрейф (вікі)
+            </a>
+            - знесення судна з лінії його курсу під впливом вітру,
+            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).
+
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Под влиянием ветра судно смещается с линии истинного курса
+                    и следует по линии пути с учетом дрейфа.
+                    Угол между линией пути при дрейфе и линией истинного курса называется углом дрейфа
+                    и обозначается греческой буквой &alpha;.
+                </p>
+                <div class="blockquote-footer">
+                    с.86
+                    <cite title="Source Title">Морская навигация, 2003. Сидоров, Романов</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="7.36">
@@ -4511,24 +4787,40 @@
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
+            <a href="https://zakon.rada.gov.ua/laws/show/995_137#Text" target="_blank">
+                Міжнародні правила попередження зіткнень на морі
+            </a>
         </section>
     </section>
     <section class="question" number="7.38">
         <section class="text">
             Як називається прилад для вимірювання глибини?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Ехолот</section>
+        <section class="answer">Барометр</section>
+        <section class="answer">Лаг</section>
+        <section class="answer">Глибиномір</section>
+        <section class="answer">Локатор</section>
+        <section class="answer">Хронометр</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D1%80#%D0%95%D1%85%D0%BE%D0%BB%D0%BE%D1%82" target="_blank">
+                Ехолот (вікі)
+            </a>
+            — вузькоспеціалізований гідролокатор (або сонар), обладнання для дослідження рельєфу дна водного басейну.
         </section>
     </section>
     <section class="question" number="7.39">
         <section class="text">
             Як називається прилад для вимірювання швидкості судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Лаг</section>
+        <section class="answer">Спідометр</section>
+        <section class="answer">Ехолот</section>
+        <section class="answer">Лот</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3_(%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B4)" target="_blank">Лаг (вікі)</a>
+            (від нід. log, букв. — "колода, колодка") — прилад для вимірювання швидкості судна.<br/>
+            Принцип роботи сучасних лагів заснований на вимірюванні напору води, або гідролокації морського дна.
         </section>
     </section>
     <section class="question" number="8.1">
@@ -4862,8 +5154,10 @@
             яке на видному місці несе знак, що складається з квадратного прапора з кулею,
             що знаходиться під ним. Що це означає?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно терпить біду і потребує допомоги</section>
+        <section class="answer">Судно на мілині</section>
+        <section class="answer">Судно, позбавлене можливості управлятися, на якорі</section>
+        <section class="answer">Судно, зайняте днопоглиблювальними роботами</section>
         <section class="description">
         </section>
     </section>
@@ -4935,9 +5229,12 @@
         <section class="text">
             Як потрібно підходити на судні для спасіння потопаючого при вітряній погоді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За кілька метрів від потопаючого лягти в дрейф з навітряного боку</section>
+        <section class="answer">Носом проти вітру на малому ходу</section>
+        <section class="answer">Носом за вітром на малому ходу</section>
+        <section class="answer">Підійти бортом з підвітряного боку</section>
         <section class="description">
+            <img src="quiz/img/8.45.jpg"/>
         </section>
     </section>
     <section class="question" number="8.46">
@@ -5009,8 +5306,7 @@
     </section>
     <section class="question" number="9.5">
         <section class="text">
-            Чи може судноводій відмовити потерпілому на воді
-            в доставці його у лікарняні заклади?
+            Чи може судноводій відмовити потерпілому на воді в доставці його у лікарняні заклади?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5019,8 +5315,7 @@
     </section>
     <section class="question" number="9.6">
         <section class="text">
-            Які дії зобов’язаний виконати судноводій
-            на вимогу осіб, що контролюють безпеку руху?
+            Які дії зобов’язаний виконати судноводій на вимогу осіб, що контролюють безпеку руху?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5140,8 +5435,7 @@
     </section>
     <section class="question" number="9.18">
         <section class="text">
-            Яке сміття категорично заборонено викидати
-            в любому місці Мирового океану?
+            Яке сміття категорично заборонено викидати в любому місці Мирового океану?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5198,8 +5492,7 @@
     </section>
     <section class="question" number="9.24">
         <section class="text">
-            Яка міжнародна Конвенція є нормативним документом
-            з охорони життя на воді?
+            Яка міжнародна Конвенція є нормативним документом з охорони життя на воді?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5301,8 +5594,7 @@
     </section>
     <section class="question" number="9.35">
         <section class="text">
-            Яке адміністративне покарання передбачено
-            за куріння у невстановлених місцях на суднах?
+            Яке адміністративне покарання передбачено за куріння у невстановлених місцях на суднах?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5398,8 +5690,7 @@
     </section>
     <section class="question" number="10.7">
         <section class="text">
-            В чому полягають основні обов’язки судноводія МС
-            стосовно безпеки судноплавства?
+            В чому полягають основні обов’язки судноводія МС стосовно безпеки судноплавства?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5409,7 +5700,7 @@
     <section class="question" number="10.8">
         <section class="text">
             Як підходити до аварійного судна,
-            яке знаходиться в дрейфі в притопленому  стані, для надання допомоги людям?
+            яке знаходиться в дрейфі в притопленому стані, для надання допомоги людям?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5485,8 +5776,7 @@
     </section>
     <section class="question" number="10.16">
         <section class="text">
-            Кому з людей, що зазнали лиха, при рятуванні,
-            потрібно надавати допомогу у першу чергу?
+            Кому з людей, що зазнали лиха, при рятуванні, потрібно надавати допомогу у першу чергу?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5495,8 +5785,7 @@
     </section>
     <section class="question" number="10.17">
         <section class="text">
-            Яким чином виконується підхід на маломірному судні до людини,
-            що тоне на течії?
+            Яким чином виконується підхід на маломірному судні до людини, що тоне на течії?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5524,8 +5813,7 @@
     </section>
     <section class="question" number="10.20">
         <section class="text">
-            Що повинен виконати судноводій маломірного судна
-            при плаванні у сильний шторм?
+            Що повинен виконати судноводій маломірного судна при плаванні у сильний шторм?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5542,12 +5830,31 @@
     </section>
     <section class="question" number="10.22">
         <section class="text">
-            Як розуміти сигнал, що подає судно у темний час доби.
-            Правило 30. МППЗС-72?
+            Як розуміти сигнал, що подає судно у темний час доби. Правило 30. МППЗС-72?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно на якорі або на мілині</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p class="mb-0">
+                    Судна на якорі та судна на мілині<br/>
+                    а) Судно на якорі повинно виставляти на найбільш видному місці:<br/>
+                        (і) у носовій частині судна - білий круговий вогонь або кулю;<br/>
+                        (іі) на кормі або поблизу неї та нижче вогню, приписаного підпунктом а),
+                            - білий круговий вогонь.<br/>
+                    b) Судно довжиною менше 50 м може виставляти на найвиднішому місці
+                    білий круговий вогонь замість вогнів, приписаних пунктом a) цього Правила.<br/>
+                    с) Судно на якорі може, а судно довжиною більше 100 м повинно використати також
+                    наявні робочі або інші рівноцінні вогні для освітлення своїх палуб.<br/>
+                    d) Судно на мілині повинно виставляти вогні, приписані пунктом a) або b) цього Правила,
+                    і, крім того, на найбільш видному місці:<br/>
+                        (і) два червоних кругових вогні, розташованих по вертикальній лінії;<br/>
+                        (іі) три кулі, розташованих по вертикальній лінії.
+                </p>
+                <div class="blockquote-footer">
+                    Правило 30.
+                    <cite title="Source Title">Міжнародні правила попередження зіткнень на морі 1972 року</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="10.23">
@@ -5696,9 +6003,9 @@
         <section class="text">
             Основним рушієм вітрильного судна є:
         </section>
-        <section class="answer" data-correct="data-correct">Вітер.</section>
-        <section class="answer">Мотор.</section>
-        <section class="answer">Вітрила.</section>
+        <section class="answer" data-correct="data-correct">Вітер</section>
+        <section class="answer">Мотор</section>
+        <section class="answer">Вітрила</section>
         <section class="description">
         </section>
     </section>
@@ -5761,8 +6068,7 @@
         <section class="text">
             Як називається вертикальна зв'язок (балка) бортового набору судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">?</section>
         <section class="description">
         </section>
     </section>
@@ -5813,8 +6119,7 @@
     </section>
     <section class="question" number="11.14">
         <section class="text">
-            Якщо степс щогли розташований нижче палуби,
-            діаметр щогли біля шпора повинен становити:
+            Якщо степс щогли розташований нижче палуби, діаметр щогли біля шпора повинен становити:
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -5859,8 +6164,7 @@
     </section>
     <section class="question" number="11.19">
         <section class="text">
-            Рульова система для вітрильних суден в цілому
-            повинна бути спроектована таким чином,
+            Рульова система для вітрильних суден в цілому повинна бути спроектована таким чином,
             щоб її робота забезпечувалася при тривалому крені до:
         </section>
         <section class="answer" data-correct="data-correct">1</section>
@@ -5947,8 +6251,8 @@
             Загальна назва усіх снастей на вітрильному судні
             (тросів, канатів, линв, тощо):
         </section>
-        <section class="answer" data-correct="data-correct">Такелаж.</section>
-        <section class="answer">Проводка.</section>
+        <section class="answer" data-correct="data-correct">Такелаж</section>
+        <section class="answer">Проводка</section>
         <section class="description">
         </section>
     </section>
@@ -5956,9 +6260,16 @@
         <section class="text">
             Як називаються пристосування для натягування стоячого такелажу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Талреп</section>
+        <section class="answer">Баллер</section>
+        <section class="answer">Рушпель</section>
+        <section class="answer">Валик</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D1%80%D0%B5%D0%BF" target="_blank">
+                Талреп (вікі)
+            </a>
+            - пристрій для створення натягу чи усунення послаблення такелажу, кабелів, ланцюгів тощо.
+            На вітрильних суднах такі талрепи служать для обтягування стоячого такелажу (зокрема вант).
         </section>
     </section>
     <section class="question" number="11.30">
@@ -6029,8 +6340,10 @@
         <section class="text">
             Які можливі причини перегріву двигуна гідроциклу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Будь-яка з перерахованих</section>
+        <section class="answer">Засмічено вхідний отвір водоводу</section>
+        <section class="answer">Двигун працює на невідповідному паливі або моторному маслі</section>
+        <section class="answer">Засмічена проточна система охолодження</section>
         <section class="description">
         </section>
     </section>
@@ -6039,8 +6352,10 @@
             Як необхідно діяти водієві гідроциклу
             при перетині хвильового сліду від минулого судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Знизити швидкість гідроциклу</section>
+        <section class="answer">Збільшити швидкість гідроциклу</section>
+        <section class="answer">Створити диферент на корму</section>
+        <section class="answer">Створити диферент на ніс</section>
         <section class="description">
         </section>
     </section>
@@ -6049,8 +6364,12 @@
             На яку відстань забороняється підпливати гідроциклу
             до пляжів і іншим організованим місцях купання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">
+            Забороняється наближатися до огорожі кордонів запливу на пляжах та інших організованих місць купання
+        </section>
+        <section class="answer">10 м</section>
+        <section class="answer">30 м</section>
+        <section class="answer">50 м</section>
         <section class="description">
         </section>
     </section>
@@ -6059,8 +6378,10 @@
             За допомогою якого пристрою здійснюється
             управління гідроциклом в горизонтальній площині?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Поворотного сопла водометного рушія</section>
+        <section class="answer">Одного вертикального керма в кормі</section>
+        <section class="answer">Двох спарених вертикальних рулів в кормі</section>
+        <section class="answer">Гвинта в поворотній насадці</section>
         <section class="description">
         </section>
     </section>
@@ -6069,8 +6390,10 @@
             У яких з нижче перерахованих випадків
             забороняється запускати двигун і починати рух гідроциклу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Якщо має місце будь-який з перерахованих випадків</section>
+        <section class="answer">Пасажири (пасажир) не встигли зайняти свої місця на сидінні</section>
+        <section class="answer">Водій і пасажири (пасажир) не наділи рятувальні жилети</section>
+        <section class="answer">Глибина води менше мінімальної глибини, допустимої за умовами роботи водомета</section>
         <section class="description">
         </section>
     </section>
@@ -6078,37 +6401,44 @@
         <section class="text">
             За яких умов можна на гідроциклі перевозити дітей дошкільного віку?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не можна ні за яких умов</section>
+        <section class="answer">Можна, але одночасно не більше одного</section>
+        <section class="answer">Якщо дошкільник вміє плавати</section>
+        <section class="answer">При наявності одягненого на нього рятувального жилета</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="12.7">
         <section class="text">
-            Чим регулюється диферент гідроциклу?	
+            Чим регулюється диферент гідроциклу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зміною нахилу сопла водометного рушія</section>
+        <section class="answer">Відхиленням вперед-назад керма гідроциклу</section>
+        <section class="answer">Зміною числа обертів двигуна</section>
+        <section class="answer">Будь-яким з перерахованих способів</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="12.8">
         <section class="text">
-            Що забороняється при заправці гідроцикли паливом?
+            Що забороняється при заправці гідроциклу паливом?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Все вищезазначене</section>
+        <section class="answer">Здійснювати заправку при працюючому двигуні гідроциклу</section>
+        <section class="answer">Перебувати кому-небудь на борту гідроцикла</section>
+        <section class="answer">Курити поблизу гідроциклу</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="12.9">
         <section class="text">
             Як повинні маневрувати гідроцикли для розбіжності один з одним і
-            іншими моторними плавзасобами на акваторії,
-            що не має судноплавної обстановки?
+            іншими моторними плавзасобами на акваторії, що не має судноплавної обстановки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Так, щоб розійтися лівими бортами</section>
+        <section class="answer">Так, щоб відстань між ними було не менше трьох довжин корпуса більшого судна</section>
+        <section class="answer">Так, щоб відстань між ними було не менше 50 м</section>
+        <section class="answer">Так, щоб розійтися правими бортами</section>
         <section class="description">
         </section>
     </section>
@@ -6116,8 +6446,10 @@
         <section class="text">
             В яких випадках гідроциклу можна заходити і маневрувати на акваторії пляжів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не можна ні в якому разі</section>
+        <section class="answer">Можна тільки на самому малому ходу</section>
+        <section class="answer">Можна тільки, для висадки на берег пасажирів</section>
+        <section class="answer">Можна, якщо в безпосередній близькості від судна немає людей, що купаються</section>
         <section class="description">
         </section>
     </section>
@@ -6126,8 +6458,10 @@
             Який наслідок може викликати засмічення водного отвору водоводу водомета
             травою, галькою або іншим сміттям?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Будь-яке з перерахованих або всі разом</section>
+        <section class="answer">Пошкодження лопатей робочого колеса водомета</section>
+        <section class="answer">Кавітація робочого колеса водомета і, відповідно, зниження сили тяги водомета</section>
+        <section class="answer">Зменшення витрати охолоджуючої води і, відповідно, перегрів двигуна, що веде до виходу його з ладу</section>
         <section class="description">
         </section>
     </section>
@@ -6135,8 +6469,10 @@
         <section class="text">
             При якому стані гідроциклу можна включати реверсивний пристрій?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На холостому ходу</section>
+        <section class="answer">Тільки при позитивному диференті</section>
+        <section class="answer">Тільки при негативному диференті</section>
+        <section class="answer">На найменшій швидкості</section>
         <section class="description">
         </section>
     </section>
@@ -6145,17 +6481,24 @@
             Де має слідувати маломірне судно (в т.ч. гідроцикл) по судновому ходу,
             якщо немає можливості слідувати по кромці або за кромкою суднового ходу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На відстані до 10 м від кромки суднового ходу</section>
+        <section class="answer">На відстані до 15 м від кромки суднового ходу</section>
+        <section class="answer">На відстані до 20 м від кромки суднового ходу</section>
+        <section class="answer">У будь-якій смузі суднового ходу</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="12.14">
         <section class="text">
-            Що означає сигнал, піднятий на судні: два чорних кулі, розміщені по вертикалі?
+            Що означає сигнал, піднятий на судні: дві чорних кулі, розміщені по вертикалі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно позбавлене можливості управлятися, на ходу</section>
+        <section class="answer">Судно стоїть на мілині</section>
+        <section class="answer">Судно зайнято риболовлею</section>
+        <section class="answer">Судно зайнято водолазними роботами</section>
+        <section class="answer">Судно, зайняте буксируванням з довжиною буксира більше 200 м</section>
+        <section class="answer">Судно, обмежене в можливості маневрувати, на ходу</section>
+        <section class="answer">Лоцманське судно при виконанні своїх обов'язків</section>
         <section class="description">
         </section>
     </section>
@@ -6164,8 +6507,10 @@
             Хто допускається до управління гідроциклами і іншими судами,
             що пройшли державну реєстрацію?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Особи, які мають посвідчення на право керування маломірним судном</section>
+        <section class="answer">Особи, які мають дійсні дипломи на право зайняття судноводійної посади</section>
+        <section class="answer">Особи, які мають довідку про закінчення курсів підготовки судноводіїв маломірних суден</section>
+        <section class="answer">Всі перераховані особи</section>
         <section class="description">
         </section>
     </section>
@@ -6174,18 +6519,21 @@
             Яке адміністративне покарання передбачається за недотримання особою,
             керуючим маломірним судном, вимог навігаційних знаків?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Одне з перерахованих</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Адміністративний штраф</section>
+        <section class="answer">Позбавлення права керування маломірним судном на строк до шести місяців</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="12.17">
         <section class="text">
-            Який індивідуальний рятувальний засіб
-            має використовуватися при плаванні на гідроциклі?
+            Який індивідуальний рятувальний засіб має використовуватися при плаванні на гідроциклі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Надітий індивідуальний рятувальний жилет</section>
+        <section class="answer">Будь-який плавучий засіб, що витримує навантаження не менше 10 кг</section>
+        <section class="answer">Надувний рятувальний круг, в здутому стані одягнений на талію водія і пасажирів</section>
+        <section class="answer">Рятувальний кінець Александрова, корінним кінцем закріплений на корпусі гідроциклу</section>
         <section class="description">
         </section>
     </section>
@@ -6193,8 +6541,10 @@
         <section class="text">
             В якому випадку гідроцикл стає некерованим?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">При русі з непрацюючим двигуном</section>
+        <section class="answer">При диференті на ніс</section>
+        <section class="answer">При русі заднім ходом</section>
+        <section class="answer">У всіх перерахованих випадках</section>
         <section class="description">
         </section>
     </section>
@@ -6202,8 +6552,10 @@
         <section class="text">
             До чого слід кріпити корінний кінець шнура безпеки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">До руки або рятувального жилета водія</section>
+        <section class="answer">До ручки керма гідроциклу</section>
+        <section class="answer">До носової буксирної петлі</section>
+        <section class="answer">До кормової буксирної петлі</section>
         <section class="description">
         </section>
     </section>
@@ -6214,7 +6566,6 @@
             про будь-яку зміну відомостей, внесених до Суднової книги України?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
@@ -6224,7 +6575,6 @@
             керуючим маломірним судном, встановленої швидкості?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
@@ -6233,8 +6583,10 @@
             Яке з перерахованих нижче дій водія не входить в число обов'язкових
             при контрольному огляді гідроциклу перед пуском двигуна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Всі дії обов'язкові</section>
+        <section class="answer">Перевірка кріплення шнура безпеки і рівня палива і масла</section>
+        <section class="answer">Перевірка функціонування керма і важіля управління дросельною заслонкою двигуна</section>
+        <section class="answer">Перевірка функціонування кнопки пуску і зупинки двигуна і глибини води на акваторії</section>
         <section class="description">
         </section>
     </section>
@@ -6242,8 +6594,10 @@
         <section class="text">
             Що забороняється маломірним судам при плаванні по ВВШ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Всі перераховані дії</section>
+        <section class="answer">Маневрувати і зупинятися поблизу інших судів що йдуть або стоять</section>
+        <section class="answer">Зупинятися і ставати на якір в межах суднового ходу і біля плавучих навігаційних знаків</section>
+        <section class="answer">Виходити на судновий хід при обмеженій видимості (менше 1 км)</section>
         <section class="description">
         </section>
     </section>
@@ -6251,8 +6605,10 @@
         <section class="text">
             Чи можна використовувати гідроцикл в темний час доби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не можна</section>
+        <section class="answer">Можна</section>
+        <section class="answer">Можна, якщо на водія і пасажирів надіті шоломи</section>
+        <section class="answer">Можна тільки без пасажирів</section>
         <section class="description">
         </section>
     </section>
@@ -6262,7 +6618,6 @@
             передбачається за навмисну зупинку або стоянку судна в заборонених місцях?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
@@ -6270,17 +6625,23 @@
         <section class="text">
             Яким чином слід кріпити гідроцикл на платформі причепа при транспортуванні по суші?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За допомогою найтовів за носові і кормові буксирні (швартовні) петлі</section>
+        <section class="answer">За допомогою грузових строп або тросів (найтовів) в обхват корпусу гідроциклу</section>
+        <section class="answer">За допомогою найтовів в носі за кермо, а в кормі за сопло водометного рушія</section>
+        <section class="answer">За допомогою найтовів, перекинутих через сидіння і опорні площадки для ніг</section>
         <section class="description">
+            Найтов - морск. мотузка, трос для зв'язування кінців двох або кількох канатів,
+            а також для кріплення шлюпок, рухливих предметів, вантажів і т. п.
         </section>
     </section>
     <section class="question" number="12.27">
         <section class="text">
             Які дії повинно зробити судно, з яким поступаються дорогою?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Йти колишнім курсом і з тією ж швидкістю</section>
+        <section class="answer">Знизити швидкість</section>
+        <section class="answer">Збільшити швидкість, не змінюючи курсу</section>
+        <section class="answer">Збільшити швидкість і відвернути вправо</section>
         <section class="description">
         </section>
     </section>
@@ -6288,8 +6649,10 @@
         <section class="text">
             В якому з наступних випадків не дозволяється користуватися гідроциклом?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У всіх перерахованих випадках</section>
+        <section class="answer">Гідроцикл не пройшов щорічний технічний огляд</section>
+        <section class="answer">Гідроцикл не зареєстрований в установленому порядку</section>
+        <section class="answer">У водія гідроцикла немає при собі посвідчення на право керування гідроциклом</section>
         <section class="description">
         </section>
     </section>
@@ -6297,8 +6660,10 @@
         <section class="text">
             Використання гідроциклів дозволяється?
         </section>
-        <section class="answer" data-correct="data-correct">Так.</section>
-        <section class="answer">Ні.</section>
+        <section class="answer" data-correct="data-correct">Тільки вдень при гарній видимості і в дозволених для плавання на гідроциклах зонах</section>
+        <section class="answer">Скрізь і в будь-який час доби</section>
+        <section class="answer">Скрізь, але тільки в світлий час доби</section>
+        <section class="answer">Скрізь, але тільки вдень при хорошій видимості</section>
         <section class="description">
         </section>
     </section>
@@ -6308,7 +6673,6 @@
             за управління маломірним судном, що не пройшло технічний огляд?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
@@ -6318,7 +6682,6 @@
             за керування маломірним судном, не зареєстрованим в установленому порядку?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
@@ -6326,8 +6689,10 @@
         <section class="text">
             У яких випадках обов'язково необхідно від'єднати шнур безпеки від вимикача?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У всіх перерахованих випадках</section>
+        <section class="answer">При технічному обслуговуванні гідроциклу</section>
+        <section class="answer">При чищенні решітки вхідного отвору водоводу</section>
+        <section class="answer">При наявності поблизу сторонніх людей</section>
         <section class="description">
         </section>
     </section>
@@ -6336,18 +6701,10 @@
             На якій відстані від інших суден, берега і від тих, що купаються
             повинні знаходитися воднолижник і судно що його буксирує?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="12.34">
-        <section class="text">
-            Як необхідно діяти судноводію гідроциклу
-            при перетині хвильового сліду від пройденого судна?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На достатній відстані, але не менше 50 м</section>
+        <section class="answer">На відстані не менше, ніж довжина буксира</section>
+        <section class="answer">На достатній відстані, але не менше 30 м</section>
+        <section class="answer">На достатній відстані, але не менше 100 м</section>
         <section class="description">
         </section>
     </section>
@@ -6428,17 +6785,10 @@
         <section class="text">
             Якого типу рушій встановлений на гідроциклу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="12.44">
-        <section class="text">
-            Які можливі причини перегріву двигуна гідроциклу?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Водомет</section>
+        <section class="answer">Гвинт регульованого кроку</section>
+        <section class="answer">Гвинт в насадці</section>
+        <section class="answer">Може встановлюватися будь-який з перерахованих</section>
         <section class="description">
         </section>
     </section>

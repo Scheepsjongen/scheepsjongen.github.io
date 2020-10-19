@@ -19,11 +19,19 @@ body {
     max-width: calc(100% - 40px);
 }
 
+.blockquote-footer {
+    opacity: .5;
+}
+
+.blockquote-footer::before {
+    content: "-- ";
+}
+
 hr {
     display: block;
     border: 0;
     height: 10px;
-    background: url('https://rawcdn.githack.com/Olezha/Blogger-Frontend/master/img/spruce_hr.png') no-repeat center;
+    background: url('../img/wave-hr.png') center;
 }
 
 #comment-editor {
