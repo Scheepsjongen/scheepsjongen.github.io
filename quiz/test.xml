@@ -7,7 +7,7 @@
 // 
 // Licensed under MIT License https://github.com/crpietschmann/jsQuizEngine/blob/master/LICENSE
 -->
-<section class="quiz" data-title="Scheepsjongen" data-subtitle="Питання для перевірки теоретичних знань кандидатів на отримання посвідчення судноводія малого/маломірного судна">
+<section class="quiz" data-title="Scheepsjongen" data-subtitle="Тест для перевірки теоретичних знань кандидатів на отримання посвідчення судноводія малого/маломірного судна (unofficial)">
     <section class="question" number="1.1">
         <section class="text">
             Які основні особливості плавання при розходженні з іншими судами?
