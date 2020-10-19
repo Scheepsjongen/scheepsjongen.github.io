@@ -1,6 +1,6 @@
 ﻿// jsQuizEngine https://github.com/crpietschmann/jsQuizEngine
 // Copyright (c) 2017 Chris Pietschmann http://pietschsoft.com
-// Modified 2017 Oleh Shklyar
+// Modified 2017-2020 Oleh Shklyar
 // Licensed under MIT License https://github.com/crpietschmann/jsQuizEngine/blob/master/LICENSE
 (function (window, $) {
 
@@ -37,7 +37,7 @@
 
             self.element.find('.question-pool > .quiz .question.not-ready').remove();
 
-            while (getAllQuestions(self.element).length > 24) {
+            while (getAllQuestions(self.element).length > 30) {
                 var random = Math.floor(Math.random() * getAllQuestions(self.element).length);
                 getAllQuestions(self.element).eq(random).remove();
             }
