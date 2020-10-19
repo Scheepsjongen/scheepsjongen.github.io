@@ -1,5 +1,5 @@
 ﻿<!--
-// Skipper Exam
+// Scheepsjongen
 // Copyright (c) 2020 Oleh Shklyar
 // 
 // jsQuizEngine https://github.com/crpietschmann/jsQuizEngine
@@ -7,7 +7,7 @@
 // 
 // Licensed under MIT License https://github.com/crpietschmann/jsQuizEngine/blob/master/LICENSE
 -->
-<section class="quiz" data-title="Skipper Exam" data-subtitle="Питання для перевірки теоретичних знань кандидатів на отримання посвідчення судноводія малого/маломірного судна">
+<section class="quiz" data-title="Scheepsjongen" data-subtitle="Питання для перевірки теоретичних знань кандидатів на отримання посвідчення судноводія малого/маломірного судна">
     <section class="question" number="1.1">
         <section class="text">
             Які основні особливості плавання при розходженні з іншими судами?
