@@ -1,4 +1,4 @@
-# Scheepsjongen 
+# [Scheepsjongen](https://scheepsjongen.github.io)
 
 Тест для перевірки теоретичних знань кандидатів на отримання
 посвідчення судноводія малого/маломірного судна (unofficial)
