@@ -1,10 +1,4 @@
-﻿body {
-  padding-top: 5em;
-}
-footer {
-  margin-top: 2em;
-}
-.question-pool {
+﻿.question-pool {
   margin-bottom: 1em;
 }
 .question-pool .question .text {

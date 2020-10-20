@@ -1,0 +1,78 @@
+---
+layout: page
+---
+
+<link rel="stylesheet" href="/css/jsQuizEngine.css" />
+
+<script src="/js/jquery-1.11.2.js"></script>
+<script src="/js/knockout-2.2.1.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jsQuizEngine.js"></script>
+<script>
+    var quizEngine = null;
+    var quizUrl = '/quiz/test.xml';
+    $(function () {
+        quizEngine = jsQuizEngine($('#jsQuizEngine'), { quizUrl: quizUrl });
+    });
+</script>
+
+<section class="container" id="test">
+    <div id="jsQuizEngine">
+        <section id="title" data-bind="visible: !quizStarted()">
+            <div class="jumbotron">
+                <h1 data-bind="text: quizSubTitle"></h1>
+                <p><button class="btn btn-primary btn-lg" data-bind="click: startQuiz">Почати</button></p>
+            </div>
+        </section>
+        <section class="quiz" data-bind="visible: quizStarted() &amp;&amp; !quizComplete()">
+            <div>Question <span data-bind="text: currentQuestionIndex"></span> of <span data-bind="text: questionCount"></span></div>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': currentProgress }, style: { width: currentProgress() + '%' }"></div>
+            </div>
+            <button class="btn btn-default" data-bind="click: movePreviousQuestion, disable: currentQuestionIsFirst">Назад</button>
+            <button class="btn btn-default" data-bind="click: showCurrentQuestionHint, visible: currentQuestionHasHint()">Show Hint</button>
+            <button class="btn btn-default" data-bind="click: showCurrentQuestionAnswer">Показати відповідь</button>
+            <button class="btn btn-primary" data-bind="click: moveNextQuestion, disable: currentQuestionIsLast, visible: !currentQuestionIsLast()">Далі</button>
+            <button class="btn btn-primary" data-bind="click: calculateScore, visible: currentQuestionIsLast">Завершити</button>
+            <div class="question-pool"></div>
+        </section>
+        <section class="score" data-bind="visible: quizComplete">
+            <p>Результат:</p>
+            <h2 data-bind="text: quizTitle"></h2>
+            <h3 data-bind="text: quizSubTitle"></h3>
+            <div>Questions: <span data-bind="text: questionCount"></span></div>
+            <div>Date: <span data-bind="text: calculatedScoreDate"></span></div>
+            <div>Overall Score: <span data-bind="text: calculatedScore"></span>%</div>
+            <div>Correct Questions: <span data-bind="text: totalQuestionsCorrect"></span></div>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': calculatedScore }, style: { width: calculatedScore() + '%' }, css: { 'progress-bar-success': quizPassed, 'progress-bar-danger': !quizPassed() }"></div>
+            </div>
+            <div class="pass-indicator">
+                <h1 data-bind="css: { 'text-success': quizPassed, 'text-danger': !quizPassed() }">
+                    <span data-bind="visible: quizPassed">PASS</span>
+                    <span data-bind="visible: !quizPassed()">FAIL</span>
+                </h1>
+            </div>
+            <a href="#" onclick="location.reload()" class="btn btn-primary btn-lg" data-bind="click: startQuiz">Наново</a>
+            <div style="margin-top: 45px;">
+                <blockquote class="blockquote">
+                    <p>
+                        Перевірка теоретичних знань вважається успішною, якщо кандидат надав
+                        вірні відповіді на 80% запитань екзаменаційного білета,.
+                    </p>
+                    <p>
+                        Одне тестове завдання включає 30 тестових питань.
+                        Кожне питання передбачає три-чотири варіанти відповіді, один з яких є правильним.
+                        Загальний час для проведення тестування становить 30 хвилин.
+                    </p>
+                    <div class="blockquote-footer">
+                        <cite title="Source Title">
+                            ПОЛОЖЕННЯ
+                            про порядок видачі посвідчення судноводія малого/маломірного судна
+                        </cite>
+                    </div>
+                </blockquote>
+            </div>
+        </section>
+    </div>
+</section>
