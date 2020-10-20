@@ -12,9 +12,32 @@
         <section class="text">
             Які основні особливості плавання при розходженні з іншими судами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На зустрічних курсах розходяться лівими бортами, на пересічних - "перешкода справа"</section>
+        <section class="answer">На зустрічних курсах розходяться правими бортами, на пересічних - "перешкода справа"</section>
+        <section class="answer">На зустрічних курсах розходяться лівими бортами, на пересічних - "перешкода зліва"</section>
+        <section class="answer">На зустрічних курсах розходяться правими бортами, на пересічних - "перешкода зліва"</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>
+                    Расхождение
+                </p>
+                <p>
+                    Правило расхождения действует при плавании за пределами судового хода и при его пересечении.
+                    Когда два маломерных моторных судна идут прямо или почти прямо одно на другое,
+                    они расходятся левыми бортами.
+                    Когда маломерные моторные суда сближаются на пересекающихся курсах, то
+                    судно, обходящее другое с левой стороны, уступает последнему дорогу
+                    ("помеха справа" по терминологии, используемой в Правилах дорожного движения).
+                </p>
+                <p>
+                    Когда моторное судно сближается с парусным так, что возникает опасность столкновения,
+                    дорогу уступает моторное судно.
+                </p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Методическое пособие для яхтсменов</cite>
+                </div>
+            </blockquote>
+            <img src="/quiz/img/1.1.png"/>
         </section>
     </section>
     <section class="question" number="1.2">
@@ -911,15 +934,6 @@
     <section class="question" number="1.91">
         <section class="text">
             Де повинні рухатись маломірні судна по відношенню фарватеру?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="1.92">
-        <section class="text">
-            Хто встановлює терміни щорічного відкриття та закриття навігації для маломірних суден?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
