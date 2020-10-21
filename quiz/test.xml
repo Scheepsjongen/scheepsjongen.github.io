@@ -72,9 +72,23 @@
         <section class="text">
             Чи можливий обгін судна, правому борту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Можливий</section>
+        <section class="answer">Неможливий</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>
+                    6.10.1. Судно, що обганяє, повинне обходити судно, що обганяють,
+                    з лівого борту. Коли фарватер є досить широким, судно,
+                    що обганяє, може також обходити судно, що обганяють, з правого борту.
+                </p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.6">
@@ -825,9 +839,26 @@
         <section class="text">
             Які дії судна, яке поступається дорогою?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Зменшити швидкість,
+        звільнити необхідне місце з відповідного боку</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.9.2. Судно, що обганяють, повинне при необхідності і можливості полегшити обгін.
+                Воно повинне зменшити швидкість, коли це необхідно, для того, щоб обгін міг бути
+                зроблений в умовах безпеки і досить швидко, щоб не заважати руху інших суден.<br/><br/>
+                Цей пункт не застосовується в тому випадку, коли мале судно обганяє судно іншої категорії.</p>
+                <p>6.10.5. Коли судно, що обганяють, може задовольнити прохання судна, що обганяє, воно
+                повинне звільнити необхідне місце з відповідного боку, відходячи у разі необхідності в
+                протилежний бік, і подати:</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.80">
@@ -843,18 +874,71 @@
         <section class="text">
             Якщо судноводій помічає небезпеку зіткнення, які його дії?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Вжити заходів для попередження зіткнення:
+        зміна курсу та (або) швидкості</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Правило 8<br/> Дії для попередження зіткнення</p>
+                <p>а) Будь-яка дія, що застосовується для попередження зіткнення, якщо дозволяють
+                обставини, повинна бути впевненою, вчасною і відповідати хорошій морській практиці.</p>
+                <p>b) Будь-яка зміна курсу та (або) швидкості, що застосовується для попередження зіткнення,
+                якщо дозволяють обставини, повинна бути досить великою, з тим щоб вона могла бути легко виявлена
+                іншим судном, що спостерігає його візуально або за допомогою радіолокатора;
+                варто уникати ряду послідовних невеликих змін курсу і (або) швидкості.</p>
+                <p>с) Якщо є достатній водний простір, то зміна тільки курсу може бути найбільш ефективною
+                дією для попередження надмірного зближення за умови, що зміна зроблена завчасно,
+                є суттєвою і не викликає надмірного зближення з іншими суднами.</p>
+                <p>d) Дія, що застосовується для попередження зіткнення з іншим судном, повинна бути такою,
+                щоб призвести до розходження на безпечній відстані. Ефективність цієї дії повинна ретельно
+                контролюватися до тих пор, доки інше судно не буде остаточно пройдене і залишене позаду.</p>
+                <p>е) Якщо необхідно відвернути зіткнення або мати більше часу для оцінки ситуації,
+                судно повинно зменшити хід або зупинитися, застопоривши свої машини або давши задній хід.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/995_137#o60" target="_blank">
+                            Міжнародні правила попередження зіткнень на морі 1972 року
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
+
+            <blockquote class="blockquote">
+                <p>6.7.2. Якщо зустріч у вузькому проході стає неминучою, судна повинні вжити всіх
+                можливих заходів, щоб вона відбулася в місці й умовах, що становлять мінімальну небезпеку.
+                Якщо судноводій помічає небезпеку зіткнення, то судно повинне подати "серію дуже коротких звуків".</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.82">
         <section class="text">
             У разі виникнення небезпеки, судна що прямують уверх, які сигнали повинні подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">серію дуже коротких звуків</section>
+        <section class="answer">три коротких звуки</section>
+        <section class="answer">чотири коротких звуки</section>
+        <section class="answer">п'ять коротких звуків</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.5.5. Якщо судна, що йдуть вверх, вважають, що шлях затребуваний суднами,
+                що йдуть вниз, непридатний і що існує небезпека зіткнення, вони повинні подати
+                "серію дуже коротких звуків". У цьому разі судноводії повинні вжити всіх заходів,
+                що диктуються обставинами для того, щоб уникнути небезпеки.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.83">
@@ -870,18 +954,62 @@
         <section class="text">
             Які звуки судна подають у разі обгону з лівого боку?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">два тривалих звуки та два коротких звуки</section>
+        <section class="answer">два тривалих звуки та один короткий звук</section>
+        <section class="answer">один короткий звук</section>
+        <section class="answer">два коротких звуки</section>
+        <section class="answer">три коротких звуки</section>
+        <section class="answer">п'ять коротких звуків</section>
+        <section class="answer">одного тривалого звуку та одного короткого звуку</section>
+        <section class="answer">одного тривалого звуку та двох коротких звуків</section>
+        <section class="answer">трьох тривалих звуків та одного короткого звуку</section>
+        <section class="answer">трьох тривалих звуків та двох коротких звуків</section>
+        <section class="answer">трьох тривалих звуків</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>
+                    6.10.4. а) "два тривалих звуки та два коротких звуки", якщо воно має
+                    намір обійти судно, що обганяють, ліворуч
+                </p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.85">
         <section class="text">
             Які звуки судна подають у разі обгону з правого боку?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">два тривалих звуки та один короткий звук</section>
+        <section class="answer">два тривалих звуки та два коротких звуки</section>
+        <section class="answer">один короткий звук</section>
+        <section class="answer">два коротких звуки</section>
+        <section class="answer">три коротких звуки</section>
+        <section class="answer">п'ять коротких звуків</section>
+        <section class="answer">одного тривалого звуку та одного короткого звуку</section>
+        <section class="answer">одного тривалого звуку та двох коротких звуків</section>
+        <section class="answer">трьох тривалих звуків та одного короткого звуку</section>
+        <section class="answer">трьох тривалих звуків та двох коротких звуків</section>
+        <section class="answer">трьох тривалих звуків</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>
+                    6.10.4. б) "два тривалих звуки та один короткий звук", якщо воно має
+                    намір обійти судно, що обганяють, праворуч
+                </p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.86">
@@ -971,9 +1099,24 @@
         <section class="text">
             Що означає термін "Парусне судно"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Будь-яке судно під парусом, включаючи ті,
+        що мають механічний пристрій, за умови, що він не використовується</section>
+        <section class="answer">Будь-яке судно під парусом</section>
+        <section class="answer">Будь-яке судно під парусом, включаючи ті,
+        що мають механічний пристрій</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Правило 3<br/> Загальні визначення</p>
+                <p>с) Термін "парусне судно" означає будь-яке судно під парусом,
+                включаючи ті, що мають механічний пристрій, за умови, що він не використовується.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/995_137#o60" target="_blank">
+                            Міжнародні правила попередження зіткнень на морі 1972 року
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.97">
@@ -989,9 +1132,37 @@
         <section class="text">
             Що означає термін "Безпечна швидкість"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Така швидкість, коли можливо вжити дії для
+        попередження зіткнення і можливо зупинити межах необхідної відстані</section>
+        <section class="answer">Така швидкість, яка не перевищує дозволену максимальну швидцість</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Правило 6<br/>Безпечна швидкість</p>
+                <p>Кожне судно повинно завжди прямувати з безпечною швидкістю, з
+                тим щоб воно могло вжити належні та ефективні дії для попередження
+                зіткнення і могло бути зупинене в межах відстані, необхідної при
+                існуючих обставинах і умовах.</p>
+                <p>При виборі безпечної швидкості наступні фактори повинні бути
+                в числі тих, що належить враховувати:</p>
+                <p>а) Усім суднам:</p>
+                <p>(і) стан видимості;</p>
+                <p>(іі) щільність руху, включаючи скупчення риболовних або
+                будь-яких інших суден;</p>
+                <p>(ііі) маневрові можливості судна і особливо відстань, необхідна
+                для повної зупинки судна, і поворотність судна в переважаючих умовах;</p>
+                <p>(iv) ніччю - наявність фону освітлення як від берегових
+                вогнів, так і від розсіювання світла власних вогнів;</p>
+                <p>(v) стан вітру, моря та течії й близькість навігаційних небезпек;</p>
+                <p>(vi) співвідношення між осадкою і наявними глибинами.</p>
+                <p>b) додатково суднам, що використовують радіолокатор: ...</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/995_137#o60" target="_blank">
+                            Міжнародні правила попередження зіткнень на морі 1972 року
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.99">
@@ -3339,9 +3510,32 @@
             Що означає звуковий сигнал?<br/>
             <img src="/quiz/img/4.35.png"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Обгін ліворуч</section>
+        <section class="answer">Обгін праворуч</section>
+        <section class="answer">Увага!</section>
+        <section class="answer">Мої двигуни працюють на задній хід</section>
+        <section class="answer">Судно на ходу в дрейфі</section>
+        <section class="answer">Попередження</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>
+                    6.10.4. Коли обгін можливий лише за умови, що судно, яке
+                    обганяють, повинне відхилитися від курсу, чи коли виникає
+                    побоювання, що воно не зрозуміло наміри судна, що обганяє, і це
+                    може спричинити зіткнення, судно, що обганяє, повинне подати:<br/>
+                    а) "два тривалих звуки та два коротких звуки", якщо воно має
+                    намір обійти судно, що обганяють, ліворуч;<br/>
+                    б) "два тривалих звуки та один короткий звук", якщо воно має
+                    намір обійти судно, що обганяють, праворуч.
+                </p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="4.36">
