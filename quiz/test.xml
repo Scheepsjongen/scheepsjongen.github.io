@@ -1885,10 +1885,8 @@
         <section class="answer" data-correct="data-correct"><img src="/quiz/img/1.36.jpg"/></section>
         <section class="answer"><img src="/quiz/img/1.37.jpg"/></section>
         <section class="answer"><img src="/quiz/img/1.43.jpg"/></section>
-        <section class="answer"><img src="/quiz/img/1.35.png"/></section>
-        <section class="answer"><img src="/quiz/img/1.111.jpg"/></section>
         <section class="description">
-            <img src="/quiz/img/1.36.jpg"/>
+            <img src="/quiz/img/1.123.png"/>
             <blockquote class="blockquote">
                 <p>3.36. Додаткова сигналізація суден, що використовуються для проведення водолазних робіт</p>
                 <p>3.36.1. Будь-яке судно, що використовується для проведення водолазних робіт,
@@ -1981,9 +1979,21 @@
         <section class="text">
             Яка сигналізація суден органів судноплавного нагляду?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Проблисковий синій вогонь</section>
+        <section class="answer">Проблисковий червоний вогонь</section>
+        <section class="answer">Проблисковий червоний з синім вогні</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>3.27. Додаткова сигналізація суден органів судноплавного нагляду</p>
+                <p>Судна органів контролю, не порушуючи вимог цих Правил стосовно сигналізації, можуть нести:
+                Уночі та вдень: звичайний проблисковий синій вогонь, видимий звідусіль.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.128">
@@ -2019,8 +2029,10 @@
         <section class="text">
             Який термін реєстрації маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Постійний чи тимчасовий</section>
+        <section class="answer">До 10 років</section>
+        <section class="answer">До 15 років</section>
+        <section class="answer">До 25 років</section>
         <section class="description">
         </section>
     </section>
@@ -2099,8 +2111,7 @@
     </section>
     <section class="question" number="1.136">
         <section class="text">
-            Який сигнал подають судна,
-            що йдуть вверх і дають дорогу з лівого борту?
+            Який сигнал подають судна, що йдуть вверх і дають дорогу з лівого борту?
         </section>
         <section class="answer" data-correct="data-correct">Не подають ніякого сигналу</section>
         <section class="answer">Частопроблисковим ясним білим вогнем</section>
@@ -2124,8 +2135,7 @@
     </section>
     <section class="question" number="1.137">
         <section class="text">
-            Який сигнал подають судна,
-            що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту?
+            Який сигнал подають судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту?
         </section>
         <section class="answer" data-correct="data-correct">Яскравим частопроблисковим білим вогнем чи світло-блакитним прапором</section>
         <section class="answer">Не подають ніякого сигналу</section>
@@ -2280,8 +2290,7 @@
     </section>
     <section class="question" number="1.144">
         <section class="text">
-            Якщо судна, що йдуть вверх, бачать, що
-            судно, яке йде вниз, входить у вузький прохід?
+            Якщо судна, що йдуть вверх, бачать, що судно, яке йде вниз, входить у вузький прохід?
         </section>
         <section class="answer" data-correct="data-correct">Вони повинні зупинитися нижче цього проходу
         і чекати, поки судно, що йде вниз, не пройде цей прохід</section>
@@ -2326,8 +2335,7 @@
     </section>
     <section class="question" number="1.146">
         <section class="text">
-            Коли існує вірогідність зіткнення, то
-            судно, що обганяє інше судно ліворуч, повинне подати?
+            Коли існує вірогідність зіткнення, то судно, що обганяє інше судно ліворуч, повинне подати?
         </section>
         <section class="answer" data-correct="data-correct">Два тривалих звуки та два коротких звуки</section>
         <section class="answer">Два тривалих звуки та один короткий звук</section>
@@ -2356,8 +2364,7 @@
     </section>
     <section class="question" number="1.147">
         <section class="text">
-            Коли існує вірогідність зіткнення, то судно,
-            що обганяє інше судно праворуч, повинне подати?
+            Коли існує вірогідність зіткнення, то судно, що обганяє інше судно праворуч, повинне подати?
         </section>
         <section class="answer" data-correct="data-correct">Два тривалих звуки та один короткий звук</section>
         <section class="answer">Два тривалих звуки та два коротких звуки</section>
@@ -2469,9 +2476,30 @@
             Яке адміністративне покарання передбачено за
             управління маломірним судном, що не пройшло технічного огляду?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">
+        попередження або накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">попередження</section>
+        <section class="answer">накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">попередження або накладення штрафу від одного до десяти нмдг</section>
+        <section class="answer">накладення штрафу від одного до десяти нмдг</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Керування судноводіями річковими або маломірними суднами,
+                не зареєстрованими у встановленому порядку, або такими, що не пройшли технічного огляду,
+                або не несуть бортових номерів і позначень, або мають несправності,
+                з якими заборонено їх експлуатацію, або переобладнаними без відповідного дозволу, або з
+                порушенням правил завантаження, норм пасажиромісткості, обмежень по району та умовах плавання -</p>
+                <p>тягне за собою попередження або накладення штрафу
+                від одного до п'яти неоподатковуваних мінімумів доходів громадян.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.157">
@@ -2479,9 +2507,30 @@
             Яке адміністративне покарання передбачено за
             управління маломірним судном, що не несе бортових номерів і позначень?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">
+        попередження або накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">попередження</section>
+        <section class="answer">накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">попередження або накладення штрафу від одного до десяти нмдг</section>
+        <section class="answer">накладення штрафу від одного до десяти нмдг</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Керування судноводіями річковими або маломірними суднами,
+                не зареєстрованими у встановленому порядку, або такими, що не пройшли технічного огляду,
+                або не несуть бортових номерів і позначень, або мають несправності,
+                з якими заборонено їх експлуатацію, або переобладнаними без відповідного дозволу, або з
+                порушенням правил завантаження, норм пасажиромісткості, обмежень по району та умовах плавання -</p>
+                <p>тягне за собою попередження або накладення штрафу
+                від одного до п'яти неоподатковуваних мінімумів доходів громадян.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.158">
@@ -2489,23 +2538,66 @@
             Яке адміністративне покарання передбачено за
             умисне зупинення або стоянку судна в забороненому місці?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">попередження або накладення штрафу
+        від трьох до п'яти нмдг або позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">попередження або накладення штрафу від трьох до п'яти нмдг</section>
+        <section class="answer">накладення штрафу від трьох до п'яти нмдг або
+        позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">попередження або накладення штрафу від трьох до десяти нмдг</section>
+        <section class="answer">накладення штрафу від п'яти до десяти нмдг</section>
+        <section class="answer">попередження або накладення штрафу від трьох до десяти нмдг або
+        позбавлення права керування маломірним судном на строк до одного року</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Перевищення судноводіями маломірних суден установленої швидкості руху,
+                недодержання вимог навігаційних знаків, умисне зупинення або стоянка судна в заборонених місцях,
+                пошкодження гідротехнічних споруд або технічних засобів і
+                знаків судноплавної і навігаційної обстановки, порушення правил маневрування,
+                подачі звукових сигналів, несення бортових вогнів і знаків -</p>
+                <p>тягнуть за собою попередження або накладення штрафу від трьох до п'яти
+                неоподатковуваних мінімумів доходів громадян або позбавлення права керування
+                маломірним судном на строк до одного року.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.159">
         <section class="text">
             Яке адміністративне покарання передбачено за перевищення установленої швидкості руху?
         </section>
-        <section class="answer" data-correct="data-correct">
-            Попередження, або адміністративний штраф,
-            або позбавлення права керування маломірним судном на строк до шести місяців
-        </section>
+        <section class="answer" data-correct="data-correct">Попередження, або адміністративний штраф,
+        або позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">Попередження, або адміністративний штраф, або
+        позбавлення права керування маломірним судном на строк до шести місяців</section>
         <section class="answer">Попередження</section>
         <section class="answer">Адміністративний штраф</section>
         <section class="answer">Попередження або адміністративний штраф</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Перевищення судноводіями маломірних суден установленої швидкості руху,
+                недодержання вимог навігаційних знаків, умисне зупинення або стоянка судна в заборонених місцях,
+                пошкодження гідротехнічних споруд або технічних засобів і
+                знаків судноплавної і навігаційної обстановки, порушення правил маневрування,
+                подачі звукових сигналів, несення бортових вогнів і знаків -</p>
+                <p>тягнуть за собою попередження або накладення штрафу від трьох до п'яти
+                неоподатковуваних мінімумів доходів громадян або позбавлення права керування
+                маломірним судном на строк до одного року.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.160">
@@ -2521,9 +2613,27 @@
         <section class="text">
             Яке адміністративне покарання передбачено за керування судном особою, яка не має права керування?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Накладення штрафу від трьох до п'яти нмдг</section>
+        <section class="answer">Попередження, або адміністративний штраф,
+        або позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">Попередження, або адміністративний штраф, або
+        позбавлення права керування маломірним судном на строк до шести місяців</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Попередження або адміністративний штраф</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Керування річковим або маломірним судном особою, яка не має права керування цим судном,
+                або передача керування таким судном особі, яка не має права керування, -</p>
+                <p>тягнуть за собою накладення штрафу від трьох до п'яти неоподатковуваних мінімумів доходів громадян.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.162">
@@ -2549,9 +2659,8 @@
     </section>
     <section class="question" number="1.164">
         <section class="text">
-            На протязі якого часу судноводій повинен повідомити
-            орган реєстрації судна про будь-які зміни відомостей,
-            що підлягають внесенню в Суднову книгу України?
+            На протязі якого часу судноводій повинен повідомити орган реєстрації судна
+            про будь-які зміни відомостей, що підлягають внесенню в Суднову книгу України?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -2562,9 +2671,25 @@
         <section class="text">
             При якій потужності двигуна маломірне судно підлягає державній реєстрації?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Більше 10 кВт</section>
+        <section class="answer">Більше 5 кВт</section>
+        <section class="answer">Більше 13 кВт</section>
+        <section class="answer">Більше 15 кВт</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>I. Загальні положення</p>
+                <p>2. Дія цього Порядку не поширюється на:</p>
+                <p>малі моторні судна, оснащені механічним двигуном (двигунами) із загальною максимальною
+                потужністю до 10 кВт, крім риболовних суден, що не підлягають нагляду класифікаційного товариства;</p>
+                <p>веслові судна довжиною до 4 метрів, які не використовуються для промислу водних біоресурсів,
+                перевезення вантажів та/або пасажирів з метою провадження підприємницької діяльності.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/1069-97-%D0%BF#Text" target="_blank">ПОРЯДОК
+                        ведення Державного суднового реєстру України і Суднової книги України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.166">
@@ -2583,26 +2708,47 @@
         <section class="text">
             Які документи повинен мати при собі судноводій маломірного судна під час плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Посвідчення на право керування та
+        документи права власності на судно</section>
+        <section class="answer">Посвідчення на право керування та судновий білет</section>
+        <section class="answer">Судновий білет та акт технічного огляду</section>
+        <section class="answer">Посвідчення на право керування та акт технічного огляду</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>I. Загальні положення</p>
+                <p>2. Дія цього Порядку не поширюється на:</p>
+                <p>малі моторні судна, оснащені механічним двигуном (двигунами) із загальною максимальною
+                потужністю до 10 кВт, крім риболовних суден, що не підлягають нагляду класифікаційного товариства;</p>
+                <p>веслові судна довжиною до 4 метрів, які не використовуються для промислу водних біоресурсів,
+                перевезення вантажів та/або пасажирів з метою провадження підприємницької діяльності.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/1069-97-%D0%BF#Text" target="_blank">ПОРЯДОК
+                        ведення Державного суднового реєстру України і Суднової книги України</a>
+                    </cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>1.10. Суднові документи<br/>
+                1.10.1. Судно повинне мати такі основні суднові документи:</p>
+                <p>Малим суднам достатньо мати судновий білет, свідоцтво про придатність судна до плавання.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.168">
         <section class="text">
             Який вогонь одиночні малі моторні судна повинні нести уночі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question" number="1.169">
-        <section class="text">
-            Які з перерахованих сигналів відносяться до сигналів біди?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Топовий вогонь</section>
+        <section class="answer">Бортовий вогонь</section>
+        <section class="answer">Кормовий вогонь</section>
         <section class="description">
         </section>
     </section>
@@ -2628,8 +2774,10 @@
         <section class="text">
             Гребні судна, водні велосипеди видаються напрокат особам, яким виповнилося:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">18 років</section>
+        <section class="answer">16 років</section>
+        <section class="answer">21 рік</section>
+        <section class="answer">23 роки</section>
         <section class="description">
         </section>
     </section>
@@ -2637,8 +2785,10 @@
         <section class="text">
             Моторні судна, водні мотоцикли і вітрильні судна видаються напрокат особам, яким виповнилося:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">18 років</section>
+        <section class="answer">16 років</section>
+        <section class="answer">21 рік</section>
+        <section class="answer">23 роки</section>
         <section class="description">
         </section>
     </section>
@@ -2646,8 +2796,9 @@
         <section class="text">
             Що означає сигнал один короткий звук, який подає судно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Я змінюю свій курс вправо</section>
+        <section class="answer">Я змінюю свій курс вліво</section>
+        <section class="answer">Мої двигуни працюють на задній хід</section>
         <section class="description">
         </section>
     </section>
@@ -2655,8 +2806,9 @@
         <section class="text">
             Що означає сигнал два коротких звуки, який подає судно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Я змінюю свій курс вліво</section>
+        <section class="answer">Я змінюю свій курс вправо</section>
+        <section class="answer">Мої двигуни працюють на задній хід</section>
         <section class="description">
         </section>
     </section>
@@ -2664,8 +2816,9 @@
         <section class="text">
             Що означає сигнал три коротких звуки, який подає судно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Мої двигуни працюють на задній хід</section>
+        <section class="answer">Я змінюю свій курс вправо</section>
+        <section class="answer">Я змінюю свій курс вліво</section>
         <section class="description">
         </section>
     </section>
@@ -2708,6 +2861,7 @@
             розставлені на поверхні води в безпосередній близькості від суднового ходу?
         </section>
         <section class="answer" data-correct="data-correct">Розставлені риболовні сітки</section>
+        <section class="answer">Межу пляжу</section>
         <section class="description">
         </section>
     </section>
@@ -2735,17 +2889,22 @@
         <section class="text">
             Що вивчає річкова лоція?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Судноплавні умови річок</section>
         <section class="answer">2</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A0%D1%96%D1%87%D0%BD%D0%B0_%D0%BB%D0%BE%D1%86%D1%96%D1%8F" target="_blank">
+            Річкова лоція (вікі)</a>
+            - опис судноплавних умов річок у їх нормальному стані.
         </section>
     </section>
     <section class="question" number="2.2">
         <section class="text">
             Як називається водний простір на річці для руху суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судовий хід</section>
+        <section class="answer">Акваторія</section>
+        <section class="answer">Полоса руху</section>
+        <section class="answer">Стрижень</section>
         <section class="description">
         </section>
     </section>
@@ -2764,8 +2923,10 @@
         <section class="text">
             Як називається перехід суднового ходу від одного берега до другого?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Перевал суднового ходу</section>
+        <section class="answer">Ширина суднового ходу</section>
+        <section class="answer">Меженного суднового ходу</section>
+        <section class="answer">Вісь суднового ходу</section>
         <section class="description">
         </section>
     </section>
@@ -2773,27 +2934,47 @@
         <section class="text">
             Що є річковими перекочуваннями?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Скупчення наносів, відкладених по ширині русла</section>
+        <section class="answer">Підводний піщаний вал</section>
         <section class="description">
+            Перекаты - это устойчивое скопление наносов, отложенных по ширине русла.
+            Для перекатов характерно местное уменьшение глубины, а в межень -
+            подпор воды на вышележащем участке - плесе. Перекаты являются основным препятствием
+            для движения речных судов.
         </section>
     </section>
     <section class="question" number="2.7">
         <section class="text">
             Що є річковими барами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Підводний піщаний вал</section>
+        <section class="answer">Скупчення наносів, відкладених по ширині русла</section>
         <section class="description">
+            Река выносит в море большое количество песчаных наносов, которые в спокойной воде оседают на морское дно.
+            Во время волнений и штормовой погоды эти наносы перемещаются в обратном направлении и
+            образуют в устье реки подводный песчаный вал - <b>бар</b>.<br/>
+            Устьевой <b>бар</b> - подводные отмели, образовавшиеся на устьевом взморье в результате осаждения
+            наносов реки и моря. Эти отмели могут располагаться либо в месте впадания реки в море -
+            речной устьевой <b>бар</b>, либо в месте стыка речного и морского течений - морской стыковой <b>бар</b>.<br/>
+            <b>Бар</b> отгораживает устье от моря. Во время волнений и приливов гребень <b>бара</b> наращивается,
+            и глубина над ним уменьшается. Река, проходящая через <b>бар</b>, разделяется на протоки,
+            одни из которых развиваются, а другие отмирают. В результате <b>бар</b> делится на острова.
         </section>
     </section>
     <section class="question" number="2.8">
         <section class="text">
             Які ознаки має льодостав?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Поява в річці тонких і невеликих плоских крижинок</section>
         <section class="answer">2</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9B%D1%8C%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2" target="_blank">
+            Льодостав (вікі)</a>
+            - явище льодового режиму водойми, перше з періоду льодоставу, може стати причиною виникнення торосів.
+            Позначається утворенням на поверхні водойми або водотоку нерухомого льоду;
+            період, протягом якого спостерігається нерухомий крижаний покрив на річці (водоймі).<br/>
+            Льодостав на річках починається з утворення крижаного сала, потім сніжниці, які разом змерзаються в шугу.
+            Грудки шуги стають крижинами, які збільшуються і утворюють нерухомий крижаний покрив.
         </section>
     </section>
     <section class="question" number="2.9">
