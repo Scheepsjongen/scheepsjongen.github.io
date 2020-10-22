@@ -20,7 +20,8 @@ layout: page
     <div id="jsQuizEngine">
         <section id="title" data-bind="visible: !quizStarted()">
             <div class="jumbotron">
-                <h1 data-bind="text: quizSubTitle"></h1>
+                <h1>Тест судноводія</h1>
+                <p data-bind="text: quizSubTitle"></p>
                 <p><button class="btn btn-primary btn-lg" data-bind="click: startQuiz">Почати</button></p>
             </div>
         </section>

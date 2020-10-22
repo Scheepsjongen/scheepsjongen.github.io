@@ -115,9 +115,23 @@
             Який щит встановлюються на фермі моста по центру фарватеру,
             для суден, що йдуть вниз за течією?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У вигляді ромба</section>
+        <section class="answer">Квадратний</section>
+        <section class="answer">Круглий</section>
+        <section class="answer">У вигляді трикутника</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.1. Для позначення осі судноплавного прольоту постійного
+                моста на його середині встановлюються:<br/>
+                б) для проходу суден, що йдуть зверху, - щити у вигляді ромба;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.9">
@@ -125,9 +139,23 @@
             Який щит встановлюються на фермі моста по центру фарватеру,
             для суден, що йдуть вгору?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Квадратний</section>
+        <section class="answer">У вигляді ромба</section>
+        <section class="answer">Круглий</section>
+        <section class="answer">У вигляді трикутника</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.1. Для позначення осі судноплавного прольоту постійного
+                моста на його середині встановлюються:<br/>
+                а) для проходу суден, що йдуть знизу, - квадратні щити;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.10">
@@ -135,9 +163,28 @@
             Для позначення габариту по висоті до 13 метрів
             на кожній опорі моста в місці проходження суднового ходу встановлюються?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Два квадратні щити</section>
+        <section class="answer">Квадратний щит</section>
+        <section class="answer">Три квадратні щити</section>
+        <section class="answer">Чотири квадратні щити</section>
+        <section class="answer">Круглий щит</section>
+        <section class="answer">Два круглі щити</section>
+        <section class="answer">Три круглі щити</section>
+        <section class="answer">Чотири круглі щити</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.4. Для позначення підмостового габариту по висоті і кромок суднового ходу
+                в судноплавних прольотах мостів установлюються 1, 2, 3, 4 квадратних щити зеленого
+                чи білого кольору на кожній опорі чи кромці. Кількість щитів указує висоту прольоту
+                від урізу води відповідно до 10, 13, 16 метрів і вище.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.11">
@@ -145,9 +192,28 @@
             Для позначення габариту по висоті до 10 метрів
             на кожній опорі моста в місці проходження суднового ходу встановлюються?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Квадратний щит</section>
+        <section class="answer">Два квадратні щити</section>
+        <section class="answer">Три квадратні щити</section>
+        <section class="answer">Чотири квадратні щити</section>
+        <section class="answer">Круглий щит</section>
+        <section class="answer">Два круглі щити</section>
+        <section class="answer">Три круглі щити</section>
+        <section class="answer">Чотири круглі щити</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.4. Для позначення підмостового габариту по висоті і кромок суднового ходу
+                в судноплавних прольотах мостів установлюються 1, 2, 3, 4 квадратних щити зеленого
+                чи білого кольору на кожній опорі чи кромці. Кількість щитів указує висоту прольоту
+                від урізу води відповідно до 10, 13, 16 метрів і вище.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.12">
@@ -155,9 +221,28 @@
             Для позначення габариту по висоті понад 16 метрів
             на кожній опорі моста в місці проходження суднового ходу встановлюються?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Чотири квадратні щити</section>
+        <section class="answer">Квадратний щит</section>
+        <section class="answer">Два квадратні щити</section>
+        <section class="answer">Три квадратні щити</section>
+        <section class="answer">Круглий щит</section>
+        <section class="answer">Два круглі щити</section>
+        <section class="answer">Три круглі щити</section>
+        <section class="answer">Чотири круглі щити</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.4. Для позначення підмостового габариту по висоті і кромок суднового ходу
+                в судноплавних прольотах мостів установлюються 1, 2, 3, 4 квадратних щити зеленого
+                чи білого кольору на кожній опорі чи кромці. Кількість щитів указує висоту прольоту
+                від урізу води відповідно до 10, 13, 16 метрів і вище.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.13">
@@ -165,29 +250,75 @@
             Для позначення габариту по висоті до 16 метрів
             на кожній опорі моста в місці проходження суднового ходу встановлюються?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Три квадратні щити</section>
+        <section class="answer">Квадратний щит</section>
+        <section class="answer">Два квадратні щити</section>
+        <section class="answer">Чотири квадратні щити</section>
+        <section class="answer">Круглий щит</section>
+        <section class="answer">Два круглі щити</section>
+        <section class="answer">Три круглі щити</section>
+        <section class="answer">Чотири круглі щити</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.4. Для позначення підмостового габариту по висоті і кромок суднового ходу
+                в судноплавних прольотах мостів установлюються 1, 2, 3, 4 квадратних щити зеленого
+                чи білого кольору на кожній опорі чи кромці. Кількість щитів указує висоту прольоту
+                від урізу води відповідно до 10, 13, 16 метрів і вище.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.14">
         <section class="text">
             Для проходу ММС під мостом в обох напрямах на його фермі встановлюється?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Щит у вигляді трикутника</section>
+        <section class="answer">Щит у вигляді ромба</section>
+        <section class="answer">Квадратний щит</section>
+        <section class="answer">Круглий щит</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.1. Для позначення осі судноплавного прольоту постійного
+                моста на його середині встановлюються:<br/>
+                в) для проходу малих суден - щити у вигляді трикутника</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.15">
         <section class="text">
             Які документи необхідні для плавання на ВВШ судноводіям ММС?
         </section>
-        <section class="answer" data-correct="data-correct">Судновий білет (або його копію) та посвідчення на право керування</section>
-        <section class="answer">Посвідчення на право керування</section>
-        <section class="answer">Судновий білет (або його копію)</section>
-        <section class="answer">Акт технічного огляду</section>
+        <section class="answer" data-correct="data-correct">Судновий білет, акт технічного огляду та
+        посвідчення на право керування</section>
+        <section class="answer">Посвідчення на право керування та судновий білет</section>
+        <section class="answer">Судновий білет та акт технічного огляду</section>
+        <section class="answer">Посвідчення на право керування та акт технічного огляду</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>1.10. Суднові документи<br/>
+                1.10.1. Судно повинне мати такі основні суднові документи:</p>
+                <p>Малим суднам достатньо мати судновий білет, свідоцтво про придатність судна до плавання.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.16">
@@ -222,18 +353,56 @@
         <section class="text">
             Яка швидкість руху повинна бути при проході під мостами зі зустрічним рухом?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Безпечна</section>
+        <section class="answer">До 15 км/год</section>
+        <section class="answer">До 20 км/год</section>
+        <section class="answer">До 30 км/год</section>
+        <section class="answer">До 40 км/год</section>
+        <section class="answer">До 50 км/год</section>
+        <section class="answer">До 60 км/год</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>1.6. Використання водного шляху<br/>
+                Довжина, ширина, надводний габарит, осадка і швидкість суден, складів суден і з'єднань
+                плавучого матеріалу повинні відповідати технічним даним водного шляху, гідротехнічних
+                споруд та мостів.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
+
+            <blockquote class="blockquote">
+                <p>В черте Киева, в местах массового отдыха трудящихся, на переправах,
+                скорость движения маломерных судов до 15 км/ч.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила плавания и маневрирования маломерных судов в районе Киева</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.20">
         <section class="text">
             З якою швидкістю повинен здійснюватися масовий рух суден у межах міста?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">До 15 км/год</section>
+        <section class="answer">Безпечною</section>
+        <section class="answer">До 20 км/год</section>
+        <section class="answer">До 30 км/год</section>
+        <section class="answer">До 40 км/год</section>
+        <section class="answer">До 50 км/год</section>
+        <section class="answer">До 60 км/год</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>В черте Киева, в местах массового отдыха трудящихся, на переправах,
+                скорость движения маломерных судов до 15 км/ч.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила плавания и маневрирования маломерных судов в районе Киева</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.21">
@@ -250,9 +419,23 @@
         <section class="text">
             При обгонах моточовни, катери, які здійснюють обгін повинні обганяти другі судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">З лівого та правого борту</section>
+        <section class="answer">З лівого борту</section>
+        <section class="answer">З правого борту</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.10. Обгін<br/>
+                6.10.1. Судно, що обганяє, повинне обходити судно, що обганяють, з лівого борту.
+                Коли фарватер є досить широким, судно, що обганяє, може також обходити судно,
+                що обганяють, з правого борту.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.23">
@@ -301,15 +484,46 @@
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>7.2. Стоянка<br>
+                7.2.1. Судна і з'єднання плавучого матеріалу, а також плавучі
+                споруди не можуть ставати на стоянку:<br>
+                б) під мостами і під високовольтними лініями електропередач;</p>
+                <p>7.3. Стоянка на якорі<br>
+                Судна і з'єднання плавучого матеріалу, а також плавучі
+                споруди не можуть ставати на якір:<br/>
+                а) на ділянках судноплавного шляху, на яких стоянка на якорі заборонена;<br/>
+                б) на ділянках, позначених знаком А.5 (додаток 4 до цих Правил);
+                заборона поширюється тільки на той бік шляху, на якому розміщений цей знак.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.27">
         <section class="text">
             Швидкість в місцях масового відпочинку людей з буйковим огородженням повинна складатися?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Безпечною</section>
+        <section class="answer">До 15 км/год</section>
+        <section class="answer">До 20 км/год</section>
+        <section class="answer">До 30 км/год</section>
+        <section class="answer">До 40 км/год</section>
+        <section class="answer">До 50 км/год</section>
+        <section class="answer">До 60 км/год</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>В черте Киева, в местах массового отдыха трудящихся, на переправах,
+                скорость движения маломерных судов до 15 км/ч.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила плавания и маневрирования маломерных судов в районе Киева</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.28">
@@ -325,8 +539,8 @@
         <section class="text">
             Про що інформує береговий заборонний знак: "Якір не кидати!"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">Якір не кидати</section>
+        <section class="answer" data-correct="data-correct">Про заборону стояти на якорі та волочити якоря, троси і ланцюги</section>
+        <section class="answer">Про заборону стоянки на якорі або на швартових біля берегу</section>
         <section class="description">
         </section>
     </section>
@@ -334,8 +548,9 @@
         <section class="text">
             Про що інформує береговий попереджувальний знак: "Додержувати надводний габарит!"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">Треба додержувати надводний габарит</section>
+        <section class="answer" data-correct="data-correct">Вільна висота над рівнем води обмежена</section>
+        <section class="answer">Ширина проходу або фарватеру обмежена</section>
+        <section class="answer">Глибина обмежена</section>
         <section class="description">
         </section>
     </section>
@@ -364,16 +579,32 @@
         <section class="text">
             Який колір та порядок розташування бортових вогнів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зелений з правого борту, червоний - з лівого</section>
+        <section class="answer">Зелений з лівого борту, червоний - з правого</section>
+        <section class="answer">Зелений з лівого борту, синій - з правого</section>
+        <section class="answer">Синій з лівого борту, зелений - з правого</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>3.8.1. Одиночні моторні судна повинні нести:<br>
+                б) бортові вогні, розміщені на тій самій висоті та у тій самій площині, перпендикулярній
+                до осі судна, і установлені на відстані не менше 1 м нижче топового вогню і не прямо перед ним,
+                що повинні заслонятися з внутрішнього боку судна таким чином, щоб зелений вогонь не був видимий
+                з лівого борту, а червоний вогонь - із правого борту;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.34">
         <section class="text">
             Які вогні судно з механічним двигуном довжиною менше 12 м може виставляти?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Топовий , бортові та кормовий вогні. За потреби - спеціальні</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -400,6 +631,19 @@
         <section class="answer">Судно, що стоїть на якорі</section>
         <section class="answer">Судно, яке має на борту лоцмана</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>3.36. Додаткова сигналізація суден, що використовуються для проведення водолазних робіт</p>
+                <p>3.36.1. Будь-яке судно, що використовується для проведення водолазних робіт,
+                повинне, крім сигналізації, що зазначена в цих Правилах, нести:</p>
+                <p>жорсткий макет прапора "А" висотою не менше 1 м, розміщеного у належному місці
+                на висоті, на якій він видимий удень і вночі звідусіль.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.37">
@@ -440,9 +684,23 @@
             Що означає даний береговий знак?<br/>
             <img src="/quiz/img/1.39.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Заборонений рух малих суден</section>
+        <section class="answer">Заборонений рух моторних суден</section>
+        <section class="answer">Загальна заборона плавання спортивних або прогулянкових судів</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>А.4. Рух дрібних плавучих засобів заборонений!<br/>
+                Для позначення ділянки, де на судновому ходу заборонений рух малих суден
+                (на рейдах, у підхідних каналах, біля причалів та ін.)</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        Додаток 1 до
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛ судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.40">
@@ -462,9 +720,24 @@
             Що означає даний знак?<br/>
             <img src="/quiz/img/1.41.png"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Розходження і обгін складів суден заборонені!</section>
+        <section class="answer">Розходження та обгін заборонені!</section>
+        <section class="answer">Не створювати хвилювання!</section>
+        <section class="answer">Рух дрібних плавучих засобів заборонений!</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>А.2. Розходження і обгін складів суден заборонені! (див. пункт 6.11)<br/>
+                Для позначення ділянки суднового ходу, де заборонені обгін і розходження складів суден
+                і великогабаритних суден довжиною більше 120 м</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        Додаток 1 до
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛ судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.42">
@@ -472,9 +745,22 @@
             Що означає даний береговий знак?<br/>
             <img src="/quiz/img/1.42.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Якір не кидати!</section>
+        <section class="answer">Стоянка заборонена!</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>А.5. Якір не кидати! (див. пункт 7.3)<br/>
+                Для позначення зони підводного переходу, де заборонено віддавати якорі,
+                опускати ланцюги, волокуші, лоти</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        Додаток 1 до
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛ судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.43">
@@ -494,18 +780,44 @@
         <section class="text">
             Які вогні має нести мале судно на стоянці, за винятком суднових шлюпок, вночі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Звичайний білий вогонь</section>
+        <section class="answer">Два звичайних білих вогні: у носовій частині та у кормовій частині</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>3.20.4. Мале судно на стоянці, за винятком суднових шлюпок, може нести замість вогнів,
+                зазначених у пунктах 3.20.1 і 3.20.2 цих Правил, для використання вночі звичайний білий вогонь,
+                розміщений у відповідному місці і на такій висоті, щоб він був видимий звідусіль.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.45">
         <section class="text">
             Яка форма мостового знаку є указником вісі суднового ходу для маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Щит у вигляді трикутника</section>
+        <section class="answer">Щит у вигляді ромба</section>
+        <section class="answer">Квадратний щит</section>
+        <section class="answer">Круглий щит</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.24.1. Для позначення осі судноплавного прольоту постійного
+                моста на його середині встановлюються:<br/>
+                в) для проходу малих суден - щити у вигляді трикутника</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.46">
@@ -522,9 +834,23 @@
             Що означає даний знак?<br/>
             <img src="/quiz/img/1.47.png"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Перетинання суднового ходу</section>
+        <section class="answer">Увага!</section>
+        <section class="answer">Місце повороту суден</section>
+        <section class="answer">Розходження та обгін заборонені</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Б.2. Перетинання суднового ходу<br/>
+                Для позначення місць перетинання суднового ходу суднами і поромними переправами</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        Додаток 1 до
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛ судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.48">
@@ -587,9 +913,31 @@
         <section class="text">
             Які з перерахованих сигналів відносяться до сигналів біди?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Усі з наведених</section>
+        <section class="answer">Серії ударів у дзвін</section>
+        <section class="answer">Прапор чи будь-який інший відповідний предмет, що обертається кругоподібно</section>
+        <section class="answer">Прапор з кулею, що міститься над ним чи під ним, або аналогічним предметом</section>
+        <section class="answer">Повільні рухи, що повторюються, витягнутими руками зверху вниз з кожного боку</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>3.30. Сигнали біди<br/>
+                3.30.1. Коли судно зазнало лиха і потребує допомоги, воно може показувати:</p>
+                <p>а) прапор чи будь-який інший відповідний предмет, що обертається кругоподібно;</p>
+                <p>б) прапор з кулею, що міститься над ним чи під ним, або аналогічним предметом;</p>
+                <p>в) вогонь, що обертається кругоподібно;</p>
+                <p>г) ракети чи бомби, що викидають із короткими інтервалами зірки червоного кольору;</p>
+                <p>ґ) світловий сигнал, що складається зі сполучення знаків "... - ..." (SOS) за азбукою Морзе;</p>
+                <p>д) полум'я, що утворюється при спалюванні гудрону, мастил;</p>
+                <p>е) ракети, що спускаються на парашуті, чи ручні ліхтарі, що випромінюють червоне світло;</p>
+                <p>є) повільні рухи, що повторюються, витягнутими руками зверху вниз з кожного боку.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.54">
@@ -680,8 +1028,10 @@
         <section class="text">
             З якого борту може виковуватися обгін судна за межами суднового ходу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Правого та лівого</section>
+        <section class="answer">Правого</section>
+        <section class="answer">Лівого</section>
+        <section class="answer">Обгін заборонено</section>
         <section class="description">
         </section>
     </section>
@@ -690,7 +1040,6 @@
             За скільки метрів дозволяється починати обгін судна?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
@@ -699,8 +1048,8 @@
             З якою швидкістю повинні здійснювати рух судна уздовж пляжів,
             місць масового відпочинку громадян, затоках, під мостами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">З безпечною</section>
+        <section class="answer">До 15 км/год</section>
         <section class="description">
         </section>
     </section>
@@ -756,8 +1105,9 @@
             Якщо два малі судна прямують зустрічними курсами таким чином,
             що може виникнути небезпека зіткнення, то як кожне судно має змінити свій курс?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Те, в якого інше судно знаходиться по правому борту</section>
+        <section class="answer">Те, в якого інше судно знаходиться по лівому борту</section>
+        <section class="answer">Те, в якого швидкість менша</section>
         <section class="description">
         </section>
     </section>
@@ -803,8 +1153,9 @@
             Якщо два моторні судна наближаються по курсах, що перетинаються,
             яке судно повинно поступитися?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Те, в якого інше судно знаходиться по правому борту</section>
+        <section class="answer">Те, в якого інше судно знаходиться по лівому борту</section>
+        <section class="answer">Те, в якого швидкість менша</section>
         <section class="description">
         </section>
     </section>
@@ -812,8 +1163,9 @@
         <section class="text">
             З якого напрямку судно вважається таким, що обганяє інше судно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">З напрямку більше 22,5° позаду траверза</section>
+        <section class="answer">З напрямку більше 25° позаду траверза</section>
+        <section class="answer">З обох зазначених напрямків</section>
         <section class="description">
         </section>
     </section>
@@ -909,9 +1261,8 @@
                 Якщо судноводій помічає небезпеку зіткнення, то судно повинне подати "серію дуже коротких звуків".</p>
                 <div class="blockquote-footer">
                     <cite title="Source Title">
-                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
-                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
-                        </a>
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
                     </cite>
                 </div>
             </blockquote>
@@ -933,9 +1284,8 @@
                 що диктуються обставинами для того, щоб уникнути небезпеки.</p>
                 <div class="blockquote-footer">
                     <cite title="Source Title">
-                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
-                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
-                        </a>
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
                     </cite>
                 </div>
             </blockquote>
@@ -945,8 +1295,7 @@
         <section class="text">
             За допомогою чого високошвидкісні судна узгоджують між собою зустрічне плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За допомогою радіотелефонного  зв'язоку</section>
         <section class="description">
         </section>
     </section>
@@ -967,15 +1316,12 @@
         <section class="answer">трьох тривалих звуків</section>
         <section class="description">
             <blockquote class="blockquote">
-                <p>
-                    6.10.4. а) "два тривалих звуки та два коротких звуки", якщо воно має
-                    намір обійти судно, що обганяють, ліворуч
-                </p>
+                <p>6.10.4. а) "два тривалих звуки та два коротких звуки", якщо воно має
+                намір обійти судно, що обганяють, ліворуч</p>
                 <div class="blockquote-footer">
                     <cite title="Source Title">
-                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
-                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
-                        </a>
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
                     </cite>
                 </div>
             </blockquote>
@@ -998,15 +1344,12 @@
         <section class="answer">трьох тривалих звуків</section>
         <section class="description">
             <blockquote class="blockquote">
-                <p>
-                    6.10.4. б) "два тривалих звуки та один короткий звук", якщо воно має
-                    намір обійти судно, що обганяють, праворуч
-                </p>
+                <p>6.10.4. б) "два тривалих звуки та один короткий звук", якщо воно має
+                намір обійти судно, що обганяють, праворуч</p>
                 <div class="blockquote-footer">
                     <cite title="Source Title">
-                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
-                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
-                        </a>
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
                     </cite>
                 </div>
             </blockquote>
@@ -1016,27 +1359,85 @@
         <section class="text">
             Як здійснюється поворот суднами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Можна повертати лише впевнившись в безпечності
+        і що інші судна не будуть змушені раптово змінити свій курс чи швидкість</section>
+        <section class="answer">Можна повертати лише впевнившись в безпечності
+        і що інші судна встигнуть змінити свій курс чи швидкість</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.12. Поворот</p>
+                <p>6.12.1. Судна можуть зробити поворот лише після того, як вони упевнилися в тому,
+                що рух інших суден дає можливість це зробити без ризику і що інші судна не будуть
+                змушені раптово змінити свій курс чи швидкість.</p>
+                <p>6.12.2. Якщо намічуваний маневр змушує інші судна змінити курс чи швидкість,
+                то судно, що наміряється зробити поворот, повинне завчасно попередити про це подачею:<br/>
+                а) "одного тривалого звуку та одного короткого звуку", якщо воно має намір повернути праворуч, чи<br/>
+                б) "одного тривалого звуку та двох коротких звуків", якщо воно має намір повернути ліворуч.</p>
+                <p>6.12.3. Інші судна, наскільки це необхідно і можливо, повинні змінити швидкість і курс,
+                щоб поворот міг бути зроблений без ризику.</p>
+                <p>6.12.4. Вимоги, зазначені у пунктах 6.12.1-6.12.3 цих Правил, не застосовуються до
+                малих суден відносно інших суден. До малих суден, що рухаються одне відносно одного,
+                не застосовуються вимоги пункту 6.12.2 цих Правил.</p>
+                <p>6.12.5. Якщо на водному шляху є ділянки, позначені вказівним сигнальним знаком В.2
+                (додаток 4 до цих Правил), то судноводію рекомендується обрати цю ділянку для того, щоб
+                зробити там поворот, до якого застосовують вимоги цього пункту.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.87">
         <section class="text">
             При здійсненні повороту праворуч або маневру, які сигнали подаються судном?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Один тривалий звук та один короткий</section>
+        <section class="answer">Один тривалий звук та два коротких</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Два коротких звуки</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.12.2. Якщо намічуваний маневр змушує інші судна змінити курс чи швидкість,
+                то судно, що наміряється зробити поворот, повинне завчасно попередити про це подачею:<br/>
+                а) "одного тривалого звуку та одного короткого звуку", якщо воно має намір повернути праворуч</p>
+                <p>6.12.4. Вимоги, зазначені у пунктах 6.12.1-6.12.3 цих Правил, не застосовуються до
+                малих суден відносно інших суден. До малих суден, що рухаються одне відносно одного,
+                не застосовуються вимоги пункту 6.12.2 цих Правил.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.88">
         <section class="text">
             При здійсненні повороту ліворуч або маневру, які сигнали подаються судном?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Один тривалий звук та два коротких</section>
+        <section class="answer">Один тривалий звук та один короткий</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Два коротких звуки</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.12.2. Якщо намічуваний маневр змушує інші судна змінити курс чи швидкість,
+                то судно, що наміряється зробити поворот, повинне завчасно попередити про це подачею:<br/>
+                б) "одного тривалого звуку та двох коротких звуків", якщо воно має намір повернути ліворуч.</p>
+                <p>6.12.4. Вимоги, зазначені у пунктах 6.12.1-6.12.3 цих Правил, не застосовуються до
+                малих суден відносно інших суден. До малих суден, що рухаються одне відносно одного,
+                не застосовуються вимоги пункту 6.12.2 цих Правил.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.89">
@@ -1044,9 +1445,26 @@
             Судна, що прямують уверх уночі та поступаються шляхом з правого борту суднам,
             що прямують униз, мають завчасно подати який сигнал з правого борту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Частопроблисковим ясним білим вогнем</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+                повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту:<br>
+                Уночі: а) частопроблисковим ясним білим вогнем; одночасно може подаватися також відмашка
+                світло-блакитним щитом.</p>
+                <p>Ця відмашка повинна бути видна спереду і ззаду і повинна подаватися до кінця розходження.
+                Забороняється подавати зазначену вище відмашку понад призначений час, за винятком випадків,
+                коли судно бажає показати, що воно має намір продовжувати пропуск з правого борту суден,
+                що йдуть вниз. Світло-блакитний щит повинен мати білу облямівку завширшки не менше 5 см;
+                рама, конструкція з рейок і ліхтар частопроблискового вогню повинні бути темного кольору.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.90">
@@ -1054,9 +1472,28 @@
             Судна, що прямують уверх удень та поступаються шляхом з правого борту суднам,
             що прямують униз, мають завчасно подати який сигнал з правого борт?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Яскравим частопроблисковим білим вогнем
+        чи світло-блакитним прапором чи щитом</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+                повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту:<br>
+                Удень:<br/>
+                а) або яскравим частопроблисковим білим вогнем чи світло-блакитним прапором чи щитом;<br/>
+                б) або світло-блакитним щитом разом з частопроблисковим ясним білим вогнем.</p>
+                <p>Ця відмашка повинна бути видна спереду і ззаду і повинна подаватися до кінця розходження.
+                Забороняється подавати зазначену вище відмашку понад призначений час, за винятком випадків,
+                коли судно бажає показати, що воно має намір продовжувати пропуск з правого борту суден,
+                що йдуть вниз. Світло-блакитний щит повинен мати білу облямівку завширшки не менше 5 см;
+                рама, конструкція з рейок і ліхтар частопроблискового вогню повинні бути темного кольору.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.91">
@@ -1196,8 +1633,7 @@
         <section class="text">
             З якою швидкістю маломірні судна повинні рухатися уздовж границь пляжів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Безпечною</section>
         <section class="description">
         </section>
     </section>
@@ -1205,9 +1641,23 @@
         <section class="text">
             Управляти судном під час плавання має кваліфікована особа не молодше ніж ..?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">18 років</section>
+        <section class="answer">14 років</section>
+        <section class="answer">16 років</section>
+        <section class="answer">21 років</section>
+        <section class="answer">24 років</section>
+        <section class="answer">30 років</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>1.9.1. За румпелем чи штурвалом під час плавання повинна бути, принаймні,
+                одна кваліфікована особа не молодше 18 років.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.104">
@@ -1220,6 +1670,18 @@
         <section class="answer">Місце якірної стоянки</section>
         <section class="answer">Місце знаходження стоянки маломірних суден</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>А.5. Якір не кидати! (див. пункт 7.3)<br/>
+                Для позначення зони підводного переходу, де заборонено віддавати якорі,
+                опускати ланцюги, волокуші, лоти</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        Додаток 1 до
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛ
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.105">
@@ -1332,18 +1794,24 @@
         <section class="text">
             Що називають повороткістю?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Здатність судна адекватно реагувати на зміну положення керма</section>
+        <section class="answer">Здатність судна зберігати заданий напрямок руху</section>
+        <section class="answer">Здатність судна рухатись у навколишньому середовищі із заданою швидкістю при визначеній потужності головних двигунів і відповідному рушії</section>
         <section class="description">
+            Повороткістю називається здатність судна адекватно реагувати на зміну положення керма<br/>
+            -- <a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F" target="_blank">Теорія корабля (вікі)</a>
         </section>
     </section>
     <section class="question" number="1.116">
         <section class="text">
             Що називають креном?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Поворот корпусу човна навколо його поздовжньої осі</section>
+        <section class="answer">Кутовий рух судна відносно головної поперечної осі інерції</section>
+        <section class="answer">Кутові рухи судна відносно вертикальної осі</section>
         <section class="description">
+            <a>Крен (вікі)</a>
+            - поворот корпусу корабля, човна чи літака навколо його поздовжньої осі
         </section>
     </section>
     <section class="question" number="1.117">
@@ -1362,9 +1830,11 @@
         <section class="text">
             Що називають плавучістю?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Здатність судна плавати у потрібному положенні відносно води</section>
+        <section class="answer">Здатність судна повертатись в початкове положення пісдя дії зовнішніх сил</section>
         <section class="description">
+            Плавучестью называется способность судна плавать в требуемом положении
+            относительно поверхности воды при заданной загрузке.
         </section>
     </section>
     <section class="question" number="1.119">
@@ -1383,9 +1853,11 @@
         <section class="text">
             Що називається остійністю?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Здатність судна повертатись в початкове положення пісдя дії зовнішніх сил</section>
+        <section class="answer">Здатність судна плавати у потрібному положенні відносно води</section>
         <section class="description">
+            Остойчивость - способность судна, отклоненного действием внешних сил из положения равновесия,
+            возвращаться в исходное положение равновесия после прекращения действия этих сил.
         </section>
     </section>
     <section class="question" number="1.121">
@@ -1410,9 +1882,26 @@
         <section class="text">
             Сигналізація плавучих засобів які виконують водолазні роботи.
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct"><img src="/quiz/img/1.36.jpg"/></section>
+        <section class="answer"><img src="/quiz/img/1.37.jpg"/></section>
+        <section class="answer"><img src="/quiz/img/1.43.jpg"/></section>
+        <section class="answer"><img src="/quiz/img/1.35.png"/></section>
+        <section class="answer"><img src="/quiz/img/1.111.jpg"/></section>
         <section class="description">
+            <img src="/quiz/img/1.36.jpg"/>
+            <blockquote class="blockquote">
+                <p>3.36. Додаткова сигналізація суден, що використовуються для проведення водолазних робіт</p>
+                <p>3.36.1. Будь-яке судно, що використовується для проведення водолазних робіт,
+                повинне, крім сигналізації, що зазначена в цих Правилах, нести:</p>
+                <p>жорсткий макет прапора "А" висотою не менше 1 м, розміщеного у належному місці
+                на висоті, на якій він видимий удень і вночі звідусіль.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.124">
@@ -1459,9 +1948,23 @@
         <section class="text">
             Які правила руху під мостами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Першим проходить судно, що йде вниз</section>
+        <section class="answer">Першим проходить судно, що йде вверх</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.23. Прохід під мостами<br/>
+                Прохід під мостами дозволяється тільки через призначені для цієї мети судноплавні прольоти,
+                обладнані навігаційними знаками і вогнями.</p>
+                <p>6.24.5. При одночасному підході суден зверху і знизу до моста з одним судноплавним прольотом
+                першим його проходить судно, що йде вниз.<br/>
+                Розходження і обгін під такими мостами, а також за 500 м вище і 300 м нижче моста заборонено.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.126">
@@ -1526,27 +2029,63 @@
             Які маломірні судна не підлягають реєстрації в
             Державному судновому реєстрі України та в Судновій книзі України?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Човни до 4 м з моторами до 10 кВт або 13 к.с.</section>
+        <section class="answer">Веслові судна</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>I. Загальні положення</p>
+                <p>2. Дія цього Порядку не поширюється на:</p>
+                <p>малі моторні судна, оснащені механічним двигуном (двигунами) із загальною максимальною
+                потужністю до 10 кВт, крім риболовних суден, що не підлягають нагляду класифікаційного товариства;</p>
+                <p>веслові судна довжиною до 4 метрів, які не використовуються для промислу водних біоресурсів,
+                перевезення вантажів та/або пасажирів з метою провадження підприємницької діяльності.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/1069-97-%D0%BF#Text" target="_blank">ПОРЯДОК
+                        ведення Державного суднового реєстру України і Суднової книги України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.133">
         <section class="text">
             Зустрічне плавання - це?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Рух двох суден у протилежних чи майже в протилежних напрямках</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.1.4. Терміни, що наведені у цьому розділі, мають таке значення:</p>
+                <p>а) зустрічне плавання - рух двох суден у протилежних чи майже в протилежних напрямках;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.134">
         <section class="text">
             Обгін - це?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Наближення судна у напрямку
+        під кутом більше 22,5 град. позаду по траверзі судна і обгін його</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.1.4. Терміни, що наведені у цьому розділі, мають таке значення:</p>
+                <p>б) обгін - наближення судна (що обганяє) до іншого судна (що обганяється)
+                у напрямку під кутом більше 22,5 град. позаду по траверзі судна, що обганяється, і обгін його;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.135">
@@ -1563,9 +2102,24 @@
             Який сигнал подають судна,
             що йдуть вверх і дають дорогу з лівого борту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не подають ніякого сигналу</section>
+        <section class="answer">Частопроблисковим ясним білим вогнем</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Два коротких звуки</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.2. Судна, що йдуть вверх і дають дорогу з лівого борту,
+                не подають ніякого сигналу суднам, що ідуть вниз.</p>
+                <p>6.4.4. Як тільки виникає побоювання, що наміри суден, що йдуть вверх,
+                не були зрозумілі суднами, що йдуть вниз, судна, що йдуть вверх, повинні подати:<br/>
+                а) "один короткий звук", коли розходження повинне відбутися лівим бортом</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.137">
@@ -1573,9 +2127,30 @@
             Який сигнал подають судна,
             що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Яскравим частопроблисковим білим вогнем чи світло-блакитним прапором</section>
+        <section class="answer">Не подають ніякого сигналу</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+                повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту:<br/>
+                Удень:<br/>
+                а) або яскравим частопроблисковим білим вогнем чи світло-блакитним прапором чи щитом;<br/>
+                б) або світло-блакитним щитом разом з частопроблисковим ясним білим вогнем.<br/>
+                Уночі:<br/>
+                а) частопроблисковим ясним білим вогнем; одночасно може подаватися також
+                відмашка світло-блакитним щитом.</p>
+                <p>Ця відмашка повинна бути видна спереду і ззаду і повинна подаватися до кінця розходження.
+                Забороняється подавати зазначену вище відмашку понад призначений час, за винятком випадків,
+                коли судно бажає показати, що воно має намір продовжувати пропуск з правого борту суден,
+                що йдуть вниз. Світло-блакитний щит повинен мати білу облямівку завширшки не менше 5 см;
+                рама, конструкція з рейок і ліхтар частопроблискового вогню повинні бути темного кольору.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.138">
@@ -1583,9 +2158,22 @@
             Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
             повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту удень?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Яскравим частопроблисковим білим вогнем чи світло-блакитним прапором</section>
+        <section class="answer">Не подають ніякого сигналу</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+                повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту:<br/>
+                Удень:<br/>
+                а) або яскравим частопроблисковим білим вогнем чи світло-блакитним прапором чи щитом;<br/>
+                б) або світло-блакитним щитом разом з частопроблисковим ясним білим вогнем.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.139">
@@ -1593,9 +2181,23 @@
             Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
             повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту уночі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Частопроблисковим ясним білим вогнем</section>
+        <section class="answer">Яскравим частопроблисковим білим вогнем чи світло-блакитним прапором</section>
+        <section class="answer">Не подають ніякого сигналу</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+                повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту:<br/>
+                Уночі:<br/>
+                а) частопроблисковим ясним білим вогнем; одночасно може подаватися також
+                відмашка світло-блакитним щитом</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.140">
@@ -1603,28 +2205,42 @@
             Вимоги до відмашки для суден, що йдуть вверх і звільняють шлях суднам,
             що йдуть униз із правого борту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Відмашка повинна бути видна спереду і ззаду і повинна подаватися до кінця розходження</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
+                повинні завчасно подати світлоімпульсний сигнал (відмашку) з правого борту:<br/>
+                ...</p>
+                <p>Ця відмашка повинна бути видна спереду і ззаду і повинна подаватися до кінця розходження.
+                Забороняється подавати зазначену вище відмашку понад призначений час, за винятком випадків,
+                коли судно бажає показати, що воно має намір продовжувати пропуск з правого борту суден,
+                що йдуть вниз. Світло-блакитний щит повинен мати білу облямівку завширшки не менше 5 см;
+                рама, конструкція з рейок і ліхтар частопроблискового вогню повинні бути темного кольору.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.141">
         <section class="text">
-            Коли розходження повинне відбутися лівим бортом,
-            судна, що йдуть вверх, повинні подати?
+            Коли розходження повинне відбутися лівим бортом, судна, що йдуть вверх, повинні подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не подають ніякого сигналу</section>
+        <section class="answer">Відмашку</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="1.142">
         <section class="text">
-            Коли розходження повинне відбутися правим бортом,
-            судна, що йдуть вверх, повинні подати?
+            Коли розходження повинне відбутися правим бортом, судна, що йдуть вверх, повинні подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Відмашку</section>
+        <section class="answer">Не подають ніякого сигналу</section>
         <section class="description">
         </section>
     </section>
@@ -1632,9 +2248,34 @@
         <section class="text">
             Як судна повинні проходити через вузькі проходи?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Якнайшвидше</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.7. Розходження у вузьких проходах</p>
+                <p>6.7.1. Щоб уникнути в разі можливості зустрічі на ділянках чи місцях,
+                де фарватер не є достатньо широким для розходження (вузькі проходи),
+                застосовуються такі правила:</p>
+                <p>6.7.1.1. Усі судна повинні проходити через вузькі проходи якнайшвидше.</p>
+                <p>6.7.1.2. У випадках, коли видимість обмежена, судна, перш ніж ввійти у вузький прохід,
+                повинні подати "один тривалий звук"; у разі потреби, зокрема, коли вузький прохід є довгим,
+                вони повинні, проходячи через нього, повторити цей сигнал.</p>
+                <p>6.7.1.3. На водних шляхах, відносно яких визначені поняття "вниз" і "вверх":</p>
+                <p>а) якщо судна, що йдуть вверх, бачать, що судно, яке йде вниз, входить у вузький прохід,
+                вони повинні зупинитися нижче цього проходу і чекати, поки судно, що йде вниз, не пройде цей прохід;</p>
+                <p>б) якщо склад суден, що йде вверх, уже ввійшов у вузький прохід, судна, що йдуть вниз,
+                повинні зупинитися вище цього проходу і чекати, поки склад суден, що йде вверх, його не пройде;
+                так само зобов'язані чинити одиночні судна, що йдуть вниз, стосовно одиночного судна, що йде вверх.</p>
+                <p>6.7.2. Якщо зустріч у вузькому проході стає неминучою, судна повинні вжити всіх можливих заходів,
+                щоб вона відбулася в місці й умовах, що становлять мінімальну небезпеку. Якщо судноводій помічає
+                небезпеку зіткнення, то судно повинне подати "серію дуже коротких звуків".</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.144">
@@ -1642,9 +2283,22 @@
             Якщо судна, що йдуть вверх, бачать, що
             судно, яке йде вниз, входить у вузький прохід?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Вони повинні зупинитися нижче цього проходу
+        і чекати, поки судно, що йде вниз, не пройде цей прохід</section>
         <section class="answer">2</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.7. Розходження у вузьких проходах</p>
+                <p>6.7.1.3. На водних шляхах, відносно яких визначені поняття "вниз" і "вверх":</p>
+                <p>а) якщо судна, що йдуть вверх, бачать, що судно, яке йде вниз, входить у вузький прохід,
+                вони повинні зупинитися нижче цього проходу і чекати, поки судно, що йде вниз, не пройде цей прохід;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.145">
@@ -1652,9 +2306,22 @@
             Якщо зустріч у вузькому проході стає неминучою
             та судноводій помічає небезпеку зіткнення, то судно повинне подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Серію дуже коротких звуків</section>
+        <section class="answer">Відмашку</section>
+        <section class="answer">Два коротких звуки</section>
+        <section class="answer">Тривалий звук</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.7.2. Якщо зустріч у вузькому проході стає неминучою, судна повинні вжити всіх можливих заходів,
+                щоб вона відбулася в місці й умовах, що становлять мінімальну небезпеку. Якщо судноводій помічає
+                небезпеку зіткнення, то судно повинне подати "серію дуже коротких звуків".</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.146">
@@ -1662,9 +2329,29 @@
             Коли існує вірогідність зіткнення, то
             судно, що обганяє інше судно ліворуч, повинне подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Два тривалих звуки та два коротких звуки</section>
+        <section class="answer">Два тривалих звуки та один короткий звук</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Тривалий звук та короткий звук</section>
+        <section class="answer">Тривалий звук та два коротких звуки</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.10.4. Коли обгін можливий лише за умови, що судно, яке обганяють,
+                повинне відхилитися від курсу, чи коли виникає побоювання, що воно не зрозуміло наміри судна,
+                що обганяє, і це може спричинити зіткнення, судно, що обганяє, повинне подати:</p>
+                <p>а) "два тривалих звуки та два коротких звуки", якщо воно має намір обійти судно,
+                що обганяють, ліворуч;</p>
+                <p>б) "два тривалих звуки та один короткий звук", якщо воно має намір обійти судно,
+                що обганяють, праворуч.</p>
+                <p>6.10.8. Вимоги, зазначені у пунктах 6.10.4-6.10.7 цих Правил, не застосовуються
+                до малих суден відносно інших суден, у разі обгону малих суден малими суднами.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.147">
@@ -1672,16 +2359,37 @@
             Коли існує вірогідність зіткнення, то судно,
             що обганяє інше судно праворуч, повинне подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Два тривалих звуки та один короткий звук</section>
+        <section class="answer">Два тривалих звуки та два коротких звуки</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Тривалий звук та короткий звук</section>
+        <section class="answer">Тривалий звук та два коротких звуки</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.10.4. Коли обгін можливий лише за умови, що судно, яке обганяють,
+                повинне відхилитися від курсу, чи коли виникає побоювання, що воно не зрозуміло наміри судна,
+                що обганяє, і це може спричинити зіткнення, судно, що обганяє, повинне подати:</p>
+                <p>а) "два тривалих звуки та два коротких звуки", якщо воно має намір обійти судно,
+                що обганяють, ліворуч;</p>
+                <p>б) "два тривалих звуки та один короткий звук", якщо воно має намір обійти судно,
+                що обганяють, праворуч.</p>
+                <p>6.10.8. Вимоги, зазначені у пунктах 6.10.4-6.10.7 цих Правил, не застосовуються
+                до малих суден відносно інших суден, у разі обгону малих суден малими суднами.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.148">
         <section class="text">
             Судно, що обганяють з лівого боку, повинне подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Не подають ніякого сигналу</section>
+        <section class="answer">Два тривалих звуки та два коротких звуки</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -1690,7 +2398,8 @@
         <section class="text">
             Судно, що обганяють з правого боку повинно подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Не подають ніякого сигналу</section>
+        <section class="answer">Два тривалих звуки та два коротких звуки</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -1699,9 +2408,21 @@
         <section class="text">
             Коли обгін неможливий через небезпеку зіткнення судно, що обганяють повинне подати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">П'ять коротких звуків</section>
+        <section class="answer">Два тривалих звуки та два коротких звуки</section>
+        <section class="answer">Два коротких звуки</section>
+        <section class="answer">Тривалий звук</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.10.7. Коли обгін неможливий через небезпеку зіткнення судно, що обганяють,
+                повинне подати "п'ять коротких звуків".</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.151">
@@ -1734,21 +2455,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="1.154">
-        <section class="text">
-            Яка швидкість судна вважається безпечною?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
     <section class="question" number="1.155">
         <section class="text">
             Статтями якого документа визначається розмір штрафів за порушення, допущені судноводіями?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">КУпАП</section>
+        <section class="answer">ККУ</section>
         <section class="description">
         </section>
     </section>
