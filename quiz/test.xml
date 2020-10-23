@@ -5538,7 +5538,9 @@
             Чому він дорівнює?
         </section>
         <section class="answer" data-correct="data-correct">185 м.</section>
+        <section class="answer">90,4 м.</section>
         <section class="answer">260 м.</section>
+        <section class="answer">521 м.</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p class="mb-0">
@@ -5553,14 +5555,21 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.5">
+    <section class="question" number="7.5">
         <section class="text">
             Однією із систем розподілення горизонту є румбова.
             На стільки румбів ділиться горизонт? Чому дорівнює один румб?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Горизонт ділиться на 32 румби, румб = 11 1/4°</section>
+        <section class="answer">Горизонт ділиться на 12 румбів, румб = 30°</section>
+        <section class="answer">Горизонт ділиться на 16 румбів, румб = 22 1/2°</section>
+        <section class="answer">Горизонт ділиться на 24 румби, румб = 15°</section>
+        <section class="answer">Горизонт ділиться на 36 румбів, румб = 10°</section>
         <section class="description">
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D0%BC%D0%B1" target="_blank">
+            Румб (вікі)</a> - горизонтальний кут, який відраховують від найближчого напрямку
+            північного або південного меридіана до напрямку заданої лінії.</p>
+            <p>В морській термінології румб - кут, що дорівнює 1/32 повного кола (11,25°)</p>
         </section>
     </section>
     <section class="question not-ready" number="7.6">
