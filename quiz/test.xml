@@ -1611,7 +1611,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="1.100">
+    <section class="question not-ready" number="1.100">
         <section class="text">
             Які вогні повинно мати маломірне судно при стоянці на якорі?
         </section>
@@ -7707,7 +7707,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="12.21">
+    <section class="question not-ready" number="12.21">
         <section class="text">
             Яке адміністративне покарання передбачається за недотримання особою,
             керуючим маломірним судном, встановленої швидкості?
