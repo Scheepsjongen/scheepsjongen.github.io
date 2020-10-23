@@ -10,6 +10,10 @@ body {
     max-width: calc(100% - 40px);
 }
 
+.blockquote {
+    margin: 15px 0;
+}
+
 .blockquote-footer {
     opacity: .5;
 }
