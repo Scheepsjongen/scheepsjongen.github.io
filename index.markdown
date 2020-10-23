@@ -49,28 +49,22 @@ layout: page
                 <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': calculatedScore }, style: { width: calculatedScore() + '%' }, css: { 'progress-bar-success': quizPassed, 'progress-bar-danger': !quizPassed() }"></div>
             </div>
             <div class="pass-indicator">
-                <h1 data-bind="css: { 'text-success': quizPassed, 'text-danger': !quizPassed() }">
+                <h4 data-bind="css: { 'text-success': quizPassed, 'text-danger': !quizPassed() }">
                     <span data-bind="visible: quizPassed">PASS</span>
                     <span data-bind="visible: !quizPassed()">FAIL</span>
-                </h1>
+                </h4>
             </div>
             <a href="#" onclick="location.reload()" class="btn btn-primary btn-lg" data-bind="click: startQuiz">Наново</a>
             <div style="margin-top: 45px;">
                 <blockquote class="blockquote">
-                    <p>
-                        Перевірка теоретичних знань вважається успішною, якщо кандидат надав
-                        вірні відповіді на 80% запитань екзаменаційного білета,.
-                    </p>
-                    <p>
-                        Одне тестове завдання включає 30 тестових питань.
-                        Кожне питання передбачає три-чотири варіанти відповіді, один з яких є правильним.
-                        Загальний час для проведення тестування становить 30 хвилин.
-                    </p>
+                    <p>Перевірка теоретичних знань вважається успішною, якщо кандидат надав
+                    <b>вірні відповіді на 80% запитань</b> екзаменаційного білета,.</p>
+                    <p>Одне тестове завдання включає <b>30 тестових питань</b>.
+                    Кожне питання передбачає три-чотири варіанти відповіді, один з яких є правильним.
+                    Загальний час для проведення тестування становить 30 хвилин.</p>
                     <div class="blockquote-footer">
-                        <cite title="Source Title">
-                            ПОЛОЖЕННЯ
-                            про порядок видачі посвідчення судноводія малого/маломірного судна
-                        </cite>
+                        <cite title="Source Title">ПОЛОЖЕННЯ
+                        про порядок видачі посвідчення судноводія малого/маломірного судна</cite>
                     </div>
                 </blockquote>
             </div>
