@@ -949,7 +949,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="1.55">
+    <section class="question not-ready" number="1.55">
         <section class="text">
             У який строк судновласники повинні зареєструвати маломірне (мале) судне після купівлі?
         </section>
@@ -1772,6 +1772,7 @@
             <img src="/quiz/img/1.113.jpg"/>
         </section>
         <section class="answer" data-correct="data-correct">Рух дрібних плавзасобів заборонено</section>
+        <section class="answer">Рух моторних човнів заборонено</section>
         <section class="answer">Місце перетину суднового ходу</section>
         <section class="answer">Знак, що забороняє створювати хвилювання</section>
         <section class="answer">Ділянка, де необхідно дотримуватися особливої обережності</section>
@@ -2954,12 +2955,12 @@
             Река выносит в море большое количество песчаных наносов, которые в спокойной воде оседают на морское дно.
             Во время волнений и штормовой погоды эти наносы перемещаются в обратном направлении и
             образуют в устье реки подводный песчаный вал - <b>бар</b>.<br/>
-            Устьевой <b>бар</b> - подводные отмели, образовавшиеся на устьевом взморье в результате осаждения
+            Устьевой бар - подводные отмели, образовавшиеся на устьевом взморье в результате осаждения
             наносов реки и моря. Эти отмели могут располагаться либо в месте впадания реки в море -
-            речной устьевой <b>бар</b>, либо в месте стыка речного и морского течений - морской стыковой <b>бар</b>.<br/>
-            <b>Бар</b> отгораживает устье от моря. Во время волнений и приливов гребень <b>бара</b> наращивается,
-            и глубина над ним уменьшается. Река, проходящая через <b>бар</b>, разделяется на протоки,
-            одни из которых развиваются, а другие отмирают. В результате <b>бар</b> делится на острова.
+            речной устьевой бар, либо в месте стыка речного и морского течений - морской стыковой бар.<br/>
+            <b>Бар</b> отгораживает устье от моря. Во время волнений и приливов гребень бара наращивается,
+            и глубина над ним уменьшается. Река, проходящая через бар, разделяется на протоки,
+            одни из которых развиваются, а другие отмирают. В результате бар делится на острова.
         </section>
     </section>
     <section class="question" number="2.8">
@@ -5398,7 +5399,8 @@
         <section class="text">
             Ознаки наближення циклону?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Інтернет, радіо інформація.
+        Зниження тиску, перисті хмари, хмари вночі</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -5613,8 +5615,7 @@
     </section>
     <section class="question not-ready" number="7.8">
         <section class="text">
-            За допомогою чого можна приблизно
-            визначити дальність видимого предмету?
+            За допомогою чого можна приблизно визначити дальність видимого предмету?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -7260,29 +7261,41 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.7">
+    <section class="question" number="11.7">
         <section class="text">
             Як називається відстань між сусідніми шпангоутами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шпація</section>
+        <section class="answer">Тимберс</section>
+        <section class="answer">Бімс</section>
+        <section class="answer">Книця</section>
+        <section class="answer">Старнсон</section>
+        <section class="answer">Марс</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BF%D0%B0%D0%BD%D0%B3%D0%BE%D1%83%D1%82" target="_blank">
+            Шпангоут (вікі)</a>: Відстань між шпангоутами називається <b>шпація</b>.<br/><br/>
+            <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BF%D0%B0%D1%86%D1%96%D1%8F" target="_blank">
+            Шпація (вікі)</a> - друкарський проміжковий матеріал (металеві пластини різної товщини).
+            Цей проміжковий матеріал заповнює проміжки між літерами і словами.
         </section>
     </section>
-    <section class="question not-ready" number="11.8">
+    <section class="question" number="11.8">
         <section class="text">
             Як називається вертикальна зв'язок (балка) бортового набору судна?
         </section>
-        <section class="answer" data-correct="data-correct">?</section>
+        <section class="answer" data-correct="data-correct">Шпангоут</section>
+        <section class="answer">Флор</section>
+        <section class="answer">Стрінгер</section>
+        <section class="answer">Бімс</section>
+        <section class="answer">Пілерс</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.9">
+    <section class="question" number="11.9">
         <section class="text">
             Для чого на задню стаксельну шкоту нашивається ультрафіолетовий захист?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для захисту від сонця скрученого стакселя</section>
         <section class="description">
         </section>
     </section>
