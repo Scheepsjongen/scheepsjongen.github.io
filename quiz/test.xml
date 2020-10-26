@@ -631,6 +631,7 @@
         <section class="answer">Судно, що стоїть на якорі</section>
         <section class="answer">Судно, яке має на борту лоцмана</section>
         <section class="description">
+            <img src="/quiz/img/1.123.png"/>
             <blockquote class="blockquote">
                 <p>3.36. Додаткова сигналізація суден, що використовуються для проведення водолазних робіт</p>
                 <p>3.36.1. Будь-яке судно, що використовується для проведення водолазних робіт,
@@ -869,13 +870,31 @@
             </a>
         </section>
     </section>
-    <section class="question not-ready" number="1.49">
+    <section class="question" number="1.49">
         <section class="text">
             Яким способом здійснити перевірку на водонепроникність люкових зачинень?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Залучається сюрвейер</section>
+        <section class="answer">Люк заливається водою і через 30 хвилин проводиться огляд на наявність течі</section>
+        <section class="answer">Проводиться візуальний огляд на наявність шпарин у закритті</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Тест на во­до­неп­ро­ни­ца­е­мость лю­ко­вых зак­ры­тий</p>
+                <p>Судовладелец или другая заинтересованная сторона
+                может назначить <b>сюрвейера</b> на проведение данного теста
+                с целью определить водонепроницаемость судовых люковых закрытий или других наружных дверей и люков.<br/>
+                Для проведения данной экспертизы существует два способа:
+                проверка струей воды под давлением и с помощью ультразвукового прибора.<br/>
+                Результаты контроля оформляются сюрвейерским отчетом.
+                Результаты отчетов принимаются к рассмотрению арбитражными органами.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title"></cite>
+                </div>
+            </blockquote>
+            <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D1%80%D0%B2%D0%B5%D0%B9%D0%B5%D1%80" target="_blank">
+            Сюрвейер (wiki)</a> - Морський інспектор - це особа, яка проводить інспекції, огляди чи випробування
+            морських суден для оцінки, моніторингу та звітування про їх стан та продукти на них,
+            а також перевіряє шкоду, заподіяну як суднам, так і вантажу.
         </section>
     </section>
     <section class="question" number="1.50">
@@ -890,14 +909,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.51">
+    <section class="question" number="1.51">
         <section class="text">
             Здатність судна залишатися на плаву і зберігати остійність та деякий запас плавучості
             при пошкодженні його корпусу і затопленні одного або декількох відсіків, це - ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Непотоплюваність</section>
+        <section class="answer">Плавучість</section>
+        <section class="answer">Остійність</section>
+        <section class="answer">Морехідність</section>
+        <section class="answer">Xідкість</section>
         <section class="description">
+            Непотоплюваністю називається здатність судна зберігати достатню плавучість і остійність
+            після затоплення одного або декількох відсіків.
         </section>
     </section>
     <section class="question not-ready" number="1.52">
@@ -5095,14 +5119,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.2">
+    <section class="question" number="6.2">
         <section class="text">
-            Яка із наук вивчає фізичні процеси у атмосфері
-            і океанах та їх вплив на судноплавство?
+            Яка із наук вивчає фізичні процеси у атмосфері і океанах та їх вплив на судноплавство?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Гідрометеорологія</section>
+        <section class="answer">Метеорологія</section>
+        <section class="answer">Гідрологія</section>
+        <section class="answer">Океанологія</section>
+        <section class="answer">Геофізика</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" target="_blank">
+            Гідрометеорологія (вікі)</a> - наукова дисципліна, що вивчає процеси,
+            які відбуваються у гідросфері та атмосфері Землі
         </section>
     </section>
     <section class="question not-ready" number="6.3">
@@ -6406,22 +6435,42 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.43">
+    <section class="question" number="8.43">
         <section class="text">
             Якого кольору повинен бути рятувальний круг?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">яскравий, оранжевий або червоний, можливі білі смуги</section>
+        <section class="answer">помітний, червоний, оранжевий, жовтий або білий, або комбінації цих кольорів</section>
+        <section class="answer">яскравий, помітний - червоний, оранжевий, жовтий, чорний або білий, або комбінації цих кольорів</section>
         <section class="description">
+            Забарвлюється в яскравий, помітний колір - яскраво-оранжевий або червоний,
+            можливо, з декількома білими смугами.
         </section>
     </section>
-    <section class="question not-ready" number="8.44">
+    <section class="question" number="8.44">
         <section class="text">
             Які рятувальні засоби мають знаходиться на маломірному судні і їх кількість?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Рятувальні жилети (усім), рятувальні круги із розрахунку
+        1 круг на 4 особи</section>
+        <section class="answer">Рятувальні нагрудники (жилети) на кількість осіб, які перебувають на
+        маломірному/малому судні</section>
+        <section class="answer">Рятувальні жилети або рятувальні круги з розрахунку, щоб кожна особа
+        на маломірному судні мала рятувальні засоби</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>7. Маломірні/малі судна під час експлуатації обов'язково оснащуються обладнанням та спорядженням
+                згідно з правилами класифікаційного товариства, що здійснює технічний нагляд за цими суднами.</p>
+                <p>Для маломірних/малих суден, що не підлягають нагляду класифікаційного товариства,
+                обов'язковими на борту є:</p>
+                <p>1) комплект весел, кочети, водовідливне устаткування;</p>
+                <p>2) рятувальні засоби (рятувальні нагрудники (жилети) на кількість осіб, які перебувають на
+                маломірному/малому судні, рятувальні круги з 15-метровим плавучим лінем із розрахунку 1 круг на
+                4 особи (як мінімум один)).</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА охорони життя людей на водних об’єктах України</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="8.45">
