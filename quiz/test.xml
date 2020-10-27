@@ -6485,80 +6485,146 @@
             <img src="/quiz/img/8.45.jpg"/>
         </section>
     </section>
-    <section class="question not-ready" number="8.46">
+    <section class="question" number="8.46">
         <section class="text">
             Як повинен маневрувати судноводій малого моторного судна,
             якщо при підході до людини за бортом з поворотом на 360 градусів
             не вдалося зупинитися з навітряної сторони від постраждалого?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зупинити двигун, підходити на веслах</section>
+        <section class="answer">Зробити додаткове коло</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.47">
+    <section class="question" number="8.47">
         <section class="text">
             При посадці на борт судна з води на глибині
             з якої сторони необхідно забиратися на нього?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">З тієї, де встановлено трап</section>
+        <section class="answer">З корми</section>
+        <section class="answer">З борта</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>7) рятування з використанням човна:</p>
+                <p>якщо є човен, підпливіть до потопаючого, затягніть його на борт через корму,
+                що мінімізує ймовірність перекидання човна. Рекомендується затягнути людину на борт човна за волосся.
+                Якщо немає волосся або можливості за нього вчепитися, необхідно використовувати багор або мотузку,
+                за яку зможе вчепитися потопаючий. Ніколи не стійте у човні на повний зріст
+                під час рятування потопаючого;</p>
+                <div class="blockquote-footer">
+                    Додаток 6. ДІЇ під час рятування потерпілих на водних об’єктах та надання домедичної допомоги
+                    <cite title="Source Title">ПРАВИЛА охорони життя людей на водних об’єктах України</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="8.48">
+    <section class="question" number="8.48">
         <section class="text">
             Як потрібно підходити на човні для спасіння потопаючого при вітряній погоді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За кілька метрів від потопаючого лягти в дрейф
+        з навітряного боку</section>
+        <section class="answer">Носом проти вітру на малому ходу</section>
+        <section class="answer">Носом за вітром на малому ходу</section>
+        <section class="answer">Підійти бортом з підвітряного боку</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.1">
+    <section class="question" number="9.1">
         <section class="text">
             Коли дозволяється вихід маломірних суден у плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">При сприятливих погодних умовах,
+        технічної справності судна, наявності необходного спорядження і документів</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Выход маломерных судов в плавание разрешается при благоприятных погодных условиях,
+                технической исправности судна, наличии соответствующего оборудования и снаряжения,
+                а также наличии действительных судовых документов и свидетельства (диплома) на
+                право управления судном. Кроме того, при плавании на беспалубном маломерном судне все
+                пассажиры и члены экипажа должны быть одеты в спасательные нагрудники (жилеты).</p>
+                <div class="blockquote-footer">
+                    <a href="https://pravo.ua/articles/pravila-dlja-razvlekatelnogo-flota/" target="_blank">
+                    Правила для "развлекательного" флота</a>
+                    <cite title="Source Title">
+                        Выпуск №12 (639) - Морское право
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.2">
+    <section class="question" number="9.2">
         <section class="text">
-            Чи входить в зобов’язання судноводіїв
-            надавати у розпорядження контролюючих органів своє судно?
+            Чи входить в зобов’язання судноводіїв надавати у розпорядження контролюючих органів своє судно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Тільки для надання допомоги</section>
+        <section class="answer">Входить</section>
+        <section class="answer">Входить, для надання допомоги та для переслідування порушників</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>8.5. Судноводії маломірних суден зобов'язані:</p>
+                <p>8.5.7. надавати свої судна у розпорядження контролюючих органів незалежно від належності
+                з метою надання допомоги іншим суднам, переслідування порушників або доставки до медичного
+                закладу осіб, яким необхідна медична допомога.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила користування маломірними суднами на водних об’єктах
+                    в одеській області</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="9.3">
         <section class="text">
             В чому полягає головне зобов’язання судноводія під час плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Забезпечувати безпеку плавання судна та пасажирів</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.4">
+    <section class="question" number="9.4">
         <section class="text">
             Чи повинен судноводій вміти надавати допомогу потерпілим на воді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судноводії зобов'язані надавати допомогу потерпілим на воді</section>
+        <section class="answer">Судноводії мають надати допомогу коли це в їх силах, але не зобов'язані</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.2. Судноводії маломірних (малих) суден зобов'язані:</p>
+                <p>- забезпечувати безпеку плавання судна та пасажирів;</p>
+                <p>- <b>своєчасно надавати допомогу потерпілим на воді</b>;</p>
+                <p>- вміти надавати першу медичну допомогу, а за необхідності доставляти потерпілих на воді
+                в лікувальні заклади;</p>
+                <p>- при погіршенні гідрометеорологічних умов прямувати до укриття.</p>
+                <div class="blockquote-footer">
+                    РІШЕННЯ 2005 року N 393/2968
+                    <cite title="Source Title">ПРАВИЛА
+                    користування водними об'єктами для плавання на маломірних (малих) суднах у м. Києві</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="9.5">
         <section class="text">
             Чи може судноводій відмовити потерпілому на воді в доставці його у лікарняні заклади?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не може</section>
+        <section class="answer">Може, коли є невідкладні інші справи, а поруч є інші судна</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.2. Судноводії маломірних (малих) суден зобов'язані:</p>
+                <p>- забезпечувати безпеку плавання судна та пасажирів;</p>
+                <p>- своєчасно надавати допомогу потерпілим на воді;</p>
+                <p>- вміти надавати першу медичну допомогу, а за необхідності <b>доставляти потерпілих на воді
+                в лікувальні заклади</b>;</p>
+                <p>- при погіршенні гідрометеорологічних умов прямувати до укриття.</p>
+                <div class="blockquote-footer">
+                    РІШЕННЯ 2005 року N 393/2968
+                    <cite title="Source Title">ПРАВИЛА
+                    користування водними об'єктами для плавання на маломірних (малих) суднах у м. Києві</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="9.6">
