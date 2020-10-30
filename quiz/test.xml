@@ -1757,13 +1757,42 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.110">
+    <section class="question" number="1.110">
         <section class="text">
             В яких місцях дозволяється пересікати фарватер маломірним суднам в межах міст?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Всюди, якщо інше не врегульовано правилами району плавання</section>
+        <section class="answer">Тільки в спеціально визначених місцях для перетину фарватеру</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>В Киеве маломерным судам разрешается пересекать судовой ход под углом 90°
+                при отсутствии на подходе транспортных судов (особенно быстроходных) в следующих местах:</p>
+                <p>- на траверзе устья Собачье Гирло (РОП-6);</p>
+                <p>- в районе Предмостной слободки на траверзе причала перка Примакова;</p>
+                <p>- в районе приверха острова Водников.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила плавания и маневрирования маломерных судов в районе Киева</cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>Маломірним (малим) суднам дозволяється перетинати судновий хід під кутом 90°
+                при відсутності на підході транспортних суден.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА користування маломірними (малими) суднами
+                    на водних об’єктах у Чернігівській області</cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>4.11. Перетинати річку та судновий фарватер дозволяється тільки за відсутності
+                на каналі транспортних, пасажирських та інших мало і великотоннажних суден під кутом,
+                близьким до 90°.</p>
+                <p>4.12. Усі маломірні судна, які перетинають річку і фарватер, поступаються дорогою
+                суднам, що прямують уздовж річки чи по фарватеру.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА користування водними об’єктами для плавання
+                    на маломірних (малих) суднах у Миколаївської області</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.111">
@@ -1885,13 +1914,13 @@
             возвращаться в исходное положение равновесия после прекращения действия этих сил.
         </section>
     </section>
-    <section class="question not-ready" number="1.121">
+    <section class="question" number="1.121">
         <section class="text">
             Знаки навігаційної плавучої обстановки на річках?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Знаки навігаційної плавучої обстановки на річках</section>
         <section class="description">
+            Важко зрозуміти питання
         </section>
     </section>
     <section class="question not-ready" number="1.122">
@@ -1990,14 +2019,81 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.126">
+    <section class="question" number="1.126">
         <section class="text">
-            На якій відстані від границі суднового ходу
-            забороняється маломірному судну знаходитись на якорі?
+            На якій відстані від границі суднового ходу забороняється маломірному судну знаходитись на якорі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">10-20-25-200 м</section>
+        <section class="answer">10 м</section>
+        <section class="answer">20 м</section>
+        <section class="answer">25 м</section>
+        <section class="answer">200 м</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>4.17. Маломірним засобам, рибопромисловим, спортивним катерам Правилами користування
+                водними об’єктами для плавання на маломірних (малих) суднах у Миколаївській області заборонено:</p>
+                <p>Ставати на якір у межах суднового ходу і <b>20-метрової смуги</b>, що примикає до нього на
+                акваторіях рейдів, поблизу знаків судноплавної обстановки, ближче 500 метрів від мостів
+                і 20 метрів від причалу та дебаркадерів, у районах підводних переходів, на акваторії портів
+                та портових рейдів;</p>
+                <p>10.4. Судноводіям маломірних суден забороняється:</p>
+                <p>- зупинятися та ставати на якір для рибальства в межах суднового ходу (фарватеру) та
+                <b>25-метрової смуги</b>, що прилягає до його меж, ближче 200 м від мостів;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА користування водними об’єктами для плавання
+                    на маломірних (малих) суднах у Миколаївської області</cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>2.6. Судноводіям ММС забороняється:</p>
+                <p>2.6.4. Ставати на якір у межах суднового ходу, у місцях підводних (надводних) переходів
+                та <b>ближче 200 м</b> від них; заходити на пляжі, місця для проведення тренувань спортивних суден;
+                зупинятися поблизу суден, що не є ММС; заходити на акваторію порту, пристані без дозволу
+                адміністрації.</p>
+                <p>3.8. Установка суден на якір забороняється:<br/>
+                - у межах суднового ходу;<br/>
+                - поблизу транспортних суден, земснарядів, плавучих кранів і т. п.;<br/>
+                - біля вантажних причалів, дебаркадерів, водолазних ботів на відстані менше 200 м вище і нижче них;<br/>
+                - вище і нижче мостів ближче ніж 100 м;<br/>
+                - на акваторії пляжів, у вузькостях, на крутих поворотах;<br/>
+                - під лініями зв'язку і електромереж;<br/>
+                - <b>ближче 25 м</b> від лінії кромкових знаків навігаційної обстановки;<br/>
+                - у зоні, позначеній знаками заборони "Якоря не кидати!".</p>
+                <p>3.10. Судноводіям ММС забороняється зупинятись та ставати на якір для рибальства в межах
+                суднового ходу та <b>10-метрової смуги</b>, яка прилягає до його меж;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила користування маломірними (малими) суднами
+                    на водних об'єктах Полтавської області</cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>3.4. Порядок руху та маневрування маломірних (малих) суден в межах Чернігівської області.<br/>
+                Маломірним (малим) суднам забороняється:<br/>
+                - зупинятись та ставати на якір в межах суднового ходу та 10-метрової смуги,
+                яка прилягає до його меж;</p>
+                <p>8.9. Судноводіям маломірних (малих) суден забороняється:<br/>
+                ставати на якір у межах суднового ходу (фарватеру);</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА користування маломірними (малими) суднами
+                    на водних об’єктах у Чернігівській області</cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>4.23.11 швартуватися, зупинятися, ставати на якір біля плавучих навігаційних знаків,
+                вантажних і пасажирських причалів, пірсів, дебаркадерів (плавдоків) і під мостами;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила користування маломірними суднами
+                    на водних об’єктах в Одеській області</cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>В черте Киева от устья залива Оболонь до острова Водников запрещается:<br/>
+                - устанавливать мелкие суда и другие плавсредства для лова рыбы в границах судового хода
+                и 10-метровой полосы, примыкающей к его границам за знаками обстановки;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Правила плавания и маневрирования маломерных судов в районе Киева</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.127">
@@ -8320,21 +8416,24 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.41">
+    <section class="question" number="12.41">
         <section class="text">
             Варіанти швидкого зменшення швидкості гідроциклу.
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Відпустити газ</section>
+        <section class="answer">Нажати на тормоз</section>
+        <section class="answer">Включити реверс</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.42">
+    <section class="question" number="12.42">
         <section class="text">
             За якої видимості можливе використання гідроциклу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не менше 1 км</section>
+        <section class="answer">Не менше 0,5 км</section>
+        <section class="answer">Не менше 1,5 км</section>
+        <section class="answer">Не менше 2 км</section>
         <section class="description">
         </section>
     </section>
