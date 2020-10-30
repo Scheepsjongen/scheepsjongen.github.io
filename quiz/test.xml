@@ -3066,6 +3066,8 @@
         <section class="answer">Створні, перевальні, ходові знаки, буї та віхи</section>
         <section class="answer">Перевальні, ходові, весняні знаки, світлофори, семафори, віхи</section>
         <section class="description">
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%96%D0%B3%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA" target="_blank">
+            Навігаційний знак (вікі)</a></p>
             <p>Судоходная обстановка на внутренних водных путях служит для ограждения судового хода от
             подводных опасностей и указания направления его, т.е. безопасного движения судов.
             Это достигается оградительной и указательной судоходной обстановкой: плавучей (бакены, буи, вехи) и
@@ -3086,6 +3088,8 @@
         <section class="answer">Перевальні, ходові, весняні знаки, світлофори, семафори, віхи</section>
         <section class="answer">Бакени, буї, створні, весняні знаки, семафори, сигнальні і штормові щогли</section>
         <section class="description">
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%96%D0%B3%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA" target="_blank">
+            Навігаційний знак (вікі)</a></p>
             <p>Судоходная обстановка на внутренних водных путях служит для ограждения судового хода от
             подводных опасностей и указания направления его, т.е. безопасного движения судов.
             Это достигается оградительной и указательной судоходной обстановкой: плавучей (бакены, буи, вехи) и
@@ -6850,34 +6854,69 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.12">
+    <section class="question" number="9.12">
         <section class="text">
             Чи може маломірне судно у разі технічної несправності судна
             швартуватися до плавучих навігаційних знаків?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не може</section>
+        <section class="answer">Може</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>10.4. Судноводіям маломірних суден забороняється:<br/>
+                ...<br/>
+                - швартуватися до плавучих навігаційних знаків;</p>
+                <div class="blockquote-footer">
+                    2013 р
+                    <cite title="Source Title">ПРАВИЛА
+                    користування водними об’єктами для плавання на маломірних (малих) суднах
+                    у Миколаївської області</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.13">
+    <section class="question" number="9.13">
         <section class="text">
             Чи дозволяється судноводію маломірного судна перевозити пасажирів,
             що знаходяться в стані алкогольного або наркотичного сп’яніння будь-якого ступеня?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не дозволяється</section>
+        <section class="answer">Дозволяється, не дозволяється передавати їм управління судном</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>10.4. Судноводіям маломірних суден забороняється:<br/>
+                ...<br/>
+                - перевозити пасажирів, що знаходяться в стані алкогольного або
+                наркотичного сп'яніння будь-якого ступеня;</p>
+                <div class="blockquote-footer">
+                    2013 р
+                    <cite title="Source Title">ПРАВИЛА
+                    користування водними об’єктами для плавання на маломірних (малих) суднах
+                    у Миколаївської області</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.14">
+    <section class="question" number="9.14">
         <section class="text">
             Які дії повинен зробити судноводій, якщо під час руху судна,
             видимість різко зменшилась менше ніж на 500 метрів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Швартуватись до берега</section>
+        <section class="answer">Слідувати на базу, обравши безпечну швидкість</section>
+        <section class="answer">Продовжити рух, зважаючи на слабку видимість та обравши безпечну швидкість</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>10.4. Судноводіям маломірних суден забороняється:<br/>
+                ...<br/>
+                - здійснювати рух при видимості менше 500 м;</p>
+                <div class="blockquote-footer">
+                    2013 р
+                    <cite title="Source Title">ПРАВИЛА
+                    користування водними об’єктами для плавання на маломірних (малих) суднах
+                    у Миколаївської області</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="9.15">
@@ -6967,22 +7006,44 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.24">
+    <section class="question" number="9.24">
         <section class="text">
             Яка міжнародна Конвенція є нормативним документом з охорони життя на воді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">СОЛАС-74</section>
+        <section class="answer">МПЗЗС-72</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D1%96%D1%8F_%D0%B7_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BB%D1%8E%D0%B4%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B6%D0%B8%D1%82%D1%82%D1%8F_%D0%BD%D0%B0_%D0%BC%D0%BE%D1%80%D1%96" target="_blank">
+            Міжнародна конвенція з охорони людського життя на морі
+            (International Convention for the <b>S</b>afety <b>o</b>f <b>L</b>ife <b>a</b>t <b>S</b>ea)</a>
         </section>
     </section>
-    <section class="question not-ready" number="9.25">
+    <section class="question" number="9.25">
         <section class="text">
             Які основні причини загибелі людей на воді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Порушення основних правил та мір обережності на воді</section>
+        <section class="answer">Раптова зміна погоди</section>
+        <section class="answer">Невміння плавати</section>
+        <section class="answer">Перевищення швидкості на човні</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Порушення основних правил та мір обережності на воді нерідко приводить до нещасних випадків.</p>
+                <p>Аналіз узагальнених даних про утоплених свідчить про те, що більша частина людей гине під час
+                купання, особливо у необладнаних, небезпечних місцях, а також із-за невміння триматися на воді,
+                при дальніх запливах та коливанні моря; утопають при аварійних ситуаціях на гребних і моторних
+                човнах, під час переправ, порушуючи навігаційні правила, а також у період паводків і повеней.</p>
+                <p>2.2. Небезпека при купанні і плаванні</p>
+                <p>Існують три основних причини утоплення:</p>
+                <p>- Незнання про небезпеку під час купання і плавання;</p>
+                <p>- Невміння вибиратися з небезпечних ситуацій, що виникли у воді
+                (судороги, провалювання під лід і ін.);</p>
+                <p>- Незнання того, як допомогти потопаючій людині.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Організація аварійно-рятувальних робіт на воді;
+                    Сенчихін Ю.М., Кулаков С.В., Харків 2005</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="9.26">
