@@ -45,23 +45,36 @@
             Які дії судна при проходженні небезпечних районів плавання?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
         <section class="description">
+            У багатьох випадках, небезпека району визначається не самим районом, а індивідуумами,
+            які там можуть знаходитися. Мова, звичайно ж, про піратів.
         </section>
     </section>
-    <section class="question not-ready" number="1.3">
+    <section class="question" number="1.3">
         <section class="text">
             Чи може судноводій ММС при обгоні транспортного судна показувати обмін сигналами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Може за потреби</section>
+        <section class="answer">Може</section>
+        <section class="answer">Не може</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.10. Обгін</p>
+                <p>6.10.8. Вимоги, зазначені у пунктах 6.10.4-6.10.7 цих Правил (сигнали при обгоні),
+                не застосовуються до малих суден відносно інших суден, у разі обгону малих суден малими суднами.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="1.4">
         <section class="text">
-            Який порядок і пріоритетність розходження суден
-            при одночасному підході до небезпечної ділянки плавання?
+            Який порядок і пріоритетність розходження суден при одночасному підході до небезпечної ділянки плавання?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
@@ -93,10 +106,9 @@
     </section>
     <section class="question not-ready" number="1.6">
         <section class="text">
-            На якій відстані судно, що обганяє інше,
-            повинне подати сигнал з 2-х тривалих і 2-х коротких звуків?
+            На якій відстані судно, що обганяє інше, повинне подати сигнал з 2-х тривалих і 2-х коротких звуків?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Завчасно</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -330,23 +342,54 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.17">
+    <section class="question" number="1.17">
         <section class="text">
             Державний нагляд за безпекою на морському та річковому транспорті,
             в тому числі за маломірними (малими) судами здійснює?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Мінінфраструктури України,
+        Морська адміністрація, їх підрозділи на місцях, капітани морських портів</section>
+        <section class="answer">Державний департамент морського і річкового транспорту, підрозділи на місцях,
+        капітани морських портів</section>
+        <section class="answer">Головна державна інспекція України з безпеки судноплавства,
+        підрозділи на місцях</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>10.7. Здійснення державного нагляду за додержанням підприємствами, установами та організаціями
+                незалежно від форм власності (крім Міноборони, Національної гвардії, Державної прикордонної служби
+                України, СБУ та МВС) вимог БС (БС - безпека судноплавства) покладено на Мінінфраструктури України,
+                Морську адміністрацію, їх підрозділи на місцях, капітанів морських портів.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z1193-03" target="_blank">ПОЛОЖЕННЯ
+                        про систему управління безпекою судноплавства на морському і річковому транспорті</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.18">
+    <section class="question" number="1.18">
         <section class="text">
             Ким встановлюється термін відкриття та закриття навігації для маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Місцеві державні адміністрації</section>
+        <section class="answer">Державна служба морського та річкового транспорту України</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>III. КОМПЕТЕНЦІЯ МІСЦЕВИХ ДЕРЖАВНИХ АДМІНІСТРАЦІЙ</p>
+                <p>Глава 1 ПОВНОВАЖЕННЯ МІСЦЕВИХ ДЕРЖАВНИХ АДМІНІСТРАЦІЙ</p>
+                <p>Стаття 13. Питання, що вирішуються місцевими державними адміністраціями</p>
+                <p><b>До відання місцевих державних адміністрацій</b> у межах і формах, визначених Конституцією
+                і законами України, <b>належить вирішення питань:</b></p>
+                <p>5) промисловості, сільського господарства, будівництва, <b>транспорту і зв’язку</b>;</p>
+                <p>Місцеві державні адміністрації вирішують й інші питання, віднесені законами до їх повноважень.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/586-14" target="_blank">
+                        ЗАКОН УКРАЇНИ Про місцеві державні адміністрації</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.19">
@@ -438,13 +481,26 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.23">
+    <section class="question" number="1.23">
         <section class="text">
             На річці перетин курсу іншого судна рекомендується здійснювати?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За його кормою</section>
+        <section class="answer">По носу судна</section>
+        <section class="answer">З лівого борту</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>4.4. На акваторіях, що не підпадають під дію Правил судноплавства на внутрішніх водних
+                шляхах України або Міжнародних правил попередження зіткнення суден у морі, під час руху
+                маломірні судна повинні дотримуватись таких вимог:</p>
+                <p>- перетин курсу іншого судна рекомендується здійснювати за його кормою. Допускається перетин
+                курсу по носу судна за умови, якщо після закінчення маневру перетину до судна, що наближається,
+                залишається не менше 500 м.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА користування водними об’єктами
+                    для плавання на маломірних (малих)суднах у Миколаївської області</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="1.24">
@@ -477,13 +533,27 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.26">
+    <section class="question" number="1.26">
         <section class="text">
             На яку відстань від мостів заборонена якірна стоянка суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">500 м</section>
+        <section class="answer">100 м</section>
+        <section class="answer">200 м</section>
+        <section class="answer">1000 м</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>4.17. Маломірним засобам, рибопромисловим, спортивним катерам Правилами користування
+                водними об’єктами для плавання на маломірних (малих) суднах у Миколаївській області заборонено:</p>
+                <p>Ставати на якір у межах суднового ходу і 20-метрової смуги, що примикає до нього
+                на акваторіях рейдів, поблизу знаків судноплавної обстановки, ближче 500 метрів від мостів
+                і 20 метрів від причалу та дебаркадерів, у районах підводних переходів, на акваторії портів та
+                портових рейдів;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">ПРАВИЛА користування водними об’єктами
+                    для плавання на маломірних (малих)суднах у Миколаївської області</cite>
+                </div>
+            </blockquote>
             <blockquote class="blockquote">
                 <p>7.2. Стоянка<br/>
                 7.2.1. Судна і з'єднання плавучого матеріалу, а також плавучі
@@ -498,8 +568,7 @@
                 <div class="blockquote-footer">
                     <cite title="Source Title">
                         <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
-                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
-                        </a>
+                        ПРАВИЛА судноплавства на внутрішніх водних шляхах України</a>
                     </cite>
                 </div>
             </blockquote>
@@ -554,13 +623,25 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.31">
+    <section class="question" number="1.31">
         <section class="text">
             На яких УКХ каналах під час руху судна необхідно нести радіо вахту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">16</section>
+        <section class="answer">4</section>
+        <section class="answer">6</section>
+        <section class="answer">11</section>
+        <section class="answer">12</section>
+        <section class="answer">14</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>7.4.1 Під час руху судна відповідальні особи на борту судна мають нести радіовахту
+                на 16-ому каналі УКХ-радіозв’язку за умови дотримання регламенту радіозв’язку.</p>
+                <div class="blockquote-footer">
+                    МІНІСТЕРСТВО ІНФРАСТРУКТУРИ УКРАЇНИ ДЕРЖАВНА УСТАНОВА "ДЕРЖГІДРОГРАФІЯ"
+                    <cite title="Source Title">ПОВІДОМЛЕННЯ МОРЕПЛАВЦЯМ No 42 (466–473), 10 листопада 2017 р</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.32">
@@ -821,12 +902,12 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.46">
+    <section class="question" number="1.46">
         <section class="text">
             При здійсненні руху на річках маломірне судно, яке йде вверх?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Пропускає судна, що йдуть вниз</section>
+        <section class="answer">Має перевагу руху</section>
         <section class="description">
         </section>
     </section>
@@ -887,9 +968,6 @@
                 проверка струей воды под давлением и с помощью ультразвукового прибора.<br/>
                 Результаты контроля оформляются сюрвейерским отчетом.
                 Результаты отчетов принимаются к рассмотрению арбитражными органами.</p>
-                <div class="blockquote-footer">
-                    <cite title="Source Title"></cite>
-                </div>
             </blockquote>
             <a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D1%80%D0%B2%D0%B5%D0%B9%D0%B5%D1%80" target="_blank">
             Сюрвейер (wiki)</a> - Морський інспектор - це особа, яка проводить інспекції, огляди чи випробування
@@ -924,13 +1002,30 @@
             після затоплення одного або декількох відсіків.
         </section>
     </section>
-    <section class="question not-ready" number="1.52">
+    <section class="question" number="1.52">
         <section class="text">
             Дії судноводія в ситуація зближення суден, що йдуть прямо один на одного?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Змінити свій курс праворуч</section>
+        <section class="answer">Змінити свій курс ліворуч</section>
+        <section class="answer">Увімкнути реверс ходу</section>
+        <section class="answer">Пришвидшити хід</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Правило 14</p>
+                <p>Ситуація зближення суден, що йдуть прямо одне на одного</p>
+                <p>а) Коли два судна з механічними двигунами зближаються на протилежних або майже
+                протилежних курсах так, що виникає небезпека зіткнення, то кожне з них повинно змінити
+                свій курс праворуч, з тим щоб кожне судно пройшло в іншого по лівому борту.</p>
+                <p>b) Така ситуація повинна вважатися існуючою, коли судно бачить інше прямо або майже по курсу,
+                і при цьому вночі воно може бачити в створі або майже в створі топові вогні та (або) обидва
+                бортових вогні іншого судна, а вдень воно спостерігає його відповідний ракурс.</p>
+                <p>с) Якщо є сумнів щодо того чи існує така ситуація, то слід вважати, що вона існує,
+                і діяти відповідно.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">МПЗЗС-72</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="1.53">
@@ -964,13 +1059,41 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.54">
+    <section class="question" number="1.54">
         <section class="text">
             Яка швидкість судна вважається безпечною?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Швидкість, при слідуванні з якої може бути зроблено
+        належну і необхідну дію для попередження зіткнення</section>
+        <section class="answer">Швидкість, яка дозволяє в будь-який момент зменшити або змінити швидкість судна</section>
+        <section class="answer">Швидкість, яка обмежується умовами обстановки або правилами плавання</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Безпечна швидкість корабля - швидкість, при слідуванні з якої може бути зроблено належну і
+                необхідну дію для попередження зіткнення.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B8%D0%B4%D0%BA%D1%96%D1%81%D1%82%D1%8C_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F" target="_blank">
+                        Швидкість корабля (вікі)</a>
+                    </cite>
+                </div>
+            </blockquote>
+            <blockquote class="blockquote">
+                <p>Безопасная скорость - скорость, которой необходимо придерживаться с учёном воздействия
+                внешних факторов на судно, чтобы:</p>
+                <p>- предотвратить слеминг;</p>
+                <p>- избежать столкновения при большом трафике судов, при плохой видимости - согласно МППСС-72;</p>
+                <p>- предотвратить посадку на мель в зависимости от близости навигационных препятствий и берега -
+                согласно МППСС-72;</p>
+                <p>- предотвратить потерю остойчивости и опрокидывание судна от воздействия
+                волнения при качке и ветра.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+                        Скорость судна (wiki)</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="1.55">
@@ -982,13 +1105,28 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.56">
+    <section class="question" number="1.56">
         <section class="text">
             Визначити термін "База для стоянки маломірних (малих) суден".
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Суб'єкт господарювання, одним зі статутних
+                напрямів діяльності якого є надання послуг з безпечного утримання маломірних (малих) суден і
+                який утримує і використовує спеціально обладнані для цього гідротехнічні споруди або природні
+                берегові об'єкти, за винятком баз та інших пунктів базування суден флоту рибного господарства</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>1.6. Визначення</p>
+                <p>база для стоянки маломірних (малих) суден - суб'єкт господарювання, одним зі статутних
+                напрямів діяльності якого є надання послуг з безпечного утримання маломірних (малих) суден і
+                який утримує і використовує спеціально обладнані для цього гідротехнічні споруди або природні
+                берегові об'єкти, за винятком баз та інших пунктів базування суден флоту рибного господарства;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0915-04" target="_blank">
+                        ПРАВИЛА безпечної експлуатації баз для стоянки маломірних (малих) суден</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="1.57">
