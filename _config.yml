@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scheepsjongen.github.io"
 github_username: Scheepsjongen
 
+google_analytics: G-V5YTVNKMQN
+
 # Build settings
 theme: minima
 plugins:
