@@ -1296,7 +1296,7 @@
         <section class="text">
             З якою швидкістю дозволяється рух суден в нічний час?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">15 км/год</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -2058,7 +2058,6 @@
         </section>
         <section class="answer" data-correct="data-correct">Знаки навігаційної плавучої обстановки на річках</section>
         <section class="description">
-            Важко зрозуміти питання
         </section>
     </section>
     <section class="question not-ready" number="1.122">
@@ -2906,23 +2905,28 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.163">
+    <section class="question" number="1.163">
         <section class="text">
             При якій вантажопідйомності надувного безмоторного човна
             він підлягає державній реєстрації в Судновій книзі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">225 кг і більше</section>
+        <section class="answer">150 кг і більше</section>
+        <section class="answer">175 кг і більше</section>
+        <section class="answer">200 кг і більше</section>
+        <section class="answer">250 кг і більше</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.164">
+    <section class="question" number="1.164">
         <section class="text">
             На протязі якого часу судноводій повинен повідомити орган реєстрації судна
             про будь-які зміни відомостей, що підлягають внесенню в Суднову книгу України?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На протязі двох тижнів</section>
+        <section class="answer">На протязі 10 днів</section>
+        <section class="answer">На протязі трьох тижнів</section>
+        <section class="answer">На протязі місяця</section>
         <section class="description">
         </section>
     </section>
@@ -3673,18 +3677,21 @@
         <section class="text">
             Що називають ухвістьям?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Нижня за течією частина острова</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.46">
+    <section class="question" number="2.46">
         <section class="text">
             Що називається водосховищем?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Водойма, створена за допомогою греблі і для судноплавства</section>
+        <section class="answer">Природна водойма повільного водообміну, розташована в заглибинах суходолу і не пов'язана протоками з морями чи океанами</section>
+        <section class="answer">Штучна водойма для зберігання води з метою водопостачання, зрошення, розведення риби і водоплавної птиці, а також для санітарних і спортивних потреб</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B5" target="_blank">
+            Водосховище (вікі)</a>
         </section>
     </section>
     <section class="question not-ready" number="2.47">
@@ -3696,13 +3703,18 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.48">
+    <section class="question" number="2.48">
         <section class="text">
             Що називається загатою?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Гідротехнічна споруда,
+        перегороджуюча несудноплавний рукав річки</section>
+        <section class="answer">Водойма, створена за допомогою греблі</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F" target="_blank">
+            Гребля (вікі)</a> - гідротехнічна споруда, що перегороджує русло річки чи іншого водотоку.<br/>
+            Менші за розміром греблі, переважно з місцевих матеріалів, також називають гатками, гатями, загатами,
+            у деяких областях також називалися тамами.
         </section>
     </section>
     <section class="question not-ready" number="2.49">
@@ -4109,20 +4121,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.38">
-        <section class="text">
-            Що називається остійністю?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
     <section class="question not-ready" number="3.39">
         <section class="text">
             Що називається плавучістю?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Здатність судна плавати при заданій осадці
+        маючи на борту покладені вантажі і задану кількість людей</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -4131,7 +4135,8 @@
         <section class="text">
             Що називається креном?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Нахил судна щодо поздовжньої осі до одного чи іншого борту
+        або різниця осідання одного і іншого борту</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
@@ -4556,22 +4561,26 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.19">
+    <section class="question" number="4.19">
         <section class="text">
             Яке з суден, повинне дати дорогу іншому, якщо їхні курси перетинаються?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно, яке має інше судно на своїй правій стороні</section>
+        <section class="answer">Судно, яке має інше судно на своїй лівій стороні</section>
+        <section class="answer">Судно, в якого менша швидкість</section>
+        <section class="answer">Судно, яке менше</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.20">
+    <section class="question" number="4.20">
         <section class="text">
             Хто з 2-х малих суден, курси яких перетинаються таким чином,
             що може виникнути небезпека зіткнення, повинен звільнити дорогу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно, яке має інше судно на своїй правій стороні</section>
+        <section class="answer">Судно, яке має інше судно на своїй лівій стороні</section>
+        <section class="answer">Судно, в якого менша швидкість</section>
+        <section class="answer">Судно, яке менше</section>
         <section class="description">
         </section>
     </section>
@@ -8350,7 +8359,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question" number="12.20">
+    <section class="question not-ready" number="12.20">
         <section class="text">
             Протягом якого терміну власник маломірного судна (гідроциклу)
             зобов'язаний повідомити в орган державної реєстрації судна
