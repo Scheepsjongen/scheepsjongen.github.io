@@ -3772,13 +3772,26 @@
             у деяких областях також називалися тамами.
         </section>
     </section>
-    <section class="question not-ready" number="2.49">
+    <section class="question" number="2.49">
         <section class="text">
             Що таке кряж, яр, заплесок, пойма, уріз?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Берегові форми рельєфу</section>
+        <section class="answer">Придонні форми рельєфу</section>
         <section class="description">
+            <h6>Термины общей лоции рек</h6>
+            <p><b>Кряж</b>и - окраины речных долин, которые, повышаясь, переходят в горы, состоящие из
+            твердого грунта. Между этими горными возвышенностями проходит долина.</p>
+            <p><b>Яр</b> - сравнительно невысокий обрывистый пойменный берег; очертание яра бывает чаще всего
+            вогнутое, причем он всегда состоит из рыхлых наносов реки, расположенных слоями, и легко
+            размывается водой.</p>
+            <p><b>Заплесок</b> - узкая полоска берега в нижней части яра, примыкающая к урезу воды. Заплеском
+            называется также отлогая часть берега, находящаяся между обрывом берега и урезом воды и заливаемая
+            водой при ветровом волнении.</p>
+            <p><b>Пойма</b> - низкие речные берега, заливаемые весенней водой и вследствие этого зарастающие
+            травой.</p>
+            <p><b>Урез</b> воды - линия пересечения поверхности реки с береговой полосой, т.е. то место, где
+            кончается берег и начинается вода.</p>
         </section>
     </section>
     <section class="question" number="2.50">
@@ -3792,32 +3805,65 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.51">
+    <section class="question" number="2.51">
         <section class="text">
             Що таке межень?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Низький рівень води в річці</section>
+        <section class="answer">Межа, вище якої при нормальних кліматичних умовах не підіймається рівень води</section>
+        <section class="answer">Загромадження земляними валами території для захисту від затоплення водами прилеглих водойм</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B5%D0%BD%D1%8C" target="_blank">
+            Межень (вікі)</a> - період внутрішньорічного циклу, протягом якого в річці спостерігаються
+            <b>найменші рівні</b> й витрати води. Річки живляться в цей час переважно ґрунтовими водами.
         </section>
     </section>
-    <section class="question not-ready" number="3.1">
+    <section class="question" number="3.1">
         <section class="text">
             Чи може вважатися маломірним, судно
             завдовжки до 24 метрів, що перевозить 12 і більш пасажирів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не може</section>
+        <section class="answer">Може</section>
+        <section class="answer">Може, якщо у судновому білеті зазначена максимальна кількість пасажирів до 12</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <h6>Розділ 1. Загальні положення<br/>
+                1.1. Визначення термінів</h6>
+                <p>мале судно - будь-яке судно, крім судна риболовного, довжина корпусу якого менша 20 м,
+                за винятком суден, побудованих чи обладнаних для буксирування, штовхання чи ведення в
+                зчаленні суден, що не є малими суднами, а також суден, на яких дозволено перевозити більше
+                12 пасажирів, і поромів;</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
+                            ПРАВИЛА судноплавства на внутрішніх водних шляхах України
+                        </a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="3.2">
+    <section class="question" number="3.2">
         <section class="text">
             До якого класу маломірних судів відносяться рятувальні катери і човни?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Спеціальні</section>
+        <section class="answer">Прогулянкові</section>
+        <section class="answer">Виробничі</section>
+        <section class="answer">Глісуючі</section>
+        <section class="answer">Гребні</section>
         <section class="description">
+            <h6>Классификация маломерных судов По назначению</h6>
+            <p><b>прогулочные</b> - суда, предназначенные для прогулок, отдыха, занятий любительским спортом,
+            туризмом, иных оздоровительных и культурных целей (любительская рыбалка, охота, экскурсии,
+            водные путешествия и т.д.);</p>
+            <p><b>производственные</b> (коммерческие) - суда, предназначенные для выполнения различных задач
+            и функций (перевозка грузов и людей, промысел биоресурсов, водолазные работы и т.д.);</p>
+            <p><b>специальные</b> (служебные) - суда, предназначенные для осуществления и выполнения
+            специфических задач и функций в области надзора, охраны жизни людей на воде и окружающей
+            среды, гидрографических и исследовательских работ (патрульные, спасательные,
+            природоохранные, гидрографические, исследовательские катера и лодки и т.д.).</p>
         </section>
     </section>
     <section class="question not-ready" number="3.3">
@@ -3891,67 +3937,121 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.10">
+    <section class="question" number="3.10">
         <section class="text">
             Для чого призначеній рульовий пристрій судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для управління судном під час руху</section>
+        <section class="answer">Для постановки судна на якір</section>
+        <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
         <section class="description">
+            <b>Рулевое устройство</b> предназначено для управления судном во время движения,
+            обеспечивает поворотливость судна и его устойчивость на курсе.
         </section>
     </section>
-    <section class="question not-ready" number="3.11">
+    <section class="question" number="3.11">
         <section class="text">
             Для чого призначений якірний пристрій судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для постановки судна на якір,
+        забезпечення його стоянки та зняття з якоря</section>
+        <section class="answer">Для утримання судна на місці при стоянці</section>
+        <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
         <section class="description">
+            <b>Якорное устройство</b> предназначено для постановки судна на якорь, обеспечения его
+            стоянки и снятия с якоря. Якорное устройство представляет собой якорь с оборудованием и
+            приспособлением для его отдачи и подьема. Основное назначение якоря — удерживать судно
+            на месте при стоянке. В состав якорного устройства входят: якорь, якорная цепь (канат),
+            клюз, стопор, цепной ящик.
         </section>
     </section>
-    <section class="question not-ready" number="3.12">
+    <section class="question" number="3.12">
         <section class="text">
             Для виконання яких функцій призначений швартовий пристрій судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для закріплення судна до берега,
+        причалу або до інших суден</section>
+        <section class="answer">Для утримання судна на місці при стоянці</section>
+        <section class="answer">Для постановки судна на якір</section>
+        <section class="answer">Для управління судном під час руху</section>
         <section class="description">
+            <b>Швартовное устройство</b> служит для швартовки (закрепления) судна к берегу,
+            причалу или к другим судам. Состоит оно из специальных приспособлений, которые
+            в зависимости от конструкции называются кнехтами, утками, мушками или киповыми планками.
+            Применяемые при этом канаты называются швартовами.
         </section>
     </section>
-    <section class="question not-ready" number="3.13">
+    <section class="question" number="3.13">
         <section class="text">
             Яке призначення осушної системи судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для періодичного видалення невеликої кількості води з корпусу</section>
+        <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
+        <section class="answer">Для утримання судна на місці при стоянці</section>
+        <section class="answer">Для постановки судна на якір</section>
+        <section class="answer">Для управління судном під час руху</section>
         <section class="description">
+            <b>Осушительная система</b> - система для периодического удаления небольшого количества воды из корпуса.
+            Вода собирается в колодцах, расположенных в самых низких местах корпуса, из которых насосами
+            откачивается либо за борт, либо в резервуары для приема льяльных вод. Осушительная система состоит
+            из насоса с механическим приводом и (или) насоса с ручным приводом, который может быть переносным.<br/><br/>
+            Осушительными средствами должно быть обеспечено каждое маломерное судно, находящееся в эксплуатации.
         </section>
     </section>
-    <section class="question not-ready" number="3.14">
+    <section class="question" number="3.14">
         <section class="text">
             Для чого призначена протипожежна система на судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для попередження пожежі та гасіння її</section>
+        <section class="answer">Для гасіння пожежі</section>
+        <section class="answer">Для періодичного видалення невеликої кількості води з корпусу</section>
+        <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
+        <section class="answer">Для утримання судна на місці при стоянці</section>
+        <section class="answer">Для постановки судна на якір</section>
+        <section class="answer">Для управління судном під час руху</section>
         <section class="description">
+            Для предупреждения пожара и тушения их, на маломерных судах предусматривается наличие
+            <b>противопожарных</b> сигнализационных устройств, стационарных систем и переносных средств
+            пожаротушения, автоматически срабатывающих огнетушителей. Основными причинами возникновения
+            пожаров на маломерных судах является возгорание топлива при его потеках или подсланевых вод
+            в трюмах, покрытых пленкой бензина с достаточно большим слоем его паров в отсеке при
+            отсутствии вентиляции.
         </section>
     </section>
-    <section class="question not-ready" number="3.15">
+    <section class="question" number="3.15">
         <section class="text">
             Чим визначається непотоплюваність судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Конструктивними рішеннями - діленням корпусу
+        на водонепроникні відсіки, обладнанням судна блоками плавучості і водовідливними засобами</section>
         <section class="description">
+            <p><b>Непотопляемость</b> - это способность судна после затопления части судна сохранять плавучесть.</p>
+            <p>Непотопляемость обеспечивается конструктивно - делением корпуса на водонепроницаемые отсеки,
+            оборудованием судна блоками плавучести и водоотливными средствами.</p>
+            <p>Незатапливаемые объемы корпуса чаще всего представляют собой блоки из пенопласта. Необходимое
+            его количество и расположение рассчитываются для обеспечения аварийного запаса плавучести и
+            поддержания аварийного судна в положении "на ровном киле".</p>
+            <p>Безусловно, что в условиях сильного волнения далеко не каждая получившая пробоину моторная
+            лодка и катер обеспечат выполнение этих требований.</p>
         </section>
     </section>
-    <section class="question not-ready" number="3.16">
+    <section class="question" number="3.16">
         <section class="text">
             При яких з перерахованих умов судно буде Остійним?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Низьке розташування двигуна, паливного бака,
+        сидінь і відповідне розміщення вантажів і людей</section>
+        <section class="answer">При наявності на судні паливних баків з дзеркалом поверхні від борта до борта</section>
         <section class="description">
+            <p><b>Остойчивость</b> - это способность судна противостоять силам, вызывающим его наклонение,
+            а после прекращения действия этих сил (ветер, волна, перемещение пассажиров и др.) возвращаться
+            в первоначальное положение равновесия. Одно и то же судно может иметь хорошую остойчивость при
+            расположении в нем груза близко к днищу и может частично или полностью потерять остойчивость,
+            если груз или людей разместить несколько выше</p>
+            <p>Остойчивость судна зависит от от загрузки судна, перемещения грузов, пассажиров и от других причин.
+            Чем больше метацентрическая высота, тем больше восстанавливающий момент и остойчивее судно, однако
+            при большой остойчивости судно имеет резкую качку. Улучшает остойчивость низкое расположение двигателя,
+            топливного бака, сидений и соответствующее размещение грузов и людей.</p>
         </section>
     </section>
     <section class="question not-ready" number="3.17">
@@ -3971,6 +4071,18 @@
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
+            Очень важным маневренным качеством судна является его <b>инерция</b>. Ее обычно принято оценивать
+            длинами тормозного пути, выбега и пути разгона, а также их продолжительностью. Расстояние, которое
+            проходит судно за промежуток времени от момента переключения двигателя с полного хода вперед на
+            задний ход до момента окончательной остановки судна, называется тормозным путем. Это расстояние
+            обычно выражается в метрах, реже — в длинах судна. Расстояние, проходимое судном за промежуток
+            времени от момента остановки двигателя, работающего на передний ход, до полной остановки судна под
+            действием силы сопротивления воды, называется выбегом. Расстояние, которое проходит судно с момента
+            включения двигателя на передний ход до момента приобретения полной скорости при заданном режиме
+            работы двигателя, называется путем разгона. Точное знание водителем указанных выше качеств своего
+            судна в большой степени обеспечивает безопасность маневрирования в узкостях и на рейдах со
+            стесненными условиями плавания. Помните! Моторные суда не имеют тормозов, поэтому для погашения
+            инерции им зачастую требуется значительно больше расстояния и времени, чем, скажем, автомобилю.
         </section>
     </section>
     <section class="question not-ready" number="3.19">
@@ -4046,13 +4158,17 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.28">
+    <section class="question" number="3.28">
         <section class="text">
             Що таке форштевень?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Це загнутий догори брус або металевий профіль,
+        який є продовженням кіля в носовій частині</section>
+        <section class="answer">Це основний поздовжний зв'язок, встановлений ​​в діаметральній площині судна</section>
         <section class="description">
+            В носовой части судна непосредственно к килю присоединяется форштевень. Это загнутый кверху брус
+            или металлический угольник, являющийся продолжением киля. Подобный брус или угольник, но
+            установленный в кормовой части, называется ахтерштевнем.
         </section>
     </section>
     <section class="question not-ready" number="3.29">
@@ -4226,13 +4342,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.44">
+    <section class="question" number="3.44">
         <section class="text">
             Здатність судна повертатись в нормальне положення рівноваги
             після дії сил, котрі вивели судно з цієї рівноваги - це…?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Остійність</section>
+        <section class="answer">Вантажопідйомність</section>
+        <section class="answer">Плавучість</section>
+        <section class="answer">Непотоплюваність</section>
+        <section class="answer">Керованість</section>
+        <section class="answer">Повороткість</section>
+        <section class="answer">Циркуляція</section>
+        <section class="answer">Інерція</section>
         <section class="description">
         </section>
     </section>
@@ -4284,15 +4406,6 @@
     <section class="question not-ready" number="3.50">
         <section class="text">
             Що являється основним продольним зв’язком корпуса судна?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question not-ready" number="3.51">
-        <section class="text">
-            Що таке форштевень?
         </section>
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
