@@ -6449,30 +6449,43 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="7.32">
+    <section class="question" number="7.32">
         <section class="text">
             Пеленг це - ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Кут між напрямом від спостерігача до будь-якого об'єкта і меридіаном</section>
+        <section class="answer">Шляховий кут</section>
+        <section class="answer">Кут між магнітним і географічним меридіанами в обраному місці земної поверхні</section>
+        <section class="answer">Кутовий вимір у сферичній системі координат</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B5%D0%BD%D0%B3_(%D0%BD%D0%B0%D0%B2%D1%96%D0%B3%D0%B0%D1%86%D1%96%D1%8F)" target="_blank">
+            Пеленг (вікі)</a> - кут між напрямом від спостерігача до будь-якого об'єкта і меридіаном.
         </section>
     </section>
-    <section class="question not-ready" number="7.33">
+    <section class="question" number="7.33">
         <section class="text">
             Що визначає Локсодрома?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шляховий кут</section>
+        <section class="answer">Найкоротшу відстань між двома точками на поверхні Землі</section>
+        <section class="answer">Вузьку зону сильного вітру</section>
+        <section class="answer">Кут між магнітним і географічним меридіанами в обраному місці земної поверхні</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BA%D1%81%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0" target="_blank">
+            Локсодрома (вікі)</a> - лінія на поверхні кулі (наприклад, земної кулі), яка перетинає всі меридіани
+            під тим самим кутом (зберігаючи той же азимут).
         </section>
     </section>
-    <section class="question not-ready" number="7.34">
+    <section class="question" number="7.34">
         <section class="text">
             Що означає позначення на навігаційній карті?<br/>
             <img src="/quiz/img/7.34.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Небозпека</section>
+        <section class="answer">Швартовна бочка</section>
+        <section class="answer">Циліндричний буй</section>
+        <section class="answer">Будівля</section>
+        <section class="answer">Кладовище</section>
         <section class="description">
             Затонуле судно?
         </section>
