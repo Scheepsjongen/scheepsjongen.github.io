@@ -6357,12 +6357,14 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.22">
+    <section class="question" number="7.22">
         <section class="text">
             Від якої точки горизонту і в якому напрямку відраховуються компасні напрямки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Від норду і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від зюду і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від осту і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від весту і в напрямку курсу або орієнтира</section>
         <section class="description">
         </section>
     </section>
@@ -6402,51 +6404,100 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="7.27">
+    <section class="question" number="7.27">
         <section class="text">
             У яких межах, від чого і в якому напрямку,
             вимірюється географічна координата місця - широта?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 90°, від екватора, вимірюється від екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від екватора, вимірюється від екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від Гринвічу, вимірюється на захід та на схід</section>
+        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, вимірюється зліва направо</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Широта обозначается буквой ф или Ш и имеет измерение от 0° (на экваторе) до 90° (на полюсе).
+                На карте северного полушария она увеличивается снизу вверх и называется северной (N),
+                а на карте южного полушария - сверху вниз и называется южной (S).</p>
+                <div class="blockquote-footer">
+                    5.7. Пользование навигационной картой
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.28">
+    <section class="question" number="7.28">
         <section class="text">
             Географічна координата місця - довгота.
             У яких межах, від чого і в якому напрямку вимірюється?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 180°, від Гринвічу, вимірюється на захід та на схід</section>
+        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, вимірюється зліва направо</section>
+        <section class="answer">Вимірюється від 0 до 90°, від екватора, вимірюється від екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від екватора, вимірюється від екватору до полюсів</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Долгота обозначается буквой X или Д и имеет измерение от 0 до 180°.
+                Отсчет долготы производится от нулевого меридиана (За нулевой принят меридиан,
+                проходящий через астрономическую обсерваторию Гринвич недалеко от Лондона) к востоку и западу.
+                На карте восточного полушария долгота увеличивается слева направо и называется восточной (Ost),
+                а на карте западного полушария - справа налево и называется западной (Wst).</p>
+                <div class="blockquote-footer">
+                    5.7. Пользование навигационной картой
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="7.29">
         <section class="text">
             По якій стороні рамки навігаційної мапи визначається широта місця?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">По верхній або нижній</section>
+        <section class="answer">По правій або лівій</section>
+        <section class="answer">По верхній або правій</section>
+        <section class="answer">По лівій або нижній</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>На морской навигационной карте север (норд) находится в верхней части карты,
+                восток (ост) - справа, юг (зюйд) - внизу, а запад (вест) - слева.
+                Карта имеет рамку, на правой и левой (вертикальных) сторонах которой нанесены деления широты,
+                а на верхней и нижней - деления долготы.</p>
+                <div class="blockquote-footer">
+                    5.7. Пользование навигационной картой
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="7.30">
         <section class="text">
             По якій стороні рамки навігаційної мапи визначається довгота місця?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">По правій або лівій</section>
+        <section class="answer">По верхній або нижній</section>
+        <section class="answer">По верхній або правій</section>
+        <section class="answer">По лівій або нижній</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>На морской навигационной карте север (норд) находится в верхней части карты,
+                восток (ост) - справа, юг (зюйд) - внизу, а запад (вест) - слева.
+                Карта имеет рамку, на правой и левой (вертикальных) сторонах которой нанесены деления широты,
+                а на верхней и нижней - деления долготы.</p>
+                <div class="blockquote-footer">
+                    5.7. Пользование навигационной картой
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.31">
+    <section class="question" number="7.31">
         <section class="text">
             Що означає визначення місця судна за крюйс-пеленгами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Визначення місця судна за одним орієнтиром</section>
+        <section class="answer">Визначення місця судна за двома орієнтирами</section>
         <section class="description">
+            Відео <a href="https://youtu.be/f3mGWgwB2kM" target="_blank">Крюйс-пеленг (youtube)</a>
         </section>
     </section>
     <section class="question" number="7.32">
@@ -6562,40 +6613,40 @@
             Принцип роботи сучасних лагів заснований на вимірюванні напору води, або гідролокації морського дна.
         </section>
     </section>
-    <section class="question not-ready" number="8.1">
+    <section class="question" number="8.1">
         <section class="text">
             На які види поділяються сучасні суднові рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На індивідуальні, колективні та допоміжні</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.2">
+    <section class="question" number="8.2">
         <section class="text">
             Які засоби відносяться до колективних рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шлюпки, рятувальні плоти, рятувальні прилади</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.3">
+    <section class="question" number="8.3">
         <section class="text">
             Що включають до себе індивідуальні рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Жилети, круги, гідротермокостюми, пристрої теплозахисту</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.4">
+    <section class="question" number="8.4">
         <section class="text">
             Що входить до складу допоміжних рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Штормтрап, линеметальний пристрій, Коспас-Сарсат, радіобуй, радіостанція</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%B0%D1%81-%D0%A1%D0%B0%D1%80%D1%81%D0%B0%D1%82" target="_blank">
+            Коспас-Сарсат (вікі)</a> - міжнародна супутникова пошуково-рятувальна система,
+            розроблена задля сповіщення про аварії й місцеположення персональних радіобуїв та радіобуїв,
+            встановлених на суднах і літаках в разі аварійних ситуацій.
         </section>
     </section>
     <section class="question not-ready" number="8.5">
@@ -6607,21 +6658,21 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.6">
+    <section class="question" number="8.6">
         <section class="text">
             Для чого використовуються колективні рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для рятування групи людей</section>
+        <section class="answer">Для порятунку однієї людини, яка потрапила в воду</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.7">
+    <section class="question" number="8.7">
         <section class="text">
             Яке призначення індивідуальних рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для порятунку однієї людини, яка потрапила в воду</section>
+        <section class="answer">Для рятування групи людей</section>
         <section class="description">
         </section>
     </section>
@@ -6874,6 +6925,10 @@
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%B0%D1%81-%D0%A1%D0%B0%D1%80%D1%81%D0%B0%D1%82" target="_blank">
+            Коспас-Сарсат (вікі)</a> - міжнародна супутникова пошуково-рятувальна система,
+            розроблена задля сповіщення про аварії й місцеположення персональних радіобуїв та радіобуїв,
+            встановлених на суднах і літаках в разі аварійних ситуацій.
         </section>
     </section>
     <section class="question not-ready" number="8.36">
@@ -7436,13 +7491,14 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.16">
+    <section class="question" number="9.16">
         <section class="text">
             Який основний міжнародний документ
             регламентує охорону оточуючого середовища на морі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">МАРПОЛ 73/78</section>
+        <section class="answer">МПЗЗС-72</section>
+        <section class="answer">СОЛАС-74</section>
         <section class="description">
         </section>
     </section>
