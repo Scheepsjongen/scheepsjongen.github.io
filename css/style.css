@@ -120,19 +120,3 @@ footer a:visited {
 footer .svg-icon {
     fill: #fff;
 }
-
-@media only screen and (max-width: 1000px) {
-
-    body {
-        font-size: 44px;
-    }
-
-    .btn, .btn-lg {
-        font-size: 34px;
-    }
-
-    .score .pass-indicator h4 {
-        font-size: 6.5em;
-    }
-
-}
