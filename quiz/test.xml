@@ -2323,7 +2323,7 @@
             Зустрічне плавання - це?
         </section>
         <section class="answer" data-correct="data-correct">Рух двох суден у протилежних чи майже в протилежних напрямках</section>
-        <section class="answer">2</section>
+        <section class="answer">Рух двох суден, що рухаються в одній смузі руху і назустріч один одному</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.1.4. Терміни, що наведені у цьому розділі, мають таке значення:</p>
@@ -5913,13 +5913,17 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.33">
+    <section class="question" number="6.33">
         <section class="text">
             Дійсний вітер це - ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Потік повітря відносно стаціонарних наземних об'єктів</section>
+        <section class="answer">Повітряний потік, швидкість і напрямок якого обчислюється в системі координат, пов'язаній з рухомим судном</section>
         <section class="description">
+            <p>Те саме, що і 6.16 Істинний вітер?</p>
+            <p><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" target="_blank">
+            Истинный ветер (wiki)</a> - горизонтальный поток атмосферного воздуха над водной поверхностью,
+            направление и скорость которого измеряются относительно стационарных морских или наземных объектов.</p>
         </section>
     </section>
     <section class="question not-ready" number="6.34">
