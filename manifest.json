@@ -1,0 +1,19 @@
+{
+    "name": "Scheepsjongen",
+    "short_name": "Scheepsjongen",
+    "start_url": "http://localhost:4000/",
+    "display": "standalone",
+    "theme_color": "#38a",
+    "background_color": "#f3f3f3",
+    "icons": [
+      {
+        "src": "favicon.ico"
+      }, {
+        "src": "back.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }
+    ],
+    "prefer_related_applications": true
+  }
