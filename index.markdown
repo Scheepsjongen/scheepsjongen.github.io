@@ -2,6 +2,13 @@
 layout: page
 ---
 
+<link rel="stylesheet" href="/css/jsQuizEngine.css" />
+<style type="text/css">
+    .quiz .question:after {
+        content: "Запитання № " attr(number);
+        color: #828282;
+    }
+</style>
 <script src="/js/jquery-1.11.2.js"></script>
 <script src="/js/knockout-2.2.1.js"></script>
 <script src="/js/bootstrap.min.js"></script>

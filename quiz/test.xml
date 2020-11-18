@@ -2323,7 +2323,7 @@
             Зустрічне плавання - це?
         </section>
         <section class="answer" data-correct="data-correct">Рух двох суден у протилежних чи майже в протилежних напрямках</section>
-        <section class="answer">2</section>
+        <section class="answer">Рух двох суден, що рухаються в одній смузі руху і назустріч один одному</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.1.4. Терміни, що наведені у цьому розділі, мають таке значення:</p>
@@ -4819,13 +4819,25 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.28">
+    <section class="question" number="4.28">
         <section class="text">
             Про що свідчить сигнал "п’ять коротких звуків" судна, яке обганяють?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Обгін неможливий через небезпеку зіткнення</section>
+        <section class="answer">Це знак вітання і шани</section>
+        <section class="answer">Обходь швидше, заважаєш моєму руху</section>
+        <section class="answer">Обходь, я бачу і пропускаю</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>6.10.7. Коли обгін неможливий через небезпеку зіткнення судно, що обганяють,
+                повинне подати "п'ять коротких звуків".</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">ПРАВИЛА
+                        судноплавства на внутрішніх водних шляхах України</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="4.29">
@@ -5549,59 +5561,74 @@
             які відбуваються у гідросфері та атмосфері Землі
         </section>
     </section>
-    <section class="question not-ready" number="6.3">
+    <section class="question" number="6.3">
         <section class="text">
             В чому проявляються основні признаки зміни погоди до погіршення?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Падає атмосферний тиск</section>
+        <section class="answer">Росте атмосферний тиск</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.4">
+    <section class="question" number="6.4">
         <section class="text">
             Про що свідчить таке явище, коли слоїсті хмари світлішають,
             а атмосферний тиск повільно збільшується?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Поліпшення погоди</section>
+        <section class="answer">Погіршення погоди</section>
+        <section class="answer">Скоро буде короткочасний дощ</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.5">
+    <section class="question" number="6.5">
         <section class="text">
             В чому проявляються основні признаки зміни погоди до поліпшення?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Росте атмосферний тиск</section>
+        <section class="answer">Падає атмосферний тиск</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.6">
+    <section class="question" number="6.6">
         <section class="text">
             Що називається нормальним атмосферним тиском?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">760 мм рт. ст. (на рівні моря)</section>
+        <section class="answer">640 мм рт. ст. (на рівні моря)</section>
+        <section class="answer">780 мм рт. ст. (на рівні моря)</section>
+        <section class="answer">810 мм рт. ст. (на рівні моря)</section>
         <section class="description">
+            Нормальним <a href="https://uk.wikipedia.org/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D1%81%D0%BA" target="_blank">
+            атмосферним тиском (вікі)</a> називають тиск в 760 мм рт. ст. (на рівні моря географічної широти 45°).
         </section>
     </section>
-    <section class="question not-ready" number="6.7">
+    <section class="question" number="6.7">
         <section class="text">
             Для чого використовується на суднах прилад барометр-анероїд?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для вимірювання атмосферного тиску</section>
+        <section class="answer">Для безперервного запису зміни атмосферного тиску</section>
+        <section class="answer">Для вимірювання швидкості вітру</section>
+        <section class="answer">Для вимірювання швидкості судна</section>
+        <section class="answer">Для вимірювання глибини</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%80" target="_blank">
+            Барометр (вікі)</a> - прилад для вимірювання атмосферного тиску. Анероїди - барометри без рідини.
         </section>
     </section>
-    <section class="question not-ready" number="6.8">
+    <section class="question" number="6.8">
         <section class="text">
             Яке призначення має прилад барограф?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для безперервного запису зміни атмосферного тиску</section>
+        <section class="answer">Для вимірювання атмосферного тиску</section>
+        <section class="answer">Для вимірювання швидкості вітру</section>
+        <section class="answer">Для вимірювання швидкості судна</section>
+        <section class="answer">Для вимірювання глибини</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D1%84" target="_blank">
+            Барограф (вікі)</a> - прилад для безперервного запису зміни атмосферного тиску.
         </section>
     </section>
     <section class="question not-ready" number="6.9">
@@ -5622,137 +5649,193 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.11">
+    <section class="question" number="6.11">
         <section class="text">
             В чому проявляється конденсація парів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Утворюється рідина</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.12">
+    <section class="question" number="6.12">
         <section class="text">
-            Як називається атмосферний вихор великого діаметру
-            з низьким тиском повітря в центрі?
+            Як називається атмосферний вихор великого діаметру з низьким тиском повітря в центрі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Циклон</section>
+        <section class="answer">Буря</section>
+        <section class="answer">Шквал</section>
+        <section class="answer">Бриз</section>
+        <section class="answer">Шторм</section>
         <section class="description">
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" target="_blank">
+            Циклон (вікі)</a> - атмосферний вихор з низьким тиском в центрі.</p>
+            <p><a href="" target="_blank">
+            Смерч (вікі)</a> (також, торнадо) - атмосферне явище, що є стрімким вихором
+            з розмірами по горизонталі до 50 км і по вертикалі до 10 км, із швидкістю вітру понад 33 м/с,
+            який витягується від купчасто-дощової хмари до поверхні
+            та за метеорологічними характеристиками являє собою <u>циклон</u>.</p>
         </section>
     </section>
-    <section class="question not-ready" number="6.13">
+    <section class="question" number="6.13">
         <section class="text">
             Як називається область високого атмосферного тиску?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Антициклон</section>
+        <section class="answer">Циклон</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.14">
+    <section class="question" number="6.14">
         <section class="text">
             Яким приладом обчислюється швидкість та напрямок вітру?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Анемометром</section>
+        <section class="answer">Барометром</section>
+        <section class="answer">Спідометром</section>
+        <section class="answer">Тахометром</section>
+        <section class="answer">Лагом</section>
         <section class="description">
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" target="_blank">
+            Анемометр</a> - прилад для вимірювання швидкості, а часто і напрямку руху потоків (газів і рідин),
+            наприклад, повітря (вітромір).</p>
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BB%D1%8E%D0%B3%D0%B5%D1%80" target="_blank">
+            Флюгер</a> - прилад для визначення напрямку і швидкості вітру, один з давніх винаходів людства.</p>
         </section>
     </section>
-    <section class="question not-ready" number="6.15">
+    <section class="question" number="6.15">
         <section class="text">
             Яку назву має рух повітря у горизонтальному напрямку,
             якщо воно рухається з області високого тиску до області низького тиску?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вітер</section>
+        <section class="answer">Антициклон</section>
+        <section class="answer">Циклон</section>
+        <section class="answer">Бриз</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.16">
+    <section class="question" number="6.16">
         <section class="text">
             Що таке істинний вітер?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вітер відносно наземних об'єктів</section>
+        <section class="answer">Вітер відносно судна</section>
+        <section class="answer">Вітер на швидкості, який утворився тільки від руху</section>
         <section class="description">
+            <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" target="_blank">
+            Истинный ветер (wiki)</a> - морской термин, обозначающий горизонтальный поток атмосферного воздуха
+            над водной поверхностью, направление и скорость которого измеряются относительно стационарных
+            морских или наземных объектов.
         </section>
     </section>
-    <section class="question not-ready" number="6.17">
+    <section class="question" number="6.17">
         <section class="text">
             Що таке уявний вітер?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вітер відносно судна</section>
+        <section class="answer">Вітер відносно наземних об'єктів</section>
+        <section class="answer">Вітер на швидкості, який утворився тільки від руху</section>
         <section class="description">
+            <p><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%BC%D0%BF%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" target="_blank">
+            Вымпельный или кажущийся ветер</a> - горизонтальный воздушный поток над водной поверхностью,
+            скорость и направление которого вычисляются в системе координат, связанной с движущимся судном.</p>
+            <p>Уявний вітер = Істинний вітер + Курсовий вітер</p>
         </section>
     </section>
-    <section class="question not-ready" number="6.18">
+    <section class="question" number="6.18">
         <section class="text">
-            Яким способом і в яких одиницях виміру визначають силу вітру
-            по його дії на водну поверхню?
+            Яким способом і в яких одиницях виміру визначають силу вітру по його дії на водну поверхню?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За виглядом і розміром хвиль, вимірюється в балах</section>
+        <section class="answer">За виглядом і розміром хвиль, вимірюється в км/год</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%91%D0%BE%D1%84%D0%BE%D1%80%D1%82%D0%B0" target="_blank">
+            Шкала Бофорта (вікі)</a> - дванадцятибальна шкала, прийнята Всесвітньою метеорологічною організацією
+            для наближеної оцінки сили і/або швидкості вітру за його дією на наземні предмети або
+            за виглядом і розміром хвиль у відкритому морі.
         </section>
     </section>
-    <section class="question not-ready" number="6.19">
+    <section class="question" number="6.19">
         <section class="text">
-            Який напрямок руху має вітер-бриз,
-            що дує на побережжя морів і великих озер в день і в ночі?
+            Який напрямок руху має вітер-бриз, що дує на побережжя морів і великих озер в день і в ночі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вдень - з водної поверхні на суходіл, вночі - навпаки</section>
+        <section class="answer">Вдень - з суходолу на водну поверхню, вночі - навпаки</section>
+        <section class="answer">Вдень - південний, вночі - південно-східний</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D0%B7" target="_blank">
+            Бриз</a>и мають добову періодичність: вдень вони дмуть з водної поверхні на суходіл, вночі - навпаки.
         </section>
     </section>
-    <section class="question not-ready" number="6.20">
+    <section class="question" number="6.20">
         <section class="text">
-            Яку назву має сильний, поривчатий, теплий і сухий вітер,
-            що дує з гір в долини?
+            Яку назву має сильний, поривчатий, теплий і сухий вітер, що дує з гір в долини?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Фен</section>
+        <section class="answer">Бора</section>
+        <section class="answer">Суховій</section>
+        <section class="answer">Самум</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BD_(%D0%B2%D1%96%D1%82%D0%B5%D1%80)" target="_blank">
+            Фен (вікі)</a> - сильний, поривчастий, теплий і сухий місцевий вітер, що дме з гір у долини.
+            Він виникає, коли повітряні маси перевалюють через гори й з великою швидкістю скочуються в долини.
         </section>
     </section>
-    <section class="question not-ready" number="6.21">
+    <section class="question" number="6.21">
         <section class="text">
-            Яку назву має сильний, холодний вітер,
-            що дує з прибережних гір в сторону моря?
+            Яку назву має сильний, холодний вітер, що дує з прибережних гір в сторону моря?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Бора</section>
+        <section class="answer">Фен</section>
+        <section class="answer">Суховій</section>
+        <section class="answer">Самум</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B0" target="_blank">
+            Бора (вікі)</a> - місцевий, холодний, сильний та поривчастий вітер, що дме з вершин невисокого хребта,
+            розташованого на узбережжі водного басейну (море, озеро).<br/>
+            Бора виникає переважно взимку внаслідок великої різниці між барометричним тиском
+            на суші (високий) і морі (низький). Бора викликає різке похолодання; швидкість досягає 40 м/сек.
         </section>
     </section>
-    <section class="question not-ready" number="6.22">
+    <section class="question" number="6.22">
         <section class="text">
             З яких причин виникає шквал - різке посилення вітру?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Через взаємодію різнотемпературних повітряних потоків</section>
+        <section class="answer">Через різницю температур між сушею і водною поверхнею</section>
+        <section class="answer">Через розсіювання грозових осередків</section>
+        <section class="answer">Через появу зони розрідження куди втягується довколишнє тепле вологе повітря, що призводить до виділення значної енергії</section>
+        <section class="description">
+            Основною причиною виникнення
+            <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B2%D0%B0%D0%BB" target="_blank">
+            шквалу (вікі)</a> є взаємодія висхідного потоку повітря в передній частині купчасто-дощової хмари
+            і спадного повітря, охолодженого зливовим дощем.
+        </section>
+    </section>
+    <section class="question" number="6.23">
+        <section class="text">
+            Як можливо передбачити зберігання поганої погоди по хмарам та місцевим признакам?
+        </section>
+        <section class="answer" data-correct="data-correct">В розривах хмар нижнього ярусу
+        видно хмари більш високих ярусів</section>
+        <section class="answer">Перисті хмари, безладно розсіяні по небу, майже нерухомі,
+        схожі на шматочки розтріпаної вати, що з'являються після полудня і зникаючі до вечора</section>
+        <section class="answer">Повільне стійке підвищення атмосферного тиску</section>
+        <section class="answer">Купчасті хмари, які не збільшуються у висоту,
+        з різко окресленими краями і плоскими основами, що виділяються на блакитному небі</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.23">
+    <section class="question" number="6.24">
         <section class="text">
-            Як можливо передбачити зберігання поганої погоди
-            по хмарам та місцевим признакам?
+            Як можливо передбачити зберігання хорошої погоди по хмарам та місцевим признакам?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
-        <section class="description">
-        </section>
-    </section>
-    <section class="question not-ready" number="6.24">
-        <section class="text">
-            Як можливо передбачити зберігання хорошої погоди
-            по хмарам та місцевим признакам?
-        </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Купчасті хмари, які не збільшуються у висоту,
+        з різко окресленими краями і плоскими основами, що виділяються на блакитному небі</section>
+        <section class="answer">Сонячне сяйво через хмари жовтого кольору, що спостерігається після минулого дощу</section>
+        <section class="answer">Якщо атмосферний тиск, наведений до рівня моря, не більше 760 мм рт. ст.
+        і не змінюється або повільно знижується</section>
+        <section class="answer">В розривах хмар нижнього ярусу видно хмари більш високих ярусів</section>
         <section class="description">
         </section>
     </section>
@@ -5830,13 +5913,17 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.33">
+    <section class="question" number="6.33">
         <section class="text">
             Дійсний вітер це - ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Потік повітря відносно стаціонарних наземних об'єктів</section>
+        <section class="answer">Повітряний потік, швидкість і напрямок якого обчислюється в системі координат, пов'язаній з рухомим судном</section>
         <section class="description">
+            <p>Те саме, що і 6.16 Істинний вітер?</p>
+            <p><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" target="_blank">
+            Истинный ветер (wiki)</a> - горизонтальный поток атмосферного воздуха над водной поверхностью,
+            направление и скорость которого измеряются относительно стационарных морских или наземных объектов.</p>
         </section>
     </section>
     <section class="question not-ready" number="6.34">
@@ -6274,12 +6361,14 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.22">
+    <section class="question" number="7.22">
         <section class="text">
             Від якої точки горизонту і в якому напрямку відраховуються компасні напрямки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Від норду і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від зюду і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від осту і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від весту і в напрямку курсу або орієнтира</section>
         <section class="description">
         </section>
     </section>
@@ -6319,77 +6408,139 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="7.27">
+    <section class="question" number="7.27">
         <section class="text">
             У яких межах, від чого і в якому напрямку,
             вимірюється географічна координата місця - широта?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 90°, від екватора, вимірюється від екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від екватора, вимірюється від екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від Гринвічу, вимірюється на захід та на схід</section>
+        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, вимірюється зліва направо</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Широта обозначается буквой ф или Ш и имеет измерение от 0° (на экваторе) до 90° (на полюсе).
+                На карте северного полушария она увеличивается снизу вверх и называется северной (N),
+                а на карте южного полушария - сверху вниз и называется южной (S).</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                    <p>5.7. Пользование навигационной картой</p>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.28">
+    <section class="question" number="7.28">
         <section class="text">
             Географічна координата місця - довгота.
             У яких межах, від чого і в якому напрямку вимірюється?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 180°, від Гринвічу, вимірюється на захід та на схід</section>
+        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, вимірюється зліва направо</section>
+        <section class="answer">Вимірюється від 0 до 90°, від екватора, вимірюється від екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від екватора, вимірюється від екватору до полюсів</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Долгота обозначается буквой X или Д и имеет измерение от 0 до 180°.
+                Отсчет долготы производится от нулевого меридиана (За нулевой принят меридиан,
+                проходящий через астрономическую обсерваторию Гринвич недалеко от Лондона) к востоку и западу.
+                На карте восточного полушария долгота увеличивается слева направо и называется восточной (Ost),
+                а на карте западного полушария - справа налево и называется западной (Wst).</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                    <p>5.7. Пользование навигационной картой</p>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="7.29">
         <section class="text">
             По якій стороні рамки навігаційної мапи визначається широта місця?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">По верхній або нижній</section>
+        <section class="answer">По правій або лівій</section>
+        <section class="answer">По верхній або правій</section>
+        <section class="answer">По лівій або нижній</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>На морской навигационной карте север (норд) находится в верхней части карты,
+                восток (ост) - справа, юг (зюйд) - внизу, а запад (вест) - слева.
+                Карта имеет рамку, на правой и левой (вертикальных) сторонах которой нанесены деления широты,
+                а на верхней и нижней - деления долготы.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                    <p>5.7. Пользование навигационной картой</p>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="7.30">
         <section class="text">
             По якій стороні рамки навігаційної мапи визначається довгота місця?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">По правій або лівій</section>
+        <section class="answer">По верхній або нижній</section>
+        <section class="answer">По верхній або правій</section>
+        <section class="answer">По лівій або нижній</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>На морской навигационной карте север (норд) находится в верхней части карты,
+                восток (ост) - справа, юг (зюйд) - внизу, а запад (вест) - слева.
+                Карта имеет рамку, на правой и левой (вертикальных) сторонах которой нанесены деления широты,
+                а на верхней и нижней - деления долготы.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Шлюпка. Устройство и управление</cite>
+                    <p>5.7. Пользование навигационной картой</p>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.31">
+    <section class="question" number="7.31">
         <section class="text">
             Що означає визначення місця судна за крюйс-пеленгами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Визначення місця судна за одним орієнтиром</section>
+        <section class="answer">Визначення місця судна за двома орієнтирами</section>
         <section class="description">
+            Відео <a href="https://youtu.be/f3mGWgwB2kM" target="_blank">Крюйс-пеленг (youtube)</a>
         </section>
     </section>
-    <section class="question not-ready" number="7.32">
+    <section class="question" number="7.32">
         <section class="text">
             Пеленг це - ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Кут між напрямом від спостерігача до будь-якого об'єкта і меридіаном</section>
+        <section class="answer">Шляховий кут</section>
+        <section class="answer">Кут між магнітним і географічним меридіанами в обраному місці земної поверхні</section>
+        <section class="answer">Кутовий вимір у сферичній системі координат</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B5%D0%BD%D0%B3_(%D0%BD%D0%B0%D0%B2%D1%96%D0%B3%D0%B0%D1%86%D1%96%D1%8F)" target="_blank">
+            Пеленг (вікі)</a> - кут між напрямом від спостерігача до будь-якого об'єкта і меридіаном.
         </section>
     </section>
-    <section class="question not-ready" number="7.33">
+    <section class="question" number="7.33">
         <section class="text">
             Що визначає Локсодрома?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шляховий кут</section>
+        <section class="answer">Найкоротшу відстань між двома точками на поверхні Землі</section>
+        <section class="answer">Вузьку зону сильного вітру</section>
+        <section class="answer">Кут між магнітним і географічним меридіанами в обраному місці земної поверхні</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BA%D1%81%D0%BE%D0%B4%D1%80%D0%BE%D0%BC%D0%B0" target="_blank">
+            Локсодрома (вікі)</a> - лінія на поверхні кулі (наприклад, земної кулі), яка перетинає всі меридіани
+            під тим самим кутом (зберігаючи той же азимут).
         </section>
     </section>
-    <section class="question not-ready" number="7.34">
+    <section class="question" number="7.34">
         <section class="text">
             Що означає позначення на навігаційній карті?<br/>
             <img src="/quiz/img/7.34.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Небозпека</section>
+        <section class="answer">Швартовна бочка</section>
+        <section class="answer">Циліндричний буй</section>
+        <section class="answer">Будівля</section>
+        <section class="answer">Кладовище</section>
         <section class="description">
             Затонуле судно?
         </section>
@@ -6466,40 +6617,40 @@
             Принцип роботи сучасних лагів заснований на вимірюванні напору води, або гідролокації морського дна.
         </section>
     </section>
-    <section class="question not-ready" number="8.1">
+    <section class="question" number="8.1">
         <section class="text">
             На які види поділяються сучасні суднові рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На індивідуальні, колективні та допоміжні</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.2">
+    <section class="question" number="8.2">
         <section class="text">
             Які засоби відносяться до колективних рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Шлюпки, рятувальні плоти, рятувальні прилади</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.3">
+    <section class="question" number="8.3">
         <section class="text">
             Що включають до себе індивідуальні рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Жилети, круги, гідротермокостюми, пристрої теплозахисту</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.4">
+    <section class="question" number="8.4">
         <section class="text">
             Що входить до складу допоміжних рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Штормтрап, линеметальний пристрій, Коспас-Сарсат, радіобуй, радіостанція</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%B0%D1%81-%D0%A1%D0%B0%D1%80%D1%81%D0%B0%D1%82" target="_blank">
+            Коспас-Сарсат (вікі)</a> - міжнародна супутникова пошуково-рятувальна система,
+            розроблена задля сповіщення про аварії й місцеположення персональних радіобуїв та радіобуїв,
+            встановлених на суднах і літаках в разі аварійних ситуацій.
         </section>
     </section>
     <section class="question not-ready" number="8.5">
@@ -6511,21 +6662,21 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.6">
+    <section class="question" number="8.6">
         <section class="text">
             Для чого використовуються колективні рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для рятування групи людей</section>
+        <section class="answer">Для порятунку однієї людини, яка потрапила в воду</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.7">
+    <section class="question" number="8.7">
         <section class="text">
             Яке призначення індивідуальних рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для порятунку однієї людини, яка потрапила в воду</section>
+        <section class="answer">Для рятування групи людей</section>
         <section class="description">
         </section>
     </section>
@@ -6778,6 +6929,10 @@
         <section class="answer" data-correct="data-correct">1</section>
         <section class="answer">2</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%B0%D1%81-%D0%A1%D0%B0%D1%80%D1%81%D0%B0%D1%82" target="_blank">
+            Коспас-Сарсат (вікі)</a> - міжнародна супутникова пошуково-рятувальна система,
+            розроблена задля сповіщення про аварії й місцеположення персональних радіобуїв та радіобуїв,
+            встановлених на суднах і літаках в разі аварійних ситуацій.
         </section>
     </section>
     <section class="question not-ready" number="8.36">
@@ -6854,9 +7009,9 @@
         <section class="text">
             Якого кольору повинен бути рятувальний круг?
         </section>
-        <section class="answer" data-correct="data-correct">яскравий, оранжевий або червоний, можливі білі смуги</section>
-        <section class="answer">помітний, червоний, оранжевий, жовтий або білий, або комбінації цих кольорів</section>
-        <section class="answer">яскравий, помітний - червоний, оранжевий, жовтий, чорний або білий, або комбінації цих кольорів</section>
+        <section class="answer" data-correct="data-correct">Яскравий, оранжевий або червоний, можливі білі смуги</section>
+        <section class="answer">Помітний, червоний, оранжевий, жовтий або білий, або комбінації цих кольорів</section>
+        <section class="answer">Яскравий, помітний - червоний, оранжевий, жовтий, чорний або білий, або комбінації цих кольорів</section>
         <section class="description">
             Забарвлюється в яскравий, помітний колір - яскраво-оранжевий або червоний,
             можливо, з декількома білими смугами.
@@ -7340,13 +7495,14 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.16">
+    <section class="question" number="9.16">
         <section class="text">
             Який основний міжнародний документ
             регламентує охорону оточуючого середовища на морі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">МАРПОЛ 73/78</section>
+        <section class="answer">МПЗЗС-72</section>
+        <section class="answer">СОЛАС-74</section>
         <section class="description">
         </section>
     </section>

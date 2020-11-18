@@ -6,8 +6,9 @@ permalink: /list/
 
 <div class="question-pool"></div>
 <style type="text/css">
-    .question-pool .question .text {
-        margin: 25px 0 0;
+    .question-pool .question:before {
+        content: "Запитання № " attr(number);
+        color: #828282;
     }
     .question-pool .question .text:before {
         content: "Q: ";
@@ -16,7 +17,6 @@ permalink: /list/
         content: "A: ";
     }
     .question-pool .question .description {
-        border: 1px solid #aaa;
         padding: 15px;
         display: none;
     }
