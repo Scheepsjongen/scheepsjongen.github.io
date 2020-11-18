@@ -2,7 +2,6 @@
 layout: page
 ---
 
-<link rel="stylesheet" href="/css/jsQuizEngine.css" />
 <style type="text/css">
     .quiz .question:after {
         content: "Запитання № " attr(number);
