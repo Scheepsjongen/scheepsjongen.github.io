@@ -81,7 +81,7 @@ layout: page
             </section>
         </section>
     </div>
-    <section class="container-text" data-bind="visible: !quizStarted()">
+    <!-- <section class="container-text" data-bind="visible: !quizStarted()">
         <div class="section-content">
             <div class="content">
                 <h4>Кожен має невід'ємне право вийти у море</h4>
@@ -89,9 +89,8 @@ layout: page
             <div class="advertising-block">
                 <h6>Проходьте також тест мисливця</h6>
                 <p>Питання з іспиту для отримання "Посвідчення мисливця"</p>
-                <a href="https://jagtex.blogspot.com/" class="btn btn-primary btn-lg">Перейти</a>
+                <a href="https://jagtex.blogspot.com/" target="_blank" class="btn btn-primary btn-lg">Перейти</a>
             </div>
         </div>
-    </section>
+    </section> -->
 </section>
-
