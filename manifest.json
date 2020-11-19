@@ -1,7 +1,7 @@
 {
     "name": "Scheepsjongen",
     "short_name": "Scheepsjongen",
-    "start_url": "http://localhost:4000/",
+    "start_url": "https://scheepsjongen.github.io/",
     "display": "standalone",
     "theme_color": "#38a",
     "background_color": "#f3f3f3",
@@ -17,3 +17,4 @@
     ],
     "prefer_related_applications": true
   }
+  
