@@ -201,7 +201,8 @@ hr {
     border-radius: 0;
 }
 
-.btn-primary {
+.btn-primary,
+.btn-primary:visited {
     color: #fff;
     background-color: #38a;
     border-color: #38a;

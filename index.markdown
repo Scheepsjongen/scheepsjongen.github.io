@@ -81,16 +81,17 @@ layout: page
             </section>
         </section>
     </div>
-    <!-- <section class="container-text" data-bind="visible: !quizStarted()">
+    <section class="container-text" data-bind="visible: !quizStarted()">
         <div class="section-content">
             <div class="content">
-                <h4>Кожен має невід'ємне право вийти у море</h4>
+                <h4>Права на лодку</h4>
             </div>
             <div class="advertising-block">
-                <h6>Проходьте також тест мисливця</h6>
+                <h6>Тест мисливця</h6>
+                <p>Проходьте також тест мисливця</p>
                 <p>Питання з іспиту для отримання "Посвідчення мисливця"</p>
                 <a href="https://jagtex.blogspot.com/" target="_blank" class="btn btn-primary btn-lg">Перейти</a>
             </div>
         </div>
-    </section> -->
+    </section>
 </section>
