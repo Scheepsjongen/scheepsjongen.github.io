@@ -88,7 +88,6 @@ layout: page
             </div>
             <div class="advertising-block">
                 <h6>Тест мисливця</h6>
-                <p>Проходьте також тест мисливця</p>
                 <p>Питання з іспиту для отримання "Посвідчення мисливця"</p>
                 <a href="https://jagtex.blogspot.com/" target="_blank" class="btn btn-primary btn-lg">Перейти</a>
             </div>
