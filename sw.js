@@ -32,6 +32,8 @@ self.addEventListener("activate", async e => {
     const a = (await caches.keys()).map(async e => {
         [staticCacheName, dynamicCacheName].includes(e) || await caches.delete(e)
     });
-    await Promise.all(a), console.log("Service worker has been activated")
+    return await Promise.all(a), console.log("Service worker has been activated")
 }),
-self.addEventListener("fetch", e => { console.log(`Trying to fetch ${e.request.url}`), e.respondWith(checkCache(e.request)) });
+self.addEventListener("fetch", e => {
+    console.log(`Trying to fetch ${e.request.url}`), e.respondWith(checkCache(e.request))
+});
