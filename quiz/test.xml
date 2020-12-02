@@ -6651,22 +6651,41 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.17">
+    <section class="question" number="8.17">
         <section class="text">
             Який термін дії світла та диму у світло димного буя для рятувального кола?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Світла 2 год, диму 15 хв</section>
+        <section class="answer">Світла 4 год, диму 30 хв</section>
+        <section class="answer">Світла 1 год, диму 10 хв</section>
+        <section class="answer">Світла 2 год, диму 30 хв</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <table>
+                    <tr><td>Время действия светового сигнала, не менее</td><td>2 ч</td></tr>
+                    <tr><td>Время дымообразования, не менее</td><td>15 мин</td></tr>
+                </table>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">Буй светодымящий БСД-02, Технические характеристики</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="8.18">
+    <section class="question" number="8.18">
         <section class="text">
             На підтримку скількох чоловік розраховане рятувальне коло?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">1-2 людини</section>
+        <section class="answer">1 людина</section>
+        <section class="answer">До 4 чоловік</section>
+        <section class="answer">До 6 чоловік</section>
         <section class="description">
+            <p><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D1%83%D0%B3" target="_blank">
+            Спасательный круг (wiki)</a> Использование</p>
+            <p>Человек надевает круг на себя так, чтобы он находился у него подмышками. В таком состоянии
+            можно продержаться на плаву длительное время.</p>
+            <p>Кругом могут воспользоваться и двое, в таком случае они должны держаться за леер,
+            укреплённый с внешней его стороны.</p>
         </section>
     </section>
     <section class="question not-ready" number="8.19">
@@ -6678,31 +6697,39 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.20">
+    <section class="question" number="8.20">
         <section class="text">
             Якої довжини повинен бути рятувальний кінець що закріплений до рятувального кола?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">15-30 м</section>
+        <section class="answer">10-20 м</section>
+        <section class="answer">5-15 м</section>
+        <section class="answer">25-50 м</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.21">
+    <section class="question" number="8.21">
         <section class="text">
             Яка повинна бути дальність видимості сигналів світло димового буя?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не менше одної морської милі</section>
+        <section class="answer">Не менше двох морських миль</section>
+        <section class="answer">Не менше п'яти морських миль</section>
+        <section class="answer">Не менше одного км</section>
+        <section class="answer">Не менше двох км</section>
+        <section class="answer">Не менше п'яти км</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.22">
+    <section class="question" number="8.22">
         <section class="text">
             Для чого використовується гідротермо костюм?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Знизити вплив водного середовища на організм людини,
+        забезпечити теплоізоляцію, захист від можливих ушкоджень ділянок тіла</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC" target="_blank">
+            Гідрокостюм (вікі)</a>
         </section>
     </section>
     <section class="question not-ready" number="8.23">
