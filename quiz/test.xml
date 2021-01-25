@@ -37,7 +37,8 @@
         <section class="text">
             Які дії судна при проходженні небезпечних районів плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Необхідно дотримуватися безпечної швидкості
+        та нести постійну вахту</section>
         <section class="description">
             У багатьох випадках, небезпека району визначається не самим районом, а індивідуумами,
             які там можуть знаходитися. Мова, звичайно ж, про піратів.
@@ -47,20 +48,11 @@
         <section class="text">
             Чи може судноводій ММС при обгоні транспортного судна показувати обмін сигналами?
         </section>
-        <section class="answer" data-correct="data-correct">Може за потреби</section>
+        <section class="answer" data-correct="data-correct">Не може</section>
         <section class="answer">Може</section>
-        <section class="answer">Не може</section>
         <section class="description">
             <blockquote class="blockquote">
-                <h4>6.10. Обгін</h4>
-                <p>6.10.8. Вимоги, зазначені у пунктах 6.10.4-6.10.7 цих Правил (сигнали при обгоні),
-                не застосовуються до малих суден відносно інших суден, у разі обгону малих суден малими суднами.</p>
-                <div class="blockquote-footer">
-                    <cite title="Source Title">
-                        <a href="https://zakon.rada.gov.ua/laws/show/z0872-04" target="_blank">
-                        ПРАВИЛА судноплавства на внутрішніх водних шляхах України</a>
-                    </cite>
-                </div>
+                <p>Обмінюватися сигналами можна тільки з рівними за значенням судами</p>
             </blockquote>
         </section>
     </section>
@@ -68,8 +60,7 @@
         <section class="text">
             Який порядок і пріоритетність розходження суден при одночасному підході до небезпечної ділянки плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно що йде за течією має перевагу</section>
         <section class="description">
         </section>
     </section>
@@ -97,8 +88,9 @@
         <section class="text">
             На якій відстані судно, що обганяє інше, повинне подати сигнал з 2-х тривалих і 2-х коротких звуків?
         </section>
-        <section class="answer" data-correct="data-correct">Завчасно</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За 500 метрів</section>
+        <section class="answer">За 1000 метрів</section>
+        <section class="answer">За 1500 метрів</section>
         <section class="description">
         </section>
     </section>
@@ -106,8 +98,8 @@
         <section class="text">
             Що заборонене при обгоні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно яке обганяють не має права збільшувати швидкість
+        або змінювати курс в сторону судна що здійснює обгін</section>
         <section class="description">
         </section>
     </section>
@@ -297,7 +289,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Судновий білет, акт технічного огляду та
         посвідчення на право керування</section>
-        <section class="answer">Посвідчення на право керування та судновий білет</section>
+        <section class="answer">Посвідчення на право керування, судновий білет та акт технічного огляду</section>
         <section class="answer">Судновий білет та акт технічного огляду</section>
         <section class="answer">Посвідчення на право керування та акт технічного огляду</section>
         <section class="description">
@@ -318,8 +310,7 @@
         <section class="text">
             Які органи, проводить технічний нагляд за маломірними суднами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Регістр судноплавства України</section>
         <section class="description">
         </section>
     </section>
@@ -377,7 +368,7 @@
         <section class="text">
             Яка швидкість руху повинна бути при проході під мостами зі зустрічним рухом?
         </section>
-        <section class="answer" data-correct="data-correct">Безпечна</section>
+        <section class="answer" data-correct="data-correct">До 5 км/годезпечна</section>
         <section class="answer">До 15 км/год</section>
         <section class="answer">До 20 км/год</section>
         <section class="answer">До 30 км/год</section>
@@ -410,8 +401,8 @@
         <section class="text">
             З якою швидкістю повинен здійснюватися масовий рух суден у межах міста?
         </section>
-        <section class="answer" data-correct="data-correct">До 15 км/год</section>
-        <section class="answer">Безпечною</section>
+        <section class="answer" data-correct="data-correct">До 35 км/год</section>
+        <section class="answer">До 15 км/год</section>
         <section class="answer">До 20 км/год</section>
         <section class="answer">До 30 км/год</section>
         <section class="answer">До 40 км/год</section>
