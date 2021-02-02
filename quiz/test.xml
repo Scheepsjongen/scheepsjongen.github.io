@@ -423,8 +423,7 @@
             Ким здійснюється випуск маломірних суден у територіальне море,
             внутрішні води України на відстань до 2 (двох) морських миль?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Капітаном порту</section>
         <section class="description">
         </section>
     </section>
@@ -433,6 +432,7 @@
             При обгонах моточовни, катери, які здійснюють обгін повинні обганяти другі судна?
         </section>
         <section class="answer" data-correct="data-correct">З лівого та правого борту</section>
+        <section class="answer">Обганяти судно яке обганяє заборонено (подвійний обгін)</section>
         <section class="answer">З лівого борту</section>
         <section class="answer">З правого борту</section>
         <section class="description">
@@ -470,6 +470,13 @@
                     для плавання на маломірних (малих)суднах у Миколаївської області</cite>
                 </div>
             </blockquote>
+            <blockquote class="blockquote">
+                <p>Под прямым углом на расстоянии больше 500 метров, на максимальной скорости но не превышая
+                ограничений скоростного режима.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">WaterPDD2020</cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question not-ready" number="1.24">
@@ -478,8 +485,7 @@
             підрозділів Державної прикордонної служби України
             при здійсненні виходу маломірних суден за межі 2-х морських миль?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За 24 години до виходу</section>
         <section class="description">
         </section>
     </section>
@@ -544,7 +550,7 @@
         <section class="text">
             Швидкість в місцях масового відпочинку людей з буйковим огородженням повинна складатися?
         </section>
-        <section class="answer" data-correct="data-correct">Безпечною</section>
+        <section class="answer" data-correct="data-correct">До 5 км/год</section>
         <section class="answer">До 15 км/год</section>
         <section class="answer">До 20 км/год</section>
         <section class="answer">До 30 км/год</section>
@@ -565,8 +571,8 @@
         <section class="text">
             Яка дистанція віддалення від берегу встановлена для ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Встановлюється Регістром судноплавства України,
+        враховується розмір, ходові якості і комплектація судна</section>
         <section class="description">
         </section>
     </section>
