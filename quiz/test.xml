@@ -289,7 +289,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Судновий білет, акт технічного огляду та
         посвідчення на право керування</section>
-        <section class="answer">Посвідчення на право керування, судновий білет та акт технічного огляду</section>
+        <section class="answer">Посвідчення на право керування та судновий білет</section>
         <section class="answer">Судновий білет та акт технічного огляду</section>
         <section class="answer">Посвідчення на право керування та акт технічного огляду</section>
         <section class="description">
@@ -368,7 +368,7 @@
         <section class="text">
             Яка швидкість руху повинна бути при проході під мостами зі зустрічним рухом?
         </section>
-        <section class="answer" data-correct="data-correct">До 5 км/годезпечна</section>
+        <section class="answer" data-correct="data-correct">До 5 км/год</section>
         <section class="answer">До 15 км/год</section>
         <section class="answer">До 20 км/год</section>
         <section class="answer">До 30 км/год</section>
@@ -599,13 +599,14 @@
         <section class="text">
             На яких УКХ каналах під час руху судна необхідно нести радіо вахту?
         </section>
-        <section class="answer" data-correct="data-correct">16</section>
-        <section class="answer">4</section>
-        <section class="answer">6</section>
-        <section class="answer">11</section>
-        <section class="answer">12</section>
-        <section class="answer">14</section>
+        <section class="answer" data-correct="data-correct">16-тий або 5-тий канали</section>
+        <section class="answer">11-тий або 4-тий канали</section>
+        <section class="answer">6-тий канал</section>
+        <section class="answer">11 або 12-тий канали</section>
+        <section class="answer">12-тий канал</section>
+        <section class="answer">14-тий канал</section>
         <section class="description">
+            <p>Морская 16 канал, речная на 5 канале</p>
             <blockquote class="blockquote">
                 <p>7.4.1 Під час руху судна відповідальні особи на борту судна мають нести радіовахту
                 на 16-ому каналі УКХ-радіозв’язку за умови дотримання регламенту радіозв’язку.</p>
@@ -626,6 +627,8 @@
         <section class="answer">Осьовий</section>
         <section class="answer">Чистої води</section>
         <section class="description">
+            <p>Одиночная опасность небольшого размера. Устанавливается прямо над опастностью.
+            Знак можно обойти с любой стороны на некотором удалении.</p>
         </section>
     </section>
     <section class="question" number="1.33">
@@ -657,8 +660,10 @@
             Які вогні судно з механічним двигуном довжиною менше 12 м може виставляти?
         </section>
         <section class="answer" data-correct="data-correct">Топовий , бортові та кормовий вогні. За потреби - спеціальні</section>
-        <section class="answer">2</section>
         <section class="description">
+            <p>Бортовые огни красный и зеленый, топовый белый огонь и кормовой; Бортовые зеленый и
+            красный могут быть расположены на носу судна или в одном корпусе; Топовый и кормовой могут
+            быть заменены на ясный белый огонь видный отовсюду (360 градусов)</p>
         </section>
     </section>
     <section class="question" number="1.35">
@@ -741,6 +746,7 @@
         <section class="answer">Заборонений рух моторних суден</section>
         <section class="answer">Загальна заборона плавання спортивних або прогулянкових судів</section>
         <section class="description">
+            <p>Обычно его можно увидить на рейдах и входах в гавань</p>
             <blockquote class="blockquote">
                 <p>А.4. Рух дрібних плавучих засобів заборонений!<br/>
                 Для позначення ділянки, де на судновому ходу заборонений рух малих суден
@@ -765,6 +771,8 @@
         <section class="answer">Обійти знак з боку сходу</section>
         <section class="answer">Обійти знак з боку заходу</section>
         <section class="description">
+            <p>Кардинальная система ограждения опастностей значительных размеров. Устанавливается южнее
+            опастности (опастность относительно знака на Юге). Обходить знак можно только с севера.</p>
         </section>
     </section>
     <section class="question" number="1.41">
