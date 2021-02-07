@@ -86,9 +86,9 @@ layout: page
                     <h4>Права на лодку</h4>
                 </div>
                 <div class="advertising-block">
-                    <h6>Тест мисливця</h6>
-                    <p>Питання з іспиту для отримання "Посвідчення мисливця"</p>
-                    <a href="https://jagtex.blogspot.com/" target="_blank" class="btn btn-primary btn-lg">Перейти</a>
+                    <h6>Долучайтесь поліпшити тест</h6>
+                    <p>Запропонуйте у коментарях можливі правки до пояснень та відповідей запитань</p>
+                    <a href="https://scheepsjongen.github.io/2020/10/20/welcome-to-scheepsjongen.html#disqus_thread" class="btn btn-primary btn-lg">Перейти</a>
                 </div>
             </div>
         </section>
