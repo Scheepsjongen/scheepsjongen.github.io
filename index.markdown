@@ -64,7 +64,7 @@ layout: page
                         <span data-bind="visible: !quizPassed()">FAIL</span>
                     </h4>
                 </div>
-                <a href="/" class="btn btn-primary btn-lg" data-bind="click: startQuiz">Наново</a>
+                <a href="/" class="btn btn-primary btn-lg">Наново</a>
                 <div style="margin-top: 45px;">
                     <blockquote class="blockquote">
                         <p>Перевірка теоретичних знань вважається успішною, якщо кандидат надав
