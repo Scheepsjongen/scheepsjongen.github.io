@@ -4451,8 +4451,7 @@
         <section class="text">
             У чому полягають особливі умови плавання на ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Плавання за межами фарватеру</section>
         <section class="description">
         </section>
     </section>
@@ -4460,8 +4459,7 @@
         <section class="text">
             У чому проявляється вплив вітру на рух і управління маломірного судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В сносе с курса</section>
         <section class="description">
         </section>
     </section>
@@ -4469,8 +4467,7 @@
         <section class="text">
             Як впливають мілини на керованість судном?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Проседание судна и потеря скорости</section>
         <section class="description">
         </section>
     </section>
@@ -4478,8 +4475,7 @@
         <section class="text">
             Як діє течія на керованість судном?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зносить судно з курсу</section>
         <section class="description">
         </section>
     </section>
@@ -4513,8 +4509,7 @@
         <section class="text">
             Який оптимальний спосіб управління МС за допомогою гіромагнітних компасів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">С обязательным учетом ветра и течения</section>
         <section class="description">
         </section>
     </section>
@@ -4522,8 +4517,8 @@
         <section class="text">
             Які дії судноводія при управлінні МС в умовах сильного хвилювання на воді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Рух носом на хвилю
+        на підвищених обертах до найближчого укриття</section>
         <section class="description">
         </section>
     </section>
@@ -4531,8 +4526,7 @@
         <section class="text">
             Як діяти при сильному хвилюванні повертаючи судно під вітер?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Движение галсами. Носом на высокую волну, бортом на низкую</section>
         <section class="description">
         </section>
     </section>
@@ -4540,8 +4534,7 @@
         <section class="text">
             Як діяти при сильному хвилюванні повертаючи судно на вітер?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Повышенные обороты. Перекладка руля максимально быстрая</section>
         <section class="description">
         </section>
     </section>
@@ -4550,8 +4543,7 @@
             Яка з сил, що діють на перо керма, змінює напрямок руху судна
             під час перекладання його на деякий кут від ДП?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Сила упора винта</section>
         <section class="description">
         </section>
     </section>
@@ -4560,8 +4552,7 @@
             Яка команда подається на кермо при наближенні судна
             до призначеного курсу і кермо встановлюється в ДП?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Прямо руль</section>
         <section class="description">
         </section>
     </section>
@@ -4569,8 +4560,7 @@
         <section class="text">
             Які дії слід зробити при плаванні судна на мілині?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зменшити швидкість і стежити за глибиною</section>
         <section class="description">
         </section>
     </section>
@@ -4578,8 +4568,7 @@
         <section class="text">
             У яких випадках дозволяється перетинання курсів і обгін суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Коли немає небезпеки зіткнення</section>
         <section class="description">
         </section>
     </section>
@@ -4588,8 +4577,7 @@
             Як повинні діяти судна, що йдуть курсами,
             які виключають усяку небезпеку зіткнення?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Продовжують рух своїм курсом не зменшуючи швидкості</section>
         <section class="description">
         </section>
     </section>
@@ -4598,8 +4586,7 @@
             Як повинно діяти судно,
             якому при зустрічному плаванні чи при перетині курсів дають дорогу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Пройти наиболее быстро участок не нарушая скоростного режима</section>
         <section class="description">
         </section>
     </section>
@@ -4607,8 +4594,7 @@
         <section class="text">
             Як повинні поступити судна, які мають радіотелефонний зв'язок, при розходженні або обгоні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Выйти на радиосвязь и договориться про борт расхождения</section>
         <section class="description">
         </section>
     </section>
@@ -4616,8 +4602,7 @@
         <section class="text">
             У яких випадках швидкісні судна можуть рухатися у неводотоннажному положенні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У світлий час доби</section>
         <section class="description">
         </section>
     </section>
@@ -4648,8 +4633,8 @@
         <section class="text">
             Які дії повинні виконати судна, що йдуть вверх при зустрічному плаванні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Первыми подать звуковой сигнал определющий борт расхождения.
+        В узкостях дать преимощество судну, что идет вниз</section>
         <section class="description">
         </section>
     </section>
@@ -4658,8 +4643,7 @@
             Чи подають сигнал про розходження, судна,
             що йдуть вверх пропускаючи з лівого борту судна, що йдуть вниз?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Да, первым</section>
         <section class="description">
         </section>
     </section>
@@ -4668,8 +4652,7 @@
             Чи повинні судна на підводних крилах і судна на повітряній подушці
             вимагати щоб всі інші судна давали їм дорогу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Нет</section>
         <section class="description">
         </section>
     </section>
@@ -4677,8 +4660,7 @@
         <section class="text">
             Що таке обгін?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Приближение обгоняющего судна к обгоняемому под углом 22,5* от траверзы назад</section>
         <section class="description">
         </section>
     </section>
@@ -4686,8 +4668,7 @@
         <section class="text">
             При яких умовах дозволяється обгін суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Якщо немає небезпеки зіткнення</section>
         <section class="description">
         </section>
     </section>
@@ -4695,8 +4676,7 @@
         <section class="text">
             Як повинно діяти судно, яке обганяють?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Рухатися не змінюючи курсу і не прискорюватись</section>
         <section class="description">
         </section>
     </section>
@@ -4704,9 +4684,9 @@
         <section class="text">
             З якого борту, маломірне судно, що обганяє, повинне обходити інше ММС?
         </section>
-        <section class="answer" data-correct="data-correct">По лівому борту судна, що обганяється</section>
+        <section class="answer" data-correct="data-correct">По любому борту</section>
+        <section class="answer">По лівому борту судна, що обганяється</section>
         <section class="answer">По правому борту судна, що обганяється</section>
-        <section class="answer">По любому борту</section>
         <section class="answer">Обгін забороняється</section>
         <section class="description">
         </section>
@@ -4736,8 +4716,7 @@
         <section class="text">
             Що повинно зробити ММС, якщо при здійсненні обгону воно створює високу хвилю?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уменьшить скорость, что бы убрать волну</section>
         <section class="description">
         </section>
     </section>
@@ -4745,8 +4724,7 @@
         <section class="text">
             Чи повинні зменшувати швидкість судна іншої категорії, коли їх обганяє ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не должны</section>
         <section class="description">
         </section>
     </section>
@@ -4795,8 +4773,7 @@
             один з одним на акваторії, яка не має судноплавної обстановки?<br/>
             <img src="/quiz/img/4.34.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Разойтись левым бортом</section>
         <section class="description">
         </section>
     </section>
@@ -4850,8 +4827,7 @@
         <section class="text">
             За скільки метрів можна починати обгін?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">За 500 метров</section>
         <section class="description">
         </section>
     </section>
@@ -4865,6 +4841,7 @@
         <section class="answer">Збільшити хід і йти врозріз хвилі</section>
         <section class="answer">Йти по хвилі на повному ходу</section>
         <section class="description">
+            Увелисть скорость, носом против волны (+/-20 град) до ближайшего укрытия
         </section>
     </section>
     <section class="question not-ready" number="4.40">
@@ -4872,8 +4849,8 @@
             Який порядок розходження маломірних суден що відійшли
             від різних берегів назустріч один одному при небезпечному зближенні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Отклониться от точки контакта,
+        уменьшить скорость вплоть до полной остановки. Подать серию коротких звуков 7</section>
         <section class="description">
         </section>
     </section>
@@ -4881,8 +4858,7 @@
         <section class="text">
             В якому випадку краще керувати судном, якщо воно рухається?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Чем выше скорость тем лучше управляемость</section>
         <section class="description">
         </section>
     </section>
@@ -4890,44 +4866,43 @@
         <section class="text">
             Дія вітру на судно залежить від?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Высоты надводного борта</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.43">
+    <section class="question" number="4.43">
         <section class="text">
             Борт судна, звернений до вітру?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Наветренный</section>
+        <section class="answer">Подветренный</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.44">
+    <section class="question" number="4.44">
         <section class="text">
             Борт судна, протилежний вітру?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подветренный</section>
+        <section class="answer">Наветренный</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.45">
+    <section class="question" number="4.45">
         <section class="text">
             Вітер, за напрямом корми судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Попутный</section>
+        <section class="answer">Встречный</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.46">
+    <section class="question" number="4.46">
         <section class="text">
             Вітер, за напрямом носу судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Встречный</section>
+        <section class="answer">Попутный</section>
         <section class="description">
         </section>
     </section>
@@ -4939,6 +4914,7 @@
         <section class="answer">Курсі бейдевінд</section>
         <section class="answer">Курсі галфвінд</section>
         <section class="description">
+            <p>При меньшей высоте борта при ветре. При меньшей осадке судна при наличии течения.</p>
             <a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%81_%D0%B2%D1%96%D0%B4%D0%BD%D0%BE%D1%81%D0%BD%D0%BE_%D0%B2%D1%96%D1%82%D1%80%D1%83" target="_blank">
             Курс відносно вітру (вікі)</a>
         </section>
@@ -4947,8 +4923,7 @@
         <section class="text">
             Підхід судна, яке йде за течією, до причалу чи берега здійснюється?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">После разворота (стать против течения)</section>
         <section class="description">
         </section>
     </section>
@@ -4956,8 +4931,7 @@
         <section class="text">
             Найбільший знос судно зазнає?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Совпадат направление ветра и течения</section>
         <section class="description">
         </section>
     </section>
@@ -4965,8 +4939,7 @@
         <section class="text">
             Під час руху судна на мілководді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уменьшить скорость и следить за глубиной</section>
         <section class="description">
         </section>
     </section>
@@ -4974,8 +4947,7 @@
         <section class="text">
             Під час руху судна на мілководді потрібно?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уменьшить скорость и следить за глубиной</section>
         <section class="description">
         </section>
     </section>
@@ -4983,7 +4955,8 @@
         <section class="text">
             Виводити катер із суводі потрібно?
         </section>
-        <section class="answer" data-correct="data-correct">Ведучи судно по зовнішньому краю суводі і, збільшуючи хід виходити до стрижня</section>
+        <section class="answer" data-correct="data-correct">Ведучи судно по зовнішньому краю суводі і,
+        збільшуючи хід виходити до стрижня</section>
         <section class="answer">Збільшити хід і пройти через центр суводі</section>
         <section class="answer">Зменшити хід і різко виходити до стрижня</section>
         <section class="answer">Вести судно по зовнішньому краю суводі і, зменшуючи хід виходити до стрижня</section>
@@ -4998,8 +4971,7 @@
         <section class="text">
             Дії судноводія для безпечного переходу через перекат?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уменьшение скорости и слежение за глубиной</section>
         <section class="description">
         </section>
     </section>
@@ -5009,10 +4981,9 @@
             в навітряну сторону відразу після падіння людини за борт,
             щоб здійснити підхід до неї з поверненням на зворотній курс?
         </section>
-        <section class="answer" data-correct="data-correct">На 10°</section>
-        <section class="answer">На 5°</section>
-        <section class="answer">На 20°</section>
-        <section class="answer">На 30°</section>
+        <section class="answer" data-correct="data-correct">На 10° / 20°</section>
+        <section class="answer">На 5° / 10°</section>
+        <section class="answer">На 25° / 30°</section>
         <section class="description">
         </section>
     </section>
