@@ -1,6 +1,6 @@
 const
-    staticCacheName = "static-cache-v3",
-    dynamicCacheName = "dynamic-cache-v3",
+    staticCacheName = "static-cache-v4",
+    dynamicCacheName = "dynamic-cache-v4",
     staticAssets = [
         "index.html",
         "/list/",
@@ -8,7 +8,11 @@ const
         "/quiz/img/*",
         "/css/style.css",
         "/assets/main.css",
-        "/js/*",
+        "/js/app.js",
+        "/js/bootstrap.min.js",
+        "/js/jquery-1.11.2.js",
+        "/js/jsQuizEngine.js",
+        "/js/knockout-2.2.1.js"
     ];
 
 async function checkCache(e) {
