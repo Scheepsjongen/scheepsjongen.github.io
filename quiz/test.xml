@@ -3308,8 +3308,7 @@
         <section class="text">
             Яке основне призначення кардинальних знаків системи МАМС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Позначення небезпек значних розмірів</section>
         <section class="description">
         </section>
     </section>
@@ -3317,8 +3316,8 @@
         <section class="text">
             Для чого використовуються в системі МАМС латеральні знаки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Позначення сторін проходу або
+        позначення виходу на основний судновий хід</section>
         <section class="description">
         </section>
     </section>
@@ -3326,8 +3325,7 @@
         <section class="text">
             Для чого використовуються в системі МАМС знаки спеціального призначення?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для позначення небезпек невеликих розмірів</section>
         <section class="description">
         </section>
     </section>
@@ -3335,8 +3333,8 @@
         <section class="text">
             Для чого використовуються осьові знаки системи МАМС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для позначення
+        осі поділу суднового ходу при широкому форватаре</section>
         <section class="description">
         </section>
     </section>
@@ -3344,7 +3342,7 @@
         <section class="text">
             Для виміру яких відстаней на морі, застосовується морська миля?
         </section>
-        <section class="answer" data-correct="data-correct">Відстаней</section>
+        <section class="answer" data-correct="data-correct">Для вимірювання довжини</section>
         <section class="description">
         </section>
     </section>
@@ -3352,8 +3350,7 @@
         <section class="text">
             У яких одиницях проводяться виміри відстаней при плаванні на озерах і річках?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У кілометрах</section>
         <section class="description">
         </section>
     </section>
@@ -3361,8 +3358,8 @@
         <section class="text">
             З яких основних засобів можна отримати навігаційну інформацію?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Навігаційні карти (паперові або електронні),
+        повідомлення по рації</section>
         <section class="description">
         </section>
     </section>
@@ -3370,7 +3367,7 @@
         <section class="text">
             Одиницею виміру яких відстаней на морі є - кабельтов?
         </section>
-        <section class="answer" data-correct="data-correct">Відстаней</section>
+        <section class="answer" data-correct="data-correct">Довжини</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p class="mb-0">
@@ -3388,8 +3385,7 @@
         <section class="text">
             Якими показниками характеризується судновий хід?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Протяжністю в кілометрах</section>
         <section class="description">
         </section>
     </section>
@@ -3397,8 +3393,7 @@
         <section class="text">
             Як називається, короткий крутий вигин русла річки у межах долини?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Излучина или лука</section>
         <section class="description">
         </section>
     </section>
@@ -3406,8 +3401,7 @@
         <section class="text">
             Де використовується річкова навігаційна карта при плаванні суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для определения положения судна на воде</section>
         <section class="description">
         </section>
     </section>
@@ -3416,8 +3410,7 @@
             Яким головним чином обумовлений гідрологічний, вітровий, хвильовий
             режим річок та водосховищ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Кліматичними умовами і порою року</section>
         <section class="description">
         </section>
     </section>
@@ -3425,8 +3418,7 @@
         <section class="text">
             У яких місцях створюється морський стиковий бар?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У місцях злиття морської та річкової течії</section>
         <section class="description">
         </section>
     </section>
@@ -3435,8 +3427,7 @@
             Як називається понижена частина річкової долини,
             по якій тече вода при самих низьких рівнях?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Русло</section>
         <section class="description">
         </section>
     </section>
@@ -3444,8 +3435,7 @@
         <section class="text">
             Як називається гострий кут берега у місці злиття двох річок?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Стрілка</section>
         <section class="description">
         </section>
     </section>
@@ -3504,8 +3494,7 @@
             Як називається щорічно повторюваний підйом рівня води
             у зв'язку з сезонною зміною клімату і викликаний таненням снігу в басейні річки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Повінь</section>
         <section class="description">
         </section>
     </section>
@@ -3527,8 +3516,7 @@
             Як називається знижена частина земної поверхні,
             розташована по обидві сторони річки на всьому її протязі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Долина</section>
         <section class="description">
         </section>
     </section>
@@ -3536,8 +3524,7 @@
         <section class="text">
             Як називається частина річкової долини, затоплювана паводковими водами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Заплава</section>
         <section class="description">
         </section>
     </section>
@@ -3574,8 +3561,7 @@
             утворюються при злитті потоків води з різними швидкостями течії,
             за опорами мостів, а також при обтіканні підводних перешкод, трохи нижче їх?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Майдан</section>
         <section class="description">
         </section>
     </section>
@@ -3607,8 +3593,7 @@
         <section class="text">
             Штучні перешкоди в руслі річок це?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Дамби, шлюзи, греблі, "загаття"</section>
         <section class="description">
         </section>
     </section>
@@ -3616,8 +3601,7 @@
         <section class="text">
             Що означає термін "Сувідь"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Вир (водоворот)</section>
         <section class="description">
         </section>
     </section>
@@ -3625,8 +3609,7 @@
         <section class="text">
             Які річки називають "класичними"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Річки які протікають по рівних ділянках земної кулі</section>
         <section class="description">
         </section>
     </section>
@@ -3634,8 +3617,7 @@
         <section class="text">
             Природні перешкоди в руслі річок?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Мілини, коси, перекати</section>
         <section class="description">
         </section>
     </section>
@@ -3761,7 +3743,7 @@
         <section class="text">
             Що таке межень?
         </section>
-        <section class="answer" data-correct="data-correct">Низький рівень води в річці</section>
+        <section class="answer" data-correct="data-correct">Найнижчий рівень води в сезоні</section>
         <section class="answer">Межа, вище якої при нормальних кліматичних умовах не підіймається рівень води</section>
         <section class="answer">Загромадження земляними валами території для захисту від затоплення водами прилеглих водойм</section>
         <section class="description">
