@@ -5010,13 +5010,13 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.1">
+    <section class="question" number="5.1">
         <section class="text">
             Чи дозволяється ММС заходити в акваторії портів,
             суднобудівних заводів, терміналів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Запрещено</section>
+        <section class="answer">Разрешено</section>
         <section class="description">
         </section>
     </section>
@@ -5025,8 +5025,7 @@
             На якій відстані дозволяється рухатись ММС від причалів портів,
             суднобудівних заводів, терміналів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не ближе 200 м</section>
         <section class="description">
         </section>
     </section>
@@ -5035,8 +5034,7 @@
             У який час доби дозволяється заходити в акваторію пасажирської
             та вантажної дільниці річкового порту?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Маломерным запрещено, полоразмерным в любое время суток</section>
         <section class="description">
         </section>
     </section>
@@ -5045,8 +5043,7 @@
             Чи дозволяється ММС ставати на якір у межах якірної стоянки
             для транспортних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Запрещено</section>
         <section class="description">
         </section>
     </section>
@@ -5055,8 +5052,7 @@
             Чи можна ММС швартуватись до транспортних суден,
             що стоять на рейдах портів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Запрещено</section>
         <section class="description">
         </section>
     </section>
@@ -5064,8 +5060,7 @@
         <section class="text">
             Які існують варіанти підходу суден до причалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Бортом или кормой</section>
         <section class="description">
         </section>
     </section>
@@ -5073,8 +5068,7 @@
         <section class="text">
             Як називається підхід маломірного судна до причалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Швартовка</section>
         <section class="description">
         </section>
     </section>
@@ -5082,8 +5076,7 @@
         <section class="text">
             Які дії потрібно виконати по підготовці судна до швартування?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Швартовые концы, кранцы, шпиль/брашпиль Переконатися в ісправності швартового обладнення</section>
         <section class="description">
         </section>
     </section>
@@ -5091,8 +5084,7 @@
         <section class="text">
             Що потрібно враховувати при швартуванні судна до причалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Ветер, течение и инерционные характеристики судна</section>
         <section class="description">
         </section>
     </section>
@@ -5100,8 +5092,7 @@
         <section class="text">
             Які з дій судна вважаються правильними при швартуванні до причалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно учло ветер, течение и инерционные характеристики судна</section>
         <section class="description">
         </section>
     </section>
@@ -5109,8 +5100,7 @@
         <section class="text">
             У яких випадках дозволяється швартуватися до борту іншого судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">При условии безопастности и необходимости</section>
         <section class="description">
         </section>
     </section>
@@ -5118,8 +5108,7 @@
         <section class="text">
             У яких випадках рекомендується швартуватися з віддачою якоря?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Когда сильный навальный ветер на причал</section>
         <section class="description">
         </section>
     </section>
@@ -5127,8 +5116,7 @@
         <section class="text">
             На що потрібно приділяти особливу увагу при стоянці судна біля причалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На волнение</section>
         <section class="description">
         </section>
     </section>
@@ -5136,8 +5124,7 @@
         <section class="text">
             Які існують варіанти відходу маломірних суден від місця швартування?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Носом, бортом, кормой в зависимости от внешнийх условий и тех.характеристик судна</section>
         <section class="description">
         </section>
     </section>
@@ -5145,8 +5132,9 @@
         <section class="text">
             Які повинні бути умови до вибору місця якірної стоянки судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не кидать в зоне действия знака "якарь не кидать" (+/- 200м).
+        Не кидать в 200 метровой зоне по обе стороны от мостов, не на суд.ходе (-25 м от кромки).
+        Учесть грунт. Безопастное</section>
         <section class="description">
         </section>
     </section>
@@ -5154,8 +5142,8 @@
         <section class="text">
             У яких місцях ММС забороняється ставати на якір?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не кидать в зоне действия знака "якарь не кидать" (+/- 200м).
+        Не кидать в 200 метровой зоне по обе стороны от мостов, не на суд.ходе (-25 м от кромки).</section>
         <section class="description">
         </section>
     </section>
@@ -5163,8 +5151,8 @@
         <section class="text">
             Що включає підготовку маломірного судна до постановки на якір?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подготовка якорного устройства и выбор места.
+        Выполнение маневра при подходе к якорной стоянке</section>
         <section class="description">
         </section>
     </section>
@@ -5172,8 +5160,8 @@
         <section class="text">
             Яка процедура постановки судна на якір?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подготовка якорного устройства и выбор места.
+        Выполнение маневра при подходе к якорной стоянке</section>
         <section class="description">
         </section>
     </section>
@@ -5182,8 +5170,7 @@
             В чому полягають дії судноводія при забезпеченні
             безпеки стоянки судна на якорі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Пстоянное наблюдение за внешней обстановкой, Вахта</section>
         <section class="description">
         </section>
     </section>
@@ -5191,8 +5178,8 @@
         <section class="text">
             При яких умовах судно добре утримується на якорі при стоянці?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не менее 3-х глубин якорной цепи или троса.
+        В плохих условиях сколько есть (до 10 глубин)</section>
         <section class="description">
         </section>
     </section>
@@ -5200,8 +5187,7 @@
         <section class="text">
             У який час, ММС можуть проходити шлюзи?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В светлое время суток</section>
         <section class="description">
         </section>
     </section>
@@ -5210,8 +5196,7 @@
             У який термін, судноводії суден, що йдуть на шлюзування,
             повинні повідомити про час підходу до меж шлюзу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не менее чем за 1 час</section>
         <section class="description">
         </section>
     </section>
@@ -5219,8 +5204,7 @@
         <section class="text">
             Хто керує процесом шлюзування суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Диспечер / Опреатор</section>
         <section class="description">
         </section>
     </section>
@@ -5228,8 +5212,7 @@
         <section class="text">
             Що являється дозвільним сигналом заходу суден до шлюзу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зеленый светофор</section>
         <section class="description">
         </section>
     </section>
@@ -5237,8 +5220,7 @@
         <section class="text">
             Що являється дозвільним сигналом заходу суден до причальних пірсів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Зеленый светофор</section>
         <section class="description">
         </section>
     </section>
@@ -5247,8 +5229,7 @@
             У яких нормативних актах встановлюються
             особливі правила плавання через шлюзи окремого гідровузла?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Наказы Укр.вод.шлях</section>
         <section class="description">
         </section>
     </section>
@@ -5257,8 +5238,7 @@
             Чи допускається при плаванні по підхідному каналу
             взаємний обгін суден усіх видів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не допускаются</section>
         <section class="description">
         </section>
     </section>
@@ -5266,8 +5246,7 @@
         <section class="text">
             З якою швидкістю дозволяється входити до шлюзу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не более 5 км/ч</section>
         <section class="description">
         </section>
     </section>
@@ -5276,8 +5255,7 @@
             Де дозволяється швартування суден у підхідному каналі
             при очікуванні шлюзування?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Возле причальных пирсов если есть разрешающий сигнал светофора</section>
         <section class="description">
         </section>
     </section>
@@ -5285,8 +5263,8 @@
         <section class="text">
             У яких випадках припиняється тимчасове шлюзування малих суден через шлюзи?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Нет доков, нет оплаты, неисправное судно, опьянение,
+        пассажиров больше чем доступно и т.д.</section>
         <section class="description">
         </section>
     </section>
@@ -5294,8 +5272,8 @@
         <section class="text">
             Який порядок шлюзування маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В светлое время суток, при наличии оплаты,
+        выход на связь с диспечером более чем за 1 час, входить на зеленый, в спас жилетах</section>
         <section class="description">
         </section>
     </section>
@@ -5304,8 +5282,8 @@
             Які знаки, крім світлофорів,
             виставляються на стінках камер шлюзів та причальних пірсів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Знак "Стоп"
+        определяющий границы, за которые корпус не должен выходить</section>
         <section class="description">
         </section>
     </section>
@@ -5314,8 +5292,7 @@
             Чи дозволяється швартування малих суден
             в камері судноплавного шлюзу під бортом інших суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не разрешено</section>
         <section class="description">
         </section>
     </section>
@@ -5324,8 +5301,7 @@
             Якою кількістю швартовних тросів
             повинне бути укомплектоване судно довжиною більше 6 м?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Не менее 2</section>
         <section class="description">
         </section>
     </section>
@@ -5333,8 +5309,7 @@
         <section class="text">
             Як регулюється рух суден при шлюзуванні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Светофором, радиосвязь</section>
         <section class="description">
         </section>
     </section>
@@ -5343,8 +5318,7 @@
             Яким чином повинні розходитися маломірні судна,
             коли одне з них відходить від берега, а інше йде вздовж берега?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Отходящий уступает</section>
         <section class="description">
         </section>
     </section>
@@ -5353,8 +5327,7 @@
             При яких умовах здійснюється
             захід маломірних суден в аванпорт та в підхідний канал шлюзу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">При условии безопастности и с разрешения диспечера</section>
         <section class="description">
         </section>
     </section>
@@ -5364,8 +5337,8 @@
             що має один гвинт правого обертання на передньому ходу,
             щоб втримати судно на заданому ходу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Переложить руль на противоположный борт заносу.
+        На правый борт</section>
         <section class="description">
         </section>
     </section>
