@@ -6416,6 +6416,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Штормтрап, линеметальний пристрій, Коспас-Сарсат, радіобуй, радіостанція</section>
         <section class="description">
+            <p>Кранбалки, лебедки, спуск средства, страх. Сетки, шторм трапы.</p>
             <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%B0%D1%81-%D0%A1%D0%B0%D1%80%D1%81%D0%B0%D1%82" target="_blank">
             Коспас-Сарсат (вікі)</a> - міжнародна супутникова пошуково-рятувальна система,
             розроблена задля сповіщення про аварії й місцеположення персональних радіобуїв та радіобуїв,
@@ -6426,8 +6427,7 @@
         <section class="text">
             Які норми забезпечення прогулянкових МС індивідуальними засобами рятування?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Согласно регистра</section>
         <section class="description">
         </section>
     </section>
@@ -6453,8 +6453,8 @@
         <section class="text">
             Якими приладами та способами проводиться спуск та підйом рятувальних шлюпок?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Спусковые лебедки и кранбалки</section>
+        <section class="answer">Спусковой линь, гидростат</section>
         <section class="description">
         </section>
     </section>
@@ -6462,8 +6462,8 @@
         <section class="text">
             Якими способами та приладами спускаються на воду рятувальні плоти?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Спусковой линь, гидростат</section>
+        <section class="answer">Спусковые лебедки и кранбалки</section>
         <section class="description">
         </section>
     </section>
@@ -6472,8 +6472,7 @@
             Відповідно якого нормативного акту повинно відбуватися
             покрашення і маркування рятувальних засобів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Конвенция СОЛОС, инструкция борьбы за живучесть судна</section>
         <section class="description">
         </section>
     </section>
@@ -6481,8 +6480,7 @@
         <section class="text">
             Де повинні зберігатися на судні рятувальні жилети?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В спец местах с легким доступом</section>
         <section class="description">
         </section>
     </section>
@@ -6490,8 +6488,7 @@
         <section class="text">
             Яке основне призначення сигнального світлового буя (для рятувального кола)?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Обозначение в темное время суток</section>
         <section class="description">
         </section>
     </section>
@@ -6500,8 +6497,8 @@
             Який порядок використання рятувальних засобів
             на безпалубному маломірному (малому) судні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">При отсутствии опастности - в спец легкодоступных местах.
+        При опастности - надеть. Ребенок всегда в желете</section>
         <section class="description">
         </section>
     </section>
@@ -6510,8 +6507,7 @@
             Які дії треба виконати обов’язково перед
             спуском рятувальної шлюпки забезпечуючи її водонепроникність?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Закрутить пробку / кингстон</section>
         <section class="description">
         </section>
     </section>
@@ -6519,8 +6515,7 @@
         <section class="text">
             Що необхідно зробити при підготовці рятувального плоту до спуску?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Закрепить линь, проверить наличие гидростата</section>
         <section class="description">
         </section>
     </section>
@@ -6528,8 +6523,8 @@
         <section class="text">
             Якими способами виконується посадка людей у рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Сначала люди содятся в лодку, а потом их спускают,
+        либо сначала спускают лодку, а потом люди содятся</section>
         <section class="description">
         </section>
     </section>
@@ -6574,8 +6569,7 @@
         <section class="text">
             Чим обов’язково повинен забезпечуватися рятувальний жилет?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Светлоотражатели, фанарик, свисток</section>
         <section class="description">
         </section>
     </section>
@@ -6583,10 +6577,10 @@
         <section class="text">
             Якої довжини повинен бути рятувальний кінець що закріплений до рятувального кола?
         </section>
-        <section class="answer" data-correct="data-correct">15-30 м</section>
-        <section class="answer">10-20 м</section>
+        <section class="answer" data-correct="data-correct">27,5 м</section>
+        <section class="answer">15-25 м</section>
         <section class="answer">5-15 м</section>
-        <section class="answer">25-50 м</section>
+        <section class="answer">30-40 м</section>
         <section class="description">
         </section>
     </section>
@@ -6618,8 +6612,7 @@
         <section class="text">
             Якими повинні бути першими дії потерпілим, що опинилися у воді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Скинуть спас круг</section>
         <section class="description">
         </section>
     </section>
@@ -6627,8 +6620,7 @@
         <section class="text">
             Яке маркування повинно наноситися на рятувальні кола ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Название/номер судна регистрации + дата и термин проверки спас круга</section>
         <section class="description">
         </section>
     </section>
@@ -6636,8 +6628,7 @@
         <section class="text">
             Як повинно маневрувати ММС, рятуючи утопаючого?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подходить против течения, с наветренной стороны</section>
         <section class="description">
         </section>
     </section>
@@ -6645,8 +6636,7 @@
         <section class="text">
             Як належить виконувати підйом потерпілих з води в МС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Как можно ближе к носовой части</section>
         <section class="description">
         </section>
     </section>
@@ -6654,8 +6644,7 @@
         <section class="text">
             Якого кольору повинні бути рятувальні засоби?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Ораньжевые/поморанч</section>
         <section class="description">
         </section>
     </section>
@@ -6663,8 +6652,7 @@
         <section class="text">
             Яка кількість рятувальних засобів має бути на маломірному судні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Согласно суд реестра судновластва Укр</section>
         <section class="description">
         </section>
     </section>
@@ -6673,8 +6661,7 @@
             Які дії повинно виконати ММС у випадку падіння людини за борт
             і виконання маневру "Простий поворот" з цієї події?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подходить против течения, с наветренной стороны</section>
         <section class="description">
         </section>
     </section>
@@ -6682,19 +6669,20 @@
         <section class="text">
             В якій кількості місць, використовуються надувні рятувальні плоти?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">200% от макс количества по обоим бортам</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.31">
+    <section class="question" number="8.31">
         <section class="text">
             Яка кількість рятувальних кругів повинна бути передбачена на прогулянкових суднах,
             суднах для перевезення організованих груп людей,
             а також на самохідних поромах габаритною довжиною L ≤ 24 м?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">8 шт</section>
+        <section class="answer">6 шт</section>
+        <section class="answer">12 шт</section>
+        <section class="answer">24 шт</section>
         <section class="description">
         </section>
     </section>
@@ -6703,8 +6691,8 @@
             Порядок використання рятувальних засобів
             на безпалубному маломірному (малому) судні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">При отсутствии опастности - в спец легкодоступных местах.
+        При опастности - надеть. Ребенок всегда в желете</section>
         <section class="description">
         </section>
     </section>
@@ -6713,8 +6701,7 @@
             Малі судна, що експлуатуються на внутрішніх водних шляхах (не морських)
             у водосховищах зон 2 і 3, забезпечуються піротехнічними засобами наступним чином:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Согласно суд реестра судновластва Укр</section>
         <section class="description">
         </section>
     </section>
@@ -6722,8 +6709,7 @@
         <section class="text">
             Аварійний радіобуй супутникової системи зв'язку КОСПАС / САРСАТ?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Буй, который передает сигнал беды: код, позывный, название, GPS и т.д. и номер ситуации</section>
         <section class="description">
             <a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%B0%D1%81-%D0%A1%D0%B0%D1%80%D1%81%D0%B0%D1%82" target="_blank">
             Коспас-Сарсат (вікі)</a> - міжнародна супутникова пошуково-рятувальна система,
@@ -6737,8 +6723,7 @@
             без виходу у (поза межами) водосховища,
             забезпечуються піротехнічними засобами наступним чином:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Нет необходимости</section>
         <section class="description">
         </section>
     </section>
@@ -6759,8 +6744,7 @@
         <section class="text">
             Що необхідно зробити для звільнення дихальних шляхів потерпілого?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Приподнять голову, открыть рот, убрать все что есть включая язык</section>
         <section class="description">
         </section>
     </section>
@@ -6768,8 +6752,7 @@
         <section class="text">
             На який максимальний термін може бути накладений кровоспинний джгут?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">30 мин</section>
         <section class="description">
         </section>
     </section>
@@ -6777,8 +6760,7 @@
         <section class="text">
             Постраждалий знаходиться без свідомості. Дихання, пульс відсутні. Ваші дії?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Неотложная помощь: искуственное дыхание и масаж сердца</section>
         <section class="description">
         </section>
     </section>
@@ -6787,8 +6769,7 @@
             Де мають знаходитись індивідуальні рятувальні засоби
             під час руху маломірного судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В штатных легкодоступных местах</section>
         <section class="description">
         </section>
     </section>
@@ -6796,8 +6777,7 @@
         <section class="text">
             Яку кількість людей може підтримувати на воді рятувальний круг?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">1-2 людини</section>
         <section class="description">
         </section>
     </section>
@@ -6860,6 +6840,7 @@
         <section class="answer" data-correct="data-correct">Зупинити двигун, підходити на веслах</section>
         <section class="answer">Зробити додаткове коло</section>
         <section class="description">
+            Повторить маневр
         </section>
     </section>
     <section class="question" number="8.47">
@@ -6871,6 +6852,7 @@
         <section class="answer">З корми</section>
         <section class="answer">З борта</section>
         <section class="description">
+            <p>Бллиже к носу</p>
             <blockquote class="blockquote">
                 <p>7) рятування з використанням човна:</p>
                 <p>якщо є човен, підпливіть до потопаючого, затягніть його на борт через корму,
