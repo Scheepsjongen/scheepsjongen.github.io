@@ -7501,8 +7501,7 @@
             Який порядок виклику при аварійній події,
             берегові аварійні служби у разі необхідності?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Телефон 101, при наличии радиостанции 16 канал мор. станции и 5 канал речной</section>
         <section class="description">
         </section>
     </section>
@@ -7510,8 +7509,7 @@
         <section class="text">
             Що являється основними причинами аварійності маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Людской фактор: алкоголь, не несение вахты; неисправности ТС</section>
         <section class="description">
         </section>
     </section>
@@ -7519,8 +7517,8 @@
         <section class="text">
             Одним із видів аварійних подій є:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Человек за бортом, пажар, потеря управляемости, пробоина,
+        посадка на мель, потеря маневренности</section>
         <section class="description">
         </section>
     </section>
@@ -7529,8 +7527,8 @@
             Перевертання маломірних суден з падінням людей за борт.
             В чому полягають обов’язки судноводіїв по запобіганню цих подій?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Следить за посадкой: человек становится на дно судна,
+        а не на борт, размещение что бы не было крена и дифирента, запрещено передвигаться во время движения</section>
         <section class="description">
         </section>
     </section>
@@ -7538,8 +7536,7 @@
         <section class="text">
             Як повинен діяти судноводій ММС під час навала або зіткнення суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Убедиться, что нет пробоины; оказать помощь пострадавшим</section>
         <section class="description">
         </section>
     </section>
@@ -7548,8 +7545,7 @@
             У якому порядку, важливо, правильно розставити пріоритети
             з надання допомоги людям і судну в аварійної ситуації?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Сначала люди, потом судно, потом груз</section>
         <section class="description">
         </section>
     </section>
@@ -7557,8 +7553,7 @@
         <section class="text">
             В чому полягають основні обов’язки судноводія МС стосовно безпеки судноплавства?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Исполнение правил плаванья</section>
         <section class="description">
         </section>
     </section>
@@ -7567,8 +7562,7 @@
             Як підходити до аварійного судна,
             яке знаходиться в дрейфі в притопленому стані, для надання допомоги людям?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">С наветренной стороны или сверху относительно течения</section>
         <section class="description">
         </section>
     </section>
@@ -7577,8 +7571,7 @@
             Як підходити до аварійного судна,
             що має великий крен для надання допомоги людям?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Со стороны куда крен</section>
         <section class="description">
         </section>
     </section>
@@ -7587,8 +7580,7 @@
             Як підходити до аварійного судна,
             що має великий диферент (на ніс, корму) для надання допомоги людям?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Со стороны куда деферент</section>
         <section class="description">
         </section>
     </section>
@@ -7597,8 +7589,8 @@
             Які дії, виконуються при надані допомоги аварійному судну,
             під час сильного вітру і хвилюванні, якщо воно втратило хід і керованість?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Взять на буксир и отбуксировать до берега или мели,
+        что бы оно не затонуло</section>
         <section class="description">
         </section>
     </section>
@@ -7607,8 +7599,7 @@
             Як надати допомогу людям на маломірному судну,
             якщо воно знаходиться у положенні "уверх кілем"?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подойте с наветренной стороны и отбуксировать на мель или берег</section>
         <section class="description">
         </section>
     </section>
@@ -7616,8 +7607,7 @@
         <section class="text">
             Як підходити до перекинутого парусного судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">С носа или кормы</section>
         <section class="description">
         </section>
     </section>
@@ -7625,8 +7615,7 @@
         <section class="text">
             Як підходити до судна, що на мілині?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Со стороны глубокой воды</section>
         <section class="description">
         </section>
     </section>
@@ -7634,8 +7623,7 @@
         <section class="text">
             Як потрібно діяти при рятуванні людей коли на аварійному судні пожежа?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подходить с наветренной стороны</section>
         <section class="description">
         </section>
     </section>
@@ -7643,8 +7631,7 @@
         <section class="text">
             Кому з людей, що зазнали лиха, при рятуванні, потрібно надавати допомогу у першу чергу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">У кого нет пульса/клиничная смерть</section>
         <section class="description">
         </section>
     </section>
@@ -7652,8 +7639,7 @@
         <section class="text">
             Яким чином виконується підхід на маломірному судні до людини, що тоне на течії?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Против течения</section>
         <section class="description">
         </section>
     </section>
@@ -7661,8 +7647,8 @@
         <section class="text">
             Якими способами можна зняти судно, що опинилося на мілині?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Мотором, + якорь, + откренивание + перегрузка груза
+        + другое судно или буксир + дождаться прилива</section>
         <section class="description">
         </section>
     </section>
@@ -7671,8 +7657,7 @@
             Чи можливо зняти з мілини маломірне судно до 6 метрів,
             якщо воно залишилося на мілині під час відливу і зняти його надзвичайно важко?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Невозможно</section>
         <section class="description">
         </section>
     </section>
@@ -7680,8 +7665,7 @@
         <section class="text">
             Що повинен виконати судноводій маломірного судна при плаванні у сильний шторм?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/-20*), высокие обороты, в ближайшее укрытие</section>
         <section class="description">
         </section>
     </section>
@@ -7724,8 +7708,7 @@
         <section class="text">
             Які причини можуть сприяти течі води до корпусу маломірного судна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Пробойна, трищена, попадание воды через борт</section>
         <section class="description">
         </section>
     </section>
@@ -7734,8 +7717,7 @@
             За допомогою яких засобів ліквідуються течі води,
             що стались від тріщин, швів, що розійшлися, невеликих пробоїни у корпусі ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Аварийный пластырь</section>
         <section class="description">
         </section>
     </section>
@@ -7743,8 +7725,8 @@
         <section class="text">
             Що включає до себе порядок дії судноводія під час аварійної ситуації?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Оценить степень аварийной ситуации и
+        по возможности избежать ее или минимизировать повреждения; шуровать на мель или берег</section>
         <section class="description">
         </section>
     </section>
@@ -7752,8 +7734,7 @@
         <section class="text">
             Червоне світло ракети, пущеної з судна, вказує на той факт, що:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно в беде</section>
         <section class="description">
         </section>
     </section>
@@ -7761,8 +7742,8 @@
         <section class="text">
             Як потрібно діяти коли судно зазнало лиха на воді?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Подать сигнал беды: продолжытельные сигналы, что повторяются,
+        радиосигнал, флаг + шар, отмашка, перотехника</section>
         <section class="description">
         </section>
     </section>
@@ -7770,8 +7751,7 @@
         <section class="text">
             Від чого виникають основні несправності двигуна?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Несвоевременное ТО</section>
         <section class="description">
         </section>
     </section>
@@ -7779,8 +7759,8 @@
         <section class="text">
             Які причини перегріву двигуна на моторному судні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Отсутствие охлождение:
+        дырка в системе, радиаторе, не работает помпа</section>
         <section class="description">
         </section>
     </section>
@@ -7789,8 +7769,7 @@
             В чому полягають вимоги МППЗС-72 щодо дії судноводіїв,
             по запобіганню аварійним подіям під час плавання?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Несение вахты 360 + погода + глубина</section>
         <section class="description">
         </section>
     </section>
@@ -7799,8 +7778,7 @@
             Що повинні пам’ятати судноводії маломірних суден,
             застосовуючи МППЗС-72 відносно запобігання аварійним подіям?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Несение вахты 360 + погода + глубина</section>
         <section class="description">
         </section>
     </section>
@@ -7809,8 +7787,8 @@
             У разі виникнення аварійної події на судні,
             судноводій повинен негайно повідомити будь-яким доступним способом:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уведомить спас службы и другие суда поблизости:
+        продолжытельные сигналы, что повторяются, радиосигнал, флаг + шар, отмашка, перотехника</section>
         <section class="description">
         </section>
     </section>
@@ -7819,8 +7797,7 @@
             Червоне світло ракети з парашутом
             або фальшфеєр червоного кольору вказує на той факт, що:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судно в беде</section>
         <section class="description">
         </section>
     </section>
@@ -7829,8 +7806,7 @@
             При визначенні наявності небезпеки зіткнення необхідно,
             перш за все, враховувати наступне:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Курс и скорость судно, с которым возможно столкнуться</section>
         <section class="description">
         </section>
     </section>
@@ -7838,8 +7814,7 @@
         <section class="text">
             Дії для попередження зіткнення?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уменьшение скорости, изменение круса, серия коротких сигналов не менее 7</section>
         <section class="description">
         </section>
     </section>
@@ -7847,8 +7822,7 @@
         <section class="text">
             Надання допомоги судну, що зазнало лиха на воді
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Обязательно</section>
         <section class="description">
         </section>
     </section>
@@ -7857,8 +7831,8 @@
             Що повинні зробити водії маломірних суден
             які втратили хід та керування при зустрічному плаванні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Ночью: два красных или красный-белый-красный,
+        Днем: отмашка</section>
         <section class="description">
         </section>
     </section>
