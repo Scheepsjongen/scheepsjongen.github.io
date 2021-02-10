@@ -6904,9 +6904,9 @@
         <section class="text">
             Чи входить в зобов’язання судноводіїв надавати у розпорядження контролюючих органів своє судно?
         </section>
-        <section class="answer" data-correct="data-correct">Тільки для надання допомоги</section>
+        <section class="answer" data-correct="data-correct">Входить, для надання допомоги та для переслідування порушників</section>
         <section class="answer">Входить</section>
-        <section class="answer">Входить, для надання допомоги та для переслідування порушників</section>
+        <section class="answer">Тільки для надання допомоги</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>8.5. Судноводії маломірних суден зобов'язані:</p>
@@ -6927,6 +6927,7 @@
         <section class="answer" data-correct="data-correct">Забезпечувати безпеку плавання судна та пасажирів</section>
         <section class="answer">2</section>
         <section class="description">
+            Несение постоянной вахты 360 + погода + глубина
         </section>
     </section>
     <section class="question" number="9.4">
@@ -6957,6 +6958,7 @@
         <section class="answer" data-correct="data-correct">Не може</section>
         <section class="answer">Може, коли є невідкладні інші справи, а поруч є інші судна</section>
         <section class="description">
+            <p>Согласно конвенции СОЛОС</p>
             <blockquote class="blockquote">
                 <p>6.2. Судноводії маломірних (малих) суден зобов'язані:</p>
                 <p>- забезпечувати безпеку плавання судна та пасажирів;</p>
@@ -7009,6 +7011,7 @@
         <section class="answer">Не менше 50 м</section>
         <section class="answer">Не менше 100 м</section>
         <section class="description">
+            <p>Не ближе 50 метров до зоны отдыха людей</p>
             <blockquote class="blockquote">
                 <p>10.3. Підхід до берега водних мотоциклів, водних велосипедів, водних атракціонів
                 та інших плавзасобів, призначених для перевезення сидячих на них верхи пасажирів,
@@ -7047,6 +7050,7 @@
         <section class="answer">Не менше 150 м</section>
         <section class="answer">Не менше 200 м</section>
         <section class="description">
+            <p>Не меньше 50 метров</p>
             <blockquote class="blockquote">
                 <p>10.3. Підхід до берега водних мотоциклів, водних велосипедів, водних атракціонів
                 та інших плавзасобів, призначених для перевезення сидячих на них верхи пасажирів,
@@ -7124,6 +7128,7 @@
         <section class="answer">Не більше 25 м</section>
         <section class="answer">Не більше 50 м</section>
         <section class="description">
+            <p>Не меньше 25 метров один от другого</p>
             <blockquote class="blockquote">
                 <p>10.3. Підхід до берега водних мотоциклів, водних велосипедів, водних атракціонів
                 та інших плавзасобів, призначених для перевезення сидячих на них верхи пасажирів,
@@ -7156,8 +7161,8 @@
             З якою швидкістю дозволяється підходити та рухатися ММС
             у місцях масового відпочинку людей необладнаних буями?
         </section>
-        <section class="answer" data-correct="data-correct">Підхід заборонений</section>
-        <section class="answer">До 5 км/год</section>
+        <section class="answer" data-correct="data-correct">До 5 км/год</section>
+        <section class="answer">Підхід заборонений</section>
         <section class="answer">До 15 км/год</section>
         <section class="answer">До 30 км/год</section>
         <section class="description">
@@ -7238,6 +7243,7 @@
         <section class="answer">Слідувати на базу, обравши безпечну швидкість</section>
         <section class="answer">Продовжити рух, зважаючи на слабку видимість та обравши безпечну швидкість</section>
         <section class="description">
+            <p>Остановится, или если видно берег то быстро добраться до берега</p>
             <blockquote class="blockquote">
                 <p>10.4. Судноводіям маломірних суден забороняється:<br/>
                 ...<br/>
@@ -7255,8 +7261,7 @@
             Що повинен знати судноводій маломірного судна
             при перевезенні вибухо та вогненебезпечних вантажів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Запрещено перевозить на ММС такие грузы</section>
         <section class="description">
         </section>
     </section>
@@ -7276,8 +7281,7 @@
             В чому полягають практичні дії судноводія
             при попередженні забруднення навколишнього середовища нафтовими продуктами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Собрать подрычными средствами и сложить в спец контейнер, что бы не попали в воду</section>
         <section class="description">
         </section>
     </section>
@@ -7285,8 +7289,7 @@
         <section class="text">
             Яке сміття категорично заборонено викидати в любому місці Мирового океану?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Нефтепродукты и пластик</section>
         <section class="description">
         </section>
     </section>
@@ -7295,8 +7298,7 @@
             На якій відстані від берега дозволяється викидати в море відходи
             з паперу, картону, скла, пляшок, черепків, за межами особливих районів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">50 миль</section>
         <section class="description">
         </section>
     </section>
@@ -7305,8 +7307,7 @@
             В чому полягають практичні дії судноводія ММС
             при виявленні розливу нафтових продуктів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Собрать подрычными средствами и сложить в спец контейнер, что бы не попали в воду</section>
         <section class="description">
         </section>
     </section>
@@ -7315,8 +7316,7 @@
             Де з метою посилення охорони довкілля від забруднення
             та охорони рибних запасів, забороняється рух маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В местах нерестилещ</section>
         <section class="description">
         </section>
     </section>
@@ -7324,8 +7324,7 @@
         <section class="text">
             Де повинна проводитися заправка моточовнів паливно-мастильними матеріалами?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">На спец заправках или на лод станциях, яхт-клубах в спец выделенных местах</section>
         <section class="description">
         </section>
     </section>
@@ -7333,8 +7332,7 @@
         <section class="text">
             Де дозволяється зберігати промаслене ганчір`я та інше сміття?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Специальный контейнер</section>
         <section class="description">
         </section>
     </section>
@@ -7359,6 +7357,7 @@
         <section class="answer">Невміння плавати</section>
         <section class="answer">Перевищення швидкості на човні</section>
         <section class="description">
+            <p>Утопление</p>
             <blockquote class="blockquote">
                 <p>Порушення основних правил та мір обережності на воді нерідко приводить до нещасних випадків.</p>
                 <p>Аналіз узагальнених даних про утоплених свідчить про те, що більша частина людей гине під час
@@ -7382,8 +7381,7 @@
         <section class="text">
             Які основні вимоги правил поведінки на воді щодо безпеки?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Далеко не заплывать, не купаться пьяных, не нырять в незнакомых местах</section>
         <section class="description">
         </section>
     </section>
@@ -7391,8 +7389,7 @@
         <section class="text">
             Хто повинен на судні організовувати боротьбу з пожежею?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судоводитель или капитан</section>
         <section class="description">
         </section>
     </section>
@@ -7400,8 +7397,7 @@
         <section class="text">
             Яка ціль боротьби з пожежею на судні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Что бы судно не затонуло и не было загрязнения внешней среды</section>
         <section class="description">
         </section>
     </section>
@@ -7409,8 +7405,8 @@
         <section class="text">
             Що являється основними причинами пожеж на маломірних суднах?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Курение, пользование открытым огнем,
+        неправельное использование топлевного оборудования (неисправность + не правельное размещение)</section>
         <section class="description">
         </section>
     </section>
@@ -7419,8 +7415,7 @@
             Які першочергові дії судноводія маломірного судна
             при виникненні спалаху вогнища на судні?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Гашение пожара всеми доступными средствами, сигнал беды</section>
         <section class="description">
         </section>
     </section>
@@ -7428,8 +7423,7 @@
         <section class="text">
             Які суднові дизельні двигуни, повинні мати Свідоцтво EIAPP?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Все, это значит, что мотор имеет катализатор и фильтр от сажи</section>
         <section class="description">
         </section>
     </section>
@@ -7438,8 +7432,7 @@
             На яку відстань забороняється підпливати маломірним суднам
             до місць масового відпочинку?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">50 метров до берега, если нет буйков, 10 метров до буйков</section>
         <section class="description">
         </section>
     </section>
@@ -7448,8 +7441,7 @@
             Яке адміністративне покарання передбачено
             за викидання за борт маломірного судна сміття та інших предметів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">1 до 5 необлагаемых минимумов</section>
         <section class="description">
         </section>
     </section>
@@ -7457,8 +7449,7 @@
         <section class="text">
             З якої сторони необхідно підходити до палаючого судна для надання допомоги?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">С наветренной</section>
         <section class="description">
         </section>
     </section>
@@ -7483,8 +7474,7 @@
             Які дії необхідно здійснити при проливанні шкідливих та небезпечних речовин
             (бензину, антифризу, гальмівних рідин, нафти та ін.)?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Собрать подрычными средствами и сложить в спец контейнер, что бы не попали в воду</section>
         <section class="description">
         </section>
     </section>
@@ -7493,8 +7483,7 @@
             Що не можна використовувати для
             гасіння легкозаймистих речовин, таких як бензин і керосин?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Воду</section>
         <section class="description">
         </section>
     </section>
@@ -7503,8 +7492,7 @@
             З метою посилення охорони довкілля від забруднення та збереження рибних запасів,
             рух маломірних (малих) суден забороняється:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">В местах нерестилищ и заповедниках</section>
         <section class="description">
         </section>
     </section>
