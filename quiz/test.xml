@@ -5369,8 +5369,7 @@
         <section class="text">
             Яке значення має метеорологія для судноводіння?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Для безопастности</section>
         <section class="description">
         </section>
     </section>
@@ -5393,7 +5392,8 @@
         <section class="text">
             В чому проявляються основні признаки зміни погоди до погіршення?
         </section>
-        <section class="answer" data-correct="data-correct">Падає атмосферний тиск</section>
+        <section class="answer" data-correct="data-correct">Падає атмосферний тиск,
+        Чорні хмари, посилення вітру, зменшення температури</section>
         <section class="answer">Росте атмосферний тиск</section>
         <section class="description">
         </section>
@@ -5413,7 +5413,8 @@
         <section class="text">
             В чому проявляються основні признаки зміни погоди до поліпшення?
         </section>
-        <section class="answer" data-correct="data-correct">Росте атмосферний тиск</section>
+        <section class="answer" data-correct="data-correct">Росте атмосферний тиск,
+        Світлішають хмари, теплішає, вітер слабшає</section>
         <section class="answer">Падає атмосферний тиск</section>
         <section class="description">
         </section>
@@ -5463,8 +5464,7 @@
         <section class="text">
             У чому проявляється вплив температури повітря на управління ММС?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Спека - перегрів. Холод - обмерзання</section>
         <section class="description">
         </section>
     </section>
@@ -5472,8 +5472,7 @@
         <section class="text">
             Які явища характеризують вологість повітря?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Водяна пара, роса, туман</section>
         <section class="description">
         </section>
     </section>
@@ -5481,7 +5480,7 @@
         <section class="text">
             В чому проявляється конденсація парів?
         </section>
-        <section class="answer" data-correct="data-correct">Утворюється рідина</section>
+        <section class="answer" data-correct="data-correct">Випадає роса, Утворюється рідина</section>
         <section class="description">
         </section>
     </section>
@@ -5489,7 +5488,7 @@
         <section class="text">
             Як називається атмосферний вихор великого діаметру з низьким тиском повітря в центрі?
         </section>
-        <section class="answer" data-correct="data-correct">Циклон</section>
+        <section class="answer" data-correct="data-correct">Смерч</section>
         <section class="answer">Буря</section>
         <section class="answer">Шквал</section>
         <section class="answer">Бриз</section>
@@ -5535,10 +5534,9 @@
             Яку назву має рух повітря у горизонтальному напрямку,
             якщо воно рухається з області високого тиску до області низького тиску?
         </section>
-        <section class="answer" data-correct="data-correct">Вітер</section>
+        <section class="answer" data-correct="data-correct">Бриз</section>
         <section class="answer">Антициклон</section>
         <section class="answer">Циклон</section>
-        <section class="answer">Бриз</section>
         <section class="description">
         </section>
     </section>
@@ -5613,7 +5611,7 @@
         <section class="text">
             Яку назву має сильний, холодний вітер, що дує з прибережних гір в сторону моря?
         </section>
-        <section class="answer" data-correct="data-correct">Бора</section>
+        <section class="answer" data-correct="data-correct">Бора, Мусон</section>
         <section class="answer">Фен</section>
         <section class="answer">Суховій</section>
         <section class="answer">Самум</section>
@@ -5652,6 +5650,7 @@
         <section class="answer">Купчасті хмари, які не збільшуються у висоту,
         з різко окресленими краями і плоскими основами, що виділяються на блакитному небі</section>
         <section class="description">
+            низкие темные тучи заполняющие весь горизонт, без ветра, стабильно низкое давление и температура
         </section>
     </section>
     <section class="question" number="6.24">
@@ -5665,14 +5664,14 @@
         і не змінюється або повільно знижується</section>
         <section class="answer">В розривах хмар нижнього ярусу видно хмари більш високих ярусів</section>
         <section class="description">
+            высокое давление, облака светлые высокие, нет ветра высокая температура
         </section>
     </section>
     <section class="question not-ready" number="6.25">
         <section class="text">
             Які бувають течії викликані вітром?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Дрейфовые</section>
         <section class="description">
         </section>
     </section>
@@ -5681,8 +5680,7 @@
             На які види і форми,
             залежно від стадії розвитку і умов льодоутворення бувають льоди?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Низкая плотность, высокая плотность, очень высокая плотность льда</section>
         <section class="description">
         </section>
     </section>
@@ -5690,8 +5688,7 @@
         <section class="text">
             Які явища свідчать про ознаки крижаних полів що наближаються?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Поверхность воды блестит ярче, падает температура</section>
         <section class="description">
         </section>
     </section>
@@ -5699,8 +5696,7 @@
         <section class="text">
             В чому полягають особливості керування судном на мілині?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Уменьшить скорость, следить за глубиной</section>
         <section class="description">
         </section>
     </section>
@@ -5709,8 +5705,7 @@
             Як повинен діяти судноводій ММС при керуванні судном
             в умовах хвилювання та при штормі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">носом против волны (+/- 20*), высокая скорость в укрытие</section>
         <section class="description">
         </section>
     </section>
@@ -5718,8 +5713,7 @@
         <section class="text">
             В чому полягає основне завдання судноводія при наближенні шквалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Дойти как можно быстрее до укрытия</section>
         <section class="description">
         </section>
     </section>
@@ -5727,8 +5721,8 @@
         <section class="text">
             Який порядок руху швидкісних маломірних суден при видимості, менше 0,5 км?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Если нет радиолокатора - движение запрещено.
+        Если есть, то со скоростью не более 15 км/ч в водотонажном режиме</section>
         <section class="description">
         </section>
     </section>
@@ -5736,7 +5730,7 @@
         <section class="text">
             Звуковий сигнал?
         </section>
-        <section class="answer" data-correct="data-correct">Так.</section>
+        <section class="answer" data-correct="data-correct">Короткий звук 1 с, длинный звук 4 с</section>
         <section class="answer">Ні.</section>
         <section class="description">
         </section>
@@ -5748,6 +5742,7 @@
         <section class="answer" data-correct="data-correct">Потік повітря відносно стаціонарних наземних об'єктів</section>
         <section class="answer">Повітряний потік, швидкість і напрямок якого обчислюється в системі координат, пов'язаній з рухомим судном</section>
         <section class="description">
+            <p>Ветер который дует по косательной к изобарам.</p>
             <p>Те саме, що і 6.16 Істинний вітер?</p>
             <p><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" target="_blank">
             Истинный ветер (wiki)</a> - горизонтальный поток атмосферного воздуха над водной поверхностью,
@@ -5762,25 +5757,28 @@
         Зниження тиску, перисті хмари, хмари вночі</section>
         <section class="answer">2</section>
         <section class="description">
+            Изменьшеие давления и температуры, постепенно затягивается гарезонт, усиление ветра
         </section>
     </section>
-    <section class="question not-ready" number="6.35">
+    <section class="question" number="6.35">
         <section class="text">
             Яка кількість балів в шкалі оцінки хвилювання моря,
             розробленої Всесвітньою гідрометеорологічною організацією?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">12 балів</section>
+        <section class="answer">6 балів</section>
+        <section class="answer">8 балів</section>
+        <section class="answer">9 балів</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.36">
+    <section class="question" number="6.36">
         <section class="text">
             Чи дозволяється вихід маломірних (малих) суден
             в несприятливі погодні умови на внутрішніх водних шляхах України?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Заборонено</section>
+        <section class="answer">Дозволяється</section>
         <section class="description">
         </section>
     </section>
@@ -5789,17 +5787,18 @@
             Дії судноводіїв маломірних (малих) суден
             при погіршенні гідрометеорологічних умов?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Следовать как можно быстрее в укрытие</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.38">
+    <section class="question" number="6.38">
         <section class="text">
             Яка кількість балів в шкалі оцінки сили вітру Бофорта?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">12 балів</section>
+        <section class="answer">6 балів</section>
+        <section class="answer">8 балів</section>
+        <section class="answer">9 балів</section>
         <section class="description">
         </section>
     </section>
@@ -5807,8 +5806,7 @@
         <section class="text">
             Дії судноводія при штормі?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20*), повышенные обороты, как можно быстрее в укрытие</section>
         <section class="description">
         </section>
     </section>
@@ -5816,8 +5814,7 @@
         <section class="text">
             Дії судноводія при наближенні шквалу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Как можно быстрее в укрытие</section>
         <section class="description">
         </section>
     </section>
@@ -5826,8 +5823,7 @@
             Які дії необхідно вжити судноводію малого судна,
             що попав в шторм, щоб забезпечити остійність?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20*), повышенные обороты</section>
         <section class="description">
         </section>
     </section>
@@ -5835,8 +5831,7 @@
         <section class="text">
             Які дії необхідно вжити судноводію МС, що потрапив в шторм?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20*), повышенные обороты, как можно быстрее в укрытие</section>
         <section class="description">
         </section>
     </section>
