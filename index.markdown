@@ -28,6 +28,7 @@ layout: page
                     <div class="container-text">
                         <h1>Тест судноводія</h1>
                         <p>Тест для перевірки теоретичних знань кандидатів на отримання посвідчення судноводія малого/маломірного судна (unofficial)</p>
+                        <p>В тесті присутні тільки опрацьовані [Питання](/list/)</p>
                         <button class="btn btn-primary btn-lg" data-bind="click: startQuiz">Почати</button>
                     </div>
                     <img src="/img/lines.png" alt="ship">
