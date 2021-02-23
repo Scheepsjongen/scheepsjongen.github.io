@@ -10,6 +10,9 @@ permalink: /list/
         content: "Запитання № " attr(number);
         color: #828282;
     }
+    .question-pool .question.not-ready:before {
+        content: "Запитання № " attr(number) " not-ready";
+    }
     .question-pool .question .text:before {
         content: "Q: ";
     }
