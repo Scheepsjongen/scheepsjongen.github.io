@@ -51,4 +51,4 @@ comments: true
 
 ### Де скласти іспит
 
-[Графік засідань та склад кваліфікаційних комісій](https://marad.gov.ua/ua/poslugi/posvidchennya-sudnovodiya/posvidchennya-sudnovodiya-malogomalomirnogo-sudna/grafik-zasidan-kvalifikacijnih-komisij) відсутній.
+[Графік засідань та склад кваліфікаційних комісій](https://marad.gov.ua/ua/poslugi/posvidchennya-sudnovodiya/posvidchennya-sudnovodiya-malogomalomirnogo-sudna/grafik-zasidan-kvalifikacijnih-komisij)
