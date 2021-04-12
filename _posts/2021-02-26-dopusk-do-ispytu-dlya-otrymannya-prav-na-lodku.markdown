@@ -52,3 +52,6 @@ comments: true
 ### Де скласти іспит
 
 [Графік засідань та склад кваліфікаційних комісій](https://marad.gov.ua/ua/poslugi/posvidchennya-sudnovodiya/posvidchennya-sudnovodiya-malogomalomirnogo-sudna/grafik-zasidan-kvalifikacijnih-komisij)
+
+Update 12.04.2021: Десь тут можна записатися на іспит
+[СИСТЕМА РЕЄСТРАЦІЇ, ПЕРЕВІРКИ, ВИДАЧІ ДОКУМЕНТІВ НА ПРАВО КЕРУВАННЯ МАЛОМІРНИМИ СУДНАМИ](https://plc.marad.gov.ua/authorization)
