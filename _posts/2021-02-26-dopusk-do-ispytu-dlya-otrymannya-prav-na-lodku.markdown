@@ -53,5 +53,8 @@ comments: true
 
 [Графік засідань та склад кваліфікаційних комісій](https://marad.gov.ua/ua/poslugi/posvidchennya-sudnovodiya/posvidchennya-sudnovodiya-malogomalomirnogo-sudna/grafik-zasidan-kvalifikacijnih-komisij)
 
-Update 12.04.2021: Десь тут можна записатися на іспит
+Update 12.04.2021: Тут
 [Система реєстрації, перевірки, видачі документів на право керування маломірними суднами](https://plc.marad.gov.ua)
+можна
+Завантажити наявні документи (Фото, Сертифікат НТЗ, Медична довідка форма № 083/о, Посвідчення ММС)
+та Додати заяву на проходження екзамену
