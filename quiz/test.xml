@@ -606,6 +606,7 @@
         <section class="answer">12-тий канал</section>
         <section class="answer">14-тий канал</section>
         <section class="description">
+            <p>14 (основний) та 16 (аварійний) канали</p>
             <p>Морская 16 канал, речная на 5 канале</p>
             <blockquote class="blockquote">
                 <p>7.4.1 Під час руху судна відповідальні особи на борту судна мають нести радіовахту
@@ -735,6 +736,7 @@
         <section class="answer">Осьовий</section>
         <section class="answer">Чистої води</section>
         <section class="description">
+            Окрема небезпека малих розмірів
         </section>
     </section>
     <section class="question" number="1.39">
@@ -797,6 +799,7 @@
                     </cite>
                 </div>
             </blockquote>
+            <p>Не плутати з схожим знаком <img src="/quiz/img/1.112.jpg"/></p>
         </section>
     </section>
     <section class="question" number="1.42">
@@ -840,7 +843,7 @@
         <section class="text">
             Які вогні має нести мале судно на стоянці, за винятком суднових шлюпок, вночі?
         </section>
-        <section class="answer" data-correct="data-correct">Звичайний білий вогонь</section>
+        <section class="answer" data-correct="data-correct">Звичайний білий вогонь видимий звідусіль</section>
         <section class="answer">Два звичайних білих вогні: у носовій частині та у кормовій частині</section>
         <section class="description">
             <blockquote class="blockquote">
@@ -865,6 +868,7 @@
         <section class="answer">Квадратний щит</section>
         <section class="answer">Круглий щит</section>
         <section class="description">
+            Щит у вигляді трикутника вершиною вниз
             <blockquote class="blockquote">
                 <p>6.24.1. Для позначення осі судноплавного прольоту постійного
                 моста на його середині встановлюються:<br/>
@@ -876,6 +880,7 @@
                     </cite>
                 </div>
             </blockquote>
+            <img src="/quiz/img/znaky-i-vohni-sudnoplavnykh-prolotiv-mostiv.png"/>
         </section>
     </section>
     <section class="question" number="1.46">
@@ -886,6 +891,8 @@
         <section class="answer">Має перевагу руху</section>
         <section class="description">
             <p>Першим подає звуковий сигнал; поступається в узкостях судам які йдуть вниз</p>
+            <p>Судно що йде вверх може стояти відносно берегу нерухомо та мати керованість.
+            Судном що йде вниз складніше керувати.</p>
         </section>
     </section>
     <section class="question" number="1.47">
@@ -935,6 +942,10 @@
         <section class="answer">Люк заливається водою і через 30 хвилин проводиться огляд на наявність течі</section>
         <section class="answer">Проводиться візуальний огляд на наявність шпарин у закритті</section>
         <section class="description">
+            - струменем води під тиском;<br/>
+            - за допомогою ультразвукового приладу;<br/>
+            - відбитком крейди на коменсі.
+            <hr/>
             <blockquote class="blockquote">
                 <h4>Тест на во­до­неп­ро­ни­ца­е­мость лю­ко­вых зак­ры­тий</h4>
                 <p>Судовладелец или другая заинтересованная сторона
@@ -987,7 +998,6 @@
         <section class="answer">Увімкнути реверс ходу</section>
         <section class="answer">Пришвидшити хід</section>
         <section class="description">
-            <p>7 звукових коротких сигналів. Маневрування, зміна швидкості.</p>
             <blockquote class="blockquote">
                 <h4>Правило 14</h4>
                 <p>Ситуація зближення суден, що йдуть прямо одне на одного</p>
@@ -1003,6 +1013,7 @@
                     <cite title="Source Title">МПЗЗС-72</cite>
                 </div>
             </blockquote>
+            <p>7 звукових коротких сигналів. Маневрування, зміна швидкості.</p>
         </section>
     </section>
     <section class="question" number="1.53">
@@ -1033,6 +1044,10 @@
                     </cite>
                 </div>
             </blockquote>
+            <a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB_%D0%BB%D0%B8%D1%85%D0%B0" target="_blank">
+                Сигнал лиха (wiki)
+            </a><br/>
+            А також, незвичні предмети підняті на щоглу чи на весло.
         </section>
     </section>
     <section class="question" number="1.54">
@@ -1679,11 +1694,14 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.97">
+    <section class="question" number="1.97">
         <section class="text">
             Де дозволяється зупинятись маломірним суднам у межах суднового ходу?
         </section>
-        <section class="answer" data-correct="data-correct">Маломерным судам запрещено останавливаться в пределах судового хода</section>
+        <section class="answer" data-correct="data-correct">Маломірним суднам
+        заборонено зупинятися в межах суднового ходу</section>
+        <section class="answer">До 10 метрів від кромки суднового ходу</section>
+        <section class="answer">До 20 метрів від кромки суднового ходу</section>
         <section class="description">
         </section>
     </section>
@@ -3292,6 +3310,7 @@
         <section class="answer">Перевальні, ходові, весняні знаки, світлофори, семафори, віхи</section>
         <section class="answer">Бакени, буї, створні, весняні знаки, семафори, сигнальні і штормові щогли</section>
         <section class="description">
+            Бакени, буї, віхи та плавучі маяки
             <p><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%96%D0%B3%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA" target="_blank">
             Навігаційний знак (вікі)</a></p>
             <p>Судоходная обстановка на внутренних водных путях служит для ограждения судового хода от
@@ -3304,53 +3323,152 @@
             кабелей, а также воздушных кабелей.</p>
         </section>
     </section>
-    <section class="question not-ready" number="2.13">
+    <section class="question" number="2.13">
         <section class="text">
             Яке основне призначення кардинальних знаків системи МАМС?
         </section>
-        <section class="answer" data-correct="data-correct">Позначення небезпек значних розмірів</section>
+        <section class="answer" data-correct="data-correct">Виставляються за принципом огорожі навігаційних небезпек
+        щодо сторін світу і позначають сторону, з якої слід обходити огороджену небезпеку</section>
+        <section class="answer">Для обгородження або позначення
+        спеціальних районів і об'єктів, які описуються в навігаційних посібниках і мапах</section>
+        <section class="answer">Виставляються за принципом огорожі сторін фарватеру</section>
+        <section class="answer">Знаки що обгороджують окремі небезпеки незначних розмірів,
+        виставляються безпосередньо над небезпекою й можуть бути обійдені з будь-якого боку</section>
+        <section class="answer">Ці знаки служать для позначення осі фарватеру або в якості підхідних</section>
+        <section class="answer">Для позначення небезпек ще не описаних в навігаційних документах</section>
+        <section class="answer">Призначені для позначення нового небезпечного для навігації затонулого судна</section>
         <section class="description">
+            <h4>Міжнародна асоціація навігаційного забезпечення мореплавства і маякових служб (МАМС/IALA)</h4>
+            Система МАМС включає:
+            <ol>
+                <li>латеральні знаки;</li>
+                <li>кардинальні знаки;</li>
+                <li>знаки, що огороджують окремі небезпеки;</li>
+                <li>знаки, що позначають початкові точки і вісь фарватеру (каналу) і середину проходу (осьові, або знаки чистої води);</li>
+                <li>знаки спеціального призначення;</li>
+                <li>аварійні знаки для позначення затонулого судна.</li>
+            </ol>
+            <p>2) Кардинальні знаки виставляються за принципом огорожі навігаційних небезпек щодо сторін світу
+            і позначають сторону, з якою слід обходити огороджену небезпеку. З цією метою горизонт навколо
+            навігаційної небезпеки умовно ділиться на сектори: північний - між румбами NW і NE, східний - між
+            румбами NE і SE, південний - між румбами SE і SW, західний - між румбами SW і NW. Кардинальні знаки
+            виставляються в одному, декількох або у всіх секторах, і за їх найменуванням поділяються на: північні,
+            східні, південні і західні.</p>
+            <p><img src="/quiz/img/kardynalni-znaky.jpg"/></p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pW_AZpQo6Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </section>
     </section>
-    <section class="question not-ready" number="2.14">
+    <section class="question" number="2.14">
         <section class="text">
             Для чого використовуються в системі МАМС латеральні знаки?
         </section>
         <section class="answer" data-correct="data-correct">Позначення сторін проходу або
         позначення виходу на основний судновий хід</section>
+        <section class="answer">Виставляються за принципом огорожі навігаційних небезпек
+        щодо сторін світу і позначають сторону, з якої слід обходити огороджену небезпеку</section>
+        <section class="answer">Для обгородження або позначення
+        спеціальних районів і об'єктів, які описуються в навігаційних посібниках і мапах</section>
+        <section class="answer">Знаки що обгороджують окремі небезпеки незначних розмірів,
+        виставляються безпосередньо над небезпекою й можуть бути обійдені з будь-якого боку</section>
+        <section class="answer">Ці знаки служать для позначення осі фарватеру або в якості підхідних</section>
+        <section class="answer">Для позначення небезпек ще не описаних в навігаційних документах</section>
+        <section class="answer">Призначені для позначення нового небезпечного для навігації затонулого судна</section>
         <section class="description">
+            <h4>Міжнародна асоціація навігаційного забезпечення мореплавства і маякових служб (МАМС/IALA)</h4>
+            Система МАМС включає:
+            <ol>
+                <li>латеральні знаки;</li>
+                <li>кардинальні знаки;</li>
+                <li>знаки, що огороджують окремі небезпеки;</li>
+                <li>знаки, що позначають початкові точки і вісь фарватеру (каналу) і середину проходу (осьові, або знаки чистої води);</li>
+                <li>знаки спеціального призначення;</li>
+                <li>аварійні знаки для позначення затонулого судна.</li>
+            </ol>
+            <p>1) Латеральні знаки (знаки лівого і правого боку) виставляються за принципом огорожі сторін фарватеру.
+            Сторони огороджуються буями або віхами. На корпусах буїв можуть наноситися цифри або букви. Нумерація буїв
+            по зростаючій величині або позначення літерами в алфавітній послідовності ведеться з боку моря.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1A_Ln2hAgI4?start=116" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </section>
     </section>
-    <section class="question not-ready" number="2.15">
+    <section class="question" number="2.15">
         <section class="text">
             Для чого використовуються в системі МАМС знаки спеціального призначення?
         </section>
-        <section class="answer" data-correct="data-correct">Для позначення небезпек невеликих розмірів</section>
+        <section class="answer" data-correct="data-correct">Для обгородження або позначення
+        спеціальних районів і об'єктів, які описуються в навігаційних посібниках і мапах</section>
+        <section class="answer">Виставляються за принципом огорожі сторін фарватеру</section>
+        <section class="answer">Виставляються за принципом огорожі навігаційних небезпек щодо сторін світу
+        і позначають сторону, з якої слід обходити огороджену небезпеку</section>
+        <section class="answer">Знаки що обгороджують окремі небезпеки незначних розмірів,
+        виставляються безпосередньо над небезпекою й можуть бути обійдені з будь-якого боку</section>
+        <section class="answer">Ці знаки служать для позначення осі фарватеру або в якості підхідних</section>
+        <section class="answer">Для позначення небезпек ще не описаних в навігаційних документах</section>
+        <section class="answer">Призначені для позначення нового небезпечного для навігації затонулого судна</section>
         <section class="description">
+            <h4>Міжнародна асоціація навігаційного забезпечення мореплавства і маякових служб (МАМС/IALA)</h4>
+            Система МАМС включає:
+            <ol>
+                <li>латеральні знаки;</li>
+                <li>кардинальні знаки;</li>
+                <li>знаки, що огороджують окремі небезпеки;</li>
+                <li>знаки, що позначають початкові точки і вісь фарватеру (каналу) і середину проходу (осьові, або знаки чистої води);</li>
+                <li>знаки спеціального призначення;</li>
+                <li>аварійні знаки для позначення затонулого судна.</li>
+            </ol>
+            <p>5) Знаки спеціального призначення використовуються для позначення спеціальних районів або об'єктів,
+            показаних на картах або описаних в інших навігаційних документах. Знаки спеціального призначення мають
+            жовте забарвлення. На знаках може встановлюватися топова фігура у вигляді жовтого косого хреста. Самі
+            знаки можуть мати будь-яку форму. На цих знаках запалюються жовті проблискові вогні, характеристика яких
+            відрізняється від характеристики білих вогнів інших знаків. На корпусі буїв спеціального призначення
+            можуть наноситися цифри або букви, що дозволяють визначити їх призначення.</p>
         </section>
     </section>
-    <section class="question not-ready" number="2.16">
+    <section class="question" number="2.16">
         <section class="text">
             Для чого використовуються осьові знаки системи МАМС?
         </section>
-        <section class="answer" data-correct="data-correct">Для позначення
-        осі поділу суднового ходу при широкому форватаре</section>
+        <section class="answer" data-correct="data-correct">Ці знаки служать
+        для позначення осі фарватеру або в якості підхідних</section>
+        <section class="answer">Для обгородження або позначення спеціальних районів і об'єктів,
+        які описуються в навігаційних посібниках і мапах</section>
+        <section class="answer">Виставляються за принципом огорожі сторін фарватеру</section>
+        <section class="answer">Виставляються за принципом огорожі навігаційних небезпек щодо сторін світу
+        і позначають сторону, з якої слід обходити огороджену небезпеку</section>
+        <section class="answer">Знаки що обгороджують окремі небезпеки незначних розмірів,
+        виставляються безпосередньо над небезпекою й можуть бути обійдені з будь-якого боку</section>
+        <section class="answer">Для позначення небезпек ще не описаних в навігаційних документах</section>
+        <section class="answer">Призначені для позначення нового небезпечного для навігації затонулого судна</section>
         <section class="description">
+            <h4>Міжнародна асоціація навігаційного забезпечення мореплавства і маякових служб (МАМС/IALA)</h4>
+            Система МАМС включає:
+            <ol>
+                <li>латеральні знаки;</li>
+                <li>кардинальні знаки;</li>
+                <li>знаки, що огороджують окремі небезпеки;</li>
+                <li>знаки, що позначають початкові точки і вісь фарватеру (каналу) і середину проходу (осьові, або знаки чистої води);</li>
+                <li>знаки спеціального призначення;</li>
+                <li>аварійні знаки для позначення затонулого судна.</li>
+            </ol>
+            <p>4) Осьові знаки, або знаки чистої води, оточені з усіх боків глибинами, безпечними в
+            навігаційному відношенні. Ці знаки служать для позначення осі фарватеру або в якості підхідних.
+            Вони являють собою буї і віхи з топовою фігурою у вигляді червоної кулі. Ці знаки пофарбовані
+            червоними і білими вертикальними смугами. На цих знаках можуть запалюватися білі вогні.</p>
         </section>
     </section>
     <section class="question" number="2.17">
         <section class="text">
             Для виміру яких відстаней на морі, застосовується морська миля?
         </section>
-        <section class="answer" data-correct="data-correct">Для вимірювання довжини</section>
+        <section class="answer" data-correct="data-correct">Для вимірювання довжини, великих відстаней</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.18">
+    <section class="question" number="2.18">
         <section class="text">
             У яких одиницях проводяться виміри відстаней при плаванні на озерах і річках?
         </section>
-        <section class="answer" data-correct="data-correct">У кілометрах</section>
+        <section class="answer" data-correct="data-correct">У кілометрах та метрах</section>
+        <section class="answer" data-correct="data-correct">У милях та кабельтов</section>
         <section class="description">
         </section>
     </section>
@@ -4197,14 +4315,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.37">
+    <section class="question" number="3.37">
         <section class="text">
             Протягом якого часу потужність (ємність) аварійного джерела
             електричної енергії повинна бути достатньою для живлення споживачів,
             в процентному відношенні від часу, потрібного для роботи
             акумуляторної батареї, як основного джерела електричної батареї?
         </section>
-        <section class="answer" data-correct="data-correct">Щонайменше 2 години</section>
+        <section class="answer" data-correct="data-correct">Щонайменше 20% від ємності основної батареї</section>
+        <section class="answer">Щонайменше 10% від ємності основної батареї</section>
+        <section class="answer">Щонайменше 15% від ємності основної батареї</section>
+        <section class="answer">Щонайменше 1 годину</section>
+        <section class="answer">Щонайменше 2 години</section>
+        <section class="answer">Щонайменше 3 години</section>
         <section class="description">
         </section>
     </section>
@@ -4230,7 +4353,8 @@
         <section class="text">
             Чи дозволяється на гребному човні встановлювати двигун?
         </section>
-        <section class="answer" data-correct="data-correct">Ні</section>
+        <section class="answer" data-correct="data-correct">Дозволяється, якщо є відповідний запис в судновому білеті</section>
+        <section class="answer">Ні</section>
         <section class="answer">Якщо потужність двигуна не перевищує 10 к.с</section>
         <section class="answer">Якщо човен має транец</section>
         <section class="description">
