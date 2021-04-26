@@ -17,6 +17,11 @@
         <section class="answer">На зустрічних курсах розходяться лівими бортами, на пересічних - "перешкода зліва"</section>
         <section class="answer">На зустрічних курсах розходяться правими бортами, на пересічних - "перешкода зліва"</section>
         <section class="description">
+            13, 14, 15 ППСС<br/>
+            - плавання протилежними курсами<br/>
+            - пересічними курсами<br/>
+            - обгін - 22,5° позаду траверза - бажано по лівому борту но можна і по правому. Судно, що обганяють не повинно змінювати курс та швидкість
+            <hr/>
             <blockquote class="blockquote">
                 <h4>Расхождение</h4>
                 <p>Правило расхождения действует при плавании за пределами судового хода и при его пересечении.
@@ -33,42 +38,47 @@
             <img src="/quiz/img/1.1.png"/>
         </section>
     </section>
-    <section class="question not-ready" number="1.2">
+    <section class="question" number="1.2">
         <section class="text">
             Які дії судна при проходженні небезпечних районів плавання?
         </section>
-        <section class="answer" data-correct="data-correct">Необхідно дотримуватися безпечної швидкості
-        та нести постійну вахту</section>
+        <section class="answer" data-correct="data-correct">Зменшити хід і подати один тривалий звук (4-5 сек.)</section>
         <section class="description">
             У багатьох випадках, небезпека району визначається не самим районом, а індивідуумами,
-            які там можуть знаходитися. Мова, звичайно ж, про піратів.
+            які там можуть знаходитися
         </section>
     </section>
     <section class="question" number="1.3">
         <section class="text">
             Чи може судноводій ММС при обгоні транспортного судна показувати обмін сигналами?
         </section>
-        <section class="answer" data-correct="data-correct">Не може</section>
-        <section class="answer">Може</section>
+        <section class="answer" data-correct="data-correct">Обмін сигналами не показується</section>
+        <section class="answer">Не може</section>
+        <section class="answer">Судноводій зобов'язаний подати сигнали</section>
         <section class="description">
+            <p>Обмін сигналами не показується. Можна показувати, але не повинні звертати увагу на них.</p>
             <blockquote class="blockquote">
                 <p>Обмінюватися сигналами можна тільки з рівними за значенням судами</p>
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.4">
+    <section class="question" number="1.4">
         <section class="text">
             Який порядок і пріоритетність розходження суден при одночасному підході до небезпечної ділянки плавання?
         </section>
         <section class="answer" data-correct="data-correct">Судно що йде за течією має перевагу</section>
+        <section class="answer" data-correct="data-correct">Судно що йде проти течії має перевагу</section>
+        <section class="answer" data-correct="data-correct">Моторне судно повинно пропустити парусне,
+        інакше - розходження лівими бортами</section>
         <section class="description">
+            Судно що йде вгору повинно зупинитись у безпечному місці і пропустити судно що йде вниз.
         </section>
     </section>
     <section class="question" number="1.5">
         <section class="text">
             Чи можливий обгін судна, правому борту?
         </section>
-        <section class="answer" data-correct="data-correct">Можливий</section>
+        <section class="answer" data-correct="data-correct">Допускається як виняток</section>
         <section class="answer">Неможливий</section>
         <section class="description">
             <blockquote class="blockquote">
@@ -84,7 +94,7 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.6">
+    <section class="question" number="1.6">
         <section class="text">
             На якій відстані судно, що обганяє інше, повинне подати сигнал з 2-х тривалих і 2-х коротких звуків?
         </section>
@@ -94,13 +104,16 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.7">
+    <section class="question" number="1.7">
         <section class="text">
             Що заборонене при обгоні?
         </section>
-        <section class="answer" data-correct="data-correct">Судно яке обганяють не має права збільшувати швидкість
-        або змінювати курс в сторону судна що здійснює обгін</section>
+        <section class="answer" data-correct="data-correct">Паралельний рух двох суден і більше на траверзі</section>
         <section class="description">
+            <p>Паралельний рух двох суден і більше на траверзі тривалий час з відстанню між ними менше 15 м.</p>
+            <p>Простіше: якщо одне судно обганяє інше, то третє повинно зачекати. Заборонений подвійний обгін.</p>
+            <p>А також треба знати, що <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%81%D0%B0%D1%81%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B5%D0%B9" target="_blank">
+            судна можуть притягуватись</a>.</p>
         </section>
     </section>
     <section class="question" number="1.8">
@@ -287,11 +300,11 @@
         <section class="text">
             Які документи необхідні для плавання на ВВШ судноводіям ММС?
         </section>
-        <section class="answer" data-correct="data-correct">Судновий білет, акт технічного огляду та
-        посвідчення на право керування</section>
+        <section class="answer" data-correct="data-correct">Судновий білет, свідоцтво про придатність судна
+        до плавання, акт технічного огляду та посвідчення на право керування</section>
+        <section class="answer">Посвідчення на право керування, судновий білет та акт технічного огляду</section>
+        <section class="answer">Судновий білет, свідоцтво про придатність судна до плавання та акт технічного огляду</section>
         <section class="answer">Посвідчення на право керування та судновий білет</section>
-        <section class="answer">Судновий білет та акт технічного огляду</section>
-        <section class="answer">Посвідчення на право керування та акт технічного огляду</section>
         <section class="description">
             <blockquote class="blockquote">
                 <h4>1.10. Суднові документи</h4>
@@ -306,11 +319,13 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.16">
+    <section class="question" number="1.16">
         <section class="text">
             Які органи, проводить технічний нагляд за маломірними суднами?
         </section>
-        <section class="answer" data-correct="data-correct">Регістр судноплавства України</section>
+        <section class="answer" data-correct="data-correct">Регіональні представництва Регістра судноплавства України</section>
+        <section class="answer">Адміністрація пристані, причалу або пункту базування МС</section>
+        <section class="answer">Державна служба морського та річкового транспорту України</section>
         <section class="description">
         </section>
     </section>
@@ -319,12 +334,12 @@
             Державний нагляд за безпекою на морському та річковому транспорті,
             в тому числі за маломірними (малими) судами здійснює?
         </section>
-        <section class="answer" data-correct="data-correct">Мінінфраструктури України,
-        Морська адміністрація, їх підрозділи на місцях, капітани морських портів</section>
+        <section class="answer" data-correct="data-correct">Державна служба морського та річкового транспорту України</section>
+        <section class="answer">Мінінфраструктури України, Морська адміністрація, їх підрозділи на місцях,
+        капітани морських портів</section>
         <section class="answer">Державний департамент морського і річкового транспорту, підрозділи на місцях,
         капітани морських портів</section>
-        <section class="answer">Головна державна інспекція України з безпеки судноплавства,
-        підрозділи на місцях</section>
+        <section class="answer">Головна державна інспекція України з безпеки судноплавства, підрозділи на місцях</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>10.7. Здійснення державного нагляду за додержанням підприємствами, установами та організаціями
@@ -347,6 +362,9 @@
         <section class="answer" data-correct="data-correct">Місцеві державні адміністрації</section>
         <section class="answer">Державна служба морського та річкового транспорту України</section>
         <section class="description">
+            Розпорядженням голови обласних державних адміністрацій за погодженням з підрозділами державної
+            служби морського та річкового транспорту України
+            <hr/>
             <blockquote class="blockquote">
                 <p>III. КОМПЕТЕНЦІЯ МІСЦЕВИХ ДЕРЖАВНИХ АДМІНІСТРАЦІЙ</p>
                 <p>Глава 1 ПОВНОВАЖЕННЯ МІСЦЕВИХ ДЕРЖАВНИХ АДМІНІСТРАЦІЙ</p>
@@ -418,21 +436,23 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.21">
+    <section class="question" number="1.21">
         <section class="text">
             Ким здійснюється випуск маломірних суден у територіальне море,
             внутрішні води України на відстань до 2 (двох) морських миль?
         </section>
-        <section class="answer" data-correct="data-correct">Капітаном порту</section>
+        <section class="answer" data-correct="data-correct">Адміністрацією пристані, причалу або пункту базування МС</section>
+        <section class="answer">Прикордонниками</section>
         <section class="description">
+            Прикордонниками якщо більше 2 морських миль
         </section>
     </section>
     <section class="question" number="1.22">
         <section class="text">
             При обгонах моточовни, катери, які здійснюють обгін повинні обганяти другі судна?
         </section>
-        <section class="answer" data-correct="data-correct">З лівого та правого борту</section>
-        <section class="answer">Обганяти судно яке обганяє заборонено (подвійний обгін)</section>
+        <section class="answer" data-correct="data-correct">Намагатися по лівому борту</section>
+        <section class="answer" data-correct="data-correct">Намагатися по правому борту</section>
         <section class="answer">З лівого борту</section>
         <section class="answer">З правого борту</section>
         <section class="description">
@@ -479,13 +499,15 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.24">
+    <section class="question" number="1.24">
         <section class="text">
             У який термін часу повинно здійснюватися інформування
             підрозділів Державної прикордонної служби України
             при здійсненні виходу маломірних суден за межі 2-х морських миль?
         </section>
-        <section class="answer" data-correct="data-correct">За 24 години до виходу</section>
+        <section class="answer" data-correct="data-correct">Не пізніш, ніж за одну годину до виходу</section>
+        <section class="answer">Не пізніш, ніж за 12 годин до виходу</section>
+        <section class="answer">Не пізніш, ніж за 24 години до виходу</section>
         <section class="description">
         </section>
     </section>
@@ -493,8 +515,10 @@
         <section class="text">
             На річці маломірним суднам дозволяється перетинати судновий хід?
         </section>
-        <section class="answer" data-correct="data-correct">Курсом під прямим кутом до напрямку загального руху</section>
-        <section class="answer">Курсом під гострим кутом до напрямку загального руху</section>
+        <section class="answer" data-correct="data-correct">Курсом під прямим кутом до напрямку загального руху
+        за відсутності транспортних суден</section>
+        <section class="answer">Курсом під гострим кутом до напрямку загального руху
+        за відсутності транспортних суден</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>Если судно вынужденно пересечь полосу движения, то оно должно делать это,
@@ -567,13 +591,16 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.28">
+    <section class="question" number="1.28">
         <section class="text">
             Яка дистанція віддалення від берегу встановлена для ММС?
         </section>
-        <section class="answer" data-correct="data-correct">Встановлюється Регістром судноплавства України,
-        враховується розмір, ходові якості і комплектація судна</section>
+        <section class="answer" data-correct="data-correct">Відповідно свідоцтва на придатність до плавання конкретного ММС</section>
+        <section class="answer">До 15 км. для моторних човнів та до 20 км. для вітрильних човнів</section>
+        <section class="answer">До 7 км.</section>
         <section class="description">
+            Встановлюється Регістром судноплавства України,
+            враховується розмір, ходові якості і комплектація судна
         </section>
     </section>
     <section class="question" number="1.29">
@@ -583,6 +610,10 @@
         <section class="answer" data-correct="data-correct">Про заборону стояти на якорі та волочити якоря, троси і ланцюги</section>
         <section class="answer">Про заборону стоянки на якорі або на швартових біля берегу</section>
         <section class="description">
+            <p>Про охоронну зону, де судновий хід перетинають підводні кабелі, трубопроводи</p>
+            <hr/>
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%91%D0%B5%D1%80%D1%96%D0%B7%D0%BA%D0%B0%C2%BB" target="_blank">
+            Операція "Берізка"</a></p>
         </section>
     </section>
     <section class="question" number="1.30">
@@ -593,6 +624,7 @@
         <section class="answer">Ширина проходу або фарватеру обмежена</section>
         <section class="answer">Глибина обмежена</section>
         <section class="description">
+            Надводний перехід лінії електропередач, тощо
         </section>
     </section>
     <section class="question" number="1.31">
@@ -654,13 +686,16 @@
                     </cite>
                 </div>
             </blockquote>
+            Задля запам'ятовування: серце з лівої сторони, воно червоне
         </section>
     </section>
     <section class="question" number="1.34">
         <section class="text">
             Які вогні судно з механічним двигуном довжиною менше 12 м може виставляти?
         </section>
-        <section class="answer" data-correct="data-correct">Топовий , бортові та кормовий вогні. За потреби - спеціальні</section>
+        <section class="answer" data-correct="data-correct">Білий круговий та бортові вогні</section>
+        <section class="answer">Два топові, кормовий і бортові вогні</section>
+        <section class="answer">Топовий, кормовий, бортові і жовтий проблисковий круговий вогонь (якщо перебуває в неводотоннажному стані)</section>
         <section class="description">
             <p>Бортовые огни красный и зеленый, топовый белый огонь и кормовой; Бортовые зеленый и
             красный могут быть расположены на носу судна или в одном корпусе; Топовый и кормовой могут
@@ -672,7 +707,11 @@
             Який тип та призначення у вказаного на малюнку судна?<br/>
             <img src="/quiz/img/1.35.png"/>
         </section>
-        <section class="answer" data-correct="data-correct">?</section>
+        <section class="answer" data-correct="data-correct">Позбавлене можливості управління</section>
+        <section class="answer">Судно, зайняте водолазними роботами</section>
+        <section class="answer">Судно, зайняте днопоглиблювальними роботами</section>
+        <section class="answer">Судно, що стоїть на якорі</section>
+        <section class="answer">Судно, яке має на борту лоцмана</section>
         <section class="description">
             Судно, лишенное возможности управляться, должно выставлять:
             два красных круговых огня, расположенные по вертикальной линии на наиболее видном месте;
@@ -688,6 +727,7 @@
         <section class="answer">Судно, зайняте днопоглиблювальними роботами</section>
         <section class="answer">Судно, що стоїть на якорі</section>
         <section class="answer">Судно, яке має на борту лоцмана</section>
+        <section class="answer">Позбавлене можливості управління</section>
         <section class="description">
             <img src="/quiz/img/1.123.png"/>
             <blockquote class="blockquote">
@@ -3125,9 +3165,10 @@
         <section class="text">
             Що вивчає річкова лоція?
         </section>
-        <section class="answer" data-correct="data-correct">Судноплавні умови річок</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Судноплавні умови річок та плавання по них</section>
         <section class="description">
+            Суднохідні руслові річки у їх природному стані та забезпечення безпеки плавання по них.
+            <hr/>
             <a href="https://uk.wikipedia.org/wiki/%D0%A0%D1%96%D1%87%D0%BD%D0%B0_%D0%BB%D0%BE%D1%86%D1%96%D1%8F" target="_blank">
             Річкова лоція (вікі)</a> - опис судноплавних умов річок у їх нормальному стані.
         </section>
@@ -3172,6 +3213,8 @@
         <section class="answer" data-correct="data-correct">Скупчення наносів, відкладених по ширині русла</section>
         <section class="answer">Підводний піщаний вал</section>
         <section class="description">
+            Ділянки русла річки що мають стійкі наносні мілини від одного берега до іншого у вигляді валу.
+            <hr/>
             Перекаты - это устойчивое скопление наносов, отложенных по ширине русла.
             Для перекатов характерно местное уменьшение глубины, а в межень -
             подпор воды на вышележащем участке - плесе. Перекаты являются основным препятствием
@@ -3182,7 +3225,7 @@
         <section class="text">
             Що є річковими барами?
         </section>
-        <section class="answer" data-correct="data-correct">Підводний піщаний вал</section>
+        <section class="answer" data-correct="data-correct">Підводний піщаний вал в гирлі річки</section>
         <section class="answer">Скупчення наносів, відкладених по ширині русла</section>
         <section class="answer">Місце, де можна зупинитись на перекус та дозаправитись паливом</section>
         <section class="answer">Велике скупчення риби, яке локалізовано навколо окремої аномалії дна</section>
@@ -3202,9 +3245,12 @@
         <section class="text">
             Які ознаки має льодостав?
         </section>
-        <section class="answer" data-correct="data-correct">Поява в річці тонких і невеликих плоских крижинок</section>
-        <section class="answer">2</section>
+        <section class="answer">Встановлення льодового покрову від берега і до берега</section>
+        <section class="answer">Поява в річці тонких і невеликих плоских крижинок</section>
         <section class="description">
+            <p>Процес встановлення суцільного крижаного покрову на водоймищах. Якщо лід біля берегу або плавають
+            шматки льоду, то це не льодостав. Льодостав це коли від берега і до берега.</p>
+            <hr/>
             <p>К признакам ледостава относятся: установление среднесуточной минусовой температуры на протяжении
             порядка трех недель; появление на поверхности воды <b>сала</b> - иглообразных и пластинчатых
             кристаллов льда в виде пятен и тонкого сплошного слоя, вначале в местах со слабым течением;
@@ -3262,6 +3308,9 @@
         <section class="answer">Розташування, напрямок руху та швидкість суден на деякій локації</section>
         <section class="answer">Погодні умови, видимість та характеристики водного простору</section>
         <section class="description">
+            <p>Система берегових і плавучих знаків, що вказують напрям, ширину, глибину суднового ходу
+            і перешкоди а також огороджують небезпеки.</p>
+            <hr/>
             <p>Судоходная обстановка на внутренних водных путях служит для ограждения судового хода от
             подводных опасностей и указания направления его, т.е. безопасного движения судов.
             Это достигается оградительной и указательной судоходной обстановкой: плавучей (бакены, буи, вехи) и
@@ -3648,8 +3697,7 @@
     </section>
     <section class="question" number="2.36">
         <section class="text">
-            Як називається умовна лінія,
-            що проходить у середній частині суднового ходу?<br/>
+            Як називається умовна лінія, що проходить у середній частині суднового ходу?<br/>
             <img src="/quiz/img/2.36.jpg"/>
         </section>
         <section class="answer" data-correct="data-correct">Вісь суднового ходу</section>
@@ -3917,12 +3965,12 @@
             природоохранные, гидрографические, исследовательские катера и лодки и т.д.).</p>
         </section>
     </section>
-    <section class="question not-ready" number="3.3">
+    <section class="question" number="3.3">
         <section class="text">
             До яких головних розмірів судна відноситься відстань,
             виміряна в плоскості мідель шпангоуту по вертикалі від кіля до верхньої палуби?
         </section>
-        <section class="answer" data-correct="data-correct">Висота борту</section>
+        <section class="answer" data-correct="data-correct">Висота борту (H)</section>
         <section class="description">
         </section>
     </section>
@@ -3978,13 +4026,15 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.9">
+    <section class="question" number="3.9">
         <section class="text">
             У яких відповідях перераховані всі можливі сили, що діють на корпус судна?
         </section>
-        <section class="answer" data-correct="data-correct">Сила тяжести; Сила поддержки воды;
-        Сила упора винта; Сила сопротивления воды</section>
+        <section class="answer" data-correct="data-correct">Сила тяжіння, гідродинамічні сили, сили інерції</section>
         <section class="description">
+            Вагове навантаження, гідродинамічні сили, гідродинамічний тиск води, сили інерції
+            <hr/>
+            Сила тяжіння; Сила підтримки води; Сила упору гвинта; Сила опору води
         </section>
     </section>
     <section class="question" number="3.10">
@@ -4019,8 +4069,8 @@
         <section class="text">
             Для виконання яких функцій призначений швартовий пристрій судна?
         </section>
-        <section class="answer" data-correct="data-correct">Для закріплення судна до берега,
-        причалу або до інших суден</section>
+        <section class="answer" data-correct="data-correct">Для підтягування судна до берега,
+        причалу або до інших суден та надійного кріплення до них</section>
         <section class="answer">Для утримання судна на місці при стоянці</section>
         <section class="answer">Для постановки судна на якір</section>
         <section class="answer">Для управління судном під час руху</section>
@@ -4093,6 +4143,8 @@
         сидінь і відповідне розміщення вантажів і людей</section>
         <section class="answer">При наявності на судні паливних баків з дзеркалом поверхні від борта до борта</section>
         <section class="description">
+            <p>Якщо після припинення дії на нього зовнішніх сил воно повертається в стан рівноваги.</p>
+            <hr/>
             <p><b>Остойчивость</b> - это способность судна противостоять силам, вызывающим его наклонение,
             а после прекращения действия этих сил (ветер, волна, перемещение пассажиров и др.) возвращаться
             в первоначальное положение равновесия. Одно и то же судно может иметь хорошую остойчивость при
@@ -4150,20 +4202,25 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.21">
+    <section class="question" number="3.21">
         <section class="text">
             Плавучість судна характеризується запасом плавучості, в чому він виражається?
         </section>
         <section class="answer" data-correct="data-correct">Масою додаткового вантажу,
         який можна взяти на борт до повної втрати плавучості</section>
+        <section class="answer">Наявністю герметичних відсіків або блоків з пінопласту в корпусі судна</section>
         <section class="description">
+            Відсотковим обсягом водонепроникних відсіків вище ватерлінії до загального водонепроникного обсягу -
+            чим вища осадка судна, тим більше запас плавучості
         </section>
     </section>
-    <section class="question not-ready" number="3.22">
+    <section class="question" number="3.22">
         <section class="text">
             Чим забезпечується аварійний запас плавучості у маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">Надводним бортом</section>
+        <section class="answer" data-correct="data-correct">Наявністю герметичних відсіків або блоків з пінопласту в корпусі судна</section>
+        <section class="answer">Масою додаткового вантажу,
+        який можна взяти на борт до повної втрати плавучості</section>
         <section class="description">
         </section>
     </section>
@@ -4183,19 +4240,26 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.26">
+    <section class="question" number="3.26">
         <section class="text">
             Як називається подовжня головна балка донного набору корпусу судна?
         </section>
         <section class="answer" data-correct="data-correct">Кіль</section>
+        <section class="answer">Карлінгс</section>
+        <section class="answer">Бімс</section>
+        <section class="answer">Форштевень</section>
+        <section class="answer">Стрингер</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.27">
+    <section class="question" number="3.27">
         <section class="text">
             Що відноситься до під палубного набору корпусу судна?
         </section>
-        <section class="answer" data-correct="data-correct">Карлингс и бимс</section>
+        <section class="answer" data-correct="data-correct">Карлінгс та бімс</section>
+        <section class="answer">Форштевень</section>
+        <section class="answer">Стрингер та карлінгс</section>
+        <section class="answer">Кіль</section>
         <section class="description">
         </section>
     </section>
@@ -4393,11 +4457,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.45">
+    <section class="question" number="3.45">
         <section class="text">
             Корпус якого судна вважається з поперечним набором?
         </section>
-        <section class="answer" data-correct="data-correct">Коли поперечні балки розташовані одна до одної ближче ніж поздовжні</section>
+        <section class="answer" data-correct="data-correct">Коли поперечний набір міцніший ніж поздовжний</section>
+        <section class="answer">Коли поперечні балки розташовані одна до одної ближче ніж поздовжні</section>
         <section class="description">
         </section>
     </section>
@@ -4710,23 +4775,28 @@
             Як повинно діяти судно,
             якому при зустрічному плаванні чи при перетині курсів дають дорогу?
         </section>
-        <section class="answer" data-correct="data-correct">Пройти наиболее быстро участок не нарушая скоростного режима</section>
+        <section class="answer" data-correct="data-correct">Пройти найбільш швидко ділянку не порушуючи швидкісного режиму</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.17">
+    <section class="question" number="4.17">
         <section class="text">
             Як повинні поступити судна, які мають радіотелефонний зв'язок, при розходженні або обгоні?
         </section>
-        <section class="answer" data-correct="data-correct">Выйти на радиосвязь и договориться про борт расхождения</section>
+        <section class="answer" data-correct="data-correct">Домовитися про найбільш зручне місце і
+        узгодити борт розходження або обгону</section>
+        <section class="answer">Пройти найбільш швидко ділянку не порушуючи швидкісного режиму</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.18">
+    <section class="question" number="4.18">
         <section class="text">
             У яких випадках швидкісні судна можуть рухатися у неводотоннажному положенні?
         </section>
-        <section class="answer" data-correct="data-correct">У світлий час доби</section>
+        <section class="answer" data-correct="data-correct">У світлий час доби
+        з видимістю навігаційного обладнання не менш ніж 1 км.</section>
+        <section class="answer" data-correct="data-correct">У світлий час доби
+        з видимістю навігаційного обладнання не менш ніж 2 км.</section>
         <section class="description">
         </section>
     </section>
@@ -5340,11 +5410,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.25">
+    <section class="question" number="5.25">
         <section class="text">
             Що являється дозвільним сигналом заходу суден до причальних пірсів?
         </section>
         <section class="answer" data-correct="data-correct">Зеленый светофор</section>
+        <section class="answer">Відмашка/дозвіл по радіозв’язку диспетчера</section>
         <section class="description">
         </section>
     </section>
