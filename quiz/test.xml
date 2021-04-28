@@ -1099,6 +1099,8 @@
         <section class="answer">Швидкість, яка дозволяє в будь-який момент зменшити або змінити швидкість судна</section>
         <section class="answer">Швидкість, яка обмежується умовами обстановки або правилами плавання</section>
         <section class="description">
+            Швидкість під час якої забезпечується нормальний рух судна і своєчасна його зупинка.<br/>
+            Не повільно (втрачається керованість), не швидко (виникає велика інерція).
             <blockquote class="blockquote">
                 <p>Безпечна швидкість корабля - швидкість, при слідуванні з якої може бути зроблено належну і
                 необхідну дію для попередження зіткнення.</p>
@@ -1127,11 +1129,14 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.55">
+    <section class="question" number="1.55">
         <section class="text">
             У який строк судновласники повинні зареєструвати маломірне (мале) судне після купівлі?
         </section>
         <section class="answer" data-correct="data-correct">Протягом 10 днів</section>
+        <section class="answer">Протягом 3 днів</section>
+        <section class="answer">Протягом 14 днів</section>
+        <section class="answer">Протягом 24 днів</section>
         <section class="description">
         </section>
     </section>
@@ -1156,29 +1161,40 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.57">
+    <section class="question" number="1.57">
         <section class="text">
             У яких місцях заборонено обгін маломірного судна?
         </section>
-        <section class="answer" data-correct="data-correct">Де заборонено нормативним актом, де існує небезпека зіткнення</section>
+        <section class="answer" data-correct="data-correct">У всіх перелічених варіантах</section>
+        <section class="answer">У вузькостях</section>
+        <section class="answer">При видимості менш ніж 1 км</section>
+        <section class="answer">Під мостами та у 100 м зоні яка прилягає до мостів</section>
+        <section class="answer">Коли два судна на траверзі</section>
         <section class="description">
+            Де заборонено нормативним актом, де існує небезпека зіткнення
         </section>
     </section>
-    <section class="question not-ready" number="1.58">
+    <section class="question" number="1.58">
         <section class="text">
             За яких умов дозволяється вихід маломірних (малих) суден?
         </section>
-        <section class="answer" data-correct="data-correct">Все доки (4), трезв, номер, название, 18 лет,
-        соответствующее оборудование и комплектация, светлое время суток в городе, норм тех состояние</section>
+        <section class="answer" data-correct="data-correct">При всіх перелічених варіантах</section>
+        <section class="answer">За сприятливих погодних умов</section>
+        <section class="answer">На технічно справному судні</section>
+        <section class="answer">При наявності устаткування та обладнання</section>
+        <section class="answer">За наявності суднових документів та посвідчення водія</section>
         <section class="description">
+            Все доки (4), трезв, номер, название, 18 лет, соответствующее оборудование и комплектация,
+            светлое время суток в городе, норм тех состояние
         </section>
     </section>
-    <section class="question not-ready" number="1.59">
+    <section class="question" number="1.59">
         <section class="text">
             Що повинен зробити судноводій перед виходом у плавання?
         </section>
-        <section class="answer" data-correct="data-correct">Проверить тех состояние и обороудование. Прогноз погоды (реч информ 16 радиоканал)</section>
+        <section class="answer" data-correct="data-correct">Перевірити справність і комплектність обладнання судна, рятувальних засобів, весел, тощо</section>
         <section class="description">
+            + Прогноз погоди (16 радіоканал)
         </section>
     </section>
     <section class="question" number="1.60">
@@ -3521,20 +3537,46 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.19">
+    <section class="question" number="2.19">
         <section class="text">
             З яких основних засобів можна отримати навігаційну інформацію?
         </section>
-        <section class="answer" data-correct="data-correct">Навігаційні карти (паперові або електронні),
-        повідомлення по рації</section>
+        <section class="answer" data-correct="data-correct">Радіо повідомлення у вигляді ПРИП, НАВШ та НАВАРЕА,
+        а також в друкарському вигляді Сповіщення мореплавцям</section>
         <section class="description">
+            <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%90%D0%92%D0%A2%D0%95%D0%9A%D0%A1" target="_blank">
+            НАВТЕКС (wiki)</a><br/>
+            <a href="https://hydro.gov.ua/?page_id=144" target="_blank">
+            Прибережні попередження. Діючі ПРИПи (Coastal Warning)</a>
+            <hr/>
+            <blockquote class="blockquote">
+                <p>Повідомлення мореплавцям (далі — ПМ України) – офіційне видання (48 випусків на рік), яке
+                видається з метою своєчасного оповіщення судноводіїв про зміни у навігаційній обстановці і
+                режимі плавання. Містить державну, правову, довідкову, навігаційну та іншу інформацію, необхідну
+                для забезпечення безпеки судноплавства у морському регіоні та на внутрішніх водних шляхах України.</p>
+                <p>Інформаційне забезпечення безпеки судноплавства у морському регіоні та на внутрішніх водних
+                шляхах України здійснює ДУ "Держгідрографія".</p>
+                <p>Відомості, опубліковані у ПМ України, є обов’язковими до виконання усіма судноводіями.</p>
+                <div class="blockquote-footer">
+                    <a href="https://www.charts.gov.ua/pm_ua.htm" target="_blank">
+                    Повідомлення мореплавцям</a>
+                    <cite title="Source Title">Філія державної установи "Держгідрографія" "Укрморкартографія"</cite>
+                </div>
+            </blockquote>
+            <a href="https://www.charts.gov.ua/pm_arhive_ua.htm" target="_blank">
+            Бази даних ПМ України</a>
+            <hr/>
+            <p>Навігаційні карти (паперові або електронні), повідомлення по рації</p>
         </section>
     </section>
     <section class="question" number="2.20">
         <section class="text">
             Одиницею виміру яких відстаней на морі є - кабельтов?
         </section>
-        <section class="answer" data-correct="data-correct">Довжини</section>
+        <section class="answer" data-correct="data-correct">Невеликих відстаней на морі</section>
+        <section class="answer">Великих відстаней на морі</section>
+        <section class="answer">Невеликих відстаней на річках</section>
+        <section class="answer">Великих відстаней на річках</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p class="mb-0">
@@ -4232,12 +4274,18 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.24">
+    <section class="question" number="3.24">
         <section class="text">
             Які види робіт відносяться до суднових такелажних робіт?
         </section>
-        <section class="answer" data-correct="data-correct">Підйом, переміщення і кріплення вантажів</section>
+        <section class="answer" data-correct="data-correct">Догляд за рангоутом, оснащення і ремонт канатів, в'язання вузлів</section>
+        <section class="answer">Підйом, переміщення і кріплення вантажів</section>
         <section class="description">
+            Роботи по догляду за
+            <a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%B3%D0%BE%D1%83%D1%82" target="_blank">
+            рангоутом (wiki)</a>, оснащення і ремонт канатів, виготовлення
+            <a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%B3%D0%BE%D0%BD" target="_blank">
+            огонів (wiki)</a>, в'язання вузлів
         </section>
     </section>
     <section class="question" number="3.26">
@@ -4276,21 +4324,25 @@
             установленный в кормовой части, называется ахтерштевнем.
         </section>
     </section>
-    <section class="question not-ready" number="3.29">
+    <section class="question" number="3.29">
         <section class="text">
-            Якими конструктивними елементами забезпечується
-            загальна поздовжня міцність корпусу?
+            Якими конструктивними елементами забезпечується загальна поздовжня міцність корпусу?
         </section>
-        <section class="answer" data-correct="data-correct">Киль, стрингер, карлингс</section>
+        <section class="answer" data-correct="data-correct">Кіль, стрингер, карлінгс</section>
         <section class="description">
+            Зовнішньою обшивкою, настилом палуб, перегородками і зв'язками, які мають довжину більше висоти борту
         </section>
     </section>
-    <section class="question not-ready" number="3.30">
+    <section class="question" number="3.30">
         <section class="text">
-            З якою періодичністю проводиться технічне обслуговування
-            акумуляторних батарей на МС?
+            З якою періодичністю проводиться технічне обслуговування акумуляторних батарей на МС?
         </section>
-        <section class="answer" data-correct="data-correct">1 чи 2 рази на місяць</section>
+        <section class="answer" data-correct="data-correct">Не менше одного разу на місяць</section>
+        <section class="answer">Не менше двох разів на місяць</section>
+        <section class="answer">Не менше одного разу на два місяці</section>
+        <section class="answer">Не менше одного разу на квартал</section>
+        <section class="answer">Не менше одного разу на пів року</section>
+        <section class="answer">Не менше одного разу на рік</section>
         <section class="description">
         </section>
     </section>
@@ -4466,11 +4518,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.46">
+    <section class="question" number="3.46">
         <section class="text">
             Швартовні і буксирні пристрої на маломірному судні?
         </section>
-        <section class="answer" data-correct="data-correct">Лебедки, брашпель, шпиль</section>
+        <section class="answer" data-correct="data-correct">Кнехти, кіпові планки, хрестові кнехти</section>
+        <section class="answer">Лебедки, брашпель, шпиль</section>
         <section class="description">
         </section>
     </section>
@@ -4482,12 +4535,16 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.48">
+    <section class="question" number="3.48">
         <section class="text">
             Що називається транцем?
         </section>
         <section class="answer" data-correct="data-correct">Місце на кормі для підвісного мотора</section>
+        <section class="answer">Кормова частина палуби</section>
+        <section class="answer">Внутрішній відкритий простір човна</section>
+        <section class="answer">Тип пайола</section>
         <section class="description">
+            Дошка або перебірка в кормовій частині до якої може кріпитись підвісний мотор
         </section>
     </section>
     <section class="question not-ready" number="3.49">
@@ -4711,38 +4768,50 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.9">
+    <section class="question" number="4.9">
         <section class="text">
             Як діяти при сильному хвилюванні повертаючи судно під вітер?
         </section>
-        <section class="answer" data-correct="data-correct">Движение галсами. Носом на высокую волну, бортом на низкую</section>
+        <section class="answer" data-correct="data-correct">Швидкість збільшити а далі підбирати її з урахуванням попутного хвилювання</section>
+        <section class="answer">Рух гаслами. Носом на високу хвилю, бортом на низьку</section>
+        <section class="answer">Поворот починати на зменшеній швидкості з подальшим її збільшенням</section>
+        <section class="answer">Підвищені обороти. Перекладання керма максимально швидка</section>
         <section class="description">
+            Сенс: до мінімуму звести положення судна бортом до вітру. А після розвороту
+            підібрати так швидкість, щоб не підніматися на хвилю, а котитися з неї
         </section>
     </section>
-    <section class="question not-ready" number="4.10">
+    <section class="question" number="4.10">
         <section class="text">
             Як діяти при сильному хвилюванні повертаючи судно на вітер?
         </section>
-        <section class="answer" data-correct="data-correct">Повышенные обороты. Перекладка руля максимально быстрая</section>
+        <section class="answer" data-correct="data-correct">Поворот починати на зменшеній швидкості з подальшим її збільшенням</section>
+        <section class="answer">Підвищені обороти. Перекладання керма максимально швидка</section>
+        <section class="answer">Швидкість збільшити а далі підбирати її з урахуванням попутного хвилювання</section>
+        <section class="answer">Рух гаслами. Носом на високу хвилю, бортом на низьку</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.11">
+    <section class="question" number="4.11">
         <section class="text">
             Яка з сил, що діють на перо керма, змінює напрямок руху судна
             під час перекладання його на деякий кут від ДП?
         </section>
-        <section class="answer" data-correct="data-correct">Сила упора винта</section>
+        <section class="answer" data-correct="data-correct">Сила, що діє перпендикулярно напрямку руху судна</section>
+        <section class="answer">Сила упору гвинта</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.12">
+    <section class="question" number="4.12">
         <section class="text">
             Яка команда подається на кермо при наближенні судна
             до призначеного курсу і кермо встановлюється в ДП?
         </section>
-        <section class="answer" data-correct="data-correct">Прямо руль</section>
+        <section class="answer" data-correct="data-correct">Відводити</section>
+        <section class="answer">Одержувати</section>
+        <section class="answer"></section>
         <section class="description">
+            Прямо руль
         </section>
     </section>
     <section class="question not-ready" number="4.13">
@@ -4816,8 +4885,8 @@
             Хто з 2-х малих суден, курси яких перетинаються таким чином,
             що може виникнути небезпека зіткнення, повинен звільнити дорогу?
         </section>
-        <section class="answer" data-correct="data-correct">Судно, яке має інше судно на своїй правій стороні</section>
-        <section class="answer">Судно, яке має інше судно на своїй лівій стороні</section>
+        <section class="answer" data-correct="data-correct">Моторні судна вітрильним та гребним</section>
+        <section class="answer">Моторні судна вітрильним, а гребні моторним</section>
         <section class="answer">Судно, в якого менша швидкість</section>
         <section class="answer">Судно, яке менше</section>
         <section class="description">
@@ -5306,57 +5375,73 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.13">
+    <section class="question" number="5.13">
         <section class="text">
             На що потрібно приділяти особливу увагу при стоянці судна біля причалу?
         </section>
-        <section class="answer" data-correct="data-correct">На волнение</section>
+        <section class="answer" data-correct="data-correct">На натягнення швартових тросів та підтримання їх у стані нормального натягнення</section>
         <section class="description">
+            Якщо буде відлив, то троси можуть натягнуться і судно отримає непотрібний крен.<br/>
+            Якщо троса послабнуть і при цьому існує вітер і хвиля, то судно може битися об пірс.
         </section>
     </section>
-    <section class="question not-ready" number="5.14">
+    <section class="question" number="5.14">
         <section class="text">
             Які існують варіанти відходу маломірних суден від місця швартування?
         </section>
-        <section class="answer" data-correct="data-correct">Носом, бортом, кормой в зависимости от внешнийх условий и тех.характеристик судна</section>
+        <section class="answer" data-correct="data-correct">Носом, кормою, на веслах</section>
         <section class="description">
+            Носом, бортом, кормою в залежності від зовнішніх умов і тех.характеристики судна
         </section>
     </section>
-    <section class="question not-ready" number="5.15">
+    <section class="question" number="5.15">
         <section class="text">
             Які повинні бути умови до вибору місця якірної стоянки судна?
         </section>
-        <section class="answer" data-correct="data-correct">Не кидать в зоне действия знака "якарь не кидать" (+/- 200м).
-        Не кидать в 200 метровой зоне по обе стороны от мостов, не на суд.ходе (-25 м от кромки).
-        Учесть грунт. Безопастное</section>
+        <section class="answer" data-correct="data-correct">Всі з перерахованих</section>
+        <section class="answer">Рівне піщане дно</section>
+        <section class="answer">Обов'язково за межами суднового ходу</section>
+        <section class="answer">На слабкій течії</section>
+        <section class="answer">Місце захищене від сильного вітру і хвилі</section>
         <section class="description">
+            <p>Не кидати в зоні дії знаку "якір не кидати", 200м. Не кидати в 200 метровій зоні по обидва боки
+            від мостів, не на суд. ході, 25 м від кромки. Врахувати грунт. Безпечне.</p>
+            <p>Для того, щоб якір лежав на грунті і правильно працював необхідно витравити якірний кінець
+            принаймні 3 глибини, а то і 5.</p>
+            <p>Якщо зміниться вітер, то судно може сильно змінювати положення - потрібно передбачити щоб судно
+            не сіло на мілину біля берега або не натрапило на перешкоду (окружність відносно якоря).</p>
         </section>
     </section>
-    <section class="question not-ready" number="5.16">
+    <section class="question" number="5.16">
         <section class="text">
             У яких місцях ММС забороняється ставати на якір?
         </section>
-        <section class="answer" data-correct="data-correct">Не кидать в зоне действия знака "якарь не кидать" (+/- 200м).
-        Не кидать в 200 метровой зоне по обе стороны от мостов, не на суд.ходе (-25 м от кромки).</section>
+        <section class="answer" data-correct="data-correct">У всіх перерахованих місцях</section>
+        <section class="answer">У межах суднового ходу і 20 м від нього</section>
+        <section class="answer">Ближче 500 м від мостів</section>
+        <section class="answer">Ближче 20 м від причалів та дебаркадерів</section>
+        <section class="answer">На акваторіях портів</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.17">
+    <section class="question" number="5.17">
         <section class="text">
             Що включає підготовку маломірного судна до постановки на якір?
         </section>
-        <section class="answer" data-correct="data-correct">Подготовка якорного устройства и выбор места.
-        Выполнение маневра при подходе к якорной стоянке</section>
+        <section class="answer" data-correct="data-correct">Підготовка якоря, розмотка якірного канату і
+        заведення його через якірний пристрій</section>
         <section class="description">
+            Підготовка якірного пристрою і вибір місця. Виконання маневру при підході до якірної стоянки.
         </section>
     </section>
-    <section class="question not-ready" number="5.18">
+    <section class="question" number="5.18">
         <section class="text">
             Яка процедура постановки судна на якір?
         </section>
-        <section class="answer" data-correct="data-correct">Подготовка якорного устройства и выбор места.
-        Выполнение маневра при подходе к якорной стоянке</section>
+        <section class="answer" data-correct="data-correct">Зупинити судно, спустити якір, закріпити канат</section>
         <section class="description">
+            Стати носом до течії, зупинити судно, надати повільний дрейф назад, спустити якір, потім закріпити канат.
+            Для надійного утримання човна витравити якірну мотузку потрібно хоча б на 3 глибини.
         </section>
     </section>
     <section class="question not-ready" number="5.19">
@@ -5437,30 +5522,36 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.28">
+    <section class="question" number="5.28">
         <section class="text">
             З якою швидкістю дозволяється входити до шлюзу?
         </section>
-        <section class="answer" data-correct="data-correct">Не более 5 км/ч</section>
+        <section class="answer" data-correct="data-correct">Не більш 5 км/год</section>
+        <section class="answer">Не більш 10 км/год</section>
+        <section class="answer">Не більш 15 км/год</section>
+        <section class="answer">Не більш 20 км/год</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.29">
+    <section class="question" number="5.29">
         <section class="text">
-            Де дозволяється швартування суден у підхідному каналі
-            при очікуванні шлюзування?
+            Де дозволяється швартування суден у підхідному каналі при очікуванні шлюзування?
         </section>
         <section class="answer" data-correct="data-correct">Возле причальных пирсов если есть разрешающий сигнал светофора</section>
         <section class="description">
+          Та у обладнаних місцях-стоянках
         </section>
     </section>
-    <section class="question not-ready" number="5.30">
+    <section class="question" number="5.30">
         <section class="text">
             У яких випадках припиняється тимчасове шлюзування малих суден через шлюзи?
         </section>
-        <section class="answer" data-correct="data-correct">Нет доков, нет оплаты, неисправное судно, опьянение,
-        пассажиров больше чем доступно и т.д.</section>
+        <section class="answer" data-correct="data-correct">Сила вітру більш 3-х балів, видимість менш за 500 м</section>
+        <section class="answer">Сила вітру більш 3-х балів, видимість менш за 1000 м</section>
+        <section class="answer">Сила вітру більш 4-х балів, видимість менш за 500 м</section>
+        <section class="answer">Сила вітру більш 4-х балів, видимість менш за 1000 м</section>
         <section class="description">
+            Немає доків, немає оплати, несправне судно, сп'яніння, пасажирів більше ніж доступно і т.д.
         </section>
     </section>
     <section class="question not-ready" number="5.32">
@@ -5705,6 +5796,7 @@
         <section class="answer" data-correct="data-correct">Антициклон</section>
         <section class="answer">Циклон</section>
         <section class="description">
+            Антициклон нам несе хорошу погоду, циклон - погіршення
         </section>
     </section>
     <section class="question" number="6.14">
@@ -5729,10 +5821,12 @@
             Яку назву має рух повітря у горизонтальному напрямку,
             якщо воно рухається з області високого тиску до області низького тиску?
         </section>
-        <section class="answer" data-correct="data-correct">Бриз</section>
+        <section class="answer" data-correct="data-correct">Вітер</section>
+        <section class="answer">Бриз</section>
         <section class="answer">Антициклон</section>
         <section class="answer">Циклон</section>
         <section class="description">
+            Повітря не може рухатись з області низького тиску в область високого.
         </section>
     </section>
     <section class="question" number="6.16">
@@ -6158,20 +6252,23 @@
             или навигационными / оптическими приборами.
         </section>
     </section>
-    <section class="question not-ready" number="7.9">
+    <section class="question" number="7.9">
         <section class="text">
             Які напрямки наносяться або знімаються на навігаційних мапах?
         </section>
-        <section class="answer" data-correct="data-correct">С, Ю, З, В, СВ, ЮВ, СЗ, ЮЗ</section>
+        <section class="answer" data-correct="data-correct">Істинний курс, істинний пеленг та зворотній істинний пеленг</section>
+        <section class="answer">С, Ю, З, В, СВ, ЮВ, СЗ, ЮЗ</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="7.10">
+    <section class="question" number="7.10">
         <section class="text">
-            У яких межах вимірюється курсовий кут (КУ)
-            на орієнтир відносно діаметральної плоскості судна?
+            У яких межах вимірюється курсовий кут (КУ) на орієнтир відносно діаметральної плоскості судна?
         </section>
-        <section class="answer" data-correct="data-correct">От ДП и направлением на объект</section>
+        <section class="answer" data-correct="data-correct">180° лівого та правого борту судна</section>
+        <section class="answer">90° лівого та правого борту судна</section>
+        <section class="answer">120° лівого та правого борту судна</section>
+        <section class="answer">360°</section>
         <section class="description">
         </section>
     </section>
@@ -6653,12 +6750,13 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.9">
+    <section class="question" number="8.9">
         <section class="text">
             Якими способами та приладами спускаються на воду рятувальні плоти?
         </section>
-        <section class="answer" data-correct="data-correct">Спусковой линь, гидростат</section>
-        <section class="answer">Спусковые лебедки и кранбалки</section>
+        <section class="answer" data-correct="data-correct">За допомогою сплітбалок і за рахунок скидання</section>
+        <section class="answer">Спусковим лином, гідростатом</section>
+        <section class="answer">За допомогою спускових лебідок і кранбалками</section>
         <section class="description">
         </section>
     </section>
@@ -7434,7 +7532,7 @@
             Які дії повинен зробити судноводій, якщо під час руху судна,
             видимість різко зменшилась менше ніж на 500 метрів?
         </section>
-        <section class="answer" data-correct="data-correct">Швартуватись до берега</section>
+        <section class="answer" data-correct="data-correct">Припинити рух здійснивши пошук укриття</section>
         <section class="answer">Слідувати на базу, обравши безпечну швидкість</section>
         <section class="answer">Продовжити рух, зважаючи на слабку видимість та обравши безпечну швидкість</section>
         <section class="description">
@@ -7770,23 +7868,32 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="10.10">
+    <section class="question" number="10.10">
         <section class="text">
             Як підходити до аварійного судна,
             що має великий диферент (на ніс, корму) для надання допомоги людям?
         </section>
-        <section class="answer" data-correct="data-correct">Со стороны куда деферент</section>
+        <section class="answer" data-correct="data-correct">Підходити носом з підвітряної сторони, швартовий
+        тримати в руках, людей знімати за допомогою кінця або кола (швартовий не кріпити до свого судна, мати
+        можливість бросити)</section>
         <section class="description">
+            Підходити до піднятої частини, якщо диферент на корму, то підходити до носу, частини що вище.
+            З під вітру - сховатись від хвилі та вітру за аварійне судно. Швартуватись до аварійного судна
+            не можна тому, що воно в будь-яку секунду може повести себе неочікувано погано.
         </section>
     </section>
-    <section class="question not-ready" number="10.11">
+    <section class="question" number="10.11">
         <section class="text">
             Які дії, виконуються при надані допомоги аварійному судну,
             під час сильного вітру і хвилюванні, якщо воно втратило хід і керованість?
         </section>
-        <section class="answer" data-correct="data-correct">Взять на буксир и отбуксировать до берега или мели,
-        что бы оно не затонуло</section>
+        <section class="answer" data-correct="data-correct">Взяти на буксир і відбуксирувати до берега або мілини,
+        що б воно не затонуло</section>
+        <section class="answer">Зняти людей а після зайнятись судном</section>
         <section class="description">
+            <p>Не ризикувати зняттям людей а взяти судно на буксир для доставки його до берега або захищеного місця.</p>
+            <p>Слід розуміти, що легке судно дуже складно буксирує важке. Якщо у вас в човні тільки ви, а в
+            буксируваному 5 осіб, то можливо варто людей взяти собі і буксирувати важким судном легке.</p>
         </section>
     </section>
     <section class="question not-ready" number="10.12">
