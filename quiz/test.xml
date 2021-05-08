@@ -4083,7 +4083,8 @@
         <section class="text">
             Для чого призначеній рульовий пристрій судна?
         </section>
-        <section class="answer" data-correct="data-correct">Для управління судном під час руху</section>
+        <section class="answer" data-correct="data-correct">Для управління судном під час руху
+        та забезпечення повороткості і стійкості на курсі</section>
         <section class="answer">Для постановки судна на якір</section>
         <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
         <section class="description">
@@ -4128,16 +4129,18 @@
             Яке призначення осушної системи судна?
         </section>
         <section class="answer" data-correct="data-correct">Для періодичного видалення невеликої кількості води з корпусу</section>
+        <section class="answer">Для видалення великої кількості води з судна</section>
         <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
         <section class="answer">Для утримання судна на місці при стоянці</section>
         <section class="answer">Для постановки судна на якір</section>
         <section class="answer">Для управління судном під час руху</section>
         <section class="description">
-            <b>Осушительная система</b> - система для периодического удаления небольшого количества воды из корпуса.
+            <p>Для видалення великої кількості води - водовідливна сис-ма.</p>
+            <p><b>Осушительная система</b> - система для периодического удаления небольшого количества воды из корпуса.
             Вода собирается в колодцах, расположенных в самых низких местах корпуса, из которых насосами
             откачивается либо за борт, либо в резервуары для приема льяльных вод. Осушительная система состоит
-            из насоса с механическим приводом и (или) насоса с ручным приводом, который может быть переносным.<br/><br/>
-            Осушительными средствами должно быть обеспечено каждое маломерное судно, находящееся в эксплуатации.
+            из насоса с механическим приводом и (или) насоса с ручным приводом, который может быть переносным.</p>
+            <p>Осушительными средствами должно быть обеспечено каждое маломерное судно, находящееся в эксплуатации.</p>
         </section>
     </section>
     <section class="question" number="3.14">
@@ -4152,12 +4155,13 @@
         <section class="answer">Для постановки судна на якір</section>
         <section class="answer">Для управління судном під час руху</section>
         <section class="description">
-            Для предупреждения пожара и тушения их, на маломерных судах предусматривается наличие
+            <p>Для запобігання пожежі, <b>оповіщення</b> та її гасіння.</p>
+            <p>Для предупреждения пожара и тушения их, на маломерных судах предусматривается наличие
             <b>противопожарных</b> сигнализационных устройств, стационарных систем и переносных средств
             пожаротушения, автоматически срабатывающих огнетушителей. Основными причинами возникновения
             пожаров на маломерных судах является возгорание топлива при его потеках или подсланевых вод
             в трюмах, покрытых пленкой бензина с достаточно большим слоем его паров в отсеке при
-            отсутствии вентиляции.
+            отсутствии вентиляции.</p>
         </section>
     </section>
     <section class="question" number="3.15">
@@ -4167,7 +4171,7 @@
         <section class="answer" data-correct="data-correct">Конструктивними рішеннями - діленням корпусу
         на водонепроникні відсіки, обладнанням судна блоками плавучості і водовідливними засобами</section>
         <section class="description">
-            <p><b>Непотопляемость</b> - это способность судна после затопления части судна сохранять плавучесть.</p>
+            <p><b>Непотопляемость</b> - это способность судна <b>после затопления части судна</b> сохранять плавучесть.</p>
             <p>Непотопляемость обеспечивается конструктивно - делением корпуса на водонепроницаемые отсеки,
             оборудованием судна блоками плавучести и водоотливными средствами.</p>
             <p>Незатапливаемые объемы корпуса чаще всего представляют собой блоки из пенопласта. Необходимое
@@ -4695,12 +4699,22 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.1">
+    <section class="question" number="4.1">
         <section class="text">
             У чому полягають особливі умови плавання на ММС?
         </section>
-        <section class="answer" data-correct="data-correct">Плавання за межами фарватеру</section>
+        <section class="answer" data-correct="data-correct">Всі з перечислених</section>
+        <section class="answer">Мала висота огляду судноводія</section>
+        <section class="answer">Вплив гідрометеорологічних умов</section>
+        <section class="answer">Обмежене застосування засобів навігації</section>
+        <section class="answer">Схильність до "присмоктування" до великих суден</section>
+        <section class="answer">Труднощі виконання суднових робіт</section>
         <section class="description">
+            <p>Мала висота огляду судноводія - бувають хвилі з-за яких нічого не видно.</p>
+            <p>Вплив гідрометеорологічних умов - відсутня рубка, нема де сховатись як від дощу та холоду, так і від спеки.</p>
+            <p>Обмежене застосування засобів навігації - буває важко дістати навіть телефон.</p>
+            <p>Схильність до "присмоктування" до великих суден.</p>
+            <p>Труднощі виконання суднових робіт - слизька палуба, обмежений простір.</p>
         </section>
     </section>
     <section class="question not-ready" number="4.2">
@@ -4719,11 +4733,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.4">
+    <section class="question" number="4.4">
         <section class="text">
             Як діє течія на керованість судном?
         </section>
-        <section class="answer" data-correct="data-correct">Зносить судно з курсу</section>
+        <section class="answer" data-correct="data-correct">Течія є кращою умовою на керованість при русі проти течії і гіршою - за течією</section>
+        <section class="answer">Течія є кращою умовою на керованість при русі за течією і гіршою - проти течії</section>
         <section class="description">
         </section>
     </section>
@@ -4731,7 +4746,7 @@
         <section class="text">
             Під впливом, яких чинників відбувається "дрейф судна"?
         </section>
-        <section class="answer" data-correct="data-correct">Під впливом вітру або течії</section>
+        <section class="answer" data-correct="data-correct">Під спільним впливом вітру, течії і хвилювання</section>
         <section class="description">
             <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
             Дрейф (вікі)</a> - знесення судна з лінії його курсу під впливом вітру,
@@ -4742,10 +4757,8 @@
         <section class="text">
             Які фактори впливають на величину дрейфу судна?
         </section>
-        <section class="answer" data-correct="data-correct">
-            Напрямок та сила вітру або течії;
-            розміри та форма підводної і надводної частин корпусу;
-            курс та швидкість судна
+        <section class="answer" data-correct="data-correct">Напрямок та сила вітру або течії;
+            розміри та форма підводної і надводної частин корпусу; курс та швидкість судна
         </section>
         <section class="description">
             <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
@@ -5289,30 +5302,37 @@
     </section>
     <section class="question" number="5.1">
         <section class="text">
-            Чи дозволяється ММС заходити в акваторії портів,
-            суднобудівних заводів, терміналів?
+            Чи дозволяється ММС заходити в акваторії портів, суднобудівних заводів, терміналів?
         </section>
-        <section class="answer" data-correct="data-correct">Запрещено</section>
-        <section class="answer">Разрешено</section>
+        <section class="answer" data-correct="data-correct">Заборонено</section>
+        <section class="answer">Дозволено</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.2">
+    <section class="question" number="5.2">
         <section class="text">
             На якій відстані дозволяється рухатись ММС від причалів портів,
             суднобудівних заводів, терміналів?
         </section>
-        <section class="answer" data-correct="data-correct">Не ближе 200 м</section>
+        <section class="answer" data-correct="data-correct">Не ближе 250 м</section>
+        <section class="answer">Не ближе 50 м</section>
+        <section class="answer">Не ближе 100 м</section>
+        <section class="answer">Не ближе 200 м</section>
+        <section class="answer">Не ближе 500 м</section>
+        <section class="answer">Не ближе 1000 м</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.3">
+    <section class="question" number="5.3">
         <section class="text">
             У який час доби дозволяється заходити в акваторію пасажирської
             та вантажної дільниці річкового порту?
         </section>
-        <section class="answer" data-correct="data-correct">Маломерным запрещено, полоразмерным в любое время суток</section>
+        <section class="answer" data-correct="data-correct">Заборонено в будь-який час</section>
+        <section class="answer">Дозволено в будь-який час</section>
+        <section class="answer">Дозволено тільки в світлий час доби</section>
         <section class="description">
+            Маломірним заборонено, повнорозмірним в будь-який час доби
         </section>
     </section>
     <section class="question not-ready" number="5.4">
@@ -5341,28 +5361,38 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="5.7">
+    <section class="question" number="5.7">
         <section class="text">
             Як називається підхід маломірного судна до причалу?
         </section>
-        <section class="answer" data-correct="data-correct">Швартовка</section>
+        <section class="answer" data-correct="data-correct">Привал</section>
+        <section class="answer">Швартовка</section>
         <section class="description">
+            Відхід - відвал.
         </section>
     </section>
-    <section class="question not-ready" number="5.8">
+    <section class="question" number="5.8">
         <section class="text">
             Які дії потрібно виконати по підготовці судна до швартування?
         </section>
-        <section class="answer" data-correct="data-correct">Швартовые концы, кранцы, шпиль/брашпиль Переконатися в ісправності швартового обладнення</section>
+        <section class="answer" data-correct="data-correct">Усі перераховані дії</section>
+        <section class="answer">Перевірити двигун в маневровому режимі</section>
+        <section class="answer">Перевірити швартовні механізми і кінці</section>
+        <section class="answer">Підготувати якір, кидальні кінці, кранці,
+        огони швартових провести через клюзи та завернути їх до палуби</section>
         <section class="description">
+            Огон - петля на кінці швартова. Клз - отвір в фальшборту.
         </section>
     </section>
-    <section class="question not-ready" number="5.9">
+    <section class="question" number="5.9">
         <section class="text">
             Що потрібно враховувати при швартуванні судна до причалу?
         </section>
-        <section class="answer" data-correct="data-correct">Ветер, течение и инерционные характеристики судна</section>
+        <section class="answer" data-correct="data-correct">Вітер, течію і інерційні характеристики судна</section>
         <section class="description">
+            <p>Крок обертання гвинта, напрям вітру і течії, швидкість судна і його енерцію.</p>
+            <p>Крім того, що гвинт штовхає судно вперед (назад), він трошки працює і як колесо -
+            зносить корму в сторону обертання (мова про стаціонарні мотори та керування за рахунок пера).</p>
         </section>
     </section>
     <section class="question" number="5.10">
@@ -5673,11 +5703,14 @@
             <img src="/quiz/img/5.41.jpg"/>
         </section>
     </section>
-    <section class="question not-ready" number="6.1">
+    <section class="question" number="6.1">
         <section class="text">
             Яке значення має метеорологія для судноводіння?
         </section>
-        <section class="answer" data-correct="data-correct">Для безопастности</section>
+        <section class="answer" data-correct="data-correct">Усі перераховані варіанти</section>
+        <section class="answer">Забезпечення безпеки плавання</section>
+        <section class="answer">Скорочення часу переходу</section>
+        <section class="answer">Здійснення плавання у більш сприятливих умовах</section>
         <section class="description">
         </section>
     </section>
@@ -5715,16 +5748,19 @@
         <section class="answer">Погіршення погоди</section>
         <section class="answer">Скоро буде короткочасний дощ</section>
         <section class="description">
+            Якщо високий тиск, то вітер від вас, у вас хорошо і тихо
         </section>
     </section>
     <section class="question" number="6.5">
         <section class="text">
             В чому проявляються основні признаки зміни погоди до поліпшення?
         </section>
-        <section class="answer" data-correct="data-correct">Росте атмосферний тиск,
-        Світлішають хмари, теплішає, вітер слабшає</section>
+        <section class="answer" data-correct="data-correct">Росте атмосферний тиск</section>
         <section class="answer">Падає атмосферний тиск</section>
         <section class="description">
+            <p>Поліпшення - росте атмосферний тиск, світлішають хмари, теплішає, вітер слабшає.</p>
+            <p>Якщо напрямок вітру змінюється за годинниковою стрілкою?, разом с Сонцем - поліпшення.
+            Навпаки - можливе погіршення.</p>
         </section>
     </section>
     <section class="question" number="6.6">
@@ -5736,8 +5772,10 @@
         <section class="answer">780 мм рт. ст. (на рівні моря)</section>
         <section class="answer">810 мм рт. ст. (на рівні моря)</section>
         <section class="description">
-            Нормальним <a href="https://uk.wikipedia.org/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D1%81%D0%BA" target="_blank">
-            атмосферним тиском (вікі)</a> називають тиск в 760 мм рт. ст. (на рівні моря географічної широти 45°).
+            <p>Нормальним <a href="https://uk.wikipedia.org/wiki/%D0%90%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D1%81%D0%BA" target="_blank">
+            атмосферним тиском (вікі)</a> називають тиск в 760 мм рт. ст. (на рівні моря географічної широти 45°).</p>
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D1%96%D1%81%D1%82%D0%B0_%D0%A2%D0%BE%D1%80%D1%80%D1%96%D1%87%D0%B5%D0%BB%D0%BB%D1%96#%D0%94%D0%BE%D1%81%D0%BB%D1%96%D0%B4_%D0%A2%D0%BE%D1%80%D1%80%D1%96%D1%87%D0%B5%D0%BB%D0%BB%D1%96" target="_blank">
+            Дослід Торрічеллі (вікі)</a> - побудова примітивного ртутного барометра, першого в історії.</p>
         </section>
     </section>
     <section class="question" number="6.7">
@@ -5949,10 +5987,11 @@
         <section class="answer">Через розсіювання грозових осередків</section>
         <section class="answer">Через появу зони розрідження куди втягується довколишнє тепле вологе повітря, що призводить до виділення значної енергії</section>
         <section class="description">
-            Основною причиною виникнення
+            <p>При проходженні холодного фронту, появі міцних купчасто-дощових хмар, випадання зливових опадів.</p>
+            <p>Основною причиною виникнення
             <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B2%D0%B0%D0%BB" target="_blank">
             шквалу (вікі)</a> є взаємодія висхідного потоку повітря в передній частині купчасто-дощової хмари
-            і спадного повітря, охолодженого зливовим дощем.
+            і спадного повітря, охолодженого зливовим дощем.</p>
         </section>
     </section>
     <section class="question" number="6.23">
@@ -6020,21 +6059,25 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.29">
+    <section class="question" number="6.29">
         <section class="text">
             Як повинен діяти судноводій ММС при керуванні судном
             в умовах хвилювання та при штормі?
         </section>
-        <section class="answer" data-correct="data-correct">носом против волны (+/- 20*), высокая скорость в укрытие</section>
+        <section class="answer" data-correct="data-correct">Зменшити оберти двигуна, ніс тримати під кутом
+        15-20° до хвиль, уникати постановки лагом (бортом) до хвиль</section>
         <section class="description">
+            Носом на хвилю не зовсім вірно, краще приймати хвилю на скулу. Шукати укриття.
         </section>
     </section>
-    <section class="question not-ready" number="6.30">
+    <section class="question" number="6.30">
         <section class="text">
             В чому полягає основне завдання судноводія при наближенні шквалу?
         </section>
-        <section class="answer" data-correct="data-correct">Дойти как можно быстрее до укрытия</section>
+        <section class="answer" data-correct="data-correct">Визначити напрям шквалу, не допустити його дії в
+        борт, попередити екіпаж, не втрачати хід</section>
         <section class="description">
+            Дійти якомога швидше до укриття.
         </section>
     </section>
     <section class="question not-ready" number="6.31">
@@ -6169,19 +6212,22 @@
             а часто і напрямку руху потоків (газів і рідин), наприклад, повітря
         </section>
     </section>
-    <section class="question not-ready" number="7.1">
+    <section class="question" number="7.1">
         <section class="text">
             У чому полягають основи морської навігації?
         </section>
-        <section class="answer" data-correct="data-correct">Теоретические и практические приемы судновождения</section>
+        <section class="answer" data-correct="data-correct">Як провести судно з одного місця в друге
+        найкориснішим, коротшим і безпечнішим шляхом</section>
         <section class="description">
+            Теоретичні і практичні прийоми судноводіння
         </section>
     </section>
-    <section class="question not-ready" number="7.2">
+    <section class="question" number="7.2">
         <section class="text">
             Яким способом, при плаванні на ВВШ можна визначити положення МС?
         </section>
-        <section class="answer" data-correct="data-correct">Навигационной карты и пеленгам</section>
+        <section class="answer" data-correct="data-correct">Відносно предметів на місцевості річковій мапі,
+        вогнів судноплавної обстановки</section>
         <section class="description">
         </section>
     </section>
@@ -6306,14 +6352,14 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="7.11">
+    <section class="question" number="7.11">
         <section class="text">
-            Як буде називатися положення орієнтира
-            розташованого відносно діаметральної плоскості судна
+            Як буде називатися положення орієнтира розташованого відносно діаметральної плоскості судна
             на 900 лівого або правого борту?
         </section>
-        <section class="answer" data-correct="data-correct">Траверз</section>
+        <section class="answer" data-correct="data-correct">На траверзі</section>
         <section class="description">
+            В запитанні мається на увазі 90°.
         </section>
     </section>
     <section class="question" number="7.12">
@@ -6717,6 +6763,9 @@
         </section>
         <section class="answer" data-correct="data-correct">На індивідуальні, колективні та допоміжні</section>
         <section class="description">
+            <p>Індивідуальні: рятувальний жилет, рятувальне коло, термо-гідро костюм.</p>
+            <p>Колективні: шлюпки, плоти.</p>
+            <p>Допоміжні: штормтрапи, шлюпбалки, піротехніка, засоби зв'язку.</p>
         </section>
     </section>
     <section class="question" number="8.2">
@@ -6802,19 +6851,20 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="8.11">
+    <section class="question" number="8.11">
         <section class="text">
             Де повинні зберігатися на судні рятувальні жилети?
         </section>
-        <section class="answer" data-correct="data-correct">В спец местах с легким доступом</section>
+        <section class="answer" data-correct="data-correct">На видних, легкодоступних, сухих місцях</section>
         <section class="description">
+            На палубних судах повинні зберігатись в спец. місцях, на безпалубних - повинні бути одягнуті.
         </section>
     </section>
-    <section class="question not-ready" number="8.12">
+    <section class="question" number="8.12">
         <section class="text">
             Яке основне призначення сигнального світлового буя (для рятувального кола)?
         </section>
-        <section class="answer" data-correct="data-correct">Обозначение в темное время суток</section>
+        <section class="answer" data-correct="data-correct">Позначення в темний час доби</section>
         <section class="description">
         </section>
     </section>
@@ -7219,8 +7269,8 @@
         <section class="text">
             Коли дозволяється вихід маломірних суден у плавання?
         </section>
-        <section class="answer" data-correct="data-correct">При сприятливих погодних умовах,
-        технічної справності судна, наявності необходного спорядження і документів</section>
+        <section class="answer" data-correct="data-correct">За сприятливих погодних умов, справності судна,
+        наявності устаткування та чинних суднових документів, свідоцтва на право керування</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>Выход маломерных судов в плавание разрешается при благоприятных погодных условиях,
@@ -7240,8 +7290,8 @@
         <section class="text">
             Чи входить в зобов’язання судноводіїв надавати у розпорядження контролюючих органів своє судно?
         </section>
-        <section class="answer" data-correct="data-correct">Входить, для надання допомоги та для переслідування порушників</section>
-        <section class="answer">Входить</section>
+        <section class="answer" data-correct="data-correct">Входить</section>
+        <section class="answer">Входить, для надання допомоги та для переслідування порушників</section>
         <section class="answer">Тільки для надання допомоги</section>
         <section class="description">
             <blockquote class="blockquote">
@@ -7256,14 +7306,12 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.3">
+    <section class="question" number="9.3">
         <section class="text">
             В чому полягає головне зобов’язання судноводія під час плавання?
         </section>
         <section class="answer" data-correct="data-correct">Забезпечувати безпеку плавання судна та пасажирів</section>
-        <section class="answer">2</section>
         <section class="description">
-            Несение постоянной вахты 360 + погода + глубина
         </section>
     </section>
     <section class="question" number="9.4">
@@ -7287,14 +7335,14 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.5">
+    <section class="question" number="9.5">
         <section class="text">
             Чи може судноводій відмовити потерпілому на воді в доставці його у лікарняні заклади?
         </section>
         <section class="answer" data-correct="data-correct">Не може</section>
         <section class="answer">Може, коли є невідкладні інші справи, а поруч є інші судна</section>
         <section class="description">
-            <p>Согласно конвенции СОЛОС</p>
+            <p>Согласно конвенции СОЛАС</p>
             <blockquote class="blockquote">
                 <p>6.2. Судноводії маломірних (малих) суден зобов'язані:</p>
                 <p>- забезпечувати безпеку плавання судна та пасажирів;</p>
@@ -7347,7 +7395,6 @@
         <section class="answer">Не менше 50 м</section>
         <section class="answer">Не менше 100 м</section>
         <section class="description">
-            <p>Не ближе 50 метров до зоны отдыха людей</p>
             <blockquote class="blockquote">
                 <p>10.3. Підхід до берега водних мотоциклів, водних велосипедів, водних атракціонів
                 та інших плавзасобів, призначених для перевезення сидячих на них верхи пасажирів,
@@ -7386,7 +7433,6 @@
         <section class="answer">Не менше 150 м</section>
         <section class="answer">Не менше 200 м</section>
         <section class="description">
-            <p>Не меньше 50 метров</p>
             <blockquote class="blockquote">
                 <p>10.3. Підхід до берега водних мотоциклів, водних велосипедів, водних атракціонів
                 та інших плавзасобів, призначених для перевезення сидячих на них верхи пасажирів,
@@ -7464,7 +7510,6 @@
         <section class="answer">Не більше 25 м</section>
         <section class="answer">Не більше 50 м</section>
         <section class="description">
-            <p>Не меньше 25 метров один от другого</p>
             <blockquote class="blockquote">
                 <p>10.3. Підхід до берега водних мотоциклів, водних велосипедів, водних атракціонів
                 та інших плавзасобів, призначених для перевезення сидячих на них верхи пасажирів,
@@ -7497,8 +7542,9 @@
             З якою швидкістю дозволяється підходити та рухатися ММС
             у місцях масового відпочинку людей необладнаних буями?
         </section>
-        <section class="answer" data-correct="data-correct">До 5 км/год</section>
-        <section class="answer">Підхід заборонений</section>
+        <section class="answer" data-correct="data-correct">Підхід та рух заборонений</section>
+        <section class="answer">До 5 км/год</section>
+        <section class="answer">До 10 км/год</section>
         <section class="answer">До 15 км/год</section>
         <section class="answer">До 30 км/год</section>
         <section class="description">
@@ -7592,12 +7638,13 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="9.15">
+    <section class="question" number="9.15">
         <section class="text">
             Що повинен знати судноводій маломірного судна
             при перевезенні вибухо та вогненебезпечних вантажів?
         </section>
-        <section class="answer" data-correct="data-correct">Запрещено перевозить на ММС такие грузы</section>
+        <section class="answer" data-correct="data-correct">Заборонено перевозити на ММС такі вантажі</section>
+        <section class="answer">Потрібно мати подорожній лист від дозвільної системи</section>
         <section class="description">
         </section>
     </section>
@@ -7608,17 +7655,23 @@
         </section>
         <section class="answer" data-correct="data-correct">МАРПОЛ 73/78</section>
         <section class="answer">МПЗЗС-72</section>
-        <section class="answer">СОЛАС-74</section>
+        <section class="answer">СОЛАС-74/83</section>
+        <section class="answer">ПДМНВ 78/95</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.17">
+    <section class="question" number="9.17">
         <section class="text">
             В чому полягають практичні дії судноводія
             при попередженні забруднення навколишнього середовища нафтовими продуктами?
         </section>
-        <section class="answer" data-correct="data-correct">Собрать подрычными средствами и сложить в спец контейнер, что бы не попали в воду</section>
+        <section class="answer" data-correct="data-correct">Зібрати підручними засобами і скласти
+        в спец контейнер, щоб не потрапили в воду</section>
         <section class="description">
+            Огородити місце, закрити
+            <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BF%D1%96%D0%B3%D0%B0%D1%82" target="_blank">
+            шпігати (wiki)</a> (отвори в фальшборту для збігання води з палуби), установити піддони,
+            приготувати матеріал для прибирання, спорядити засоби пожежегасіння, налагодити зв'язок з заправником.
         </section>
     </section>
     <section class="question" number="9.18">
@@ -7736,29 +7789,42 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.27">
+    <section class="question" number="9.27">
         <section class="text">
             Хто повинен на судні організовувати боротьбу з пожежею?
         </section>
-        <section class="answer" data-correct="data-correct">Судоводитель или капитан</section>
+        <section class="answer" data-correct="data-correct">Судноводій або капітан</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.28">
+    <section class="question" number="9.28">
         <section class="text">
             Яка ціль боротьби з пожежею на судні?
         </section>
-        <section class="answer" data-correct="data-correct">Что бы судно не затонуло и не было загрязнения внешней среды</section>
+        <section class="answer" data-correct="data-correct">Щоб судно не затонуло і не було забруднення
+        зовнішнього середовища. Вивід людей</section>
         <section class="description">
+            <p>Виявлення місця, характеру пожежі, присутність людей. Вивід людей, запобігання поширенню пожежі.
+            Боротьба з пожежею, ліквідація наслідків.</p>
+            <p>У пожежі три складові частини:
+            <ul>
+                <li>висока температура;</li>
+                <li>наявність повітря;</li>
+                <li>наявність речовини, що горить.</li>
+            </ul>
+            Усуваючи будь-яку складову пожежа гасне.</p>
         </section>
     </section>
-    <section class="question not-ready" number="9.29">
+    <section class="question" number="9.29">
         <section class="text">
             Що являється основними причинами пожеж на маломірних суднах?
         </section>
-        <section class="answer" data-correct="data-correct">Курение, пользование открытым огнем,
-        неправельное использование топлевного оборудования (неисправность + не правельное размещение)</section>
+        <section class="answer" data-correct="data-correct">Необережне поводження з відкритим вогнем, несправне
+        електрообладнання, загоряння палива</section>
         <section class="description">
+            <p>Куріння, користування відкритим вогнем, неправильне використання паливного обладнання
+            (несправність та неправильне розміщення)</p>
+            <p>На судах відкритий вогонь заборонений та являється сигналом біди</p>
         </section>
     </section>
     <section class="question not-ready" number="9.30">
@@ -7847,21 +7913,29 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="10.1">
+    <section class="question" number="10.1">
         <section class="text">
-            Який порядок виклику при аварійній події,
-            берегові аварійні служби у разі необхідності?
+            Який порядок виклику при аварійній події, берегові аварійні служби у разі необхідності?
         </section>
-        <section class="answer" data-correct="data-correct">Телефон 101, при наличии радиостанции 16 канал мор. станции и 5 канал речной</section>
+        <section class="answer" data-correct="data-correct">Повідомити берегові аварійні служби, портову
+        адміністрацію, чергового по причалу по всім можливим засобам зв'язку</section>
+        <section class="answer">Повідомити берегові аварійні служби, портову
+        адміністрацію, чергового по причалу по 16 каналу морської станції або 5 каналу річкової</section>
         <section class="description">
+            <p>Телефон 101, при наявності радіостанції 16 канал морської станції і 5 канал річкової</p>
+            <p>Проінформувати кого завгодно, 101, 102, 103, 104, прикордонників, інші судна</p>
         </section>
     </section>
-    <section class="question not-ready" number="10.2">
+    <section class="question" number="10.2">
         <section class="text">
             Що являється основними причинами аварійності маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">Людской фактор: алкоголь, не несение вахты; неисправности ТС</section>
+        <section class="answer" data-correct="data-correct">Всі з перерахованих причин</section>
+        <section class="answer">Порушення правил користування водними об'єктами</section>
+        <section class="answer">Неправильне розміщення людей і вантажу, порушення норм кількості людей і вантажу</section>
+        <section class="answer">Плавання у складних гідрометеорологічних умовах і в темний час доби</section>
         <section class="description">
+            Людський фактор: алкоголь, не несення вахти; несправності ТЗ
         </section>
     </section>
     <section class="question not-ready" number="10.3">
@@ -7873,22 +7947,27 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="10.4">
+    <section class="question" number="10.4">
         <section class="text">
             Перевертання маломірних суден з падінням людей за борт.
             В чому полягають обов’язки судноводіїв по запобіганню цих подій?
         </section>
-        <section class="answer" data-correct="data-correct">Следить за посадкой: человек становится на дно судна,
-        а не на борт, размещение что бы не было крена и дифирента, запрещено передвигаться во время движения</section>
+        <section class="answer" data-correct="data-correct">Постійно спостерігати за навколишньою обстановкою,
+        своєчасно виконувати необхідні маневри, що запобігатиме аварійним подіям</section>
         <section class="description">
+            Стежити за посадкою: людина стає на дно судна, а не на борт,
+            розміщення щоб не було крену і діфірента, заборонено пересуватися під час руху
         </section>
     </section>
-    <section class="question not-ready" number="10.5">
+    <section class="question" number="10.5">
         <section class="text">
             Як повинен діяти судноводій ММС під час навала або зіткнення суден?
         </section>
-        <section class="answer" data-correct="data-correct">Убедиться, что нет пробоины; оказать помощь пострадавшим</section>
+        <section class="answer" data-correct="data-correct">Терміново зупинити судно, приступити до рятування людей,
+        при необхідності відбуксирувати інше МС на мілководне місце</section>
         <section class="description">
+            <p>Зіткнення - одне або обидва судна зупиняються, навал - обидва продовжують рух.</p>
+            <p>Переконатися, що немає пробоїни; надати допомогу постраждалим.</p>
         </section>
     </section>
     <section class="question not-ready" number="10.6">
@@ -7908,13 +7987,15 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="10.8">
+    <section class="question" number="10.8">
         <section class="text">
             Як підходити до аварійного судна,
             яке знаходиться в дрейфі в притопленому стані, для надання допомоги людям?
         </section>
-        <section class="answer" data-correct="data-correct">С наветренной стороны или сверху относительно течения</section>
+        <section class="answer" data-correct="data-correct">Підходити з підвітряної сторони, не слід швартуватися,
+        людей знімати за допомогою кидального кінця або рятувального кола</section>
         <section class="description">
+            Людей знімати через воду найбільш безпечніше.
         </section>
     </section>
     <section class="question not-ready" number="10.9">
@@ -7963,12 +8044,16 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="10.13">
+    <section class="question" number="10.13">
         <section class="text">
             Як підходити до перекинутого парусного судна?
         </section>
-        <section class="answer" data-correct="data-correct">С носа или кормы</section>
+        <section class="answer" data-correct="data-correct">З носа або корми</section>
+        <section class="answer">З бічної сторони</section>
         <section class="description">
+            <p>З навітряної сторони, до носу або корми.</p>
+            <p>Підходити зі сторони боку не можна по причині того, що якщо судно почне перевертатись в
+            нормальне положення можна отримати удар щоглою.</p>
         </section>
     </section>
     <section class="question" number="10.14">
@@ -8026,12 +8111,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="10.20">
+    <section class="question" number="10.20">
         <section class="text">
             Що повинен виконати судноводій маломірного судна при плаванні у сильний шторм?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/-20*), высокие обороты, в ближайшее укрытие</section>
+        <section class="answer" data-correct="data-correct">Носом проти хвилі, приблизно 20°, високі обороти,
+        в найближче укриття</section>
         <section class="description">
+            <ul>
+                <li>Попередити пасажирів про правила користування рятувальними засобами</li>
+                <li>Закрити двері люків</li>
+                <li>Підготовити рятувальні засоби</li>
+                <li>Розкріпити рятувальні засоби, підготуватися для подачі сигналів лиха, установити зв'язок з берегом</li>
+            </ul>
         </section>
     </section>
     <section class="question" number="10.21">
