@@ -5806,12 +5806,16 @@
             Барограф (вікі)</a> - прилад для безперервного запису зміни атмосферного тиску.
         </section>
     </section>
-    <section class="question not-ready" number="6.9">
+    <section class="question" number="6.9">
         <section class="text">
             У чому проявляється вплив температури повітря на управління ММС?
         </section>
-        <section class="answer" data-correct="data-correct">Спека - перегрів. Холод - обмерзання</section>
+        <section class="answer" data-correct="data-correct">Усі перераховані варіанти</section>
+        <section class="answer">Формування погодних умов</section>
+        <section class="answer">Прямій дії на судноводія</section>
+        <section class="answer">Роботі механізмів та пристроїв</section>
         <section class="description">
+            Спека - перегрів. Холод - обмерзання.
         </section>
     </section>
     <section class="question" number="6.10">
@@ -6285,6 +6289,7 @@
             Румб (вікі)</a> - горизонтальний кут, який відраховують від найближчого напрямку
             північного або південного меридіана до напрямку заданої лінії.</p>
             <p>В морській термінології румб - кут, що дорівнює 1/32 повного кола (11,25°)</p>
+            <p>Горизонт ділиться на 4-8-16-32 частини.</p>
         </section>
     </section>
     <section class="question not-ready" number="7.6">
@@ -6797,12 +6802,14 @@
             встановлених на суднах і літаках в разі аварійних ситуацій.
         </section>
     </section>
-    <section class="question not-ready" number="8.5">
+    <section class="question" number="8.5">
         <section class="text">
             Які норми забезпечення прогулянкових МС індивідуальними засобами рятування?
         </section>
-        <section class="answer" data-correct="data-correct">Согласно регистра</section>
+        <section class="answer" data-correct="data-correct">Рятувальні жилети - 100% людей на борту
+        та на 10% плюс одна людина рятувальні кола</section>
         <section class="description">
+            Згідно регістру?
         </section>
     </section>
     <section class="question" number="8.6">
@@ -6812,6 +6819,7 @@
         <section class="answer" data-correct="data-correct">Для рятування групи людей</section>
         <section class="answer">Для порятунку однієї людини, яка потрапила в воду</section>
         <section class="description">
+            Тимчасового перебування зовні води людей після залишення ними судна.
         </section>
     </section>
     <section class="question" number="8.7">
@@ -7970,22 +7978,34 @@
             <p>Переконатися, що немає пробоїни; надати допомогу постраждалим.</p>
         </section>
     </section>
-    <section class="question not-ready" number="10.6">
+    <section class="question" number="10.6">
         <section class="text">
             У якому порядку, важливо, правильно розставити пріоритети
             з надання допомоги людям і судну в аварійної ситуації?
         </section>
-        <section class="answer" data-correct="data-correct">Сначала люди, потом судно, потом груз</section>
+        <section class="answer" data-correct="data-correct">Спочатку люди, потім судно, потім вантаж</section>
+        <section class="answer">Спочатку судно, потім люди, потім вантаж</section>
+        <section class="answer">Спочатку вантаж, потім люди, потім судно</section>
+        <section class="answer">Спочатку вантаж, потім судно, потім люди</section>
+        <section class="answer">Спочатку судно, потім вантаж, потім люди</section>
+        <section class="answer">Спочатку люди, потім вантаж, потім судно</section>
         <section class="description">
+            <ol>
+                <li>Безпека життя</li>
+                <li>Безпека судна</li>
+                <li>Безпека вантажу і захист оточуваного середовища</li>
+            </ol>
         </section>
     </section>
-    <section class="question not-ready" number="10.7">
+    <section class="question" number="10.7">
         <section class="text">
             В чому полягають основні обов’язки судноводія МС стосовно безпеки судноплавства?
         </section>
-        <section class="answer" data-correct="data-correct">Исполнение правил плаванья</section>
-        <section class="description">
-        </section>
+        <section class="answer" data-correct="data-correct">Усі перечислені варіанти</section>
+        <section class="answer">Постійно оцінювати навігаційну обстановку</section>
+        <section class="answer">Вибирати безпечні курси і швидкості</section>
+        <section class="answer">Швидко реагувати на зміни обстановки</section>
+        <section class="description"></section>
     </section>
     <section class="question" number="10.8">
         <section class="text">
@@ -8653,6 +8673,10 @@
         <section class="answer">10 м</section>
         <section class="answer">30 м</section>
         <section class="answer">50 м</section>
+        <section class="answer">100 м</section>
+        <section class="answer">150 м</section>
+        <section class="answer">200 м</section>
+        <section class="answer">250 м</section>
         <section class="description">
         </section>
     </section>
@@ -8723,6 +8747,7 @@
         <section class="answer">Так, щоб відстань між ними було не менше 50 м</section>
         <section class="answer">Так, щоб розійтися правими бортами</section>
         <section class="description">
+            ГЦ маневрують як мотолодки.
         </section>
     </section>
     <section class="question" number="12.10">
@@ -8787,14 +8812,14 @@
     </section>
     <section class="question" number="12.15">
         <section class="text">
-            Хто допускається до управління гідроциклами і іншими судами,
-            що пройшли державну реєстрацію?
+            Хто допускається до управління гідроциклами і іншими судами, що пройшли державну реєстрацію?
         </section>
         <section class="answer" data-correct="data-correct">Особи, які мають посвідчення на право керування маломірним судном</section>
         <section class="answer">Особи, які мають дійсні дипломи на право зайняття судноводійної посади</section>
         <section class="answer">Особи, які мають довідку про закінчення курсів підготовки судноводіїв маломірних суден</section>
         <section class="answer">Всі перераховані особи</section>
         <section class="description">
+            Управляти можна при наявності документів як і в моточовні - посвідчення + категорія.
         </section>
     </section>
     <section class="question" number="12.16">
@@ -8829,6 +8854,7 @@
         <section class="answer">При русі заднім ходом</section>
         <section class="answer">У всіх перерахованих випадках</section>
         <section class="description">
+            Немає тяги - немає повороту.
         </section>
     </section>
     <section class="question" number="12.19">
@@ -8842,13 +8868,16 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.20">
+    <section class="question" number="12.20">
         <section class="text">
             Протягом якого терміну власник маломірного судна (гідроциклу)
             зобов'язаний повідомити в орган державної реєстрації судна
             про будь-яку зміну відомостей, внесених до Суднової книги України?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">На протязі двох тижнів</section>
+        <section class="answer">На протязі 10 днів</section>
+        <section class="answer">На протязі трьох тижнів</section>
+        <section class="answer">На протязі місяця</section>
         <section class="description">
         </section>
     </section>
@@ -8892,6 +8921,7 @@
         <section class="answer">Можна</section>
         <section class="answer">Можна, якщо на водія і пасажирів надіті шоломи</section>
         <section class="answer">Можна тільки без пасажирів</section>
+        <section class="answer">Можна, якщо встановлені ходові вогні</section>
         <section class="description">
         </section>
     </section>
@@ -8943,10 +8973,10 @@
         <section class="text">
             Використання гідроциклів дозволяється?
         </section>
-        <section class="answer" data-correct="data-correct">Тільки вдень при гарній видимості і в дозволених для плавання на гідроциклах зонах</section>
+        <section class="answer" data-correct="data-correct">Тільки вдень, при гарній видимості і в дозволених для плавання на гідроциклах зонах</section>
         <section class="answer">Скрізь і в будь-який час доби</section>
         <section class="answer">Скрізь, але тільки в світлий час доби</section>
-        <section class="answer">Скрізь, але тільки вдень при хорошій видимості</section>
+        <section class="answer">Скрізь, але тільки вдень, при хорошій видимості</section>
         <section class="description">
         </section>
     </section>
@@ -8991,57 +9021,60 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.35">
+    <section class="question" number="12.35">
         <section class="text">
             Чи дозволяється підхід водних мотоциклів до берега,
             у місцях масового відпочинку громадян?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Дозволяється тільки за наявності огородження для підходу</section>
+        <section class="answer">Забороняється у будь якому випадку</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.36">
+    <section class="question" number="12.36">
         <section class="text">
             Які відомості мають бути вказані на борту гідроциклу?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Бортовий номер</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.37">
+    <section class="question" number="12.37">
         <section class="text">
             Конструктивне забезпечення непотоплюваності гідроциклу.
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Наявність певної кількості герметичних відсіків</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.38">
+    <section class="question" number="12.38">
         <section class="text">
             Безпечні методи керування гідроциклом.
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Всі перераховані варіанти</section>
+        <section class="answer">Чітко виконувати технічні умови експлуатації</section>
+        <section class="answer">Не допускати перевищення швидкості та перевантаження</section>
+        <section class="answer">Не експлуатувати нестравний ГЦ</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.39">
+    <section class="question" number="12.39">
         <section class="text">
             Порядок посадки та висадки пасажирів на гідроцикл.
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
-        <section class="answer">2</section>
+        <section class="answer" data-correct="data-correct">Проводиться з корми та з обох бортів,
+        обережно, з дотриманням рівноваги</section>
+        <section class="answer">Проводиться з корми, обережно, з дотриманням рівноваги</section>
+        <section class="answer">Проводиться з обох бортів, обережно, з дотриманням рівноваги</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.40">
+    <section class="question" number="12.40">
         <section class="text">
             Скільки спортсменів воднолижників одночасно може буксирувати гідроцикл?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Нормується місцевими правилами плавання</section>
+        <section class="answer">1</section>
         <section class="answer">2</section>
         <section class="description">
         </section>
