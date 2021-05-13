@@ -2088,6 +2088,9 @@
         <section class="description">
             Остойчивость - способность судна, отклоненного действием внешних сил из положения равновесия,
             возвращаться в исходное положение равновесия после прекращения действия этих сил.
+            <hr/>
+            Здатність судна, виведеного з положення рівноваги будь-якою силою,
+            повертатись в початкове положення після припинення дії цієї сили
         </section>
     </section>
     <section class="question" number="1.121">
@@ -4013,7 +4016,11 @@
             виміряна в плоскості мідель шпангоуту по вертикалі від кіля до верхньої палуби?
         </section>
         <section class="answer" data-correct="data-correct">Висота борту (H)</section>
+        <section class="answer">Осадка (Т)</section>
+        <section class="answer">Висота надводного борту (F)</section>
         <section class="description">
+            <a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%96_%D1%80%D0%BE%D0%B7%D0%BC%D1%96%D1%80%D0%B8_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+            Головні розміри судна (вікі)</a>
         </section>
     </section>
     <section class="question" number="3.4">
@@ -4034,6 +4041,7 @@
         <section class="answer" data-correct="data-correct">Мідль</section>
         <section class="answer">Діаметральна площина</section>
         <section class="description">
+            Площина мідель-шпангоуту
         </section>
     </section>
     <section class="question" number="3.6">
@@ -4046,6 +4054,7 @@
         <section class="answer">Основна лінія</section>
         <section class="answer">Мідельлінія</section>
         <section class="description">
+            Площина конструктивної ватерлінії (КВЛ)
         </section>
     </section>
     <section class="question" number="3.7">
@@ -4074,17 +4083,17 @@
         </section>
         <section class="answer" data-correct="data-correct">Сила тяжіння, гідродинамічні сили, сили інерції</section>
         <section class="description">
-            Вагове навантаження, гідродинамічні сили, гідродинамічний тиск води, сили інерції
+            Вагове навантаження, гідродинамічні сили, гідродинамічний тиск води, сили інерції.
             <hr/>
-            Сила тяжіння; Сила підтримки води; Сила упору гвинта; Сила опору води
+            Сила тяжіння; Сила підтримки води; Сила упору гвинта; Сила опору води.
         </section>
     </section>
     <section class="question" number="3.10">
         <section class="text">
             Для чого призначеній рульовий пристрій судна?
         </section>
-        <section class="answer" data-correct="data-correct">Для управління судном під час руху
-        та забезпечення повороткості і стійкості на курсі</section>
+        <section class="answer" data-correct="data-correct">Для управління судном під час руху,
+        забезпечення повороткості і стійкості на курсі</section>
         <section class="answer">Для постановки судна на якір</section>
         <section class="answer">Для закріплення судна до берега, причалу або до інших суден</section>
         <section class="description">
@@ -4171,6 +4180,10 @@
         <section class="answer" data-correct="data-correct">Конструктивними рішеннями - діленням корпусу
         на водонепроникні відсіки, обладнанням судна блоками плавучості і водовідливними засобами</section>
         <section class="description">
+            Здатністю судна, яке отримало пробоїну і як наслідок деяку кількість води, залишатися на плаву
+            і мати задовільну посадку судна та остійність, а також поділом на відсіки водонепроникними перебірками.
+            На малих суднах−наявністю блоків плавучості.
+            <hr/>
             <p><b>Непотопляемость</b> - это способность судна <b>после затопления части судна</b> сохранять плавучесть.</p>
             <p>Непотопляемость обеспечивается конструктивно - делением корпуса на водонепроницаемые отсеки,
             оборудованием судна блоками плавучести и водоотливными средствами.</p>
@@ -4185,7 +4198,9 @@
         <section class="text">
             При яких з перерахованих умов судно буде Остійним?
         </section>
-        <section class="answer" data-correct="data-correct">Низьке розташування двигуна, паливного бака,
+        <section class="answer" data-correct="data-correct">Якщо після дії на нього зовнішніх сил
+        воно повернеться в первинний стан рівноваги</section>
+        <section class="answer">Низьке розташування двигуна, паливного бака,
         сидінь і відповідне розміщення вантажів і людей</section>
         <section class="answer">При наявності на судні паливних баків з дзеркалом поверхні від борта до борта</section>
         <section class="description">
@@ -4209,6 +4224,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Відповідно до вимог кваліфікаційного товариства</section>
         <section class="answer">4 шт</section>
+        <section class="answer">6 шт</section>
         <section class="description">
         </section>
     </section>
@@ -4217,7 +4233,10 @@
             Який з перерахованих елементів включає інерційні якості судна?
         </section>
         <section class="answer" data-correct="data-correct">Розгін, гальмування та вибіг</section>
+        <section class="answer">Крен судна</section>
         <section class="description">
+            Крен судна?
+            <hr/>
             Очень важным маневренным качеством судна является его <b>инерция</b>. Ее обычно принято оценивать
             длинами тормозного пути, выбега и пути разгона, а также их продолжительностью. Расстояние, которое
             проходит судно за промежуток времени от момента переключения двигателя с полного хода вперед на
@@ -4232,11 +4251,12 @@
             инерции им зачастую требуется значительно больше расстояния и времени, чем, скажем, автомобилю.
         </section>
     </section>
-    <section class="question not-ready" number="3.19">
+    <section class="question" number="3.19">
         <section class="text">
             У разі, коли нахил судна відбувається в поздовжній площині це ...
         </section>
-        <section class="answer" data-correct="data-correct">Крен</section>
+        <section class="answer" data-correct="data-correct">Диферент</section>
+        <section class="answer">Крен</section>
         <section class="description">
         </section>
     </section>
@@ -4254,9 +4274,14 @@
         <section class="text">
             Плавучість судна характеризується запасом плавучості, в чому він виражається?
         </section>
-        <section class="answer" data-correct="data-correct">Масою додаткового вантажу,
-        який можна взяти на борт до повної втрати плавучості</section>
-        <section class="answer">Наявністю герметичних відсіків або блоків з пінопласту в корпусі судна</section>
+        <section class="answer" data-correct="data-correct">У випадках зазначених у відповідях б і в</section>
+        <section class="answer">У випадках зазначених у відповідях а і б</section>
+        <section class="answer">У випадках зазначених у відповідях а і г</section>
+        <section class="answer">В усіх зазначених випадках</section>
+        <section class="answer">а) Масою додаткового вантажу, який можна взяти на борт до повної втрати плавучості</section>
+        <section class="answer">б) Відсотком обсягу водонепроникних відсіків вище ватерлінії до загального водонепроникному обсягом</section>
+        <section class="answer">в) Чим вище осадка судна, тим більше запас плавучості</section>
+        <section class="answer">г) Наявністю герметичних відсіків або блоків з пінопласту в корпусі судна</section>
         <section class="description">
             Відсотковим обсягом водонепроникних відсіків вище ватерлінії до загального водонепроникного обсягу -
             чим вища осадка судна, тим більше запас плавучості
@@ -4267,16 +4292,16 @@
             Чим забезпечується аварійний запас плавучості у маломірних суден?
         </section>
         <section class="answer" data-correct="data-correct">Наявністю герметичних відсіків або блоків з пінопласту в корпусі судна</section>
-        <section class="answer">Масою додаткового вантажу,
-        який можна взяти на борт до повної втрати плавучості</section>
+        <section class="answer">Масою додаткового вантажу, який можна взяти на борт до повної втрати плавучості</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.23">
+    <section class="question" number="3.23">
         <section class="text">
             Що є необхідною і достатньою умовою рівноваги плаваючого судна?
         </section>
-        <section class="answer" data-correct="data-correct">Остійність</section>
+        <section class="answer" data-correct="data-correct">Щоб центри тяжкості і величини лежали на одній вертикалі,
+        були рівні і спрямовані по одній прямій в протилежні сторони</section>
         <section class="description">
         </section>
     </section>
@@ -4289,7 +4314,7 @@
         <section class="description">
             Роботи по догляду за
             <a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%B3%D0%BE%D1%83%D1%82" target="_blank">
-            рангоутом (wiki)</a>, оснащення і ремонт канатів, виготовлення
+            рангоутом (wiki)</a>, постачанням судна, оснащення і ремонт канатів, виробів з них, виготовлення
             <a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%B3%D0%BE%D0%BD" target="_blank">
             огонів (wiki)</a>, в'язання вузлів
         </section>
@@ -4315,6 +4340,7 @@
         <section class="answer">Стрингер та карлінгс</section>
         <section class="answer">Кіль</section>
         <section class="description">
+            Карлінгси, бімси, полубімси
         </section>
     </section>
     <section class="question" number="3.28">
@@ -4328,15 +4354,17 @@
             В носовой части судна непосредственно к килю присоединяется форштевень. Это загнутый кверху брус
             или металлический угольник, являющийся продолжением киля. Подобный брус или угольник, но
             установленный в кормовой части, называется ахтерштевнем.
+            <hr/>
+            Серповидна балка в носовій частині судна, яка є продовженням кіля.
         </section>
     </section>
     <section class="question" number="3.29">
         <section class="text">
             Якими конструктивними елементами забезпечується загальна поздовжня міцність корпусу?
         </section>
-        <section class="answer" data-correct="data-correct">Кіль, стрингер, карлінгс</section>
+        <section class="answer" data-correct="data-correct">Зовнішньою обшивкою, настилом палуб, перегородками і
+        конструктивними зв'язками, які мають довжину більше висоти борту</section>
         <section class="description">
-            Зовнішньою обшивкою, настилом палуб, перегородками і зв'язками, які мають довжину більше висоти борту
         </section>
     </section>
     <section class="question" number="3.30">
@@ -4453,22 +4481,24 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.39">
+    <section class="question" number="3.39">
         <section class="text">
             Що називається плавучістю?
         </section>
         <section class="answer" data-correct="data-correct">Здатність судна плавати при заданій осадці
         маючи на борту покладені вантажі і задану кількість людей</section>
         <section class="description">
+            Здатність судна плавати і нести на борті необхідні вантажі
         </section>
     </section>
-    <section class="question not-ready" number="3.40">
+    <section class="question" number="3.40">
         <section class="text">
             Що називається креном?
         </section>
         <section class="answer" data-correct="data-correct">Нахил судна щодо поздовжньої осі до одного чи іншого борту
         або різниця осідання одного і іншого борту</section>
         <section class="description">
+            Нахилення судна в поперечній площині (площині мідель-шпангоута)
         </section>
     </section>
     <section class="question" number="3.41">
@@ -4482,20 +4512,25 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.42">
+    <section class="question" number="3.42">
         <section class="text">
-            Здатність судна утримувати плавучість та остійність
-            при поступленні води через борт?
+            Здатність судна утримувати плавучість та остійність при поступленні води через борт?
         </section>
         <section class="answer" data-correct="data-correct">Непотоплюваність</section>
+        <section class="answer">Плавучість</section>
+        <section class="answer">Остійність</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.43">
+    <section class="question" number="3.43">
         <section class="text">
             Що характеризує додаткову кількість вантажу, яке може прийняти судно, тримаючись на воді?
         </section>
         <section class="answer" data-correct="data-correct">Запас плавучості</section>
+        <section class="answer">Вантажопідйомність</section>
+        <section class="answer">Непотоплюваність</section>
+        <section class="answer">Плавучість</section>
+        <section class="answer">Остійність</section>
         <section class="description">
         </section>
     </section>
@@ -4531,13 +4566,16 @@
         <section class="answer" data-correct="data-correct">Кнехти, кіпові планки, хрестові кнехти</section>
         <section class="answer">Лебедки, брашпель, шпиль</section>
         <section class="description">
+            Служать для забезпечения швартовки судна підчас стоянки в порту або біля борту іншого судна,
+            а також для буксирування в аварійних та інших ситуаціях.
         </section>
     </section>
-    <section class="question not-ready" number="3.47">
+    <section class="question" number="3.47">
         <section class="text">
             Які конструкції судна можна віднести до поперечного набору корпусу?
         </section>
-        <section class="answer" data-correct="data-correct">Флор, шпангоут, бимс</section>
+        <section class="answer" data-correct="data-correct">Флори, шпангоути, бімси</section>
+        <section class="answer">Кіль, днищеві і бортові стрингери, палубні карлінгси</section>
         <section class="description">
         </section>
     </section>
@@ -4551,21 +4589,29 @@
         <section class="answer">Тип пайола</section>
         <section class="description">
             Дошка або перебірка в кормовій частині до якої може кріпитись підвісний мотор
+            <hr/>
+            Кормова поперечна перегородка, яка на маломірному судні служить для установки підвісного двигуна,
+            на судні - перекриття в кормовій частині корпусу, що з’єднує днище з бортами і палубою.
         </section>
     </section>
-    <section class="question not-ready" number="3.49">
+    <section class="question" number="3.49">
         <section class="text">
             Які конструкції корпусу судна відносяться до продольного набору?
         </section>
-        <section class="answer" data-correct="data-correct">Киль, стринги, карлингс</section>
+        <section class="answer" data-correct="data-correct">Кіль, днищеві і бортові стрингери, палубні карлінгси</section>
+        <section class="answer">Флори, шпангоути, бімси</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.50">
+    <section class="question" number="3.50">
         <section class="text">
             Що являється основним продольним зв’язком корпуса судна?
         </section>
         <section class="answer" data-correct="data-correct">Кіль</section>
+        <section class="answer">Стрингери</section>
+        <section class="answer">Карлінгси та бімси</section>
+        <section class="answer">Шпангоути</section>
+        <section class="answer">Форштевень</section>
         <section class="description">
         </section>
     </section>
@@ -4573,18 +4619,19 @@
         <section class="text">
             Що називається дрейфом судна?
         </section>
-        <section class="answer" data-correct="data-correct">Знесення судна з лінії його курсу під впливом вітру</section>
+        <section class="answer" data-correct="data-correct">Зміщення судна в сторону борту під дією вітру або течії</section>
         <section class="description">
-            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
             Дрейф (вікі)</a> - знесення судна з лінії його курсу під впливом вітру,
-            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).
+            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).</p>
         </section>
     </section>
-    <section class="question not-ready" number="3.53">
+    <section class="question" number="3.53">
         <section class="text">
             Що таке ахтерштевень?
         </section>
-        <section class="answer" data-correct="data-correct">Краяняя кормовая часть судна, которая является продолжением киля</section>
+        <section class="answer" data-correct="data-correct">Балка в кормовій частині судна, яка є продовженням кіля</section>
+        <section class="answer">Дошка або перебірка в кормовій частині до якої може кріпитись підвісний мотор</section>
         <section class="description">
         </section>
     </section>
@@ -4597,39 +4644,48 @@
         <section class="answer">Для збільшення вантажопідйомності</section>
         <section class="answer">Для додаткової остійності</section>
         <section class="description">
+            Для забезпечення непотоплюваності (швертботи. малі моторні човни).
         </section>
     </section>
-    <section class="question not-ready" number="3.55">
+    <section class="question" number="3.55">
         <section class="text">
             Ступінь захисту електрообладнання (джерел світла) повинний бути?
         </section>
-        <section class="answer" data-correct="data-correct">Водонепроницаемы</section>
+        <section class="answer" data-correct="data-correct">Не менше ніж IP-55</section>
+        <section class="answer">Не менше ніж IP-35</section>
+        <section class="answer">Не менше ніж IP-54</section>
+        <section class="answer">Не менше ніж IP-47</section>
         <section class="description">
+            <p>IP-55: Пилозахищений, Повний захист від контакту, Захист від водяних струменів з довільного напрямку.</p>
+            <p><a href="https://uk.wikipedia.org/wiki/IP_(%D1%81%D1%82%D1%83%D0%BF%D1%96%D0%BD%D1%8C_%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D1%82%D1%83_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8)" target="_blank">
+            IP (ступінь захисту оболонки) (вікі)</a></p>
         </section>
     </section>
-    <section class="question not-ready" number="3.56">
+    <section class="question" number="3.56">
         <section class="text">
             Кабелі, що розташовані горизонтально слід прокладати на відстані не менше?
         </section>
-        <section class="answer" data-correct="data-correct">Прокладывать одним пакетом</section>
+        <section class="answer" data-correct="data-correct">450 мм</section>
+        <section class="answer">Прокладати одним пакетом</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.57">
+    <section class="question" number="3.57">
         <section class="text">
             Контроль опору антистатичного заземлення повинен проводитися
             переносними приладами будь-якого типу з напругою постійного струму?
         </section>
-        <section class="answer" data-correct="data-correct">12-24 вольта</section>
+        <section class="answer" data-correct="data-correct">Не більше 10 В</section>
+        <section class="answer">12-24 В</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.58">
+    <section class="question" number="3.58">
         <section class="text">
-            Яким чином електричне обладнання,
-            що охолоджується повітрям повинне розташовуватися?
+            Яким чином електричне обладнання, що охолоджується повітрям повинне розташовуватися?
         </section>
-        <section class="answer" data-correct="data-correct">В местах наибольшей вентиляции</section>
+        <section class="answer" data-correct="data-correct">Щоб забір охолоджуваного повітря не робився із ллял
+        і місць, у яких повітря може бути забруднено</section>
         <section class="description">
         </section>
     </section>
@@ -4637,8 +4693,10 @@
         <section class="text">
             Ширина міжбортового простору повинна становити?
         </section>
-        <section class="answer" data-correct="data-correct">200 мм</section>
-        <section class="answer">800 - 1000 мм</section>
+        <section class="answer" data-correct="data-correct">Не менше 0,8 м</section>
+        <section class="answer">Не менше 0,6 м</section>
+        <section class="answer">Не менше 1 м</section>
+        <section class="answer">Не менше 1,2 м</section>
         <section class="description">
         </section>
     </section>
@@ -4647,55 +4705,70 @@
             Якщо борти судна побудовані за поздовжньою системою набору,
             відстань між шпангоутами не повинна перевищувати?
         </section>
-        <section class="answer" data-correct="data-correct">800 - 1000 мм</section>
-        <section class="answer">200 мм</section>
+        <section class="answer" data-correct="data-correct">0,6 м</section>
+        <section class="answer">0,2 м</section>
+        <section class="answer">0,4 м</section>
+        <section class="answer">0,8 м</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.61">
+    <section class="question" number="3.61">
         <section class="text">
             Якщо на судні типу N або С встановлені цистерни високого тиску
             вони повинні бути розраховані на робочий тиск?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">400 кПа</section>
+        <section class="answer">50 кПа</section>
+        <section class="answer">100 кПа</section>
+        <section class="answer">200 кПа</section>
+        <section class="answer">250 кПа</section>
+        <section class="answer">500 кПа</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.62">
+    <section class="question" number="3.62">
         <section class="text">
             Акумулятори повинні розміщатися?
         </section>
-        <section class="answer" data-correct="data-correct">В спец местах закрытых от воды и солнца</section>
+        <section class="answer" data-correct="data-correct">За межами вантажного об’єму</section>
         <section class="description">
+            У спец місцях закритих від води і сонця
         </section>
     </section>
-    <section class="question not-ready" number="3.63">
+    <section class="question" number="3.63">
         <section class="text">
-            Котушки одержують живлення від ланцюга пристрою,
-            захист якого розраховано на струм не більше?
+            Котушки одержують живлення від ланцюга пристрою, захист якого розраховано на струм не більше?
         </section>
-        <section class="answer" data-correct="data-correct">12 Вольт</section>
+        <section class="answer" data-correct="data-correct">25 А</section>
+        <section class="answer">5 А</section>
+        <section class="answer">10 А</section>
+        <section class="answer">15 А</section>
+        <section class="answer">20 А</section>
+        <section class="answer">30 А</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="3.64">
         <section class="text">
-            Висота комінгсів дверей і вхідних люків машинного відділення
-            повинні завжди становити не менше?
+            Висота комінгсів дверей і вхідних люків машинного відділення повинні завжди становити не менше?
         </section>
-        <section class="answer" data-correct="data-correct">200 мм</section>
+        <section class="answer" data-correct="data-correct">0,5 м</section>
+        <section class="answer">200 мм</section>
         <section class="answer">400 мм</section>
-        <section class="answer">500 мм</section>
-        <section class="answer">1000 мм</section>
+        <section class="answer">1 м</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="3.65">
+    <section class="question" number="3.65">
         <section class="text">
             Скільки пусків одного двигуна внутрішнього згоряння в підготовленому до пуску стані
             повинна забезпечувати ємність стартерної батареї?
         </section>
-        <section class="answer" data-correct="data-correct">40% от емкости батареи?</section>
+        <section class="answer" data-correct="data-correct">6 разів</section>
+        <section class="answer">3 разів</section>
+        <section class="answer">4 разів</section>
+        <section class="answer">8 разів</section>
+        <section class="answer">12 разів</section>
         <section class="description">
         </section>
     </section>
@@ -4757,13 +4830,16 @@
         <section class="text">
             Які фактори впливають на величину дрейфу судна?
         </section>
-        <section class="answer" data-correct="data-correct">Напрямок та сила вітру або течії;
-            розміри та форма підводної і надводної частин корпусу; курс та швидкість судна
-        </section>
+        <section class="answer" data-correct="data-correct">Всі зазначені у відповідях фактори</section>
+        <section class="answer">Сила вітру, швидкість судна</section>
+        <section class="answer">Курсової кут вітру, хитання судна по курсу</section>
+        <section class="answer">Відношення площі надводної частини корпусу до площі підводного, поверхневі дрейфові течії</section>
         <section class="description">
-            <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
+            <p>Напрямок та сила вітру або течії;
+            розміри та форма підводної і надводної частин корпусу; курс та швидкість судна</p>
+            <p><a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
             Дрейф (вікі)</a> - знесення судна з лінії його курсу під впливом вітру,
-            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).
+            а також переміщення судна під впливом вітру або течії (на ходу або на якорі).</p>
         </section>
     </section>
     <section class="question" number="4.7">
