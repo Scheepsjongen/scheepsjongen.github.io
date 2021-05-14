@@ -6345,15 +6345,14 @@
         <section class="text">
             Яким способом, при плаванні на ВВШ можна визначити положення МС?
         </section>
-        <section class="answer" data-correct="data-correct">Відносно предметів на місцевості річковій мапі,
-        вогнів судноплавної обстановки</section>
+        <section class="answer" data-correct="data-correct">Відносно предметів на місцевості, річковій мапі,
+        вогнів судноплавної обстановки і суден</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="7.3">
         <section class="text">
-            Одиницею виміру великих відстаней на морі є - морська миля.
-            Чому вона дорівнює?
+            Одиницею виміру великих відстаней на морі є - морська миля. Чому вона дорівнює?
         </section>
         <section class="answer" data-correct="data-correct">Одній минуті мередіана</section>
         <section class="answer">Одному градусу</section>
@@ -6371,14 +6370,14 @@
     </section>
     <section class="question" number="7.4">
         <section class="text">
-            Одиницею виміру незначних відстаней на морі є - кабельтов.
-            Чому він дорівнює?
+            Одиницею виміру незначних відстаней на морі є - кабельтов. Чому він дорівнює?
         </section>
         <section class="answer" data-correct="data-correct">185 м.</section>
         <section class="answer">90,4 м.</section>
         <section class="answer">260 м.</section>
         <section class="answer">521 м.</section>
         <section class="description">
+            <p>1/10 морської милі (185,2 м).</p>
             <blockquote class="blockquote">
                 <p>В качестве единицы длины в морской навигации принята миля,
                 соответствующая одной минуте мередиана и равная 1852,3 м.
@@ -6407,20 +6406,20 @@
             <p>Горизонт ділиться на 4-8-16-32 частини.</p>
         </section>
     </section>
-    <section class="question not-ready" number="7.6">
+    <section class="question" number="7.6">
         <section class="text">
-            Відносно яких точок істинного горизонту
-            можна визначити різні напрямки при плаванні?
+            Відносно яких точок істинного горизонту можна визначити різні напрямки при плаванні?
         </section>
         <section class="answer" data-correct="data-correct">Відносно Півночі, Півдня, Заходу, Сходу</section>
         <section class="description">
+            N, E, S, W
         </section>
     </section>
     <section class="question" number="7.7">
         <section class="text">
             Від чого залежить дальність видимого горизонту?
         </section>
-        <section class="answer" data-correct="data-correct">Від висоти ока спостерігача і стану атмосфери</section>
+        <section class="answer" data-correct="data-correct">Від висоти розташування ока спостерігача і стану атмосфери</section>
         <section class="answer">Від широти</section>
         <section class="answer">Від швидкості руху судна</section>
         <section class="description">
@@ -6443,13 +6442,13 @@
         <section class="text">
             За допомогою чого можна приблизно визначити дальність видимого предмету?
         </section>
-        <section class="answer" data-correct="data-correct">За допомогою знань про висоту об'єкта, що спостерігається</section>
+        <section class="answer" data-correct="data-correct">Номограми Струйського</section>
         <section class="description">
-            <p>За формулами D миль = 2,08 * V (h1 + h2), если знать приблизительную высоту объекта
-            или навигационными / оптическими приборами.</p>
-            <p>Ймовірна відповідь на екзамені: номограма Струйського - російського військового моряка, який
-            зобразив залежність дальності від розміру об'єкта. Є сумніви що англійські моряки користувалися
-            цим приладом.</p>
+            <p>"Честно вам скажу, ни разу эту номограмму не видел, мне она собственно не особо и интересна.
+            Но в вопросе надо ответить."</p>
+            <h4>За допомогою знань про висоту об'єкта, що спостерігається</h4>
+            <p>За формулами D миль = 2,08 * (&radic;h1 + &radic;h2), якщо знати приблизну висоту об'єкта.
+            Або навігаційними/оптичними приладами.</p>
         </section>
     </section>
     <section class="question" number="7.9">
@@ -6459,6 +6458,7 @@
         <section class="answer" data-correct="data-correct">Істинний курс, істинний пеленг та зворотній істинний пеленг</section>
         <section class="answer">С, Ю, З, В, СВ, ЮВ, СЗ, ЮЗ</section>
         <section class="description">
+            Істині (ІК, ІП, ЗІП).
         </section>
     </section>
     <section class="question" number="7.10">
@@ -6486,7 +6486,7 @@
         <section class="text">
             Під дією яких сил створюється магнітне схилення магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">Під дією магнітного поля Землі</section>
+        <section class="answer" data-correct="data-correct">Під дією земного магнетизму</section>
         <section class="answer">Під дією магнітного поля судна</section>
         <section class="description">
             <blockquote class="blockquote">
@@ -6504,12 +6504,20 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.13">
+    <section class="question" number="7.13">
         <section class="text">
             Яким буває магнітне схилення і його знак?
         </section>
-        <section class="answer" data-correct="data-correct">Положительное и отрицательное</section>
+        <section class="answer" data-correct="data-correct">Східним (-) та західним (+)</section>
+        <section class="answer">Східним (+) та західним (-)</section>
+        <section class="answer">Східним (+)</section>
+        <section class="answer">Східним (-)</section>
+        <section class="answer">Західним (+)</section>
+        <section class="answer">Західним (-)</section>
         <section class="description">
+            1. східним (-);<br/>
+            3. західним (+);<br/>
+            4. найменування та знак у відповідях 1 і 3
         </section>
     </section>
     <section class="question" number="7.14">
@@ -6518,6 +6526,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Від постійного впливу магнітного поля Землі</section>
         <section class="description">
+            Від дії магнітних сил Землі.
             <blockquote class="blockquote">
                 <p>У яхт с металлическим корпусом проблемы с девиацией магнитного компаса
                 существенны особенно тогда, когда такая яхта в течении длительного времени
@@ -6538,6 +6547,7 @@
         </section>
         <section class="answer" data-correct="data-correct">Компасний курс, зворотній компасний курс, курсовий кут</section>
         <section class="description">
+            Компасні (КК, ЗКП, курсовий кут)
         </section>
     </section>
     <section class="question" number="7.16">
@@ -6567,8 +6577,16 @@
         <section class="text">
             Яке найменування та математичний знак має девіація магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">Дельта "δ", + або -</section>
+        <section class="answer" data-correct="data-correct">Східна (+) та західна (-)</section>
+        <section class="answer">Східна (-) та західна (+)</section>
+        <section class="answer">Східна (+)</section>
+        <section class="answer">Східна (-)</section>
+        <section class="answer">Західна (+)</section>
+        <section class="answer">Західна (-)</section>
         <section class="description">
+            <p>1. східна (+);<br/>
+            3. західна (-);<br/>
+            4. найменування та знак у відповідях 1 і 3</p>
             <blockquote class="blockquote">
                 <p>Девиация магнитного компаса измеряется в полукруговой системе счета направлений,
                 имеет знак "+" или "-" и приделы изменений от 0° до 180°.</p>
@@ -6578,11 +6596,11 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.18">
+    <section class="question" number="7.18">
         <section class="text">
             У чому полягає принцип знищення девіації магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">Снятие намагниченности железа</section>
+        <section class="answer" data-correct="data-correct">У компенсації магнітного поля біля компасу</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>На суднах магнитные компасы устанавливают на нактоузах, внутри которых
@@ -6598,11 +6616,15 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.19">
+    <section class="question" number="7.19">
         <section class="text">
             У який термін знищується девіація магнітного компасу на судні?
         </section>
-        <section class="answer" data-correct="data-correct">Если девиация больше 90 градусов</section>
+        <section class="answer" data-correct="data-correct">Не менше одного разу на шість місяців</section>
+        <section class="answer">Не менше одного разу на місяць</section>
+        <section class="answer">Не менше одного разу на три місяці</section>
+        <section class="answer">Не менше одного разу на рік</section>
+        <section class="answer">Не менше одного разу на два роки</section>
         <section class="description">
         </section>
     </section>
@@ -6610,16 +6632,19 @@
         <section class="text">
             Для чого складається таблиця остаточної девіації магнітного компаса?
         </section>
-        <section class="answer" data-correct="data-correct">Для розрахунка поправки магнітного компасу</section>
+        <section class="answer" data-correct="data-correct">Обчислення загальної поправки компасу,
+        переводу та виправлення курсів і пеленгів</section>
         <section class="description">
-            Для компенсации девиации
+            Для розрахунка поправки магнітного компасу,
+            Для компенсации девиации.
         </section>
     </section>
     <section class="question" number="7.21">
         <section class="text">
             Що називається загальною поправкою магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">Сума магнітного схилення та девіації магнітного компасу</section>
+        <section class="answer" data-correct="data-correct">Кут між нордом істинним Nі і нордом компасним Nк</section>
+        <section class="answer">Сума магнітного схилення та девіації магнітного компасу</section>
         <section class="answer">Різниця магнітного схилення та девіації магнітного компасу</section>
         <section class="description">
             <p>Угол между истенным и гироскопическим (компасным) меридианом</p>
@@ -6636,56 +6661,73 @@
         <section class="text">
             Від якої точки горизонту і в якому напрямку відраховуються компасні напрямки?
         </section>
-        <section class="answer" data-correct="data-correct">Від норду і в напрямку курсу або орієнтира</section>
+        <section class="answer" data-correct="data-correct">Від нордової частини компасного меридіану по часовій стрілці до 360°</section>
+        <section class="answer">Від зюдової частини компасного меридіану по часовій стрілці до 360°</section>
+        <section class="answer">Від остової частини компасного меридіану по часовій стрілці до 360°</section>
+        <section class="answer">Від вестової частини компасного меридіану по часовій стрілці до 360°</section>
+        <section class="answer">Від норду і в напрямку курсу або орієнтира</section>
         <section class="answer">Від зюду і в напрямку курсу або орієнтира</section>
         <section class="answer">Від осту і в напрямку курсу або орієнтира</section>
         <section class="answer">Від весту і в напрямку курсу або орієнтира</section>
         <section class="description">
-            От Севера за часовой стрелкой
         </section>
     </section>
-    <section class="question not-ready" number="7.23">
+    <section class="question" number="7.23">
         <section class="text">
             З якою метою проводиться урахування поправок магнітного компасу?
         </section>
-        <section class="answer" data-correct="data-correct">Правильного определения направления движения</section>
+        <section class="answer" data-correct="data-correct">Одержання істинних або компасних значень</section>
         <section class="description">
+            Правильного визначення напрямку руху.
         </section>
     </section>
-    <section class="question not-ready" number="7.24">
+    <section class="question" number="7.24">
         <section class="text">
             У яких межах, від чого і в якому напрямку відраховується поправка компасу?
         </section>
-        <section class="answer" data-correct="data-correct">На Восток отклоняется со знаком +, на запад -</section>
+        <section class="answer" data-correct="data-correct">Від нордової частини істинного меридіану до сходу (Е)
+        або заходу (W) від 0 до 180°</section>
+        <section class="answer">Від нордової частини істинного меридіану до сходу (Е)
+        від 0 до 360°</section>
+        <section class="answer">Від нордової частини істинного меридіану до заходу (W)
+        від 0 до 360°</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="7.25">
+    <section class="question" number="7.25">
         <section class="text">
             Для чого виконується виправлення курсів та пеленгів?
         </section>
-        <section class="answer" data-correct="data-correct">Для правильного определения направления движения и положения судна</section>
+        <section class="answer" data-correct="data-correct">Для нанесення на навігаційну карту курсів і пеленгів
+        виправлених з компасних та гіро компасних у істині курси та пеленги</section>
+        <section class="answer">Переведення знятих з НК істинних курсів і пеленгів у
+        компасні та гіро компасні курси і пеленги</section>
         <section class="description">
+            Для правильного визначення напрямку руху і положення судна
         </section>
     </section>
-    <section class="question not-ready" number="7.26">
+    <section class="question" number="7.26">
         <section class="text">
             Для яких дій на судні виконується перевід курсів та пеленгів?
         </section>
-        <section class="answer" data-correct="data-correct">С целью правильного определения направления движения</section>
+        <section class="answer" data-correct="data-correct">Переведення знятих з НК істинних курсів і пеленгів у
+        компасні та гіро компасні курси і пеленги</section>
+        <section class="answer">Для нанесення на навігаційну карту курсів і пеленгів
+        виправлених з компасних та гіро компасних у істині курси та пеленги</section>
         <section class="description">
+            З метою правильного визначення напрямку руху
         </section>
     </section>
     <section class="question" number="7.27">
         <section class="text">
-            У яких межах, від чого і в якому напрямку,
-            вимірюється географічна координата місця - широта?
+            У яких межах, від чого і в якому напрямку, вимірюється географічна координата місця - широта?
         </section>
-        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 90°, вимірюється від екватору до полюсів</section>
-        <section class="answer">Вимірюється від 0 до 180°, вимірюється від екватору до полюсів</section>
-        <section class="answer">Вимірюється від 0 до 180°, від Гринвічу, вимірюється на захід та на схід</section>
-        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, вимірюється зліва направо</section>
+        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 90°, від Екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від Екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від Гринвічу, на захід та на схід</section>
+        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, зліва направо</section>
         <section class="description">
+            По дузі меридіану спостерігача від Екватору до північного і південного полюсів від 0 до 90°.
             <blockquote class="blockquote">
                 <p>Широта обозначается буквой ф или Ш и имеет измерение от 0° (на экваторе) до 90° (на полюсе).
                 На карте северного полушария она увеличивается снизу вверх и называется северной (N),
@@ -6699,14 +6741,14 @@
     </section>
     <section class="question" number="7.28">
         <section class="text">
-            Географічна координата місця - довгота.
-            У яких межах, від чого і в якому напрямку вимірюється?
+            Географічна координата місця - довгота. У яких межах, від чого і в якому напрямку вимірюється?
         </section>
-        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 180°, від Гринвічу, вимірюється на захід та на схід</section>
-        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, вимірюється зліва направо</section>
-        <section class="answer">Вимірюється від 0 до 90°, вимірюється від екватору до полюсів</section>
-        <section class="answer">Вимірюється від 0 до 180°, вимірюється від екватору до полюсів</section>
+        <section class="answer" data-correct="data-correct">Вимірюється від 0 до 180°, від Гринвічу, на захід та на схід</section>
+        <section class="answer">Вимірюється від 0 до 360°, від Гринвічу, зліва направо</section>
+        <section class="answer">Вимірюється від 0 до 90°, від Екватору до полюсів</section>
+        <section class="answer">Вимірюється від 0 до 180°, від Екватору до полюсів</section>
         <section class="description">
+            По дузі Екватору від початкового меридіану на захід і схід від 0 до 180°.
             <blockquote class="blockquote">
                 <p>Долгота обозначается буквой X или Д и имеет измерение от 0 до 180°.
                 Отсчет долготы производится от нулевого меридиана (За нулевой принят меридиан,
@@ -6720,7 +6762,7 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.29">
+    <section class="question" number="7.29">
         <section class="text">
             По якій стороні рамки навігаційної мапи визначається широта місця?
         </section>
@@ -6741,7 +6783,7 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.30">
+    <section class="question" number="7.30">
         <section class="text">
             По якій стороні рамки навігаційної мапи визначається довгота місця?
         </section>
@@ -6769,14 +6811,16 @@
         <section class="answer" data-correct="data-correct">Визначення місця судна за одним орієнтиром</section>
         <section class="answer">Визначення місця судна за двома орієнтирами</section>
         <section class="description">
-            Відео <a href="https://youtu.be/f3mGWgwB2kM" target="_blank">Крюйс-пеленг (youtube)</a>
+            <p>Отримання ліній положення судна з урахуванням елементів числення - курсу судна і пройденого судном
+            відстані, виміряного по лагу, за час між пеленгацією орієнтира</p>
+            <p>Відео <a href="https://youtu.be/f3mGWgwB2kM" target="_blank">Крюйс-пеленг (youtube)</a></p>
         </section>
     </section>
     <section class="question" number="7.32">
         <section class="text">
             Пеленг це - ?
         </section>
-        <section class="answer" data-correct="data-correct">Кут між напрямом від спостерігача до будь-якого об'єкта і меридіаном</section>
+        <section class="answer" data-correct="data-correct">Кут між Північчю та напрямком на орієнтир</section>
         <section class="answer">Шляховий кут</section>
         <section class="answer">Кут між магнітним і географічним меридіанами в обраному місці земної поверхні</section>
         <section class="answer">Кутовий вимір у сферичній системі координат</section>
@@ -6789,7 +6833,9 @@
         <section class="text">
             Що визначає Локсодрома?
         </section>
-        <section class="answer" data-correct="data-correct">Шляховий кут</section>
+        <section class="answer" data-correct="data-correct">Лінія на поверхні кулі (наприклад, земної кулі),
+        яка перетинає всі меридіани під тим самим кутом (зберігаючи той же азимут)</section>
+        <section class="answer">Шляховий кут</section>
         <section class="answer">Найкоротшу відстань між двома точками на поверхні Землі</section>
         <section class="answer">Вузьку зону сильного вітру</section>
         <section class="answer">Кут між магнітним і географічним меридіанами в обраному місці земної поверхні</section>
@@ -6804,14 +6850,13 @@
             Що означає позначення на навігаційній карті?<br/>
             <img src="/quiz/img/7.34.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">Небозпека</section>
+        <section class="answer" data-correct="data-correct">Затонуле судно, щогли якого видно над водою</section>
         <section class="answer">Швартовна бочка</section>
         <section class="answer">Циліндричний буй</section>
         <section class="answer">Будівля</section>
         <section class="answer">Кладовище</section>
         <section class="description">
-            <p>Мачты, создают опастность для навигации</p>
-            <p>Затонуле судно?</p>
+            <img src="/quiz/img/7.34-info.png"/>
         </section>
     </section>
     <section class="question" number="7.35">
@@ -6837,11 +6882,11 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="7.36">
+    <section class="question" number="7.36">
         <section class="text">
             В яких випадках існує загроза зіткнення з судном, що наближається?
         </section>
-        <section class="answer" data-correct="data-correct">Сближение с судном менее чем на 2 мили. Если пеленг существенно не меняется</section>
+        <section class="answer" data-correct="data-correct">Якщо пеленг на судно істотно не змінюється</section>
         <section class="description">
             <a href="https://zakon.rada.gov.ua/laws/show/995_137#Text" target="_blank">
             Міжнародні правила попередження зіткнень на морі</a>
@@ -6851,7 +6896,7 @@
         <section class="text">
             Як називається прилад для вимірювання глибини?
         </section>
-        <section class="answer" data-correct="data-correct">Ехолот</section>
+        <section class="answer" data-correct="data-correct">Лот</section>
         <section class="answer">Барометр</section>
         <section class="answer">Лаг</section>
         <section class="answer">Глибиномір</section>
