@@ -1495,17 +1495,17 @@
         <section class="text">
             Які звуки судна подають у разі обгону з лівого боку?
         </section>
-        <section class="answer" data-correct="data-correct">два тривалих звуки та два коротких звуки</section>
-        <section class="answer">два тривалих звуки та один короткий звук</section>
-        <section class="answer">один короткий звук</section>
-        <section class="answer">два коротких звуки</section>
-        <section class="answer">три коротких звуки</section>
-        <section class="answer">п'ять коротких звуків</section>
-        <section class="answer">одного тривалого звуку та одного короткого звуку</section>
-        <section class="answer">одного тривалого звуку та двох коротких звуків</section>
-        <section class="answer">трьох тривалих звуків та одного короткого звуку</section>
-        <section class="answer">трьох тривалих звуків та двох коротких звуків</section>
-        <section class="answer">трьох тривалих звуків</section>
+        <section class="answer" data-correct="data-correct">Два тривалих звуки та два коротких звуки</section>
+        <section class="answer">Два тривалих звуки та один короткий звук</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Два коротких звуки</section>
+        <section class="answer">Три коротких звуки</section>
+        <section class="answer">П'ять коротких звуків</section>
+        <section class="answer">Одного тривалого звуку та одного короткого звуку</section>
+        <section class="answer">Одного тривалого звуку та двох коротких звуків</section>
+        <section class="answer">Трьох тривалих звуків та одного короткого звуку</section>
+        <section class="answer">Трьох тривалих звуків та двох коротких звуків</section>
+        <section class="answer">Трьох тривалих звуків</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.10.4. а) "два тривалих звуки та два коротких звуки", якщо воно має
@@ -1523,17 +1523,17 @@
         <section class="text">
             Які звуки судна подають у разі обгону з правого боку?
         </section>
-        <section class="answer" data-correct="data-correct">два тривалих звуки та один короткий звук</section>
-        <section class="answer">два тривалих звуки та два коротких звуки</section>
-        <section class="answer">один короткий звук</section>
-        <section class="answer">два коротких звуки</section>
-        <section class="answer">три коротких звуки</section>
-        <section class="answer">п'ять коротких звуків</section>
-        <section class="answer">одного тривалого звуку та одного короткого звуку</section>
-        <section class="answer">одного тривалого звуку та двох коротких звуків</section>
-        <section class="answer">трьох тривалих звуків та одного короткого звуку</section>
-        <section class="answer">трьох тривалих звуків та двох коротких звуків</section>
-        <section class="answer">трьох тривалих звуків</section>
+        <section class="answer" data-correct="data-correct">Два тривалих звуки та один короткий звук</section>
+        <section class="answer">Два тривалих звуки та два коротких звуки</section>
+        <section class="answer">Один короткий звук</section>
+        <section class="answer">Два коротких звуки</section>
+        <section class="answer">Три коротких звуки</section>
+        <section class="answer">П'ять коротких звуків</section>
+        <section class="answer">Одного тривалого звуку та одного короткого звуку</section>
+        <section class="answer">Одного тривалого звуку та двох коротких звуків</section>
+        <section class="answer">Трьох тривалих звуків та одного короткого звуку</section>
+        <section class="answer">Трьох тривалих звуків та двох коротких звуків</section>
+        <section class="answer">Трьох тривалих звуків</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.10.4. б) "два тривалих звуки та один короткий звук", якщо воно має
@@ -1639,7 +1639,6 @@
             що прямують униз, мають завчасно подати який сигнал з правого борту?
         </section>
         <section class="answer" data-correct="data-correct">Частопроблисковим ясним білим вогнем</section>
-        <section class="answer">2</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
@@ -1667,7 +1666,6 @@
         </section>
         <section class="answer" data-correct="data-correct">Яскравим частопроблисковим білим вогнем
         чи світло-блакитним прапором чи щитом</section>
-        <section class="answer">2</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
@@ -1722,7 +1720,7 @@
         <section class="text">
             Що потрібно мати на увазі під терміном "База"?
         </section>
-        <section class="answer" data-correct="data-correct">Место отстоя суден: яхт-клуб, лодочная станция</section>
+        <section class="answer" data-correct="data-correct">Місце відстою суден: яхт-клуб, човнова станція</section>
         <section class="description">
         </section>
     </section>
@@ -2138,10 +2136,10 @@
             Яка відповідальність судноводіїв за порушення
             Правил плавання і Правил користування малими суднами?
         </section>
-        <section class="answer" data-correct="data-correct">попередження або накладення штрафу 1-7 нмдг або позбавлення права керування</section>
-        <section class="answer">попередження або накладення штрафу 3-12 нмдг</section>
-        <section class="answer">попередження або накладення штрафу 3-12 нмдг або позбавлення права керування</section>
-        <section class="answer">накладення штрафу 1-7 нмдг або позбавлення права керування</section>
+        <section class="answer" data-correct="data-correct">Попередження або накладення штрафу 1-7 нмдг або позбавлення права керування</section>
+        <section class="answer">Попередження або накладення штрафу 3-12 нмдг</section>
+        <section class="answer">Попередження або накладення штрафу 3-12 нмдг або позбавлення права керування</section>
+        <section class="answer">Накладення штрафу 1-7 нмдг або позбавлення права керування</section>
         <section class="description">
             <a href="https://zakon.rada.gov.ua/laws/show/80731-10" target="_blank">КУпАП</a>
             Ст. 116. Порушення правил по охороні порядку і безпеки руху на річковому транспорті і маломірних суднах<br/>
@@ -2515,7 +2513,6 @@
             що йдуть униз із правого борту?
         </section>
         <section class="answer" data-correct="data-correct">Відмашка повинна бути видна спереду і ззаду і повинна подаватися до кінця розходження</section>
-        <section class="answer">2</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>6.4.3. Судна, що йдуть вверх і звільняють шлях суднам, що йдуть униз із правого борту,
@@ -2773,11 +2770,11 @@
             управління маломірним судном, що не пройшло технічного огляду?
         </section>
         <section class="answer" data-correct="data-correct">
-        попередження або накладення штрафу від одного до п'яти нмдг</section>
-        <section class="answer">попередження</section>
-        <section class="answer">накладення штрафу від одного до п'яти нмдг</section>
-        <section class="answer">попередження або накладення штрафу від одного до десяти нмдг</section>
-        <section class="answer">накладення штрафу від одного до десяти нмдг</section>
+        Попередження або накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження або накладення штрафу від одного до десяти нмдг</section>
+        <section class="answer">Накладення штрафу від одного до десяти нмдг</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
@@ -2804,11 +2801,11 @@
             управління маломірним судном, що не несе бортових номерів і позначень?
         </section>
         <section class="answer" data-correct="data-correct">
-        попередження або накладення штрафу від одного до п'яти нмдг</section>
-        <section class="answer">попередження</section>
-        <section class="answer">накладення штрафу від одного до п'яти нмдг</section>
-        <section class="answer">попередження або накладення штрафу від одного до десяти нмдг</section>
-        <section class="answer">накладення штрафу від одного до десяти нмдг</section>
+        Попередження або накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження або накладення штрафу від одного до десяти нмдг</section>
+        <section class="answer">Накладення штрафу від одного до десяти нмдг</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
@@ -2834,14 +2831,14 @@
             Яке адміністративне покарання передбачено за
             умисне зупинення або стоянку судна в забороненому місці?
         </section>
-        <section class="answer" data-correct="data-correct">попередження або накладення штрафу
+        <section class="answer" data-correct="data-correct">Попередження або накладення штрафу
         від трьох до п'яти нмдг або позбавлення права керування маломірним судном на строк до одного року</section>
-        <section class="answer">попередження або накладення штрафу від трьох до п'яти нмдг</section>
-        <section class="answer">накладення штрафу від трьох до п'яти нмдг або
+        <section class="answer">Попередження або накладення штрафу від трьох до п'яти нмдг</section>
+        <section class="answer">Накладення штрафу від трьох до п'яти нмдг або
         позбавлення права керування маломірним судном на строк до одного року</section>
-        <section class="answer">попередження або накладення штрафу від трьох до десяти нмдг</section>
-        <section class="answer">накладення штрафу від п'яти до десяти нмдг</section>
-        <section class="answer">попередження або накладення штрафу від трьох до десяти нмдг або
+        <section class="answer">Попередження або накладення штрафу від трьох до десяти нмдг</section>
+        <section class="answer">Накладення штрафу від п'яти до десяти нмдг</section>
+        <section class="answer">Попередження або накладення штрафу від трьох до десяти нмдг або
         позбавлення права керування маломірним судном на строк до одного року</section>
         <section class="description">
             <blockquote class="blockquote">
@@ -3122,12 +3119,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.177">
+    <section class="question" number="1.177">
         <section class="text">
             Маломірним (малим) суднам, за винятком випадків,
             коли вони виконують службові завдання, забороняється?
         </section>
-        <section class="answer" data-correct="data-correct">Буксировка</section>
+        <section class="answer" data-correct="data-correct">Буксирування</section>
         <section class="description">
         </section>
     </section>
@@ -5026,7 +5023,7 @@
         <section class="text">
             Що таке обгін?
         </section>
-        <section class="answer" data-correct="data-correct">Приближение обгоняющего судна к обгоняемому под углом 22,5* от траверзы назад</section>
+        <section class="answer" data-correct="data-correct">Приближение обгоняющего судна к обгоняемому под углом 22,5° от траверзы назад</section>
         <section class="description">
         </section>
     </section>
@@ -6288,7 +6285,7 @@
         <section class="text">
             Дії судноводія при штормі?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20*), повышенные обороты, как можно быстрее в укрытие</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20°), повышенные обороты, как можно быстрее в укрытие</section>
         <section class="description">
         </section>
     </section>
@@ -6305,7 +6302,7 @@
             Які дії необхідно вжити судноводію малого судна,
             що попав в шторм, щоб забезпечити остійність?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20*), повышенные обороты</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20°), повышенные обороты</section>
         <section class="description">
         </section>
     </section>
@@ -6313,7 +6310,7 @@
         <section class="text">
             Які дії необхідно вжити судноводію МС, що потрапив в шторм?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20*), повышенные обороты, как можно быстрее в укрытие</section>
+        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20°), повышенные обороты, как можно быстрее в укрытие</section>
         <section class="description">
         </section>
     </section>
@@ -8571,51 +8568,50 @@
         <section class="text">
             Основним рушієм вітрильного судна є:
         </section>
-        <section class="answer" data-correct="data-correct">Вітер / вітрила</section>
+        <section class="answer" data-correct="data-correct">Вітрила</section>
+        <section class="answer">Вітер</section>
         <section class="answer">Мотор</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.2">
+    <section class="question" number="11.2">
         <section class="text">
             Які бувають види вітрил на вітрильних суднах?
         </section>
-        <section class="answer" data-correct="data-correct">Пряме; Простые косые паруса: Бермудские, Гафельніе Шпринтовые;
-        Рейковые косые: Латинские, Люгерные</section>
+        <section class="answer" data-correct="data-correct">Основні, додаткові та штормові</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.3">
+    <section class="question" number="11.3">
         <section class="text">
             Від чого залежить висока остійність вітрильного судна?
         </section>
-        <section class="answer" data-correct="data-correct">От веса киля</section>
+        <section class="answer" data-correct="data-correct">Від ширини та осадки судна</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.4">
+    <section class="question" number="11.4">
         <section class="text">
             Від чого залежить швидкість ходу вітрильного судна?
         </section>
-        <section class="answer" data-correct="data-correct">От силы и направления ветра</section>
+        <section class="answer" data-correct="data-correct">Від площі вітрил та довжини судна</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.5">
+    <section class="question" number="11.5">
         <section class="text">
             Основні типи вітрил?
         </section>
-        <section class="answer" data-correct="data-correct">Пряме; Простые косые паруса: Бермудские, Гафельніе Шпринтовые;
-        Рейковые косые: Латинские, Люгерные</section>
+        <section class="answer" data-correct="data-correct">Прямі та косі</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.6">
+    <section class="question" number="11.6">
         <section class="text">
-            Чи можуть вітрильні судна користуватися водними об’єктами
-            в період закритої навігації?
+            Чи можуть вітрильні судна користуватися водними об’єктами в період закритої навігації?
         </section>
-        <section class="answer" data-correct="data-correct">Не могут</section>
+        <section class="answer" data-correct="data-correct">Не можуть</section>
+        <section class="answer">Можуть</section>
         <section class="description">
         </section>
     </section>
@@ -8654,168 +8650,199 @@
             Для чого на задню стаксельну шкоту нашивається ультрафіолетовий захист?
         </section>
         <section class="answer" data-correct="data-correct">Для захисту від сонця скрученого стакселя</section>
+        <section class="answer">Для зміцнення задньої шкоторини</section>
+        <section class="answer">Для зменшення "полоскання" вітрил</section>
         <section class="description">
-            Что бы уберечь парус от ультрафиолета при наличии скрутки
+            <p>Щоб уберегти вітрило від ультрафіолету при наявності скручування.</p>
+            <p>Для захисту вітрил від впливу сонячних променів в скрученому стані.</p>
         </section>
     </section>
-    <section class="question not-ready" number="11.10">
+    <section class="question" number="11.10">
         <section class="text">
             Яким чином рекомендується складати знятий грот для подальшого його зберігання?
         </section>
-        <section class="answer" data-correct="data-correct">Z, слоями</section>
+        <section class="answer" data-correct="data-correct">Скласти шарами та скатати</section>
         <section class="description">
+            Z шарами
         </section>
     </section>
-    <section class="question not-ready" number="11.11">
+    <section class="question" number="11.11">
         <section class="text">
             Який елемент вітрила є найбільш вразливим?
         </section>
-        <section class="answer" data-correct="data-correct">Задняя шкаторина</section>
+        <section class="answer" data-correct="data-correct">Шви</section>
+        <section class="answer">Задняя шкаторина</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.12">
+    <section class="question" number="11.12">
         <section class="text">
             Яким чином рекомендується підвішувати вітрило для просушки на березі?
         </section>
-        <section class="answer" data-correct="data-correct">Ростяжка между деревьями таким образом,
-        что бы вес паруса пришлосяф на переднюю (усиленную) шкаторину За фаловый и галсовый углы</section>
+        <section class="answer" data-correct="data-correct">За края передньої шкоти</section>
         <section class="description">
+            Ростяжка між деревами таким чином, щоб вага вітрил припала на передню (посилену) шкоторину;
+            За фаловий та галсовий кути.
         </section>
     </section>
-    <section class="question not-ready" number="11.13">
+    <section class="question" number="11.13">
         <section class="text">
             З'єднання сталевих тросів може виконуватися:
         </section>
-        <section class="answer" data-correct="data-correct">Плетение огон, сплесень, талреп</section>
+        <section class="answer" data-correct="data-correct">Зрощуванням</section>
+        <section class="answer" data-correct="data-correct">Сполучними обтискними втулками, або ущільнюючими муфтами</section>
+        <section class="answer">Зв'язуванням</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.14">
+    <section class="question" number="11.14">
         <section class="text">
             Якщо степс щогли розташований нижче палуби, діаметр щогли біля шпора повинен становити:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Не менш 75% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 25% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 30% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 40% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 50% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 60% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 80% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 90% від діаметра щогли на рівні палуби</section>
+        <section class="answer">Не менш 120% від діаметра щогли на рівні палуби</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.15">
+    <section class="question" number="11.15">
         <section class="text">
             Які види такелажів використовуються на вітрильних суднах?
         </section>
-        <section class="answer" data-correct="data-correct">Стоячий и бегучий</section>
+        <section class="answer" data-correct="data-correct">Стоячий та бегучий</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.16">
+    <section class="question" number="11.16">
         <section class="text">
             Для бігучого такелажу повинні використовуватися троси з:
         </section>
-        <section class="answer" data-correct="data-correct">полиамид (нейлон), полеэфир (лавсан)</section>
+        <section class="answer" data-correct="data-correct">Синтетичного волокна або сталеві дротові троси</section>
         <section class="description">
+            Поліамід (нейлон), поліефір (лавсан).
         </section>
     </section>
-    <section class="question not-ready" number="11.17">
+    <section class="question" number="11.17">
         <section class="text">
             Із якого волокна не допускається використання тросів?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">З поліетиленового волокна</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.18">
+    <section class="question" number="11.18">
         <section class="text">
             Площа вітрильності повинна відповідати?
         </section>
-        <section class="answer" data-correct="data-correct">Длинне судна</section>
+        <section class="answer" data-correct="data-correct">Типу та водотоннажності судна</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.19">
+    <section class="question" number="11.19">
         <section class="text">
             Рульова система для вітрильних суден в цілому повинна бути спроектована таким чином,
             щоб її робота забезпечувалася при тривалому крені до:
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">20°</section>
+        <section class="answer">5°</section>
+        <section class="answer">10°</section>
+        <section class="answer">15°</section>
+        <section class="answer">25°</section>
+        <section class="answer">30°</section>
+        <section class="answer">35°</section>
+        <section class="answer">40°</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.20">
+    <section class="question" number="11.20">
         <section class="text">
             Чи дозволяється встановлювати на вітрильному судні
             додаткові кругові червоний та зелений сигнально-розпізнавальні ліхтарі?
         </section>
-        <section class="answer" data-correct="data-correct">Да разрешается</section>
+        <section class="answer" data-correct="data-correct">Дозволяється</section>
+        <section class="answer" data-correct="data-correct">Не дозволяється</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.21">
+    <section class="question" number="11.21">
         <section class="text">
             Який сигнально-розпізнавальний ліхтар має бути на кормі вітрильному судні?
         </section>
-        <section class="answer" data-correct="data-correct">Кормовой - белый, угол 135*</section>
+        <section class="answer" data-correct="data-correct">Белый, кут 135°</section>
+        <section class="answer">Червоний, кут 135°</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.22">
+    <section class="question" number="11.22">
         <section class="text">
             Які типи сигнально-розпізнавальних ліхтарів використовуються на вітрильному судні?
         </section>
-        <section class="answer" data-correct="data-correct">Судно до 6 метров: на топе мачты белый круговой огонь видный отовсюду,
-        при приближении других судов - круговые движения белым фанариком (или светить им на парус);
-        Судно больше 6 метров: кормовой - белый 135*; бортовые - красный и зеленый,
-        каждый по 112.5 градусов на левом и правом борту соответственно
-        * бортовые огни могут быть объеденены в один фанарь на носу судна
-        ** кормовой и бортовые огни могут быть объеденены в один фанарь и установлены на топе мачты
-        *** дополнительно могут установлены круговые красный и зеленые огни видные отовсюду установленные на топе мачты</section>
+        <section class="answer" data-correct="data-correct">Бортові, кругові, кормові</section>
         <section class="description">
+            Судно до 6 метров: на топе мачты белый круговой огонь видный отовсюду,
+            при приближении других судов - круговые движения белым фанариком (или светить им на парус);<br>
+            Судно больше 6 метров: кормовой - белый 135°; бортовые - красный и зеленый,
+            каждый по 112.5 градусов на левом и правом борту соответственно.<br/>
+            * бортовые огни могут быть объеденены в один фанарь на носу судна;<br/>
+            ** кормовой и бортовые огни могут быть объеденены в один фанарь и установлены на топе мачты;<br/>
+            *** дополнительно могут установлены круговые красный и зеленые огни видные отовсюду установленные на топе мачты.
         </section>
     </section>
-    <section class="question not-ready" number="11.23">
+    <section class="question" number="11.23">
         <section class="text">
             При повороті оверштаг вітрильне судно:
         </section>
-        <section class="answer" data-correct="data-correct">Пересикает линию ветра носом против ветра</section>
+        <section class="answer" data-correct="data-correct">Перетинає лінію вітру носом</section>
+        <section class="answer">Перетинає лінію вітру кормою</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.24">
+    <section class="question" number="11.24">
         <section class="text">
             Підйомна сила на вітрилі або крилі виникає за рахунок?
         </section>
-        <section class="answer" data-correct="data-correct">Ветра; разницы давлений с одной и с другой стороны крыла/паруса</section>
+        <section class="answer" data-correct="data-correct">Різниці тиску на навітряній та підвітряній сторонах вітрила</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.25">
+    <section class="question" number="11.25">
         <section class="text">
             Який вітер здійснює роботу у вітрилах судна та забезпечує його рух?
         </section>
-        <section class="answer" data-correct="data-correct">Вымпельный/уявный</section>
+        <section class="answer" data-correct="data-correct">Вимпельний</section>
+        <section class="answer">Дійсний</section>
         <section class="description">
+            Вимпельний/уявний
         </section>
     </section>
-    <section class="question not-ready" number="11.26">
+    <section class="question" number="11.26">
         <section class="text">
             В якому напрямку необхідно здійснювати поворот
             на зворотній курс за умови сильного бокового вітру?
         </section>
-        <section class="answer" data-correct="data-correct">Оверштаг, носом против ветра</section>
+        <section class="answer" data-correct="data-correct">На вітер</section>
         <section class="description">
+            Оверштаг, носом проти вітру
         </section>
     </section>
-    <section class="question not-ready" number="11.27">
+    <section class="question" number="11.27">
         <section class="text">
             Напрямок якого вітру показує вітропокажчик який встановлюється на щоглі?
         </section>
-        <section class="answer" data-correct="data-correct">Вымпельный/Уявный</section>
+        <section class="answer" data-correct="data-correct">Вимпельний</section>
+        <section class="answer">Дійсний</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="11.28">
         <section class="text">
-            Загальна назва усіх снастей на вітрильному судні
-            (тросів, канатів, линв, тощо):
+            Загальна назва усіх снастей на вітрильному судні (тросів, канатів, линв, тощо):
         </section>
         <section class="answer" data-correct="data-correct">Такелаж</section>
         <section class="answer">Проводка</section>
@@ -8836,60 +8863,66 @@
             тощо. На вітрильних суднах такі талрепи служать для обтягування стоячого такелажу (зокрема вант).
         </section>
     </section>
-    <section class="question not-ready" number="11.30">
+    <section class="question" number="11.30">
         <section class="text">
             При повороті через фордевінд вітрильне судно:
         </section>
-        <section class="answer" data-correct="data-correct">Пересикает линию ветра кормой против ветра</section>
+        <section class="answer" data-correct="data-correct">Перетинає лінію вітру кормою</section>
         <section class="description">
+            Перетинає лінію вітру кормою проти вітру
         </section>
     </section>
-    <section class="question not-ready" number="11.31">
+    <section class="question" number="11.31">
         <section class="text">
             Борт, що повернутий до вітру, називається:
         </section>
-        <section class="answer" data-correct="data-correct">Наветраенный</section>
+        <section class="answer" data-correct="data-correct">Навітряний</section>
+        <section class="answer">Підвітряний</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.32">
+    <section class="question" number="11.32">
         <section class="text">
             Борт, що повернутий від вітру, називається:
         </section>
-        <section class="answer" data-correct="data-correct">Подветренный</section>
+        <section class="answer" data-correct="data-correct">Підвітряний</section>
+        <section class="answer">Навітряний</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.33">
+    <section class="question" number="11.33">
         <section class="text">
             Як називається зигзагоподібний рух вітрильного судна,
             коли судно лягає то на лівий галс, то на правий?
         </section>
-        <section class="answer" data-correct="data-correct">Лавировка (галсами)</section>
+        <section class="answer" data-correct="data-correct">Лавірування</section>
         <section class="description">
+            Лавірування (галсами)
         </section>
     </section>
-    <section class="question not-ready" number="11.34">
+    <section class="question" number="11.34">
         <section class="text">
             За якої умови судно йде у бейдевінд?
         </section>
-        <section class="answer" data-correct="data-correct">Если ветер дует с боку ближе к носу</section>
+        <section class="answer" data-correct="data-correct">Якщо вітер, що дме з носових курсових кутів в секторі 0-85°</section>
+        <section class="answer">Якщо вітер, що дме з кормових курсових кутів в секторі 95-170°</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.35">
+    <section class="question" number="11.35">
         <section class="text">
             За якої умови судно йде у бакштаг?
         </section>
-        <section class="answer" data-correct="data-correct">Если ветер дует сбоку ближе к корме</section>
+        <section class="answer" data-correct="data-correct">Якщо вітер, що дме з кормових курсових кутів в секторі 95-170°</section>
+        <section class="answer">Якщо вітер, що дме з носових курсових кутів в секторі 0-85°</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="11.36">
+    <section class="question" number="11.36">
         <section class="text">
             Для чого застосовуються на парусних яхтах носовий та кормовий релінги?
         </section>
-        <section class="answer" data-correct="data-correct">Обеспечение безопастности экипажа</section>
+        <section class="answer" data-correct="data-correct">Для запобігання падінню людей за борт</section>
         <section class="description">
         </section>
     </section>
@@ -9135,13 +9168,38 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.21">
+    <section class="question" number="12.21">
         <section class="text">
             Яке адміністративне покарання передбачається за недотримання особою,
             керуючим маломірним судном, встановленої швидкості?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Попередження, або адміністративний штраф,
+        або позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">Попередження, або адміністративний штраф, або
+        позбавлення права керування маломірним судном на строк до шести місяців</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Адміністративний штраф</section>
+        <section class="answer">Попередження або адміністративний штраф</section>
         <section class="description">
+            Як і для інших МС.
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Перевищення судноводіями маломірних суден установленої швидкості руху,
+                недодержання вимог навігаційних знаків, умисне зупинення або стоянка судна в заборонених місцях,
+                пошкодження гідротехнічних споруд або технічних засобів і
+                знаків судноплавної і навігаційної обстановки, порушення правил маневрування,
+                подачі звукових сигналів, несення бортових вогнів і знаків -</p>
+                <p>тягнуть за собою попередження або накладення штрафу від трьох до п'яти
+                неоподатковуваних мінімумів доходів громадян або позбавлення права керування
+                маломірним судном на строк до одного року.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="12.22">
@@ -9179,13 +9237,40 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.25">
+    <section class="question" number="12.25">
         <section class="text">
             Яке адміністративне покарання особи, яка керує маломірним судном,
             передбачається за навмисну зупинку або стоянку судна в заборонених місцях?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">попередження або накладення штрафу
+        від трьох до п'яти нмдг або позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">попередження або накладення штрафу від трьох до п'яти нмдг</section>
+        <section class="answer">накладення штрафу від трьох до п'яти нмдг або
+        позбавлення права керування маломірним судном на строк до одного року</section>
+        <section class="answer">попередження або накладення штрафу від трьох до десяти нмдг</section>
+        <section class="answer">накладення штрафу від п'яти до десяти нмдг</section>
+        <section class="answer">попередження або накладення штрафу від трьох до десяти нмдг або
+        позбавлення права керування маломірним судном на строк до одного року</section>
         <section class="description">
+            Як і для інших МС.
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Перевищення судноводіями маломірних суден установленої швидкості руху,
+                недодержання вимог навігаційних знаків, умисне зупинення або стоянка судна в заборонених місцях,
+                пошкодження гідротехнічних споруд або технічних засобів і
+                знаків судноплавної і навігаційної обстановки, порушення правил маневрування,
+                подачі звукових сигналів, несення бортових вогнів і знаків -</p>
+                <p>тягнуть за собою попередження або накладення штрафу від трьох до п'яти
+                неоподатковуваних мінімумів доходів громадян або позбавлення права керування
+                маломірним судном на строк до одного року.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="12.26">
@@ -9234,22 +9319,66 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="12.30">
+    <section class="question" number="12.30">
         <section class="text">
             Яке адміністративне покарання передбачається
             за управління маломірним судном, що не пройшло технічний огляд?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">
+        Попередження або накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження або накладення штрафу від одного до десяти нмдг</section>
+        <section class="answer">Накладення штрафу від одного до десяти нмдг</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Керування судноводіями річковими або маломірними суднами,
+                не зареєстрованими у встановленому порядку, або такими, що не пройшли технічного огляду,
+                або не несуть бортових номерів і позначень, або мають несправності,
+                з якими заборонено їх експлуатацію, або переобладнаними без відповідного дозволу, або з
+                порушенням правил завантаження, норм пасажиромісткості, обмежень по району та умовах плавання -</p>
+                <p>тягне за собою попередження або накладення штрафу
+                від одного до п'яти неоподатковуваних мінімумів доходів громадян.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="12.31">
+    <section class="question" number="12.31">
         <section class="text">
             Яке адміністративне покарання передбачено
             за керування маломірним судном, не зареєстрованим в установленому порядку?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">
+        Попередження або накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження</section>
+        <section class="answer">Накладення штрафу від одного до п'яти нмдг</section>
+        <section class="answer">Попередження або накладення штрафу від одного до десяти нмдг</section>
+        <section class="answer">Накладення штрафу від одного до десяти нмдг</section>
         <section class="description">
+            <blockquote class="blockquote">
+                <p>Стаття 116. Порушення правил по охороні порядку і безпеки руху
+                на річковому транспорті і маломірних суднах</p>
+                <p>Керування судноводіями річковими або маломірними суднами,
+                не зареєстрованими у встановленому порядку, або такими, що не пройшли технічного огляду,
+                або не несуть бортових номерів і позначень, або мають несправності,
+                з якими заборонено їх експлуатацію, або переобладнаними без відповідного дозволу, або з
+                порушенням правил завантаження, норм пасажиромісткості, обмежень по району та умовах плавання -</p>
+                <p>тягне за собою попередження або накладення штрафу
+                від одного до п'яти неоподатковуваних мінімумів доходів громадян.</p>
+                <div class="blockquote-footer">
+                    <cite title="Source Title">
+                        <a href="https://zakon.rada.gov.ua/laws/show/80731-10#Text" target="_blank">
+                        Кодекс України про адміністративні правопорушення</a>
+                    </cite>
+                </div>
+            </blockquote>
         </section>
     </section>
     <section class="question" number="12.32">
