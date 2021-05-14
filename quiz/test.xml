@@ -7455,7 +7455,7 @@
             Коли дозволяється вихід маломірних суден у плавання?
         </section>
         <section class="answer" data-correct="data-correct">За сприятливих погодних умов, справності судна,
-        наявності устаткування та чинних суднових документів, свідоцтва на право керування</section>
+        наявності устаткування та чинних суднових документів, посвідчення на право керування</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>Выход маломерных судов в плавание разрешается при благоприятных погодных условиях,
@@ -7503,7 +7503,7 @@
         <section class="text">
             Чи повинен судноводій вміти надавати допомогу потерпілим на воді?
         </section>
-        <section class="answer" data-correct="data-correct">Судноводії зобов'язані надавати допомогу потерпілим на воді</section>
+        <section class="answer" data-correct="data-correct">Повинен</section>
         <section class="answer">Судноводії мають надати допомогу коли це в їх силах, але не зобов'язані</section>
         <section class="description">
             <blockquote class="blockquote">
@@ -7546,10 +7546,12 @@
         <section class="text">
             Які дії зобов’язаний виконати судноводій на вимогу осіб, що контролюють безпеку руху?
         </section>
-        <section class="answer" data-correct="data-correct">Зупинити судно, пред'явити документи,
-        за необхідності надати пояснення</section>
-        <section class="answer">Зупинити судно, пред'явити документи, за запитом показати речі, які знаходяться в судні,
-        надати пояснення</section>
+        <section class="answer" data-correct="data-correct">Всі варіанти відповіді</section>
+        <section class="answer">Зупинити судно</section>
+        <section class="answer">Пред’явити свідоцтво на право керування судном,
+        документи на власність судна і його придатність до плавання</section>
+        <section class="answer">По необхідності надавати усні чи письмові пояснення
+        з приводу порушень або пригоди на воді</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>8.5. Судноводії маломірних (малих) суден зобов'язані:</p>
@@ -7850,8 +7852,10 @@
             В чому полягають практичні дії судноводія
             при попередженні забруднення навколишнього середовища нафтовими продуктами?
         </section>
-        <section class="answer" data-correct="data-correct">Зібрати підручними засобами і скласти
-        в спец контейнер, щоб не потрапили в воду</section>
+        <section class="answer" data-correct="data-correct">Дії вказані в усіх відповідях</section>
+        <section class="answer">Огородити місце приймання-видачі палива, закрити шпігати</section>
+        <section class="answer">Установити піддони, приготувати матеріал для прибирання можливих проливів нафтопродуктів</section>
+        <section class="answer">Спорядити засоби пожежогасіння, налагодити зв'язок з заправником, організувати постійний зв'язок</section>
         <section class="description">
             Огородити місце, закрити
             <a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BF%D1%96%D0%B3%D0%B0%D1%82" target="_blank">
@@ -7877,6 +7881,7 @@
             з паперу, картону, скла, пляшок, черепків, за межами особливих районів?
         </section>
         <section class="answer" data-correct="data-correct">Не дозволяється</section>
+        <section class="answer">25 миль</section>
         <section class="answer">50 миль</section>
         <section class="description">
         </section>
@@ -7901,6 +7906,8 @@
         <section class="answer">У заповідниках, заказниках</section>
         <section class="answer">У місцях водозаборів</section>
         <section class="description">
+            На ділянках для промислового рибальства, нерестовищ, заповідниках, заказниках,
+            місцях водозаборів та станцій перекачування води.
         </section>
     </section>
     <section class="question" number="9.22">
@@ -7972,6 +7979,9 @@
         <section class="answer">Не допускати пустощів</section>
         <section class="answer">Не подавати обманливих сигналів про біду</section>
         <section class="description">
+            1. купатися у перевірених водоймищах, не вживати алкогольних напоїв, не запливати за межі місць для купання;<br/>
+            2. не допускати пустощів, не подавати обманливих сигналів про біду;<br/>
+            4. вимоги вказані у відповідях 1 і 2.
         </section>
     </section>
     <section class="question" number="9.27">
@@ -7998,6 +8008,10 @@
                 <li>наявність речовини, що горить.</li>
             </ul>
             Усуваючи будь-яку складову пожежа гасне.</p>
+            <p>1. виявлення місця, розмірів, характеру пожежі, присутність людей у приміщенні;<br/>
+            2. вивід людей з приміщення, запобігання розширенню пожежі та можливих зривів;<br/>
+            3. боротьба з пожежею і ліквідація її наслідків;<br/>
+            4. будь-яка з перерахованих</p>
         </section>
     </section>
     <section class="question" number="9.29">
@@ -8010,48 +8024,56 @@
             <p>Куріння, користування відкритим вогнем, неправильне використання паливного обладнання
             (несправність та неправильне розміщення)</p>
             <p>На судах відкритий вогонь заборонений та являється сигналом біди</p>
+            <p>Необережне поводження з відкритим вогнем, несправне електрообладнання, загоряння і вибух палива,
+            кинутий недопалок, або сірник.</p>
         </section>
     </section>
-    <section class="question not-ready" number="9.30">
+    <section class="question" number="9.30">
         <section class="text">
             Які першочергові дії судноводія маломірного судна
             при виникненні спалаху вогнища на судні?
         </section>
-        <section class="answer" data-correct="data-correct">Гашение пожара всеми доступными средствами, сигнал беды</section>
+        <section class="answer" data-correct="data-correct">Всі перераховані у відповідях дії</section>
+        <section class="answer">Розвернути судно так, щоби вогонь і іскри зносило в сторону від судна, заглушити двигун</section>
+        <section class="answer">Дати команду на одягання рятувальних засобів,
+        прийняти рішення про спосіб гасіння пожежі з використанням "покривал", вогнегасників, води і т.п.</section>
+        <section class="answer">При неможливості загасити пожежу, дати команду покинути судно</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.31">
+    <section class="question" number="9.31">
         <section class="text">
             Які суднові дизельні двигуни, повинні мати Свідоцтво EIAPP?
         </section>
-        <section class="answer" data-correct="data-correct">Все, это значит, что мотор имеет катализатор и фильтр от сажи</section>
+        <section class="answer" data-correct="data-correct">Потужністю більше 130 кВт, які встановлюються на суднах
+        необмеженого, морських обмежених і морських прибережних районів плавання</section>
         <section class="description">
+            Всі, це означає, що мотор має каталізатор і фільтр від сажі
         </section>
     </section>
-    <section class="question not-ready" number="9.32">
+    <section class="question" number="9.32">
         <section class="text">
-            На яку відстань забороняється підпливати маломірним суднам
-            до місць масового відпочинку?
+            На яку відстань забороняється підпливати маломірним суднам до місць масового відпочинку?
         </section>
-        <section class="answer" data-correct="data-correct">50 метров до берега, если нет буйков, 10 метров до буйков</section>
+        <section class="answer" data-correct="data-correct">Забороняється наближатись до границь огороджень місць масового відпочинку</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.33">
+    <section class="question" number="9.33">
         <section class="text">
             Яке адміністративне покарання передбачено
             за викидання за борт маломірного судна сміття та інших предметів?
         </section>
-        <section class="answer" data-correct="data-correct">1 до 5 необлагаемых минимумов</section>
+        <section class="answer" data-correct="data-correct">Попередження або накладення штрафу</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.34">
+    <section class="question" number="9.34">
         <section class="text">
             З якої сторони необхідно підходити до палаючого судна для надання допомоги?
         </section>
-        <section class="answer" data-correct="data-correct">С наветренной</section>
+        <section class="answer" data-correct="data-correct">Необхідно підходити з навітряної сторони</section>
+        <section class="answer">Необхідно підходити з підвітряної сторони</section>
         <section class="description">
         </section>
     </section>
@@ -8059,10 +8081,10 @@
         <section class="text">
             Яке адміністративне покарання передбачено за куріння у невстановлених місцях на суднах?
         </section>
-        <section class="answer" data-correct="data-correct">попередження або накладення штрафу 5-20 нмдг</section>
-        <section class="answer">накладення штрафу 5-20 нмдг</section>
-        <section class="answer">попередження або накладення штрафу 1-10 нмдг</section>
-        <section class="answer">накладення штрафу 1-10 нмдг</section>
+        <section class="answer" data-correct="data-correct">Попередження або накладення штрафу 5-20 нмдг</section>
+        <section class="answer">Пакладення штрафу 5-20 нмдг</section>
+        <section class="answer">Попередження або накладення штрафу 1-10 нмдг</section>
+        <section class="answer">Накладення штрафу 1-10 нмдг</section>
         <section class="description">
             <a href="https://zakon.rada.gov.ua/laws/show/80731-10" target="_blank">КУпАП</a>
             Ст 117. Порушення правил користування річковими і маломірними суднами<br/>
@@ -8071,30 +8093,34 @@
             неоподатковуваних мінімумів доходів громадян.
         </section>
     </section>
-    <section class="question not-ready" number="9.36">
+    <section class="question" number="9.36">
         <section class="text">
             Які дії необхідно здійснити при проливанні шкідливих та небезпечних речовин
             (бензину, антифризу, гальмівних рідин, нафти та ін.)?
         </section>
-        <section class="answer" data-correct="data-correct">Собрать подрычными средствами и сложить в спец контейнер, что бы не попали в воду</section>
+        <section class="answer" data-correct="data-correct">Засипати піском або тирсою, а потім
+        зібрати суміш у металеві ящики з кришками та повідомити про випадок чергову службу</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.37">
+    <section class="question" number="9.37">
         <section class="text">
             Що не можна використовувати для
             гасіння легкозаймистих речовин, таких як бензин і керосин?
         </section>
-        <section class="answer" data-correct="data-correct">Воду</section>
+        <section class="answer" data-correct="data-correct">Гасити водою</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="9.38">
+    <section class="question" number="9.38">
         <section class="text">
             З метою посилення охорони довкілля від забруднення та збереження рибних запасів,
             рух маломірних (малих) суден забороняється:
         </section>
-        <section class="answer" data-correct="data-correct">В местах нерестилищ и заповедниках</section>
+        <section class="answer" data-correct="data-correct">У всіх перерахованих місцях</section>
+        <section class="answer">На ділянках, відведених для промислового рибальства та нерестовищ</section>
+        <section class="answer">У заповідниках та заказниках</section>
+        <section class="answer">У місцях знаходження водозаборів та станцій перекачування води</section>
         <section class="description">
         </section>
     </section>
