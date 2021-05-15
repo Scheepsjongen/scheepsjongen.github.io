@@ -8,7 +8,7 @@ permalink: /laws/
 
 [ПРАВИЛА судноплавства на внутрішніх водних шляхах України](https://zakon.rada.gov.ua/laws/show/z0872-04){:target="_blank"}
 
-[Міжнародна конвенція з охорони людського життя на морі 1974 року (СОЛАС-74/83)](https://zakon.rada.gov.ua/laws/show/995_251){:target="_blank"}
+[Міжнародна конвенція з охорони людського життя на морі 1974 року (СОЛАС-74/83)](http://www.delta-pilot.ua/sites/default/files/regulatory_docs/consolidated_text_of_the_1974_solas_convention_rus.pdf){:target="_blank"}
 
 [ПРАВИЛА охорони життя людей на водних об’єктах України](https://zakon.rada.gov.ua/laws/show/z0566-17){:target="_blank"}
 
