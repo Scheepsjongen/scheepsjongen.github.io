@@ -28,7 +28,6 @@ layout: page
                     <div class="container-text">
                         <h1>Тест судноводія</h1>
                         <p>Тест для перевірки теоретичних знань кандидатів на отримання посвідчення судноводія малого/маломірного судна (unofficial)</p>
-                        <p>В тесті присутні тільки опрацьовані <a href="/list">Питання</a></p>
                         <button class="btn btn-primary btn-lg" data-bind="click: startQuiz">Почати</button>
                     </div>
                     <img src="/img/lines.png" alt="ship">
@@ -42,7 +41,7 @@ layout: page
                     <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': currentProgress }, style: { width: currentProgress() + '%' }"></div>
                 </div>
                 <button class="btn btn-default" data-bind="click: movePreviousQuestion, disable: currentQuestionIsFirst">Назад</button>
-                <button class="btn btn-default" data-bind="click: showCurrentQuestionHint, visible: currentQuestionHasHint()">Show Hint</button>
+                <button class="btn btn-default" data-bind="click: showCurrentQuestionHint, visible: currentQuestionHasHint()">Показати підказку</button>
                 <button class="btn btn-default" data-bind="click: showCurrentQuestionAnswer">Показати відповідь</button>
                 <button class="btn btn-primary" data-bind="click: moveNextQuestion, disable: currentQuestionIsLast, visible: !currentQuestionIsLast()">Далі</button>
                 <button class="btn btn-primary" data-bind="click: calculateScore, visible: currentQuestionIsLast">Завершити</button>
@@ -52,10 +51,10 @@ layout: page
                 <p>Результат:</p>
                 <h2 data-bind="text: quizTitle"></h2>
                 <h3 data-bind="text: quizSubTitle"></h3>
-                <div>Questions: <span data-bind="text: questionCount"></span></div>
-                <div>Date: <span data-bind="text: calculatedScoreDate"></span></div>
-                <div>Overall Score: <span data-bind="text: calculatedScore"></span>%</div>
-                <div>Correct Questions: <span data-bind="text: totalQuestionsCorrect"></span></div>
+                <div>Питання: <span data-bind="text: questionCount"></span></div>
+                <div>Дата: <span data-bind="text: calculatedScoreDate"></span></div>
+                <div>Загальна оцінка: <span data-bind="text: calculatedScore"></span>%</div>
+                <div>Правильні відповіді: <span data-bind="text: totalQuestionsCorrect"></span></div>
                 <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" data-bind="attr: { 'aria-valuenow': calculatedScore }, style: { width: calculatedScore() + '%' }, css: { 'progress-bar-success': quizPassed, 'progress-bar-danger': !quizPassed() }"></div>
                 </div>
