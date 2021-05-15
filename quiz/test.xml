@@ -454,7 +454,7 @@
             При обгонах моточовни, катери, які здійснюють обгін повинні обганяти другі судна?
         </section>
         <section class="answer" data-correct="data-correct">Намагатися по лівому борту</section>
-        <section class="answer" data-correct="data-correct">Намагатися по правому борту</section>
+        <section class="answer">Намагатися по правому борту</section>
         <section class="answer">З лівого борту</section>
         <section class="answer">З правого борту</section>
         <section class="description">
@@ -1239,11 +1239,13 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.63">
+    <section class="question" number="1.63">
         <section class="text">
             За скільки метрів дозволяється починати обгін судна?
         </section>
         <section class="answer" data-correct="data-correct">За 500 метрів</section>
+        <section class="answer">За 250 метрів</section>
+        <section class="answer">За 1000 метрів</section>
         <section class="description">
         </section>
     </section>
@@ -1259,52 +1261,51 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.65">
+    <section class="question" number="1.65">
         <section class="text">
-            Чи дозволяється рух маломірних суден у темний час доби
-            (від заходу та сходу сонця)?
+            Чи дозволяється рух маломірних суден у темний час доби (від заходу та сходу сонця)?
         </section>
-        <section class="answer" data-correct="data-correct">Запрещено в пределах города,
-        разрешено за городом при скорости не более 15 км/ч и наличии светомозцки</section>
+        <section class="answer" data-correct="data-correct">Заборонено в межах міста,
+        дозволено за містом при швидкості не більше 15 км/год і наявності вогнів</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.66">
+    <section class="question" number="1.66">
         <section class="text">
             Ким здійснюється випуск самохідних і несамохідних суден,
             інших плавзасобів у внутрішні води?
         </section>
-        <section class="answer" data-correct="data-correct">Регистр судноплавства Укр</section>
+        <section class="answer" data-correct="data-correct">Регістр судноплавства України</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.67">
+    <section class="question" number="1.67">
         <section class="text">
             Як рекомендовано виконувати перетин курсу іншого судна?
         </section>
-        <section class="answer" data-correct="data-correct">Под прямым углом.
-        На максимальной скорости в пределах допустимой. Не ближе чем за 500 метров.</section>
+        <section class="answer" data-correct="data-correct">Під прямим кутом. На максимальній швидкості в межах
+        допустимої. Не ближче ніж за 500 метрів</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.68">
+    <section class="question" number="1.68">
         <section class="text">
             У яких випадках встановлюється обмеження руху суден на акваторії бази стоянки?
         </section>
-        <section class="answer" data-correct="data-correct">Всегда не более 5км/ч не создавая волнения</section>
+        <section class="answer" data-correct="data-correct">Завжди не більше 5 км/год не створюючи хвилювання</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.69">
+    <section class="question" number="1.69">
         <section class="text">
             Які встановлюються райони для плавання?
         </section>
-        <section class="answer" data-correct="data-correct">Л - малые реки; Р - большие реки;
-        О - озера/водохранилища; М - море</section>
+        <section class="answer" data-correct="data-correct">Л - малі річки; Р - великі річки;
+        О - озера/водосховища; М - море</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.70">
+    <section class="question" number="1.70">
         <section class="text">
             Якщо два малі судна прямують зустрічними курсами таким чином,
             що може виникнути небезпека зіткнення, то як кожне судно має змінити свій курс?
@@ -1313,36 +1314,40 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.71">
+    <section class="question" number="1.71">
         <section class="text">
             Під час зустрічного плавання судна, що прямують уверх,
             як повинні поступатися шляхом іншим суднам що прямують униз?
         </section>
-        <section class="answer" data-correct="data-correct">Пропускать идущих вниз в узкостях</section>
+        <section class="answer" data-correct="data-correct">Пропускати що йдуть вниз в узкостях</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.72">
+    <section class="question" number="1.72">
         <section class="text">
             У якому випадку дозволено обгін судна?
         </section>
-        <section class="answer" data-correct="data-correct">Если нет опастности столкновения, знаков</section>
+        <section class="answer" data-correct="data-correct">Якщо немає небезпеки зіткнення, знаків</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.73">
+    <section class="question" number="1.73">
         <section class="text">
             З якою швидкістю дозволяється рух суден в нічний час?
         </section>
         <section class="answer" data-correct="data-correct">До 15 км/год</section>
+        <section class="answer">До 5 км/год</section>
+        <section class="answer">До 20 км/год</section>
+        <section class="answer">До 30 км/год</section>
+        <section class="answer">До 40 км/год</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.74">
+    <section class="question" number="1.74">
         <section class="text">
             Де дозволено пересікати судновий хід в межах міста?
         </section>
-        <section class="answer" data-correct="data-correct">В местах спец знака "пересичение суд.хода"</section>
+        <section class="answer" data-correct="data-correct">У місцях спецзнака "перетин суд. ходу"</section>
         <section class="description">
         </section>
     </section>
@@ -1367,20 +1372,21 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.77">
+    <section class="question" number="1.77">
         <section class="text">
             Що перш за все потрібно визначати при наявності небезпеки зіткнення?
         </section>
-        <section class="answer" data-correct="data-correct">Курс и скорость другого судна</section>
+        <section class="answer" data-correct="data-correct">Курс і швидкість іншого судна</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.78">
+    <section class="question" number="1.78">
         <section class="text">
             У разі запобігання зіткнення, які дії з судном повинен зробити судноводій?
         </section>
-        <section class="answer" data-correct="data-correct">1</section>
+        <section class="answer" data-correct="data-correct">Змінити курс та (або) швидкість</section>
         <section class="description">
+            Правило 8 МПЗЗС
         </section>
     </section>
     <section class="question" number="1.79">
@@ -1408,12 +1414,12 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.80">
+    <section class="question" number="1.80">
         <section class="text">
             У якому випадку дозволяється зустрічне плавання суден?
         </section>
-        <section class="answer" data-correct="data-correct">Одиночным судам при ширине фарватера от 100 метров,
-        больших судов (120м) и составов судов при ширине фарватера от 200 м</section>
+        <section class="answer" data-correct="data-correct">Одиночним суднам при ширині фарватеру від 100 метрів,
+        великих - 120 м і складів суден при ширині фарватеру від 200 м</section>
         <section class="description">
         </section>
     </section>
@@ -1689,36 +1695,36 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.91">
+    <section class="question" number="1.91">
         <section class="text">
             Де повинні рухатись маломірні судна по відношенню фарватеру?
         </section>
         <section class="answer" data-correct="data-correct">За межами фарватеру</section>
+        <section class="answer">По кромці фарватеру</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.93">
+    <section class="question" number="1.93">
         <section class="text">
             Нічна ходова сигналізація одиночного судна.
         </section>
-        <section class="answer" data-correct="data-correct">Бортовые огни.
-        Зеленый на правом борту, красный на левом (112.5 градуса от ДП судна).
-        Топовый белый (225 градусов). Кормовой белый (135 градусов)</section>
+        <section class="answer" data-correct="data-correct">Бортові вогні: зелений на правому борту, червоний на
+        лівому (112.5 градуси від ДП судна); Топовий білий (225 градусів); Кормової білий (135 градусів)</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.94">
+    <section class="question" number="1.94">
         <section class="text">
             Вогні буксирних суден на ходу.
         </section>
-        <section class="answer" data-correct="data-correct">Одиночный буксир во главе группы:
-        красный и зеленый огни по левому и правому борту соответственно; два топовых белых огоня
-        расположенных вертикально; кормовой огонь желтого цвета; Буксиры идущие рядом во главе группы
-        или длинна состава более 200метров = три топовых белых огоня расположенных вертикально</section>
+        <section class="answer" data-correct="data-correct">Одиночний буксир на чолі групи: червоний і зелений
+        вогні по лівому і правому борту відповідно; два топових білих вогонь розташованих вертикально;
+        кормовий вогонь жовтого кольору; Буксири йдуть поруч на чолі групи або довга складу більше 200 метрів -
+        три топових білих вогонь розташованих вертикально</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.95">
+    <section class="question" number="1.95">
         <section class="text">
             Що потрібно мати на увазі під терміном "База"?
         </section>
@@ -1798,27 +1804,29 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.99">
+    <section class="question" number="1.99">
         <section class="text">
             При якій видимості дозволяється рух маломірних суден?
         </section>
-        <section class="answer" data-correct="data-correct">При более 1000 метров</section>
+        <section class="answer" data-correct="data-correct">При більше 1000 метрів</section>
+        <section class="answer" data-correct="data-correct">При більше 500 метрів</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.100">
+    <section class="question" number="1.100">
         <section class="text">
             Які вогні повинно мати маломірне судно при стоянці на якорі?
         </section>
-        <section class="answer" data-correct="data-correct">Обыкновенный белый огонь видный отовсюду (360 градусов)</section>
+        <section class="answer" data-correct="data-correct">Звичайний білий вогонь видимий звідусіль (360 градусів)</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.101">
+    <section class="question" number="1.101">
         <section class="text">
             Який знак вказує на перехід фарватеру від одного берега до іншого?
         </section>
-        <section class="answer" data-correct="data-correct">Перевальный</section>
+        <section class="answer" data-correct="data-correct">Перевальний</section>
+        <section class="answer">Перехідний</section>
         <section class="description">
         </section>
     </section>
@@ -1879,30 +1887,30 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.105">
+    <section class="question" number="1.105">
         <section class="text">
             В яких межах забороняється постановка суден на якір?
         </section>
-        <section class="answer" data-correct="data-correct">200 метров до и после знака/мостов/плав знаков/не ближе 25 метров до форватера</section>
+        <section class="answer" data-correct="data-correct">200 метрів до і після знаку/мостів/плав. знаків/
+        не ближче 25 метрів до форватеру</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.106">
+    <section class="question" number="1.106">
         <section class="text">
             Який знак що має маломірне судно, що йде під вітрилом
             і в той же час може рухатися за допомогою мотору?
         </section>
-        <section class="answer" data-correct="data-correct">Конус вершиной вниз на самом видном месте</section>
+        <section class="answer" data-correct="data-correct">Конус вершиною вниз на самому видному місці</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.107">
+    <section class="question" number="1.107">
         <section class="text">
             За яких умов можливе використання водних лиж?
         </section>
-        <section class="answer" data-correct="data-correct">Не на форватере,
-        не ближе 50 метров к местам отдыха людей без ограждения,
-        не ближе 10 метров к буйкам ограждающие пляж</section>
+        <section class="answer" data-correct="data-correct">Не на фарватері, не ближче 50 метрів до місць відпочинку
+        людей без огорожі, не ближче 10 метрів до буйкового огородження пляжу</section>
         <section class="description">
         </section>
     </section>
@@ -1918,7 +1926,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.109">
+    <section class="question" number="1.109">
         <section class="text">
             Обмін відмашками виконується не менше ніж за ..?
         </section>
@@ -2101,11 +2109,12 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.122">
+    <section class="question" number="1.122">
         <section class="text">
             Які суднові документи на маломірних суднах до 75 к.с. повинні бути в наявності?
         </section>
-        <section class="answer" data-correct="data-correct">Тех.паспорт (судовой билет), Тех.осмотр</section>
+        <section class="answer" data-correct="data-correct">Техпаспорт (судновий білет, свідоцтво
+        про придатність судна до плавання), техогляд, посвідчення водія</section>
         <section class="description">
         </section>
     </section>
@@ -2307,20 +2316,21 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.129">
+    <section class="question" number="1.129">
         <section class="text">
             Міра безпеки при перевезенні дітей.
         </section>
-        <section class="answer" data-correct="data-correct">Маломерное судно до 6м: дети только от 7 лет в спас желете
-        в середине лодки. Маломерное судно более 6м: дети любого возраста в спас желетах под надзором одного взрослого</section>
+        <section class="answer" data-correct="data-correct">Маломірне судно до 6м: діти тільки від 7 років,
+        в рятувальному желеті, в середині човна. Маломірне судно більш 6м: діти будь-якого віку в рятувальних
+        желетах під наглядом одного дорослого</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.130">
+    <section class="question" number="1.130">
         <section class="text">
             Які правила передачі управління судном іншій особі?
         </section>
-        <section class="answer" data-correct="data-correct">Права, старше 18, не в состоянии алко/нарко</section>
+        <section class="answer" data-correct="data-correct">Права, старше 18, не в стані алко/нарко</section>
         <section class="description">
         </section>
     </section>
@@ -2400,11 +2410,11 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.135">
+    <section class="question" number="1.135">
         <section class="text">
             Перетинання курсу чи обгін дозволяється ..?
         </section>
-        <section class="answer" data-correct="data-correct">Нет опасности столкновения</section>
+        <section class="answer" data-correct="data-correct">Коли немає небезпеки зіткнення</section>
         <section class="description">
         </section>
     </section>
@@ -2739,21 +2749,21 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.152">
+    <section class="question" number="1.152">
         <section class="text">
             При якій видимості малому судну забороняється виходити на судовий хід?
         </section>
-        <section class="answer" data-correct="data-correct">Запрещается малому судну выходить на судовой ход.
-        Исключение, когда малое судно не может продолжать безопасное движение вне суд.хода, под мостами,
-        при пересечении суд.хода</section>
+        <section class="answer" data-correct="data-correct">Забороняється малому судну виходити на судновий хід.
+        Виняток, коли мале судно не може продовжувати безпечний рух поза межами суднового ходу, під мостами,
+        при перетині суднового ходу</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.153">
+    <section class="question" number="1.153">
         <section class="text">
             При якій висоті хвилі дозволяється виходити в плавання?
         </section>
-        <section class="answer" data-correct="data-correct">Согласно требований регистра Судноплавства Украины</section>
+        <section class="answer" data-correct="data-correct">Згідно вимог регістра судноплавства України</section>
         <section class="description">
         </section>
     </section>
@@ -2895,7 +2905,7 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="1.160">
+    <section class="question" number="1.160">
         <section class="text">
             Яке адміністративне покарання передбачено за порушення обмежень по району та умовах плавання?
         </section>
@@ -3007,8 +3017,8 @@
         <section class="text">
             Які документи повинен мати при собі судноводій маломірного судна під час плавання?
         </section>
-        <section class="answer" data-correct="data-correct">Посвідчення на право керування та
-        документи права власності на судно</section>
+        <section class="answer" data-correct="data-correct">Посвідчення на право керування, судновий білет,
+        свідоцтво про придатність судна до плавання та акт технічного огляду</section>
         <section class="answer">Посвідчення на право керування та судновий білет</section>
         <section class="answer">Судновий білет та акт технічного огляду</section>
         <section class="answer">Посвідчення на право керування та акт технічного огляду</section>
@@ -3060,11 +3070,11 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.171">
+    <section class="question" number="1.171">
         <section class="text">
             Обгін суден заборонено?
         </section>
-        <section class="answer" data-correct="data-correct">Если существует опастность столкновения / 5 коротких звуков</section>
+        <section class="answer" data-correct="data-correct">Якщо існує небезпека зіткнення / 5 коротких звуків</section>
         <section class="description">
         </section>
     </section>
@@ -3130,11 +3140,11 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.178">
+    <section class="question" number="1.178">
         <section class="text">
             Вихід маломірних (малих) суден у плавання дозволяється при?
         </section>
-        <section class="answer" data-correct="data-correct">Доки; не пьян; нанесена рег.номер; исправно</section>
+        <section class="answer" data-correct="data-correct">Документи; не п'яний; нанесен реєстраційний номер; справно</section>
         <section class="description">
         </section>
     </section>
@@ -3162,20 +3172,20 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.182">
+    <section class="question" number="1.182">
         <section class="text">
             Яке судно несе сигнал: червоний конус вершиною вниз?
         </section>
-        <section class="answer" data-correct="data-correct">"Красный вымпел" судно имеет право первоочередного прохода</section>
+        <section class="answer" data-correct="data-correct">"Червоний вимпел" - судно має право першочергового проходу</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="1.183">
+    <section class="question" number="1.183">
         <section class="text">
             Протягом якого терміну громадянин, щодо якого винесено адміністративне покарання
             за порушення правил користування маломірними суднами, має право подати скаргу?
         </section>
-        <section class="answer" data-correct="data-correct">Не больше 14 дней (2 недели)</section>
+        <section class="answer" data-correct="data-correct">Чи не більше 14 днів (2 тижні)</section>
         <section class="description">
         </section>
     </section>
@@ -3594,7 +3604,7 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="2.21">
+    <section class="question" number="2.21">
         <section class="text">
             Якими показниками характеризується судновий хід?
         </section>
@@ -3602,32 +3612,31 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.22">
+    <section class="question" number="2.22">
         <section class="text">
             Як називається, короткий крутий вигин русла річки у межах долини?
         </section>
-        <section class="answer" data-correct="data-correct">Излучина или лука</section>
+        <section class="answer" data-correct="data-correct">Ізлучина або лука</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.23">
+    <section class="question" number="2.23">
         <section class="text">
             Де використовується річкова навігаційна карта при плаванні суден?
         </section>
-        <section class="answer" data-correct="data-correct">Для определения положения судна на воде</section>
+        <section class="answer" data-correct="data-correct">Для визначення положення судна на воді</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.24">
+    <section class="question" number="2.24">
         <section class="text">
-            Яким головним чином обумовлений гідрологічний, вітровий, хвильовий
-            режим річок та водосховищ?
+            Яким головним чином обумовлений гідрологічний, вітровий, хвильовий режим річок та водосховищ?
         </section>
         <section class="answer" data-correct="data-correct">Кліматичними умовами і порою року</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.25">
+    <section class="question" number="2.25">
         <section class="text">
             У яких місцях створюється морський стиковий бар?
         </section>
@@ -3635,16 +3644,15 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.26">
+    <section class="question" number="2.26">
         <section class="text">
-            Як називається понижена частина річкової долини,
-            по якій тече вода при самих низьких рівнях?
+            Як називається понижена частина річкової долини, по якій тече вода при самих низьких рівнях?
         </section>
         <section class="answer" data-correct="data-correct">Русло</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.27">
+    <section class="question" number="2.27">
         <section class="text">
             Як називається гострий кут берега у місці злиття двох річок?
         </section>
@@ -3702,12 +3710,18 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.32">
+    <section class="question" number="2.32">
         <section class="text">
             Як називається щорічно повторюваний підйом рівня води
             у зв'язку з сезонною зміною клімату і викликаний таненням снігу в басейні річки?
         </section>
         <section class="answer" data-correct="data-correct">Повінь</section>
+        <section class="answer">Заплава</section>
+        <section class="answer">Долина</section>
+        <section class="answer">Печина</section>
+        <section class="answer">Лещадь</section>
+        <section class="answer">Огрудок</section>
+        <section class="answer">Шалига</section>
         <section class="description">
         </section>
     </section>
@@ -3721,23 +3735,33 @@
         <section class="answer">Печина</section>
         <section class="answer">Лещадь</section>
         <section class="answer">Огрудок</section>
+        <section class="answer">Долина</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.34">
+    <section class="question" number="2.34">
         <section class="text">
             Як називається знижена частина земної поверхні,
             розташована по обидві сторони річки на всьому її протязі?
         </section>
         <section class="answer" data-correct="data-correct">Долина</section>
+        <section class="answer">Печина</section>
+        <section class="answer">Лещадь</section>
+        <section class="answer">Огрудок</section>
+        <section class="answer">Шалига</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.35">
+    <section class="question" number="2.35">
         <section class="text">
             Як називається частина річкової долини, затоплювана паводковими водами?
         </section>
         <section class="answer" data-correct="data-correct">Заплава</section>
+        <section class="answer">Долина</section>
+        <section class="answer">Печина</section>
+        <section class="answer">Лещадь</section>
+        <section class="answer">Огрудок</section>
+        <section class="answer">Шалига</section>
         <section class="description">
         </section>
     </section>
@@ -3767,13 +3791,19 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.38">
+    <section class="question" number="2.38">
         <section class="text">
             Як називається ділянка річки, де вода скоює безладні зворотно-поступальні рухи,
             утворюються при злитті потоків води з різними швидкостями течії,
             за опорами мостів, а також при обтіканні підводних перешкод, трохи нижче їх?
         </section>
         <section class="answer" data-correct="data-correct">Майдан</section>
+        <section class="answer">Заплава</section>
+        <section class="answer">Долина</section>
+        <section class="answer">Печина</section>
+        <section class="answer">Лещадь</section>
+        <section class="answer">Огрудок</section>
+        <section class="answer">Шалига</section>
         <section class="description">
         </section>
     </section>
@@ -3789,7 +3819,7 @@
             огороджений знаками навігаційного обладнання морських шляхів: буями, віхами, створами тощо
         </section>
     </section>
-    <section class="question not-ready" number="2.40">
+    <section class="question" number="2.40">
         <section class="text">
             Що таке річка?
         </section>
@@ -3801,7 +3831,7 @@
             живиться поверхневими й підземними водами, а також атмосферними опадами свого сточища (басейну).
         </section>
     </section>
-    <section class="question not-ready" number="2.41">
+    <section class="question" number="2.41">
         <section class="text">
             Штучні перешкоди в руслі річок це?
         </section>
@@ -3809,7 +3839,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.42">
+    <section class="question" number="2.42">
         <section class="text">
             Що означає термін "Сувідь"?
         </section>
@@ -3817,7 +3847,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.43">
+    <section class="question" number="2.43">
         <section class="text">
             Які річки називають "класичними"?
         </section>
@@ -3825,7 +3855,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="2.44">
+    <section class="question" number="2.44">
         <section class="text">
             Природні перешкоди в руслі річок?
         </section>
@@ -4793,19 +4823,19 @@
             <p>Труднощі виконання суднових робіт - слизька палуба, обмежений простір.</p>
         </section>
     </section>
-    <section class="question not-ready" number="4.2">
+    <section class="question" number="4.2">
         <section class="text">
             У чому проявляється вплив вітру на рух і управління маломірного судна?
         </section>
-        <section class="answer" data-correct="data-correct">В сносе с курса</section>
+        <section class="answer" data-correct="data-correct">У знесенні з курсу</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.3">
+    <section class="question" number="4.3">
         <section class="text">
             Як впливають мілини на керованість судном?
         </section>
-        <section class="answer" data-correct="data-correct">Проседание судна и потеря скорости</section>
+        <section class="answer" data-correct="data-correct">Просідання судна і втрата швидкості</section>
         <section class="description">
         </section>
     </section>
@@ -5000,42 +5030,43 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.21">
+    <section class="question" number="4.21">
         <section class="text">
             Які дії повинні виконати судна, що йдуть вверх при зустрічному плаванні?
         </section>
-        <section class="answer" data-correct="data-correct">Первыми подать звуковой сигнал определющий борт расхождения.
-        В узкостях дать преимощество судну, что идет вниз</section>
+        <section class="answer" data-correct="data-correct">Першими подати звуковий сигнал що визначає борт розходження.
+        У вузкостях дати перевагу судну, що йде вниз</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.22">
+    <section class="question" number="4.22">
         <section class="text">
             Чи подають сигнал про розходження, судна,
             що йдуть вверх пропускаючи з лівого борту судна, що йдуть вниз?
         </section>
-        <section class="answer" data-correct="data-correct">Да, первым</section>
+        <section class="answer" data-correct="data-correct">Так, першими</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.23">
+    <section class="question" number="4.23">
         <section class="text">
             Чи повинні судна на підводних крилах і судна на повітряній подушці
             вимагати щоб всі інші судна давали їм дорогу?
         </section>
-        <section class="answer" data-correct="data-correct">Нет</section>
+        <section class="answer" data-correct="data-correct">Ні</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.24">
+    <section class="question" number="4.24">
         <section class="text">
             Що таке обгін?
         </section>
-        <section class="answer" data-correct="data-correct">Приближение обгоняющего судна к обгоняемому под углом 22,5° от траверзы назад</section>
+        <section class="answer" data-correct="data-correct">Наближення судна, що обганяє до обганяємо
+        під кутом 22,5° від траверси назад</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.25">
+    <section class="question" number="4.25">
         <section class="text">
             При яких умовах дозволяється обгін суден?
         </section>
@@ -5043,7 +5074,7 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.26">
+    <section class="question" number="4.26">
         <section class="text">
             Як повинно діяти судно, яке обганяють?
         </section>
@@ -5083,19 +5114,19 @@
             </blockquote>
         </section>
     </section>
-    <section class="question not-ready" number="4.29">
+    <section class="question" number="4.29">
         <section class="text">
             Що повинно зробити ММС, якщо при здійсненні обгону воно створює високу хвилю?
         </section>
-        <section class="answer" data-correct="data-correct">Уменьшить скорость, что бы убрать волну</section>
+        <section class="answer" data-correct="data-correct">Зменшити швидкість, щоб прибрати хвилю</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.30">
+    <section class="question" number="4.30">
         <section class="text">
             Чи повинні зменшувати швидкість судна іншої категорії, коли їх обганяє ММС?
         </section>
-        <section class="answer" data-correct="data-correct">Не должны</section>
+        <section class="answer" data-correct="data-correct">Не повинні</section>
         <section class="description">
         </section>
     </section>
@@ -5138,13 +5169,13 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.34">
+    <section class="question" number="4.34">
         <section class="text">
             Як повинні маневрувати маломірні судна для розходження
             один з одним на акваторії, яка не має судноплавної обстановки?<br/>
             <img src="/quiz/img/4.34.jpg"/>
         </section>
-        <section class="answer" data-correct="data-correct">Разойтись левым бортом</section>
+        <section class="answer" data-correct="data-correct">Розійтися лівим бортом</section>
         <section class="description">
         </section>
     </section>
@@ -5194,11 +5225,15 @@
             Анемометр (вікі)</a> - прилад для вимірювання швидкості повітря
         </section>
     </section>
-    <section class="question not-ready" number="4.38">
+    <section class="question" number="4.38">
         <section class="text">
             За скільки метрів можна починати обгін?
         </section>
-        <section class="answer" data-correct="data-correct">За 500 метров</section>
+        <section class="answer" data-correct="data-correct">За 500 метрів</section>
+        <section class="answer">За 100 метрів</section>
+        <section class="answer">За 250 метрів</section>
+        <section class="answer">За 300 метрів</section>
+        <section class="answer">За 1000 метрів</section>
         <section class="description">
         </section>
     </section>
@@ -5215,29 +5250,29 @@
             Увелисть скорость, носом против волны (+/-20 град) до ближайшего укрытия
         </section>
     </section>
-    <section class="question not-ready" number="4.40">
+    <section class="question" number="4.40">
         <section class="text">
             Який порядок розходження маломірних суден що відійшли
             від різних берегів назустріч один одному при небезпечному зближенні?
         </section>
-        <section class="answer" data-correct="data-correct">Отклониться от точки контакта,
-        уменьшить скорость вплоть до полной остановки. Подать серию коротких звуков 7</section>
+        <section class="answer" data-correct="data-correct">Відхилитися від точки контакту,
+        зменшити швидкість аж до повної зупинки. Подати серію коротких звуків 7</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.41">
+    <section class="question" number="4.41">
         <section class="text">
             В якому випадку краще керувати судном, якщо воно рухається?
         </section>
-        <section class="answer" data-correct="data-correct">Чем выше скорость тем лучше управляемость</section>
+        <section class="answer" data-correct="data-correct">Чим вище швидкість тим краще керованість</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.42">
+    <section class="question" number="4.42">
         <section class="text">
             Дія вітру на судно залежить від?
         </section>
-        <section class="answer" data-correct="data-correct">Высоты надводного борта</section>
+        <section class="answer" data-correct="data-correct">Висоти надводного борту</section>
         <section class="description">
         </section>
     </section>
@@ -5290,35 +5325,35 @@
             Курс відносно вітру (вікі)</a>
         </section>
     </section>
-    <section class="question not-ready" number="4.48">
+    <section class="question" number="4.48">
         <section class="text">
             Підхід судна, яке йде за течією, до причалу чи берега здійснюється?
         </section>
-        <section class="answer" data-correct="data-correct">После разворота (стать против течения)</section>
+        <section class="answer" data-correct="data-correct">Після розвороту (стати проти течії)</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.49">
+    <section class="question" number="4.49">
         <section class="text">
             Найбільший знос судно зазнає?
         </section>
-        <section class="answer" data-correct="data-correct">Совпадат направление ветра и течения</section>
+        <section class="answer" data-correct="data-correct">Коли збігається напрямок вітру і течії</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.50">
+    <section class="question" number="4.50">
         <section class="text">
             Під час руху судна на мілководді?
         </section>
-        <section class="answer" data-correct="data-correct">Уменьшить скорость и следить за глубиной</section>
+        <section class="answer" data-correct="data-correct">Зменшити швидкість і стежити за глибиною</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="4.51">
+    <section class="question" number="4.51">
         <section class="text">
             Під час руху судна на мілководді потрібно?
         </section>
-        <section class="answer" data-correct="data-correct">Уменьшить скорость и следить за глубиной</section>
+        <section class="answer" data-correct="data-correct">Зменшити швидкість і стежити за глибиною</section>
         <section class="description">
         </section>
     </section>
@@ -5338,11 +5373,11 @@
             що має швидкість течії більшу від середньої швидкості річки.
         </section>
     </section>
-    <section class="question not-ready" number="4.53">
+    <section class="question" number="4.53">
         <section class="text">
             Дії судноводія для безпечного переходу через перекат?
         </section>
-        <section class="answer" data-correct="data-correct">Уменьшение скорости и слежение за глубиной</section>
+        <section class="answer" data-correct="data-correct">Зменшення швидкості і стеження за глибиною</section>
         <section class="description">
         </section>
     </section>
@@ -6182,11 +6217,11 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.28">
+    <section class="question" number="6.28">
         <section class="text">
             В чому полягають особливості керування судном на мілині?
         </section>
-        <section class="answer" data-correct="data-correct">Уменьшить скорость, следить за глубиной</section>
+        <section class="answer" data-correct="data-correct">Зменшити швидкість, стежити за глибиною</section>
         <section class="description">
         </section>
     </section>
@@ -6211,12 +6246,12 @@
             Дійти якомога швидше до укриття.
         </section>
     </section>
-    <section class="question not-ready" number="6.31">
+    <section class="question" number="6.31">
         <section class="text">
             Який порядок руху швидкісних маломірних суден при видимості, менше 0,5 км?
         </section>
-        <section class="answer" data-correct="data-correct">Если нет радиолокатора - движение запрещено.
-        Если есть, то со скоростью не более 15 км/ч в водотонажном режиме</section>
+        <section class="answer" data-correct="data-correct">Якщо немає радіолокатора - рух заборонено.
+        Якщо є, то зі швидкістю не більше 15 км/год, в водотонажном режимі</section>
         <section class="description">
         </section>
     </section>
@@ -6243,7 +6278,7 @@
             направление и скорость которого измеряются относительно стационарных морских или наземных объектов.</p>
         </section>
     </section>
-    <section class="question not-ready" number="6.34">
+    <section class="question" number="6.34">
         <section class="text">
             Ознаки наближення циклону?
         </section>
@@ -6276,12 +6311,11 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.37">
+    <section class="question" number="6.37">
         <section class="text">
-            Дії судноводіїв маломірних (малих) суден
-            при погіршенні гідрометеорологічних умов?
+            Дії судноводіїв маломірних (малих) суден при погіршенні гідрометеорологічних умов?
         </section>
-        <section class="answer" data-correct="data-correct">Следовать как можно быстрее в укрытие</section>
+        <section class="answer" data-correct="data-correct">Слідувати якомога швидше в укриття</section>
         <section class="description">
         </section>
     </section>
@@ -6296,36 +6330,37 @@
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.39">
+    <section class="question" number="6.39">
         <section class="text">
             Дії судноводія при штормі?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20°), повышенные обороты, как можно быстрее в укрытие</section>
+        <section class="answer" data-correct="data-correct">Носом проти хвилі (+/- 20°), підвищені обороти,
+        якнайшвидше в укриття</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.40">
+    <section class="question" number="6.40">
         <section class="text">
             Дії судноводія при наближенні шквалу?
         </section>
-        <section class="answer" data-correct="data-correct">Как можно быстрее в укрытие</section>
+        <section class="answer" data-correct="data-correct">Якнайшвидше в укриття</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.41">
+    <section class="question" number="6.41">
         <section class="text">
-            Які дії необхідно вжити судноводію малого судна,
-            що попав в шторм, щоб забезпечити остійність?
+            Які дії необхідно вжити судноводію малого судна, що попав в шторм, щоб забезпечити остійність?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20°), повышенные обороты</section>
+        <section class="answer" data-correct="data-correct">Носом проти хвилі (+/- 20°), підвищені обороти</section>
         <section class="description">
         </section>
     </section>
-    <section class="question not-ready" number="6.42">
+    <section class="question" number="6.42">
         <section class="text">
             Які дії необхідно вжити судноводію МС, що потрапив в шторм?
         </section>
-        <section class="answer" data-correct="data-correct">Носом против волны (+/- 20°), повышенные обороты, как можно быстрее в укрытие</section>
+        <section class="answer" data-correct="data-correct">Носом проти хвилі (+/- 20°), підвищені обороти,
+        якнайшвидше в укриття</section>
         <section class="description">
         </section>
     </section>
@@ -7305,7 +7340,7 @@
             встановлених на суднах і літаках в разі аварійних ситуацій.
         </section>
     </section>
-    <section class="question not-ready" number="8.36">
+    <section class="question" number="8.36">
         <section class="text">
             Малі судна, що експлуатуються виключно на внутрішніх водних шляхах
             без виходу у (поза межами) водосховища,
