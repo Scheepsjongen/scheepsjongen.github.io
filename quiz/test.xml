@@ -43,6 +43,8 @@
             Які дії судна при проходженні небезпечних районів плавання?
         </section>
         <section class="answer" data-correct="data-correct">Зменшити хід і подати один тривалий звук (4-5 сек.)</section>
+        <section class="answer">Зменшити швидкість та подати два тривалих звуки (4-5 сек.)</section>
+        <section class="answer">Збільшити швидкість, щоб швидше пройти небезпечний район плавання</section>
         <section class="description">
             У багатьох випадках, небезпека району визначається не самим районом, а індивідуумами,
             які там можуть знаходитися
@@ -3208,6 +3210,8 @@
         <section class="answer">Стрижень</section>
         <section class="answer">Смуга</section>
         <section class="answer">Перевал</section>
+        <section class="answer">Сторона</section>
+        <section class="answer">Полоса</section>
         <section class="description">
         </section>
     </section>
@@ -4027,6 +4031,8 @@
         </section>
         <section class="answer" data-correct="data-correct">Діаметральна площина</section>
         <section class="answer">Мідль</section>
+        <section class="answer">Плоскість конструктивної ватерлінії</section>
+        <section class="answer">Нульова площина</section>
         <section class="description">
         </section>
     </section>
@@ -4817,6 +4823,8 @@
             Під впливом, яких чинників відбувається "дрейф судна"?
         </section>
         <section class="answer" data-correct="data-correct">Під спільним впливом вітру, течії і хвилювання</section>
+        <section class="answer">Під спільним впливом вітру і течії</section>
+        <section class="answer">Під спільним впливом вітру і хвилювання</section>
         <section class="description">
             <a href="https://uk.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B9%D1%84_%D1%81%D1%83%D0%B4%D0%BD%D0%B0" target="_blank">
             Дрейф (вікі)</a> - знесення судна з лінії його курсу під впливом вітру,
@@ -5390,7 +5398,9 @@
         <section class="answer" data-correct="data-correct">Не ближе 250 м</section>
         <section class="answer">Не ближе 50 м</section>
         <section class="answer">Не ближе 100 м</section>
+        <section class="answer">Не ближе 150 м</section>
         <section class="answer">Не ближе 200 м</section>
+        <section class="answer">Не ближе 350 м</section>
         <section class="answer">Не ближе 500 м</section>
         <section class="answer">Не ближе 1000 м</section>
         <section class="description">
@@ -5951,11 +5961,14 @@
         <section class="text">
             Як називається атмосферний вихор великого діаметру з низьким тиском повітря в центрі?
         </section>
-        <section class="answer" data-correct="data-correct">Смерч</section>
+        <section class="answer" data-correct="data-correct">Циклон</section>
         <section class="answer">Буря</section>
         <section class="answer">Шквал</section>
         <section class="answer">Бриз</section>
         <section class="answer">Шторм</section>
+        <section class="answer">Смерч</section>
+        <section class="answer">Антициклон</section>
+        <section class="answer">Суховій</section>
         <section class="description">
             <p><a href="https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" target="_blank">
             Циклон (вікі)</a> - атмосферний вихор з низьким тиском в центрі.</p>
@@ -6351,9 +6364,10 @@
         <section class="text">
             Одиницею виміру великих відстаней на морі є - морська миля. Чому вона дорівнює?
         </section>
-        <section class="answer" data-correct="data-correct">Одній минуті мередіана</section>
-        <section class="answer">Одному градусу</section>
-        <section class="answer">1.6 км</section>
+        <section class="answer" data-correct="data-correct">1852 м.</section>
+        <section class="answer">1752 м.</section>
+        <section class="answer">1836 м.</section>
+        <section class="answer">1863 м.</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p class="mb-0">
@@ -6947,6 +6961,8 @@
             Що включають до себе індивідуальні рятувальні засоби?
         </section>
         <section class="answer" data-correct="data-correct">Жилети, круги, гідротермокостюми, пристрої теплозахисту</section>
+        <section class="answer">Жилети, круги, посадкові пристрої, пристрої теплозахисту</section>
+        <section class="answer">Жилети, круги, рятувальні пліт-каюти, гідро і термо костюми</section>
         <section class="description">
             Рятувальний круг, рятувальний жилет, тепло захисний засіб, гідро і термокостюми
         </section>
@@ -7475,6 +7491,7 @@
         <section class="answer" data-correct="data-correct">Входить</section>
         <section class="answer">Входить, для надання допомоги та для переслідування порушників</section>
         <section class="answer">Тільки для надання допомоги</section>
+        <section class="answer">Не входить</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>8.5. Судноводії маломірних суден зобов'язані:</p>
@@ -8163,7 +8180,9 @@
             Як повинен діяти судноводій ММС під час навала або зіткнення суден?
         </section>
         <section class="answer" data-correct="data-correct">Терміново зупинити судно, приступити до рятування людей,
-        при необхідності відбуксирувати інше МС до одного із берегів або на мілководне місце</section>
+        при необхідності відбуксирувати МС до одного із берегів або на мілководне місце</section>
+        <section class="answer">Подати сигнал лиха і дочекатися допомоги</section>
+        <section class="answer">Приступити до спасіння людей, документів та судна</section>
         <section class="description">
             <p>Зіткнення - одне або обидва судна зупиняються, навал - обидва продовжують рух.</p>
             <p>Переконатися, що немає пробоїни; надати допомогу постраждалим.</p>
@@ -8579,6 +8598,9 @@
             Які бувають види вітрил на вітрильних суднах?
         </section>
         <section class="answer" data-correct="data-correct">Основні, додаткові та штормові</section>
+        <section class="answer">Основні та додаткові</section>
+        <section class="answer">Основні та штормові</section>
+        <section class="answer">Прогулянкові та основні</section>
         <section class="description">
         </section>
     </section>
