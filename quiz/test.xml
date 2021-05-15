@@ -7217,9 +7217,12 @@
         <section class="text">
             Для чого використовується гідротермо костюм?
         </section>
-        <section class="answer" data-correct="data-correct">Знизити вплив водного середовища на організм людини,
-        забезпечити теплоізоляцію, захист від можливих ушкоджень ділянок тіла</section>
+        <section class="answer" data-correct="data-correct">Захищення організму людини від переохолодження у холодній воді</section>
+        <section class="answer">Захищення від дії холодної води</section>
+        <section class="answer">Зберігання якомога довше температури тіла людини</section>
         <section class="description">
+            <p>Знизити вплив водного середовища на організм людини, забезпечити теплоізоляцію,
+            захист від можливих ушкоджень ділянок тіла</p>
             <a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC" target="_blank">
             Гідрокостюм (вікі)</a>
         </section>
