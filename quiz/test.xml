@@ -5526,6 +5526,8 @@
         </section>
         <section class="answer" data-correct="data-correct">На натягнення швартових тросів
         та підтримання їх у стані нормального натягнення</section>
+        <section class="answer">На можливе стихійне переміщення судна уздовж причалу під дією вітру або течії</section>
+        <section class="answer">На приливно-відливні явища в районі стоянки</section>
         <section class="description">
             Якщо буде відлив, то троси можуть натягнуться і судно отримає непотрібний крен.<br/>
             Якщо троса послабнуть і при цьому існує вітер і хвиля, то судно може битися об пірс.
@@ -6499,6 +6501,8 @@
         </section>
         <section class="answer" data-correct="data-correct">Під дією земного магнетизму</section>
         <section class="answer">Під дією магнітного поля судна</section>
+        <section class="answer">Під дією електромагнітних хвиль працюючих приладів на судні</section>
+        <section class="answer">Сил вказаних у відповідях 1 і 2</section>
         <section class="description">
             <blockquote class="blockquote">
                 <p>Магнитные полюса земли не совпадают с географическими полюсами,
@@ -7129,8 +7133,8 @@
         </section>
         <section class="answer" data-correct="data-correct">1-2 людини</section>
         <section class="answer">1 людина</section>
+        <section class="answer">На одного дорослого і одну дитину</section>
         <section class="answer">До 4 чоловік</section>
-        <section class="answer">До 6 чоловік</section>
         <section class="description">
             <p><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D1%83%D0%B3" target="_blank">
             Спасательный круг (wiki)</a> Использование</p>
@@ -7882,6 +7886,8 @@
             Яке сміття категорично заборонено викидати в любому місці Мирового океану?
         </section>
         <section class="answer" data-correct="data-correct">Всі види пластика і синтетики</section>
+        <section class="answer">Сміття з властивостями плавучості</section>
+        <section class="answer">Скла, металу</section>
         <section class="description">
             Мирового океану?))<br/>
             МАРПОЛ<br/>
@@ -8323,6 +8329,8 @@
         </section>
         <section class="answer" data-correct="data-correct">Кому загрожує найбільша небезпека</section>
         <section class="answer">Кому більше шансів надати допомогу</section>
+        <section class="answer">Хто не має на собі рятувальних засобів</section>
+        <section class="answer">Хто не в змозі триматися на воді</section>
         <section class="description">
             Кому загрожує найбільша небезпека - кого найбільше віднесло вітром, дітям, хто не вміє плавати,
             людям похилого віку.
@@ -8737,7 +8745,10 @@
         <section class="text">
             Які види такелажів використовуються на вітрильних суднах?
         </section>
-        <section class="answer" data-correct="data-correct">Стоячий та бегучий</section>
+        <section class="answer" data-correct="data-correct">Стоячий та бігучий</section>
+        <section class="answer">Стоячий</section>
+        <section class="answer">Бігучий</section>
+        <section class="answer">Такелажі не використовуються на вітрильних суднах</section>
         <section class="description">
         </section>
     </section>
