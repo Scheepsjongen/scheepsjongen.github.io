@@ -1809,7 +1809,7 @@
             При якій видимості дозволяється рух маломірних суден?
         </section>
         <section class="answer" data-correct="data-correct">При більше 1000 метрів</section>
-        <section class="answer" data-correct="data-correct">При більше 500 метрів</section>
+        <section class="answer">При більше 500 метрів</section>
         <section class="description">
         </section>
     </section>
