@@ -69,9 +69,7 @@
             Який порядок і пріоритетність розходження суден при одночасному підході до небезпечної ділянки плавання?
         </section>
         <section class="answer" data-correct="data-correct">Судно що йде за течією має перевагу</section>
-        <section class="answer" data-correct="data-correct">Судно що йде проти течії має перевагу</section>
-        <section class="answer" data-correct="data-correct">Моторне судно повинно пропустити парусне,
-        інакше - розходження лівими бортами</section>
+        <section class="answer">Судно що йде проти течії має перевагу</section>
         <section class="description">
             Судно що йде вгору повинно зупинитись у безпечному місці і пропустити судно що йде вниз.
         </section>
@@ -3547,7 +3545,7 @@
             У яких одиницях проводяться виміри відстаней при плаванні на озерах і річках?
         </section>
         <section class="answer" data-correct="data-correct">У кілометрах та метрах</section>
-        <section class="answer" data-correct="data-correct">У милях та кабельтов</section>
+        <section class="answer">У милях та кабельтов</section>
         <section class="description">
         </section>
     </section>
@@ -5002,7 +5000,7 @@
         </section>
         <section class="answer" data-correct="data-correct">У світлий час доби
         з видимістю навігаційного обладнання не менш ніж 1 км.</section>
-        <section class="answer" data-correct="data-correct">У світлий час доби
+        <section class="answer">У світлий час доби
         з видимістю навігаційного обладнання не менш ніж 2 км.</section>
         <section class="description">
         </section>
@@ -5459,7 +5457,7 @@
             для транспортних суден?
         </section>
         <section class="answer" data-correct="data-correct">Заборонено</section>
-        <section class="answer" data-correct="data-correct">Дозволено</section>
+        <section class="answer">Дозволено</section>
         <section class="description">
             Для ММС діє заборона
         </section>
@@ -5470,7 +5468,7 @@
             що стоять на рейдах портів?
         </section>
         <section class="answer" data-correct="data-correct">Заборонено</section>
-        <section class="answer" data-correct="data-correct">Дозволено</section>
+        <section class="answer">Дозволено</section>
         <section class="description">
             ММС підходити та швартуватись заборонено
         </section>
@@ -5681,7 +5679,7 @@
             Хто керує процесом шлюзування суден?
         </section>
         <section class="answer" data-correct="data-correct">Диспечер шлюзу</section>
-        <section class="answer" data-correct="data-correct">Опреатор шлюзу</section>
+        <section class="answer">Опреатор шлюзу</section>
         <section class="description">
         </section>
     </section>
@@ -5739,9 +5737,9 @@
         <section class="text">
             Де дозволяється швартування суден у підхідному каналі при очікуванні шлюзування?
         </section>
-        <section class="answer">У причальних пірсів та у обладнаних місцях-стоянках</section>
-        <section class="answer" data-correct="data-correct">У причальних пірсів</section>
-        <section class="answer" data-correct="data-correct">У обладнаних місцях-стоянках</section>
+        <section class="answer" data-correct="data-correct">У причальних пірсів та у обладнаних місцях-стоянках</section>
+        <section class="answer">У причальних пірсів</section>
+        <section class="answer">У обладнаних місцях-стоянках</section>
         <section class="description">
         </section>
     </section>
@@ -8837,7 +8835,7 @@
             додаткові кругові червоний та зелений сигнально-розпізнавальні ліхтарі?
         </section>
         <section class="answer" data-correct="data-correct">Дозволяється</section>
-        <section class="answer" data-correct="data-correct">Не дозволяється</section>
+        <section class="answer">Не дозволяється</section>
         <section class="description">
         </section>
     </section>
