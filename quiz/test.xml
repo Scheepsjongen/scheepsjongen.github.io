@@ -3273,7 +3273,7 @@
         <section class="text">
             Які ознаки має льодостав?
         </section>
-        <section class="answer">Встановлення льодового покрову від берега і до берега</section>
+        <section class="answer" data-correct="data-correct">Встановлення льодового покрову від берега і до берега</section>
         <section class="answer">Поява в річці тонких і невеликих плоских крижинок</section>
         <section class="description">
             <p>Процес встановлення суцільного крижаного покрову на водоймищах. Якщо лід біля берегу або плавають
