@@ -1201,8 +1201,16 @@
         <section class="text">
             Як потрібно проводити перетин фарватеру (суднового ходу)?
         </section>
-        <section class="answer" data-correct="data-correct">Курсом під прямим кутом до напрямку загального руху</section>
-        <section class="answer">Курсом під гострим кутом до напрямку загального руху</section>
+        <section class="answer" data-correct="data-correct">Під кутом, близьким до 90 градусів, при умовах відсутності
+        на фарватері транспортних суден, при цьому перетин фарватеру проводити так, щоб не перешкоджати руху суден,
+        які рухаються по трасі маломірних (малих) суден</section>
+        <section class="answer">Під кутом, близьким до 40 градусів, при умовах відсутності на фарватері транспортних
+        суден, при цьому перетин фарватеру проводити так, щоб не перешкоджати руху суден, які рухаються по трасі
+        маломірних (малих) суден</section>
+        <section class="answer">Під кутом, близьким до 30 градусів, при умовах відсутності на фарватері транспортних
+        суден</section>
+        <section class="answer">Перетин фарватеру проводити так, щоб не перешкоджати руху суден, які рухаються по
+        трасі маломірних (малих) суден</section>
         <section class="description">
             <p>В городе в местах со спец знаком, за городом где угодно. Под прямым углом.
             На максимальной скорости в пределах допустимой. Не ближе чем за 500 метров перед другими судами</p>
@@ -1217,12 +1225,12 @@
     </section>
     <section class="question" number="1.61">
         <section class="text">
-            Якщо виникає загроза зіткнення між вітрильним та моторним судном,
-            хто повинен надати перевагу?
+            Якщо виникає загроза зіткнення між вітрильним та моторним судном, хто повинен надати перевагу?
         </section>
-        <section class="answer" data-correct="data-correct">Моторне судно.</section>
-        <section class="answer">Вітрильне судно.</section>
-        <section class="answer">Судно у якого менша швидкість руху.</section>
+        <section class="answer" data-correct="data-correct">Моторне судно повинно надати шлях вітрильному</section>
+        <section class="answer">Вітрильне судно повинно надати шлях моторному</section>
+        <section class="answer">Судноводій обирає ті умови, які не створюють аварійну ситуацію</section>
+        <section class="answer">В залежності від швидкості руху того чи іншого судна надає перевагу</section>
         <section class="description">
         </section>
     </section>
@@ -1230,10 +1238,10 @@
         <section class="text">
             З якого борту може виковуватися обгін судна за межами суднового ходу?
         </section>
-        <section class="answer" data-correct="data-correct">Правого та лівого</section>
-        <section class="answer">Правого</section>
-        <section class="answer">Лівого</section>
-        <section class="answer">Обгін заборонено</section>
+        <section class="answer" data-correct="data-correct">З будь якого борту</section>
+        <section class="answer">З правого борту</section>
+        <section class="answer">З лівого борту</section>
+        <section class="answer">Заборонено виконувати обгін у зазначеній ситуації</section>
         <section class="description">
         </section>
     </section>
@@ -1241,9 +1249,10 @@
         <section class="text">
             За скільки метрів дозволяється починати обгін судна?
         </section>
-        <section class="answer" data-correct="data-correct">За 500 метрів</section>
-        <section class="answer">За 250 метрів</section>
-        <section class="answer">За 1000 метрів</section>
+        <section class="answer" data-correct="data-correct">За 100 м</section>
+        <section class="answer">За 20-30 м</section>
+        <section class="answer">За 50 м</section>
+        <section class="answer">За 150 м</section>
         <section class="description">
         </section>
     </section>
@@ -1254,8 +1263,8 @@
         </section>
         <section class="answer" data-correct="data-correct">До 5 км/год</section>
         <section class="answer">До 10 км/год</section>
-        <section class="answer">До 15 км/год</section>
         <section class="answer">До 20 км/год</section>
+        <section class="answer">Зі швидкістю, яка не має загрози безпеки руху</section>
         <section class="description">
         </section>
     </section>
@@ -1263,9 +1272,12 @@
         <section class="text">
             Чи дозволяється рух маломірних суден у темний час доби (від заходу та сходу сонця)?
         </section>
-        <section class="answer" data-correct="data-correct">Заборонено в межах міста,
-        дозволено за містом при швидкості не більше 15 км/год і наявності вогнів</section>
+        <section class="answer" data-correct="data-correct">Забороняється</section>
+        <section class="answer" data-correct="data-correct">Дозволяється тільки в денний час доби (від сходу до заходу сонця)</section>
+        <section class="answer">Дозволяється за умови погодження з Державною прикордонною службою України</section>
         <section class="description">
+            Заборонено в межах міста,
+            дозволено за містом при швидкості не більше 15 км/год і наявності вогнів
         </section>
     </section>
     <section class="question" number="1.66">
@@ -3600,7 +3612,9 @@
         <section class="text">
             Якими показниками характеризується судновий хід?
         </section>
-        <section class="answer" data-correct="data-correct">Протяжністю в кілометрах</section>
+        <section class="answer" data-correct="data-correct">Глибиною, шириною, радіусом кривизни</section>
+        <section class="answer" data-correct="data-correct">Надводною висотою електропроводів, прольотів мостів</section>
+        <section class="answer">Прямолінійністю кромок, місць розподілу фарватерів</section>
         <section class="description">
         </section>
     </section>
@@ -3608,8 +3622,12 @@
         <section class="text">
             Як називається, короткий крутий вигин русла річки у межах долини?
         </section>
-        <section class="answer" data-correct="data-correct">Ізлучина або лука</section>
+        <section class="answer" data-correct="data-correct">Коліно</section>
+        <section class="answer">Поворот</section>
+        <section class="answer">Лука</section>
+        <section class="answer">Лучина</section>
         <section class="description">
+            Ізлучина або лука
         </section>
     </section>
     <section class="question" number="2.23">
@@ -4382,7 +4400,8 @@
         </section>
         <section class="answer" data-correct="data-correct">Це загнутий догори брус або металевий профіль,
         який є продовженням кіля в носовій частині</section>
-        <section class="answer">Це основний поздовжний зв'язок, встановлений ​​в діаметральній площині судна</section>
+        <section class="answer">Це загнутий догори брус який є продовженням кіля в кормовій частині</section>
+        <section class="answer">Кормове закінчення корпусу судна</section>
         <section class="description">
             В носовой части судна непосредственно к килю присоединяется форштевень. Это загнутый кверху брус
             или металлический угольник, являющийся продолжением киля. Подобный брус или угольник, но
@@ -5036,17 +5055,23 @@
         <section class="text">
             Які дії повинні виконати судна, що йдуть вверх при зустрічному плаванні?
         </section>
-        <section class="answer" data-correct="data-correct">Першими подати звуковий сигнал що визначає борт розходження.
-        У вузкостях дати перевагу судну, що йде вниз</section>
+        <section class="answer" data-correct="data-correct">З урахуванням місцевих умов і руху інших суден, звільнити шлях суднам, що ідуть вниз</section>
+        <section class="answer">Домовитися по зв'язку з суднами що рухаються вниз про пріоритетність руху</section>
+        <section class="answer">Розійтися з зустрічним судном лівими бортами</section>
+        <section class="answer">Домовитися по зв'язку про розходження правими бортами</section>
         <section class="description">
+            Першими подати звуковий сигнал що визначає борт розходження.
+            У вузкостях дати перевагу судну, що йде вниз.
         </section>
     </section>
     <section class="question" number="4.22">
         <section class="text">
-            Чи подають сигнал про розходження, судна,
-            що йдуть вверх пропускаючи з лівого борту судна, що йдуть вниз?
+            Чи подають сигнал про розходження, судна, що йдуть вверх пропускаючи з лівого борту судна, що йдуть вниз?
         </section>
-        <section class="answer" data-correct="data-correct">Так, першими</section>
+        <section class="answer" data-correct="data-correct">Ніяких сигналів не подають</section>
+        <section class="answer">Сигнали подають обов'язково</section>
+        <section class="answer">Обмінюються лише радіозв'язком</section>
+        <section class="answer">Можуть подавати сигнали про небезпеку</section>
         <section class="description">
         </section>
     </section>
@@ -5237,6 +5262,7 @@
         <section class="answer">За 300 метрів</section>
         <section class="answer">За 1000 метрів</section>
         <section class="description">
+            Див 1.63
         </section>
     </section>
     <section class="question" number="4.39">
@@ -5764,18 +5790,22 @@
             Який порядок шлюзування маломірних суден?
         </section>
         <section class="answer" data-correct="data-correct">Маломірні судна заходять на шлюзування після інших суден</section>
-        <section class="answer">Маломірні судна заходять на шлюзування перед іншими суднами</section>
+        <section class="answer">Маломірні судна шлюзуються коли захочуть</section>
+        <section class="answer">Маломірні судна шлюзуються в порядку черги</section>
+        <section class="answer">Маломірні судна потребують окремого шлюзування</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="5.33">
         <section class="text">
-            Які знаки, крім світлофорів,
-            виставляються на стінках камер шлюзів та причальних пірсів?
+            Які знаки, крім світлофорів, виставляються на стінках камер шлюзів та причальних пірсів?
         </section>
-        <section class="answer" data-correct="data-correct">Знак "Стоп"
-        що визначає межі, за які корпус не повинен виходити</section>
+        <section class="answer" data-correct="data-correct">"Стоп"</section>
+        <section class="answer">"Вхід"</section>
+        <section class="answer">"Вихід"</section>
+        <section class="answer">"Назад"</section>
         <section class="description">
+            Знак "Стоп" що визначає межі, за які корпус не повинен виходити
         </section>
     </section>
     <section class="question" number="5.34">
@@ -5783,6 +5813,9 @@
             Чи дозволяється швартування малих суден в камері судноплавного шлюзу під бортом інших суден?
         </section>
         <section class="answer" data-correct="data-correct">Забороняється швартування малих суден під бортом інших суден</section>
+        <section class="answer">Дозволяється за сприятливих погодних умов</section>
+        <section class="answer">Дозволяється лише під бортом несамохідних суден</section>
+        <section class="answer">Дозволяється в будь-якому випадку</section>
         <section class="description">
         </section>
     </section>
@@ -6252,9 +6285,13 @@
         <section class="text">
             Який порядок руху швидкісних маломірних суден при видимості, менше 0,5 км?
         </section>
-        <section class="answer" data-correct="data-correct">Якщо немає радіолокатора - рух заборонено.
-        Якщо є, то зі швидкістю не більше 15 км/год, в водотонажном режимі</section>
+        <section class="answer" data-correct="data-correct">Рух заборонено</section>
+        <section class="answer">Рух лише у водотонажному положенні</section>
+        <section class="answer">Рух дозволено уздовж осі суднового ходу</section>
+        <section class="answer">Рух дозволено за межами суднового ходу</section>
         <section class="description">
+            Якщо немає радіолокатора - рух заборонено.
+            Якщо є, то зі швидкістю не більше 15 км/год, в водотонажном режимі
         </section>
     </section>
     <section class="question" number="6.32">
@@ -6270,9 +6307,13 @@
         <section class="text">
             Дійсний вітер це - ?
         </section>
-        <section class="answer" data-correct="data-correct">Потік повітря відносно стаціонарних наземних об'єктів</section>
-        <section class="answer">Повітряний потік, швидкість і напрямок якого обчислюється в системі координат, пов'язаній з рухомим судном</section>
+        <section class="answer" data-correct="data-correct">Вітер, який можна виміряти, відчуваємо на надводній частині</section>
+        <section class="answer">Вітер, який ми можемо відчувати на самій палубі</section>
+        <section class="answer">Вітер, швидкість якого від 0,3 до 1,5 м/сек (1 бал за шкалою Бофорта)</section>
+        <section class="answer">Аеродинамічна сила, яка спричиняє дрейф судна вправо</section>
         <section class="description">
+            Потік повітря відносно стаціонарних наземних об'єктів
+            <hr/>
             <p>Ветер который дует по косательной к изобарам.</p>
             <p>Те саме, що і 6.16 Істинний вітер?</p>
             <p><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%82%D0%B5%D1%80" target="_blank">
@@ -6696,8 +6737,9 @@
             Що називається загальною поправкою магнітного компасу?
         </section>
         <section class="answer" data-correct="data-correct">Кут між нордом істинним Nі і нордом компасним Nк</section>
-        <section class="answer">Сума магнітного схилення та девіації магнітного компасу</section>
-        <section class="answer">Різниця магнітного схилення та девіації магнітного компасу</section>
+        <section class="answer">Кут між нордом істинним Nі і нордом магнітним Nм</section>
+        <section class="answer">Кут між нордом магнітним Nм і нордом компасним Nк</section>
+        <section class="answer">Кут між нордом істинним і діаметральною площиною судна</section>
         <section class="description">
             <p>Угол между истенным и гироскопическим (компасным) меридианом</p>
             <blockquote class="blockquote">
@@ -6714,13 +6756,9 @@
             Від якої точки горизонту і в якому напрямку відраховуються компасні напрямки?
         </section>
         <section class="answer" data-correct="data-correct">Від нордової частини компасного меридіану по часовій стрілці до 360°</section>
-        <section class="answer">Від зюдової частини компасного меридіану по часовій стрілці до 360°</section>
-        <section class="answer">Від остової частини компасного меридіану по часовій стрілці до 360°</section>
-        <section class="answer">Від вестової частини компасного меридіану по часовій стрілці до 360°</section>
-        <section class="answer">Від норду і в напрямку курсу або орієнтира</section>
-        <section class="answer">Від зюду і в напрямку курсу або орієнтира</section>
-        <section class="answer">Від осту і в напрямку курсу або орієнтира</section>
-        <section class="answer">Від весту і в напрямку курсу або орієнтира</section>
+        <section class="answer">Від нордової частини магнітного меридіану по часовій стрілці до 360°</section>
+        <section class="answer">Від нордової частини істинного меридіану по часовій стрілці до 360°</section>
+        <section class="answer">Від нордової частини істинного меридіану по часовій стрілці до 0°</section>
         <section class="description">
         </section>
     </section>
@@ -7207,12 +7245,10 @@
         <section class="text">
             Яка повинна бути дальність видимості сигналів світло димового буя?
         </section>
-        <section class="answer" data-correct="data-correct">Не менше двох морських миль</section>
-        <section class="answer">Не менше одної морської милі</section>
-        <section class="answer">Не менше п'яти морських миль</section>
-        <section class="answer">Не менше одного км</section>
-        <section class="answer">Не менше двох км</section>
-        <section class="answer">Не менше п'яти км</section>
+        <section class="answer" data-correct="data-correct">Не менше двох миль</section>
+        <section class="answer">Не менше одної милі</section>
+        <section class="answer">Не менше 1,5 милі</section>
+        <section class="answer">Не менше трьох миль</section>
         <section class="description">
         </section>
     </section>
@@ -7223,6 +7259,7 @@
         <section class="answer" data-correct="data-correct">Захищення організму людини від переохолодження у холодній воді</section>
         <section class="answer">Захищення від дії холодної води</section>
         <section class="answer">Зберігання якомога довше температури тіла людини</section>
+        <section class="answer">Збільшення терміну часу перебування людини у воді</section>
         <section class="description">
             <p>Знизити вплив водного середовища на організм людини, забезпечити теплоізоляцію,
             захист від можливих ушкоджень ділянок тіла</p>
@@ -8091,8 +8128,7 @@
     </section>
     <section class="question" number="9.30">
         <section class="text">
-            Які першочергові дії судноводія маломірного судна
-            при виникненні спалаху вогнища на судні?
+            Які першочергові дії судноводія маломірного судна при виникненні спалаху вогнища на судні?
         </section>
         <section class="answer" data-correct="data-correct">Всі перераховані у відповідях дії</section>
         <section class="answer">Розвернути судно так, щоби вогонь і іскри зносило в сторону від судна, заглушити двигун</section>
@@ -8108,6 +8144,10 @@
         </section>
         <section class="answer" data-correct="data-correct">Потужністю більше 130 кВт, які встановлюються на суднах
         необмеженого, морських обмежених і морських прибережних районів плавання</section>
+        <section class="answer">Потужністю більше 130 кВт, які встановлюються на всіх малих суднах</section>
+        <section class="answer">Потужністю більше 75 кВт, які встановлюються на суднах
+        необмеженого, морських обмежених і морських прибережних районів плавання</section>
+        <section class="answer">Жодний з перерахованих</section>
         <section class="description">
             Всі, це означає, що мотор має каталізатор і фільтр від сажі
         </section>
@@ -8117,6 +8157,9 @@
             На яку відстань забороняється підпливати маломірним суднам до місць масового відпочинку?
         </section>
         <section class="answer" data-correct="data-correct">Забороняється наближатись до границь огороджень місць масового відпочинку</section>
+        <section class="answer">10 метрів</section>
+        <section class="answer">30 метрів</section>
+        <section class="answer">50 метрів</section>
         <section class="description">
         </section>
     </section>
@@ -8447,6 +8490,9 @@
         <section class="answer">Судно зазнало біду і просить допомоги</section>
         <section class="answer">Судно на якорі</section>
         <section class="answer">Судно зайняте водолазними роботами</section>
+        <section class="answer">Судно обмежене своєю осадкою</section>
+        <section class="answer">Судно позбавлене можливості маневрувати</section>
+        <section class="answer">Риболовне судно на якорі</section>
         <section class="description">
             <img src="/quiz/img/10.22.png"/>
             <blockquote class="blockquote">
@@ -8476,6 +8522,9 @@
         </section>
         <section class="answer" data-correct="data-correct">Отвори від заклепок і болтів, що випали,
         шви, що розійшлися, тріщини і пробоїни</section>
+        <section class="answer">Дефекти конструкцій корпусу судна</section>
+        <section class="answer">Порушення герметичних зв'язків і ущільнень</section>
+        <section class="answer">Одна із перерахованих</section>
         <section class="description">
         </section>
     </section>
@@ -9013,8 +9062,7 @@
     </section>
     <section class="question" number="12.2">
         <section class="text">
-            Як необхідно діяти водієві гідроциклу
-            при перетині хвильового сліду від минулого судна?
+            Як необхідно діяти водієві гідроциклу при перетині хвильового сліду від минулого судна?
         </section>
         <section class="answer" data-correct="data-correct">Знизити швидкість гідроциклу</section>
         <section class="answer">Збільшити швидкість гідроциклу</section>
@@ -9025,26 +9073,19 @@
     </section>
     <section class="question" number="12.3">
         <section class="text">
-            На яку відстань забороняється підпливати гідроциклу
-            до пляжів і іншим організованим місцях купання?
+            На яку відстань забороняється підпливати гідроциклу до пляжів і іншим організованим місцях купання?
         </section>
-        <section class="answer" data-correct="data-correct">
-            Забороняється наближатися до огорожі кордонів запливу на пляжах та інших організованих місць купання
-        </section>
+        <section class="answer" data-correct="data-correct">Забороняється наближатися до огорожі кордонів запливу
+        на пляжах та інших організованих місць купання</section>
         <section class="answer">10 м</section>
         <section class="answer">30 м</section>
         <section class="answer">50 м</section>
-        <section class="answer">100 м</section>
-        <section class="answer">150 м</section>
-        <section class="answer">200 м</section>
-        <section class="answer">250 м</section>
         <section class="description">
         </section>
     </section>
     <section class="question" number="12.4">
         <section class="text">
-            За допомогою якого пристрою здійснюється
-            управління гідроциклом в горизонтальній площині?
+            За допомогою якого пристрою здійснюється управління гідроциклом в горизонтальній площині?
         </section>
         <section class="answer" data-correct="data-correct">Поворотного сопла водометного рушія</section>
         <section class="answer">Одного вертикального керма в кормі</section>
