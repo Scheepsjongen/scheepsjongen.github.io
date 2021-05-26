@@ -10,6 +10,8 @@ permalink: /laws/
 
 [Міжнародна конвенція з охорони людського життя на морі 1974 року (СОЛАС-74/83)](http://www.delta-pilot.ua/sites/default/files/regulatory_docs/consolidated_text_of_the_1974_solas_convention_rus.pdf){:target="_blank"}
 
+[Международный кодекс по спасательным средствам (Кодекс ЛСА)](https://seainfo.ks.ua/wp-content/uploads/2018/09/Mezhdunarodnyj-kodeks-po-spasatelnym-sredstvam-Kodeks-LSA.html){:target="_blank"}
+
 [ПРАВИЛА охорони життя людей на водних об’єктах України](https://zakon.rada.gov.ua/laws/show/z0566-17){:target="_blank"}
 
 [Міжнародна конвенція по запобіганню забрудненню з суден 1973 року (МАРПОЛ-73/78)](https://zakon.rada.gov.ua/laws/show/896_009){:target="_blank"}
