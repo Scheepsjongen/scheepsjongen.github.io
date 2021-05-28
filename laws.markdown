@@ -18,7 +18,7 @@ permalink: /laws/
 
 [Керівництво IALA-МАМС "IALA NAVGUIDE"](https://hydro.gov.ua/dl/iala/ua/navguide_2006_final_version.pdf){:target="_blank"}
 
-[КУпАП](https://zakon.rada.gov.ua/laws/show/80731-10){:target="_blank"} ст 114 - 117 (відповідальність за порушення)
+[КУпАП](https://zakon.rada.gov.ua/laws/show/80731-10){:target="_blank"} ст 114 - 117, 130 (відповідальність за порушення)
 
 [Міжнародна конвенція про підготовку і дипломування моряків та несення вахти (ПДМНВ-78/95)](https://zakon.rada.gov.ua/laws/show/995_053){:target="_blank"}
 
