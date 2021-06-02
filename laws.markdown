@@ -28,4 +28,4 @@ permalink: /laws/
 
 [Технічний регламент прогулянкових суден](https://zakon.rada.gov.ua/laws/show/1147-2011-%D0%BF){:target="_blank"}
 
-[Закон України Про внутрішній водний транспорт](https://zakon.rada.gov.ua/laws/show/1054-20){:target="_blank"} Набрання чинності, відбудеться 01.01.2022
+[Закон України Про внутрішній водний транспорт](https://zakon.rada.gov.ua/laws/show/1054-20){:target="_blank"} Набрання чинності відбудеться 01.01.2022
