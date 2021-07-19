@@ -88,7 +88,7 @@ layout: page
                 <div class="advertising-block">
                     <h6>Долучайтесь поліпшити тест</h6>
                     <p>Запропонуйте у коментарях можливі правки до пояснень та відповідей</p>
-                    <a href="https://scheepsjongen.github.io/2020/10/20/welcome-to-scheepsjongen.html#disqus_thread" class="btn btn-primary btn-lg">Перейти</a>
+                    <a href="https://scheepsjongen.github.io/2020/10/20/welcome-to-scheepsjongen.html" class="btn btn-primary btn-lg">Перейти</a>
                 </div>
             </div>
         </section>
