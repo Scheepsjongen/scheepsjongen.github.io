@@ -1724,6 +1724,8 @@
         <section class="answer">Бортові вогні: червоний на правому борту, зелений на
         лівому (112.5 градуси від ДП судна); Топовий білий (225 градусів); Кормової білий (135 градусів)</section>
         <section class="description">
+            Для того, щоб запам'ятати, можна провести аналогію про те, що серце зліва (червоне),
+            так і вогні, ліворуч червоний.
         </section>
     </section>
     <section class="question" number="1.94">
@@ -5013,7 +5015,6 @@
         </section>
         <section class="answer" data-correct="data-correct">Відводити</section>
         <section class="answer">Одержувати</section>
-        <section class="answer"></section>
         <section class="description">
             Прямо руль
         </section>
@@ -9089,6 +9090,7 @@
             При повороті через фордевінд вітрильне судно:
         </section>
         <section class="answer" data-correct="data-correct">Перетинає лінію вітру кормою</section>
+        <section class="answer">Перетинає лінію вітру носом</section>
         <section class="description">
             Перетинає лінію вітру кормою проти вітру
         </section>
