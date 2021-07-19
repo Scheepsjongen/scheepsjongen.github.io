@@ -920,554 +920,189 @@
         системи, що складається з поєднання звуків ...---... (SOS) по азбуці Морзе</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="61">
         <section class="text">
-            
+            Дії судноводія в ситуації коли необхідно відвернути зіткнення?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Якщо необхідно відвернути зіткнення або
+        мати більше часу для оцінки ситуації, судно повинно зменшити хід або зупинитися,
+        застопоривши свої машини або давши задній хід</section>
+        <section class="answer">Якщо необхідно відвернути зіткнення або мати більше часу для оцінки
+        ситуації, судно повинно попередити надмірне зближення</section>
+        <section class="answer">Якщо необхідно відвернути зіткнення судно, повинно триматися
+        зовнішнього кордону проходу або фарватеру, що знаходиться з його правого борту настільки
+        близько, наскільки це безпечно і практично можливо</section>
+        <section class="answer">Якщо необхідно відвернути зіткнення судно, повинно триматися,
+        наскільки це практично можливо, в стороні від лінії розподілу руху або підзони розподілу
+        руху</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="62">
         <section class="text">
-            
+            Визначити термін "база для стоянки маломірних (малих) суден"
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">"База для стоянки маломірних (малих)
+        суден" - суб'єкт господарювання, одним із статутних напрямів діяльності якого є надання
+        послуг з безпечного утримання маломірних (малих) студент який отримує і використовує
+        спеціально обладнані для цього гідротехнічні споруди або природні берегові об'єкти, за
+        винятком баз та інших пунктів базування суден флоту рибного господарства</section>
+        <section class="answer">"База для стоянки маломірних (малих) суден" - це берегова територія
+        із спорудами та прилеглої до неї акваторією, обмежена гідроспорудою типу "насипна дамба", в
+        межах якої базуються маломірні (малі) судна</section>
+        <section class="answer">"База для стоянки маломірних (малих) суден" - це берегова територія
+        із спорудами та прилеглої до неї акваторією, в межах якої базуються не менш ніж 10
+        маломірних (малих) суден</section>
+        <section class="answer">"База для стоянки маломірних (малих) суден" - це берегова територія
+        із спорудами та прилеглої до неї акваторією, в межах якої базуються не менш ніж 20
+        маломірних (малих) суден</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="63">
         <section class="text">
-            
+            Що входить в загальні обов'язки судноводія?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Судноводії повинні вжити всіх запобіжних
+        заходів, навіть якщо ці заходи не передбачені цими Правилами, але диктуються загальним
+        обов'язком і сталою практикою плавання</section>
+        <section class="answer">Судноводії повинні сприяти дотриманню вимог цих Правил та інших
+        нормативно-правових документів</section>
+        <section class="answer">Судноводії самі визначають маршрут і швидкість судна, також несуть
+        відповідальність за дотримання вимог цих Правил</section>
+        <section class="answer">Судноводію забороняється перебувати стані втоми чи сп'яніння</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="64">
         <section class="text">
-            
+            Як потрібно проводити перетин фарватеру (суднового ходу) судноводію малого/маломірного
+            судна (ММС)?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">ММС може перетинати фарватер в разі і
+        місці, коли це йому дозволено Правилами, в найкоротший термін, тобто під кутом близьким до
+        90° по відношенню до осі фарватеру і з максимальною швидкістю</section>
+        <section class="answer">ММС може перетинати фарватер тільки поза межами міста, в найкоротший
+        термін, тобто під кутом близьким до 90° по відношенню до осі фарватеру і з максимальною
+        швидкістю</section>
+        <section class="answer">ММС може перетинати фарватертільки в межах міста, в найкоротший
+        термін, тобто під кутом близьким до 90" по відношенню до осі фарватеру і з максимальною
+        швидкістю</section>
+        <section class="answer">ММС може перетинати фарватер спеціально визначених місцях, в
+        найкоротший термін, тобто під кутом близьким до 90° по відношенню до осі фарватеру і з
+        максимальною швидкістю</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="65">
         <section class="text">
-            
+            Якщо виникає загроза зіткнення між вітрильним та моторним судном, хто повинен надати
+            перевагу?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Моторне судно повинно дати дорогу
+        вітрильному судну</section>
+        <section class="answer">Вітрильне судно повинно дати дорогу моторному судну</section>
+        <section class="answer">Судно, що бачить інше судно по правому борту, повинне дати йому
+        дорогу і, якщо дозволяють обставини, уникнути перетинання його курсу попереду</section>
+        <section class="answer">Судно, що бачить інше судно по лівому борту, повинне дати йому
+        дорогу і, якщо дозволяють обставини, уникнути перетинання його курсу попереду</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="66">
         <section class="text">
-            
+            На яких ділянках забороняється розходження та обгін суден (складів суден) при обмеженій
+            видимості?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Де судновий хід має ширину менше 200 м,
+        та якщо візуальна видимість становить менше трьох довжин судна (складу суден)</section>
+        <section class="answer">Де судновий хід має ширину менше 100 м, та якщо візуальна видимість
+        становить менше 500 м</section>
+        <section class="answer">Де судновий хід має ширину менше 200 м, та якщо візуальна видимість
+        становить менше 1000 м</section>
+        <section class="answer">Де судновий хід має ширину менше 100 м, та якщо візуальна видимість
+        становить менше двох довжин судна (складу суден)</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="67">
         <section class="text">
-            
+            Що встановлюється на середині прольоту постійного моста, для позначення осі
+            судноплавного прольоту?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">- для проходу суден, що йдуть знизу,-
+        квадратні щити;<br/>
+        - для проходу суден, що йдуть зверху, - щити у вигляді ромба;<br/>
+        - для проходу малих суден - щити у вигляді трикутника</section>
+        <section class="answer">- для проходу суден, що йдуть знизу, - щити у вигляді ромба;<br/>
+        - для проходу суден, що йдуть зверху, - квадратні щити;<br/>
+        - для проходу малихсуден - щитиу вигляді трикутника</section>
+        <section class="answer">- для проходу суден, що йдуть знизу, - квадратні щити;<br/>
+        - для проходу суден, що йдуть зверху, - щити у вигляді трикутника;<br/>
+        - для проходу малих суден- щити у вигляді ромба</section>
+        <section class="answer">- для проходу суден, що йдуть знизу, - щити у вигляді ромба;<br/>
+        - для проходу суден, що йдуть зверху, - квадратні щити;<br/>
+        - для проходу малихсуден - щитиу вигляді круга</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="68">
         <section class="text">
-            
+            Чи дозволяється рух маломірних суден у темний час доби (від заходу та сходу сонця)?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У межах міста або інших населених
+        пунктах рух маломірних суден дозволяється лише у світлий час доби. На інших судноплавних
+        ділянках рух таких суден у нічний час дозволяється лише зі швидкістю 15 км/год, при умові
+        несення вогнів згідно з встановленими правилами судноплавства на внутрішніх водних шляхах
+        України, без права перетину суднового ходу</section>
+        <section class="answer">У межах міста або інших населених пунктах рух маломірних суден
+        дозволяється як у світлий так і в темний час доби, за умов дотримання правилам судноплавства
+        на внутрішніх водних шляхах України зі швидкістю 10 км/год (у нічнийч час), при умові
+        несення ходових вогнів. На інших судноплавних ділянках рух таких суден у нічний час
+        дозволяється лише зі швидкістю 15 км/год, при умові несення вогнів згідно з встановленими
+        правилами судноплавства на внутрішніх водних шляхах України,з правом перетину суднового ходу
+        у не заборонених місцях</section>
+        <section class="answer">У межах міста або інших населених пунктах рух маломірних суден
+        дозволяється лише у світлий час доби. На інших судноплавних ділянках рух таких суден у
+        нічний час дозволяється лише зі швидкістю 10 км/год, при умові несення вогнів згідно з
+        встановленими правилами судноплавства на внутрішніх водних шляхах України, без права
+        перетину суднового ходу</section>
+        <section class="answer">У межах міста або інших населених пунктах рух маломірних суден
+        дозволяється як у світлий так і в темний час доби, за умов дотримання правилам судноплавства
+        на внутрішніх водних шляхах України зі швидкістю 10 км/год (у нічний час), при умові несення
+        ходових вогнів. На інших судноплавних ділянках рух таких суден у нічний час дозволяється
+        лише зі швидкістю 15 км/год, при умові несення вогнів згідно з встановленими правилами
+        судноплавства на внутрішніх водних шляхах України, без права перетину суднового ходу</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="69">
         <section class="text">
-            
+            Як рекомендовано виконувати перетинкурсу іншого судна?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">Перетин курсу іншого судна
+        рекомендується виконувати за його кормою. Допускається перетин курсу по носу судна за умови,
+        що після закінчення маневру перетину до судна, що наближається, залишається не менше 500 м.
+        Маломірні Судна, які перетинають судновий хід, повинні пропустити усі судна, які рухаються
+        по судновому ходу</section>
+        <section class="answer">Перетин курсу іншого судна рекомендується виконувати по носу судна.
+        Допускається перетин курсу за його кормою судна за умови, що після закінчення маневру
+        перетину до судна, що наближається, залишається не менше 500 м. Маломірні Судна, які
+        перетинають судновий хід, повинні пропустити усі судна,які рухаються по судновому ходу</section>
+        <section class="answer">Перетин курсу іншого судна рекомендується виконувати за його кормою.
+        Допускається перетин курсу по носу судна за умови, що після закінчення маневру перетину до
+        судна, що наближається, залишається не менше 300 м. Маломірні Судна, які перетинають
+        судновий хід, повинні пропустити судна, які рухаються по судновому ходу вверх</section>
+        <section class="answer">Перетин курсу іншого судна рекомендується виконувати за його кормою.
+        Допускається перетин курсу по носу судна за умови, що після закінчення маневру перетину до
+        судна, що наближається, залишається не менше 300 м. Маломірні Судна, які перетинають
+        судновий хід, повинні пропустити судна, які рухаються по судновому ходу вниз</section>
         <section class="description"></section>
     </section>
-    <section class="question" number="">
+    <section class="question" number="70">
         <section class="text">
-            
+            У яких випадках встановлюється обмеження руху суден на акваторії бази стоянки?
         </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="description"></section>
-    </section>
-    <section class="question" number="">
-        <section class="text">
-            
-        </section>
-        <section class="answer" data-correct="data-correct"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
-        <section class="answer"></section>
+        <section class="answer" data-correct="data-correct">У всіх випадках випускний режим бази
+        стоянки повинен встановити обмеження швидкості руху ММС акваторії бази стоянки</section>
+        <section class="answer">У випадках несприятливих погодних умов випускний режим бази стоянки
+        повинен встановити обмеження швидкості руху ММС акваторії бази стоянки</section>
+        <section class="answer">В період закриття навігації для ММС випускний режим бази стоянки
+        повинен встановити обмеження швидкості руху ММС акваторії бази стоянки</section>
+        <section class="answer">У всіх випадках випускний режим бази стоянки не повинен встановити
+        обмеження швидкості руху ММС по акваторії бази стоянки</section>
         <section class="description"></section>
     </section>
 </section>
