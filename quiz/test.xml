@@ -1351,4 +1351,219 @@
         <section class="answer">Два тривалих звука та та два коротких звука</section>
         <section class="description"></section>
     </section>
+    <section class="question" number="86">
+        <section class="text">
+            Де повинні рухатись маломірні судна по відношенню фарватеру?
+        </section>
+        <section class="answer" data-correct="data-correct">За межами фарватеру</section>
+        <section class="answer">По центру фарватеру, дотримуючись правил судноплавства на ВВШ
+        України</section>
+        <section class="answer">По лівій кромці фарватеру, дотримуючись правил судноплавства на ВВШ
+        України</section>
+        <section class="answer">По правій кромці фарватеру, дотримуючись правил судноплавства на ВВШ
+        України</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="87">
+        <section class="text">
+            Хто встановлює терміни щорічного відкриття та закриття навігації для маломірних суден?
+        </section>
+        <section class="answer" data-correct="data-correct">Голова Облради за поданням
+        Облдержадміністрації узгодженого з начальником територіального структурного підрозділу
+        "Державної служби морського та річкового транспорту України"</section>
+        <section class="answer">Державна служба морського та річкового транспорту України за
+        погодження з місцевою облрадою</section>
+        <section class="answer">Державна служба морського та річкового транспорту України за
+        погодженням з місцевою облдержадміністрацією</section>
+        <section class="answer">Територіальний структурний підрозділ "Державної служби морського та
+        річкового транспорту України"</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="88">
+        <section class="text">
+            Як здійснюється поворот суднами?
+        </section>
+        <section class="answer" data-correct="data-correct">Усі судна можуть здійснювати поворот
+        (оборот), як вліво, так і вправо, лише після того, як вони переконалися в тому, що рух інших
+        суден дає їм можливість це зробити без ризику і, що інші судна не будуть змушені раптово
+        змінювати свій курс або швидкість</section>
+        <section class="answer">Усі судна можуть здійснювати поворот (оборот), як вліво, так і
+        вправо, лише у спеціально визначених місцях</section>
+        <section class="answer">Правильна відповідь відсутня</section>
+        <section class="answer">Поворот судами здійснюється у будь якому місті, за умов дотримання
+        правил судноплавства</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="89">
+        <section class="text">
+            Які ходові вогні повинно нести одиночне мале (маломірне) судно у нічний час?
+        </section>
+        <section class="answer" data-correct="data-correct">Одиночне моторне ММС вночі повинно нести
+        таке ходові вогні: топовий, бортові, кормовий. Однак, топовий і кормовий вогні можна
+        прибрати, а замість них повинен бути виставлений білий круговий вогонь. Одиночне ММС
+        довжиною менш 7 м вночі може нести тільки білий звичайний круговий вогонь</section>
+        <section class="answer">Одиночне моторне ММС вночі повинно нести таке ходові вогні: топовий,
+        бортові, кормовий. Одиночне ММС довжиною менш 7 м вночі може нести тільки білий звичайний
+        круговий вогонь</section>
+        <section class="answer">Одиночне моторне ММС вночі повинно нести таке ходові вогні: топовий,
+        кормовий. Одиночне ММС довжиною менш 7 м вночі може нести тільки білий звичайний круговий
+        вогонь</section>
+        <section class="answer">Одиночне моторне ММС вночі повинно нести таке ходові вогні: топовий,
+        бортові, кормовий. Однак, бортові вогні можна прибрати, а замість них повинен бути
+        виставлений білий круговий вогонь. Одиночне ММС довжиною менш 7 м вночі може нести тільки
+        білий звичайний круговий вогонь</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="90">
+        <section class="text">
+            Які вогні повинно нести вночі буксируюче судно довжиною менше 50 м на ходу?
+        </section>
+        <section class="answer" data-correct="data-correct">- два топових вогні, розташованих один
+        над одним в передній частині по осі судна,<br/>
+        - бортові вогні,<br/>
+        - жовтий кормовий вогонь</section>
+        <section class="answer">- три топовых вогні, розташованих один над одним в передній частині
+        по осі судна,<br/>
+        - бортові вогні,<br/>
+        - білий кормовий вогонь</section>
+        <section class="answer">- три топовых вогні, розташованих один над одним в передній частині
+        по осі судна,<br/>
+        - бортові вогні,<br/>
+        - жовтий кормовий вогонь</section>
+        <section class="answer">- три топовых вогні, розташованих один над одним в передній частині
+        по осі судна,<br/>
+        - бортові вогні,<br/>
+        - зелений кормовий вогонь</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="91">
+        <section class="text">
+            Які класи залежності від граничної кількості суден, що утримуються на базі стоянці малих
+            (маломірних) суден, їй присвоюється?
+        </section>
+        <section class="answer" data-correct="data-correct">З 1-го по 9-й клас</section>
+        <section class="answer">3 1-го по 7-й клас</section>
+        <section class="answer">3 1-го по 8-й клас</section>
+        <section class="answer">3 1-го по 10-й клас</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="92">
+        <section class="text">
+            Що означає термін "безпечна швидкість"?
+        </section>
+        <section class="answer" data-correct="data-correct">Кожне судно повинно завжди прямувати з
+        безпечною швидкістю, з тим щоб воно могло зробити належну ефективну дію для попередження
+        зіткнення бути зупинено в межах відстані, необхідної при існуючих обставинах умовах</section>
+        <section class="answer">Швидкість що дозволена Правилами Судноплавства на ВВШ України</section>
+        <section class="answer">Швидкість що дозволена Правилами судноплавства на ВВШ (внутрішніх
+        водних шляхах) та ПВШ (прибрежних водних шляхах) України</section>
+        <section class="answer">Правильна відповідь відсутня</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="93">
+        <section class="text">
+            При якій видимості дозволяється рух маломірних суден?
+        </section>
+        <section class="answer" data-correct="data-correct">ММС дозволяється рух поза фарватером при
+        видимості не менше ніж 500 м, а в межах фарватеру, в дозволених випадках, не менше ніж 1000
+        м</section>
+        <section class="answer">ММС дозволяється рух поза фарватером при видимості не менше ніж 300
+        м, а в межах фарватеру, в дозволених випадках, не менше ніж 500 м</section>
+        <section class="answer">ММС дозволяється рух поза фарватером при видимості не менше ніж 1000
+        м, а в межах фарватеру, в дозволених випадках, не меншеніж 500 м</section>
+        <section class="answer">При достатній для впевненого керування судном</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="94">
+        <section class="text">
+            Який знак вказує на перехід фарватеру від одного берега до іншого?
+        </section>
+        <section class="answer" data-correct="data-correct">"Перевальний"</section>
+        <section class="answer">"Рух маломірних суден заборонено"</section>
+        <section class="answer">"Розходження дозволено"</section>
+        <section class="answer">Правильна відповідь відсутня</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="95">
+        <section class="text">
+            З якою швидкістю маломірні судна повинні рухатися вздовж границь пляжів?
+        </section>
+        <section class="answer" data-correct="data-correct">5 км/год</section>
+        <section class="answer">20 км/год</section>
+        <section class="answer">15 км/год</section>
+        <section class="answer">10 км/год</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="96">
+        <section class="text">
+            Які вогні повинно мати маломірнесуднопри стоянці на якорі?
+        </section>
+        <section class="answer" data-correct="data-correct">Один білий круговий вогонь</section>
+        <section class="answer">Один жовтий круговий вогонь</section>
+        <section class="answer">Бортові Вогні</section>
+        <section class="answer">Топовый та кормовий вогні</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="97">
+        <section class="text">
+            Особи, якого віку допускаються до керування малим (маломірним) судном?
+        </section>
+        <section class="answer" data-correct="data-correct">Допускаються до керування судном особи
+        не молодше 18-ти років, які при собі мають документи на право керування судном із
+        зазначенням відповідної категорії судна і дозволеного району плавання</section>
+        <section class="answer">Допускаються до керування судном особи не молодше 16-ти років, які
+        при собі мають документи на право керування судном із зазначенням відповідної категорії
+        судна і дозволеного району плавання</section>
+        <section class="answer">Допускаються до керування судном особи не молодше 21-го року, які
+        при собі мають документи на право керування судном із зазначенням відповідної категорії
+        судна і дозволеного району плавання</section>
+        <section class="answer">Допускаються до керування судном особи не молодше 15-ти років, за
+        умови присутності на борту судна осіб які при собі мають документи на право керування судном
+        із зазначенням відповідної категорії судна і дозволеного району плавання</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="98">
+        <section class="text">
+            В яких межах забороняється постановка судна на якір?
+        </section>
+        <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
+        <section class="answer">Малим/маломірним судам забороняється стояти на якорі:<br/>
+        - в межах фарватеру,<br/>
+        - поблизу не маломірних суден, земснарядів, плавучих кранів і між ними</section>
+        <section class="answer">Малим/маломірним судам забороняється стояти на якорі:<br/>
+        - близько вантажних причалів, дебаркадерів, водолазных ботов на відстані до 200 м вище і
+        нижче них,<br/>
+        - вище і нижче мостів на відстані ближче 200 м,<br/>
+        - на акваторії рейдів, пляжів, у вузьких проходах,на крутих поворотах</section>
+        <section class="answer">Малим/маломірним судам забороняється стояти на якорі:<br/>
+        - під лініями зв'язку та електромереж, близько ходового берега,<br/>
+        - ближче 25 м від лінії кромок знаків навігаційної обстановки,<br/>
+        - в зоні дії регулюючих знаків "Які не кидати!", "Рух малих плавучих засобів заборонено"</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="99">
+        <section class="text">
+            За яких умов можливе використання водних лиж?
+        </section>
+        <section class="answer" data-correct="data-correct">Подібні буксирування дозволяються тільки
+        в денний час, при видимості не менше ніж 500 м і сприятливих гідрометеорологічних умовах</section>
+        <section class="answer">Подібні буксирування дозволяються тільки в денний час, при видимості
+        не менше 1000 м і сприятливих гідрометеорологічних умовах</section>
+        <section class="answer">Подібні буксирування дозволяється тільки в денний час, при видимості
+        не менше 300 м і сприятливих гідрометеорологічних умовах</section>
+        <section class="answer">Подібні буксирування дозволяються тільки в деннийчас, при видимості
+        не менше ніж 700 м і сприятливих гідрометеорологічних умовах</section>
+        <section class="description"></section>
+    </section>
+    <section class="question" number="100">
+        <section class="text">
+            Який знак має маломірне судно, що йде під вітрилом і в той же час може рухатися за
+            допомогою мотору?
+        </section>
+        <section class="answer" data-correct="data-correct">Чорний конус вершиною вниз</section>
+        <section class="answer">Червоний конус вершиною вверх</section>
+        <section class="answer">Червоний конус вершиною вниз</section>
+        <section class="answer">Чорний конус вершиною вверх</section>
+        <section class="description"></section>
+    </section>
 </section>
