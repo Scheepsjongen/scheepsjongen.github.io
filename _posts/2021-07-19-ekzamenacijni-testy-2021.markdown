@@ -5,8 +5,21 @@ comments: true
 ---
 
 13 липня 2021 року на засіданні громадської ради Державної служби морського та річкового транспорту
-пройшла [Презентація переліку екзаменаційних тестів](https://marad.gov.ua/ua/news/pro-zasidannya-gromadskoyi-radi-pri-morskij-administraciyi-2021)
+пройшла [Презентація переліку екзаменаційних тестів](https://marad.gov.ua/ua/news/pro-zasidannya-gromadskoyi-radi-pri-morskij-administraciyi-2021){:target="_blank"}
 (питань та варіантів відповідей) для судноводіїв малих/маломірних суден
 підготовлених робочою групою Громадської Ради, - доповідач Голембієвський Г.Г.
 
-[Нові тести вже на сайті marad](https://marad.gov.ua/ua/poslugi/posvidchennya-sudnovodiya/posvidchennya-sudnovodiya-malogomalomirnogo-sudna/perelik-pitan-dlya-pidtverdzhennya-kvalifikaciyi).
+[Нові тести вже на сайті marad](https://marad.gov.ua/ua/poslugi/posvidchennya-sudnovodiya/posvidchennya-sudnovodiya-malogomalomirnogo-sudna/perelik-pitan-dlya-pidtverdzhennya-kvalifikaciyi){:target="_blank"}.
+
+> 3.10. Підтвердження кваліфікації кандидата здійснюється за заліковим принципом перевірки знань з керування ММС відповідного типу та вмінь кандидатом застосовувати ці знання на практиці.
+>
+> <u>Перелік питань</u> для перевірки теоретичних знань кандидатів визначається органом видачі та <u>розміщується на його офіційному сайті</u>.
+>
+> -- ПОЛОЖЕННЯ про порядок видачі посвідчення судноводія малого/маломірного судна, Мінінфраструктури України НАКАЗ № 283
+
+Статус: в процесі. Якщо є бажання допомогти і пришвидшити інтеграцію нових тестів, то ось
+[файл](https://github.com/Scheepsjongen/scheepsjongen.github.io/blob/master/quiz/test.xml){:target="_blank"}
+в який потрібно внести нові запитання, ось
+[оцифровка](https://docs.google.com/document/d/1gDsQwSv-APA2_xm4aRiXAObV4j01vHb_-WQniYQ3jLk/edit){:target="_blank"}.
+Я додаю запитання з №1 і по порядку. Пишіть тут в коментарях
+які номери запитань ви взяли додати задля уникнення подвійного їх додавання.
