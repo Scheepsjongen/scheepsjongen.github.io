@@ -64,7 +64,7 @@ layout: page
                         <span data-bind="visible: !quizPassed()">FAIL</span>
                     </h4>
                 </div>
-                <a href="/" class="btn btn-primary btn-lg">Наново</a>
+                <a href="https://scheepsjongen.github.io/pre-2021" class="btn btn-primary btn-lg">Наново</a>
                 <div style="margin-top: 45px;">
                     <blockquote class="blockquote">
                         <p>Перевірка теоретичних знань вважається успішною, якщо кандидат надав
