@@ -22,3 +22,5 @@ comments: true
 [оцифровка](https://docs.google.com/document/d/1gDsQwSv-APA2_xm4aRiXAObV4j01vHb_-WQniYQ3jLk/edit){:target="_blank"}.
 Я додаю запитання з №1 і по порядку. Пишіть тут в коментарях
 які номери запитань ви взяли додати задля уникнення подвійного їх додавання.
+
+[Старий тест](https://scheepsjongen.github.io/pre-2021/)
