@@ -112,7 +112,7 @@ def main():
     xml = ET.tostring(root, 'utf-8')
     new_xml = minidom.parseString(xml).toprettyxml(indent='   ')
 
-    with open('../quiz/pre-2021-test.xml', 'w') as f:
+    with open('../quiz/test.xml', 'w') as f:
         f.write(new_xml)
 
 if __name__ == '__main__':
