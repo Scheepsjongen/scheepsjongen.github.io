@@ -8945,7 +8945,8 @@
       </section>
    </section>
    <section class="question" number="591">
-      <section class="text">Яке судно несе даний сигнал?</section>
+      <section class="text">Яке судно несе даний сигнал?<br/>
+            <img src="/quiz/img/1.36.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">Це додаткова сигналізація суден, які використовуються для проведення водолазних робіт (сигнальний прапор «А»), як вдень так і вночі. </section>
       </section>
@@ -8960,7 +8961,8 @@
       </section>
    </section>
    <section class="question" number="592">
-      <section class="text">Що означають дані плавучі навігаційні знаки системи МАМС в репіоні А?</section>
+      <section class="text">Що означають дані плавучі навігаційні знаки системи МАМС в репіоні А?<br/>
+            <img src="/quiz/img/1.38.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">Зазначені плавучі навігаційні знаки огороджують окремі, незначних розмірів небезпеки, які можна обходити з будь-якого боку. </section>
       </section>
@@ -8975,7 +8977,8 @@
       </section>
    </section>
    <section class="question" number="593">
-      <section class="text">Що означає даний береговий знак?</section>
+      <section class="text">Що означає даний береговий знак?<br/>
+            <img src="/quiz/img/1.113.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">«Рух малих плавучих засобів ЗАБОРОНЕНО)».Даний береговий знак позначає ділянку, де на судновомуходу заборонено рух ММС (на рейдах в підхідних каналах, біля причаліві ін.). </section>
       </section>
@@ -8990,7 +8993,8 @@
       </section>
    </section>
    <section class="question" number="594">
-      <section class="text">Що означають ці плавучі навігаційні знаки системи МАМС в регіоні А?</section>
+      <section class="text">Що означають ці плавучі навігаційні знаки системи МАМС в регіоні А?<br/>
+            <img src="/quiz/img/1.40.jpg"/></section>
       <section class="answer">
          <section class="text">Зазначені плавучі навігаційні знаки відносяться до Кардинальних знаків огорожі навігаційних небезпек і виставляються в західному секторі, відносно небезпеки,та означають що небезпеку треба обходити з західної сторони.</section>
       </section>
@@ -9005,7 +9009,8 @@
       </section>
    </section>
    <section class="question" number="595">
-      <section class="text">Яке судно несе даний сигнал: чорна куля на видному місці?</section>
+      <section class="text">Яке судно несе даний сигнал: чорна куля на видному місці?<br/>
+            <img src="/quiz/img/1.43.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">Даний сигнал несе судно вдень при стоянці на якорі. </section>
       </section>
@@ -9020,7 +9025,9 @@
       </section>
    </section>
    <section class="question" number="596">
-      <section class="text">Як називається огорожа, що складається з вертикальних стійок, з'єднаних між собою ланцюгами, тросами або круглими прутами?</section>
+      <section class="text">Як називається огорожа, що складається з вертикальних стійок, з'єднаних
+            між собою ланцюгами, тросами або круглими прутами?<br/>
+            <img src="/quiz/img/1.48.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">Леєрне огородження </section>
       </section>
@@ -9035,7 +9042,8 @@
       </section>
    </section>
    <section class="question" number="597">
-      <section class="text">Що означає даний плавучій навігаційний знак?</section>
+      <section class="text">Що означає даний плавучій навігаційний знак?<br/>
+            <img src="/quiz/img/1.50.jpg"/></section>
       <section class="answer">
          <section class="text">«Знак небезпеки». Даний плавучий навігаційний знак позначає особливо небезпечні ділянки суднового ходу (затоплені споруди, оголовки дамбі ін.).</section>
       </section>
@@ -9170,7 +9178,8 @@
       </section>
    </section>
    <section class="question" number="606">
-      <section class="text">Знак на малюнку, що означає «УВАГА» знаходиться під літерою ?</section>
+      <section class="text">Знак на малюнку, що означає "УВАГА" знаходиться під літерою?<br/>
+            <img src="/quiz/img/1.108.jpg"/></section>
       <section class="answer">
          <section class="text">Під літерою «в»</section>
       </section>
@@ -9185,7 +9194,8 @@
       </section>
    </section>
    <section class="question" number="607">
-      <section class="text">Що показує даний знак?</section>
+      <section class="text">Що показує даний знак?<br/>
+            <img src="/quiz/img/1.119.jpg"/></section>
       <section class="answer">
          <section class="text">«Дотримуватися надводного габариту!»</section>
       </section>
@@ -9245,7 +9255,8 @@
       </section>
    </section>
    <section class="question" number="611">
-      <section class="text">Як називається стійке скупчення наносів, відкладених по ширині русла?</section>
+      <section class="text">Як називається стійке скупчення наносів, відкладених по ширині русла?<br/>
+            <img src="/quiz/img/2.28.jpg"/></section>
       <section class="answer">
          <section class="text">Перекат - це стійке наносне утворенняу виглядівалу,яке перетинає русло річки.</section>
       </section>
@@ -9260,7 +9271,9 @@
       </section>
    </section>
    <section class="question" number="612">
-      <section class="text">Як називається водний простір на річці, призначений для руху суден і позначений на місцевості і (або) на карті?</section>
+      <section class="text">Як називається водний простір на річці, призначений для руху суден і
+            позначений на місцевості і (або) на карті?<br/>
+            <img src="/quiz/img/2.29.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">Фарватер </section>
       </section>
@@ -9275,7 +9288,9 @@
       </section>
    </section>
    <section class="question" number="613">
-      <section class="text">Як називається наносне (без рослинності) надводне утворення в руслі, що омивається водою усіх боків?</section>
+      <section class="text">Як називається наносне (без рослинності) надводне утворення в руслі, що
+            омивається водою усіх боків?<br/>
+            <img src="/quiz/img/2.30.jpg"/></section>
       <section class="answer" data-correct="data-correct">
          <section class="text">Осередок. </section>
       </section>
@@ -9290,78 +9305,86 @@
       </section>
    </section>
    <section class="question" number="614">
-      <section class="text">Як називається обертальний рух води за підводним або надводним виступом в яру?</section>
+      <section class="text">Як називається обертальний рух води за підводним або надводним виступом
+            в яру?<br/>
+            <img src="/quiz/img/2.31.jpg"/></section>
       <section class="answer">
-         <section class="text">Яр.</section>
+         <section class="text">Яр</section>
       </section>
       <section class="answer">
-         <section class="text">Заплесок.</section>
+         <section class="text">Заплесок</section>
       </section>
       <section class="answer">
-         <section class="text">Русло.</section>
+         <section class="text">Русло</section>
       </section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Вир. </section>
+         <section class="text">Вир</section>
       </section>
    </section>
    <section class="question" number="615">
-      <section class="text">Як називається піщана мілина-бугор, утворена на судновому ході по випадковим причин: за затонулими предметами, за суднами, щостоять на мілині?</section>
+      <section class="text">Як називається піщана мілина-бугор, утворена на судновому ході по
+            випадковим причин: за затонулими предметами, за суднами, щостоять на мілині?<br/>
+            <img src="/quiz/img/2.33.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Шалига. </section>
+         <section class="text">Шалига</section>
       </section>
       <section class="answer">
-         <section class="text">Яр.</section>
+         <section class="text">Яр</section>
       </section>
       <section class="answer">
-         <section class="text">Вир.</section>
+         <section class="text">Вир</section>
       </section>
       <section class="answer">
-         <section class="text">Осередок.</section>
+         <section class="text">Осередок</section>
       </section>
    </section>
    <section class="question" number="616">
-      <section class="text">Як називається умовна лінія, що проходить у середній частині суднового ходу?</section>
+      <section class="text">Як називається умовна лінія, що проходить у середній частині суднового
+            ходу?<br/>
+            <img src="/quiz/img/2.36.jpg"/></section>
       <section class="answer">
-         <section class="text">Коліно.</section>
+         <section class="text">Коліно</section>
       </section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Вісь фарватеру. </section>
+         <section class="text">Вісь фарватеру</section>
       </section>
       <section class="answer">
-         <section class="text">Ложерічки.</section>
+         <section class="text">Ложерічки</section>
       </section>
       <section class="answer">
-         <section class="text">Ухвісття.</section>
+         <section class="text">Ухвісття</section>
       </section>
    </section>
    <section class="question" number="617">
-      <section class="text">Як називається старе русло - колишня ізлучина, випрямлена новим русломі ізольована від нього?</section>
+      <section class="text">Як називається старе русло - колишня ізлучина, випрямлена новим русломі
+            ізольована від нього?<br/>
+            <img src="/quiz/img/2.37.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Старик. </section>
+         <section class="text">Старик</section>
       </section>
       <section class="answer">
-         <section class="text">Заплесок.</section>
+         <section class="text">Заплесок</section>
       </section>
       <section class="answer">
-         <section class="text">Заплава.</section>
+         <section class="text">Заплава</section>
       </section>
       <section class="answer">
-         <section class="text">Загата.</section>
+         <section class="text">Загата</section>
       </section>
    </section>
    <section class="question" number="618">
       <section class="text">Штучні перешкоди в руслі річок це?</section>
       <section class="answer">
-         <section class="text">Гряда.</section>
+         <section class="text">Гряда</section>
       </section>
       <section class="answer">
-         <section class="text">Сувідь.</section>
+         <section class="text">Сувідь</section>
       </section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Загата. </section>
+         <section class="text">Загата</section>
       </section>
       <section class="answer">
-         <section class="text">Кряж.</section>
+         <section class="text">Кряж</section>
       </section>
    </section>
    <section class="question" number="619">
@@ -9395,24 +9418,26 @@
       </section>
    </section>
    <section class="question" number="621">
-      <section class="text">Як називається вертикальна носова балка, що є продовженням кіля?</section>
+      <section class="text">Як називається вертикальна носова балка, що є продовженням кіля?<br/>
+            <img src="/quiz/img/3.31.jpg"/></section>
       <section class="answer">
-         <section class="text">Кіль,</section>
+         <section class="text">Кіль</section>
       </section>
       <section class="answer">
-         <section class="text">Транець,</section>
+         <section class="text">Транець</section>
       </section>
       <section class="answer">
-         <section class="text">Полубімс.</section>
+         <section class="text">Полубімс</section>
       </section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Форштевень, </section>
+         <section class="text">Форштевень</section>
       </section>
    </section>
    <section class="question" number="622">
-      <section class="text">Як називається бортова частина балки поперечного набору корпусу судна?</section>
+      <section class="text">Як називається бортова частина балки поперечного набору корпусу судна?<br/>
+            <img src="/quiz/img/3.32.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Шпангоут </section>
+         <section class="text">Шпангоут</section>
       </section>
       <section class="answer">
          <section class="text">Кіль</section>
@@ -9425,33 +9450,35 @@
       </section>
    </section>
    <section class="question" number="623">
-      <section class="text">Який з цих якорів є адміралтейським?</section>
+      <section class="text">Який з цих якорів є адміралтейським?<br/>
+            <img src="/quiz/img/3.33.jpg"/></section>
       <section class="answer">
-         <section class="text">Відповідь В.</section>
+         <section class="text">Відповідь В</section>
       </section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Відповідь Г. </section>
+         <section class="text">Відповідь Г</section>
       </section>
       <section class="answer">
-         <section class="text">Відповідь А.</section>
+         <section class="text">Відповідь А</section>
       </section>
       <section class="answer">
-         <section class="text">Відповідь Б.</section>
+         <section class="text">Відповідь Б</section>
       </section>
    </section>
    <section class="question" number="624">
-      <section class="text">Як на цій схемі називається швартовий позначений цифрою 3?</section>
+      <section class="text">Як на цій схемі називається швартовий позначений цифрою 3?<br/>
+            <img src="/quiz/img/3.34.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Носовий шпрінг. </section>
+         <section class="text">Носовий шпрінг</section>
       </section>
       <section class="answer">
-         <section class="text">Кормовий шпрінг.</section>
+         <section class="text">Кормовий шпрінг</section>
       </section>
       <section class="answer">
-         <section class="text">Шпрінг шпангоуту.</section>
+         <section class="text">Шпрінг шпангоуту</section>
       </section>
       <section class="answer">
-         <section class="text">Шпрінг форштевеню.</section>
+         <section class="text">Шпрінг форштевеню</section>
       </section>
    </section>
    <section class="question" number="625">
@@ -9515,37 +9542,45 @@
       </section>
    </section>
    <section class="question" number="629">
-      <section class="text">Чи повинне маломірне судно на ходу поступитися дорогою вітрильному судну?</section>
+      <section class="text">Чи повинне маломірне судно на ходу поступитися дорогою вітрильному
+            судну?<br/>
+            <img src="/quiz/img/4.32.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">В будь-якому випадку. </section>
+         <section class="text">В будь-якому випадку</section>
       </section>
       <section class="answer">
-         <section class="text">Тільки якщо вітрильне судно йде по вітру.</section>
+         <section class="text">Тільки якщо вітрильне судно йде по вітру</section>
       </section>
       <section class="answer">
-         <section class="text">Якщо вітрильне судно знаходиться по правому борту.</section>
+         <section class="text">Якщо вітрильне судно знаходиться по правому борту</section>
       </section>
       <section class="answer">
-         <section class="text">Якщо вітрильне судно йде вгору.</section>
+         <section class="text">Якщо вітрильне судно йде вгору</section>
       </section>
    </section>
    <section class="question" number="630">
-      <section class="text">Якщо два моторних суден йдуть пересічними курсами так, що виникає небезпека зіткнення, яке судно повинно поступитися шляхом іншому судну?</section>
+      <section class="text">Якщо два моторних суден йдуть пересічними курсами так, що виникає
+            небезпека зіткнення, яке судно повинно поступитися шляхом іншому судну?<br/>
+            <img src="/quiz/img/4.33.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Те судно, яке має інше на своїй правій стороні, повинно поступитися шляхом. </section>
+         <section class="text">Те судно, яке має інше на своїй правій стороні, повинно поступитися
+         шляхом</section>
       </section>
       <section class="answer">
          <section class="text">Те судно, яке має меншу швидкість, повинно поступитися шляхом</section>
       </section>
       <section class="answer">
-         <section class="text">Те судно, яке має більшу швидкість, повинно поступитися шляхом.</section>
+         <section class="text">Те судно, яке має більшу швидкість, повинно поступитися шляхом</section>
       </section>
       <section class="answer">
-         <section class="text">Те судно, яке має інше на своїй лівій стороні, повинно поступитися шляхом.</section>
+         <section class="text">Те судно, яке має інше на своїй лівій стороні, повинно поступитися
+         шляхом</section>
       </section>
    </section>
    <section class="question" number="631">
-      <section class="text">Як повинні маневрувати маломірні судна для розходження один з одним на акваторії, яка не має судноплавної обстановки?</section>
+      <section class="text">Як повинні маневрувати маломірні судна для розходження один з одним на
+            акваторії, яка не має судноплавної обстановки?<br/>
+            <img src="/quiz/img/4.34.jpg"/></section>
       <section class="answer">
          <section class="text">Положення суден, вказане на малюнку, відповідає ситуації коли два ММС йдуть назустріч один одному і має місце небезпечне зближення. Судна повинні розходитися лівими бортами. В даному випадку, коли відсутня судноплавна обстановка судноводій судна яке знаходиться справа на малюнку повинен вжити всіх заходів обережності, щоб розходження відбулося в місці і умовах, які забезпечили б безпечне розходження судна.</section>
       </section>
@@ -9560,18 +9595,19 @@
       </section>
    </section>
    <section class="question" number="632">
-      <section class="text">Що вимірюється ручним анемометром?</section>
+      <section class="text">Що вимірюється ручним анемометром?<br/>
+            <img src="/quiz/img/4.36.jpg"/></section>
       <section class="answer" data-correct="data-correct">
-         <section class="text">Анемометр - це прилад для вимірювання швидкості потоку і напрямку руху повітря. </section>
+         <section class="text">Анемометр - це прилад для вимірювання швидкості потоку і напрямку руху повітря</section>
       </section>
       <section class="answer">
-         <section class="text">Анемометр - це прилад для вимірювання швидкості руху судна.</section>
+         <section class="text">Анемометр - це прилад для вимірювання швидкості руху судна</section>
       </section>
       <section class="answer">
-         <section class="text">Анемометр - це прилад для вимірювання швидкості потоку і напрямку руху течії.</section>
+         <section class="text">Анемометр - це прилад для вимірювання швидкості потоку і напрямку руху течії</section>
       </section>
       <section class="answer">
-         <section class="text">Анемометр - це прилад для вимірювання відстані до об'єктів.</section>
+         <section class="text">Анемометр - це прилад для вимірювання відстані до об'єктів</section>
       </section>
    </section>
    <section class="question" number="633">
