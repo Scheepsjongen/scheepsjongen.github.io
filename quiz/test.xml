@@ -2728,10 +2728,15 @@
    </section>
    <section class="question" number="200">
       <section class="text">Для виконання яких функцій призначений швартовий пристрій судна?</section>
-      <section class="answer">Швартовий пристрій призначений для видалення з корпусу великих мас води.</section>
-      <section class="answer">Швартовий пристрій призначений для надійною швартових стоянки судна в різних умовах експлуатації.</section>
-      <section class="answer" data-correct="data-correct">Швартовий пристрій призначений для підтягування судна до берегових і плавучих причальних споруд і надійного кріплення судна до них. </section>
-      <section class="answer">Швартовий пристрій призначений для відштовхування суден від берегових і плавучих причальних споруд.</section>
+      <section class="answer" data-correct="data-correct">Швартовий пристрій призначений для
+      підтягування судна до берегових і плавучих причальних споруд і надійного кріплення судна до
+      них</section>
+      <section class="answer">Швартовий пристрій призначений для видалення з корпусу великих мас
+      води</section>
+      <section class="answer">Швартовий пристрій призначений для надійною швартової стоянки судна в
+      різних умовах експлуатації</section>
+      <section class="answer">Швартовий пристрій призначений для відштовхування суден від берегових
+      і плавучих причальних споруд</section>
    </section>
    <section class="question" number="201">
       <section class="text">Чим визначається непотоплюваність судна?</section>
@@ -3015,10 +3020,16 @@
    </section>
    <section class="question" number="241">
       <section class="text">У чому проявляється вплив вітру на рух і управління маломірного судна?</section>
-      <section class="answer" data-correct="data-correct">Під впливом вітру відбувається дрейф - зміщення, що рухається судназ лінії справжнього курсу. Дія вітру впливає і на керованість, судно стає нестійким на курсі, погіршується повороткість, відбувається уповільнення або збільшення швидкості. </section>
-      <section class="answer">Погіршується Стійкість судна на курсі, з'являється рисклівість, втрата швидкості через появи природних хвиль, спостерігається просідання судна.</section>
-      <section class="answer">При плаванні в умовах сильного вітру треба не допускати попадання води всередину судна і уникати втрати швидкості, для цього необхідно вибирати відповідний курс і швидкість судна по відношенню до вітру.</section>
-      <section class="answer">Немає правильної відповіді.</section>
+      <section class="answer" data-correct="data-correct">Під впливом вітру відбувається дрейф -
+      зміщення, що рухається судна з лінії справжнього курсу. Дія вітру впливає і на керованість,
+      судно стає нестійким на курсі, погіршується повороткість, відбувається уповільнення або
+      збільшення швидкості</section>
+      <section class="answer">Погіршується стійкість судна на курсі, з'являється рисклівість, втрата
+      швидкості через появи природних хвиль, спостерігається просідання судна</section>
+      <section class="answer">При плаванні в умовах сильного вітру треба не допускати попадання води
+      всередину судна і уникати втрати швидкості, для цього необхідно вибирати відповідний курс і
+      швидкість судна по відношенню до вітру</section>
+      <section class="answer">Немає правильної відповіді</section>
    </section>
    <section class="question" number="242">
       <section class="text">Як впливають мілини на керованість судном?</section>
@@ -3265,9 +3276,9 @@
    </section>
    <section class="question" number="277">
       <section class="text">Вітер, за напрямом корми судна?</section>
-      <section class="answer" data-correct="data-correct">Фордевінд </section>
+      <section class="answer" data-correct="data-correct">Фордевінд</section>
       <section class="answer">Левентік</section>
-      <section class="answer">іст</section>
+      <section class="answer">Іст</section>
       <section class="answer">Зютвест</section>
    </section>
    <section class="question" number="278">
@@ -3363,10 +3374,11 @@
    </section>
    <section class="question" number="291">
       <section class="text">Чи можна ММС швартуватися до транспортних суден, що стоять на рейдах портів?</section>
-      <section class="answer">Дозволяється якщо це не суперечить місцевим правилам судноплавства на ВВШ.</section>
-      <section class="answer">Дозволяється, якщо не проти капітан судна до якого швартуються.</section>
-      <section class="answer" data-correct="data-correct">Забороняється. </section>
-      <section class="answer">Дозволяється.</section>
+      <section class="answer">Дозволяється якщо це не суперечить місцевим правилам судноплавства на
+      ВВШ</section>
+      <section class="answer">Дозволяється, якщо не проти капітан судна до якого швартуються</section>
+      <section class="answer" data-correct="data-correct">Забороняється</section>
+      <section class="answer">Дозволяється</section>
    </section>
    <section class="question" number="292">
       <section class="text">Як називається підхід маломірного судна до причалу?</section>
@@ -3426,10 +3438,17 @@
    </section>
    <section class="question" number="300">
       <section class="text">Які повинні бути умови до вибору місця якірної стоянки судна?</section>
-      <section class="answer" data-correct="data-correct">Всі відповіді вірні. </section>
-      <section class="answer">Місце якірної стоянки повинно бути: • з гарною тримаючою силою грунту, • з достатнім водним простором при зміні положення судна при зміні вітру (течії).</section>
-      <section class="answer">Місце якірної стоянки повинно бути: • захищене від вітру, • має достатню глибину, • зрівним плином.</section>
-      <section class="answer">Місце якірної стоянки повинно бути: • за межами заборонених районів, • для ММС поза фарватеруі не ближче 25 м до кромки фарватеру.</section>
+      <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
+      <section class="answer">Місце якірної стоянки повинно бути:<br/>
+          - з гарною тримаючою силою грунту;<br/>
+          - з достатнім водним простором при зміні положення судна при зміні вітру (течії)</section>
+      <section class="answer">Місце якірної стоянки повинно бути:<br/>
+          - захищене від вітру;<br/>
+          - має достатню глибину;<br/>
+          - з рівним плином</section>
+      <section class="answer">Місце якірної стоянки повинно бути:<br/>
+          - за межами заборонених районів;<br/>
+          - для ММС поза фарватеру і не ближче 25 м до кромки фарватеру</section>
    </section>
    <section class="question" number="301">
       <section class="text">Які існують варіанти відходу маломірних суден від місця швартування?</section>
