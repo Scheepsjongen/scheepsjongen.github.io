@@ -86,8 +86,8 @@ layout: page
                     <h4>Права на лодку</h4>
                 </div>
                 <div class="advertising-block">
-                    <h6>Інший тест</h6>
-                    <p>Windows 10</p>
+                    <h6>Інший тест під Windows 10</h6>
+                    <p>Програма-тренажер для підготовки до іспиту судноводія</p>
                     <a href="https://scheepsjongen.github.io/2021/08/20/programa-trenazher-dlya-pidgotovky-do-ispytu-sudnovodiya-Windows-10.html"
                     class="btn btn-primary btn-lg">Перейти</a>
                 </div>
