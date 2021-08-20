@@ -86,9 +86,9 @@ layout: page
                     <h4>Права на лодку</h4>
                 </div>
                 <div class="advertising-block">
-                    <h6>New 2021</h6>
-                    <p>Нові екзаменаційні тести</p>
-                    <a href="https://scheepsjongen.github.io/2021/07/19/ekzamenacijni-testy-2021.html"
+                    <h6>Інший тест</h6>
+                    <p>Windows 10</p>
+                    <a href="https://scheepsjongen.github.io/2021/08/20/programa-trenazher-dlya-pidgotovky-do-ispytu-sudnovodiya-Windows-10.html"
                     class="btn btn-primary btn-lg">Перейти</a>
                 </div>
             </div>
