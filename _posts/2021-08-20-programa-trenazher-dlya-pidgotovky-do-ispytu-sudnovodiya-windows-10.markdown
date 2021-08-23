@@ -32,7 +32,7 @@ comments: true
 програмою протягом 1 дня. Не лінуйтеся витратити кілька хвилин вашого часу на покупку, це дозволить
 вам більш серйозно поставитися до процесу навчання.
 
-[Відкрити у Windows Store](ms-windows-store://pdp/?productid=9ND29910SXTJ) або
-[встановити через сайт](https://www.microsoft.com/store/apps/9ND29910SXTJ).
+[Відкрити у Windows Store](ms-windows-store://pdp/?productid=9ND29910SXTJ){:target="_blank"} або
+[встановити через сайт](https://www.microsoft.com/store/apps/9ND29910SXTJ){:target="_blank"}.
 
-__Дмитро MarketKernel__, зв'язок [Telegram](https://t.me/MarketKernel)
+__Дмитро MarketKernel__, зв'язок [Telegram](https://t.me/MarketKernel){:target="_blank"}
