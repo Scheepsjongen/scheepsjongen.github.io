@@ -1,6 +1,6 @@
 const
-    staticCacheName = "static-cache-v41",
-    dynamicCacheName = "dynamic-cache-v41",
+    staticCacheName = "static-cache-v42",
+    dynamicCacheName = "dynamic-cache-v42",
     staticAssets = [
         "index.html",
         "/list/",
