@@ -83,12 +83,12 @@ layout: page
         <section class="container-text" data-bind="visible: !quizStarted()">
             <div class="section-content">
                 <div class="content">
-                    <h4>Права на лодку</h4>
+                    <h4>Перелік проблемних запитань</h4>
                 </div>
                 <div class="advertising-block">
-                    <h6>Інший тест під Windows 10</h6>
-                    <p>Програма-тренажер для підготовки до іспиту судноводія</p>
-                    <a href="https://scheepsjongen.github.io/2021/08/20/programa-trenazher-dlya-pidgotovky-do-ispytu-sudnovodiya-windows-10.html"
+                    <h6>Суперечливі запитання</h6>
+                    <p>Які потрібно виправляти</p>
+                    <a href="https://scheepsjongen.github.io/2021/09/06/perelik-problemnykh-zapytan.html"
                     class="btn btn-primary btn-lg">Перейти</a>
                 </div>
             </div>
