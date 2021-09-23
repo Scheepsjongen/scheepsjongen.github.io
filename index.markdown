@@ -88,7 +88,7 @@ layout: page
                 <div class="advertising-block">
                     <h6>Суперечливі запитання</h6>
                     <p>Які потрібно виправляти</p>
-                    <a href="https://scheepsjongen.github.io/2021/09/06/perelik-problemnykh-zapytan.html"
+                    <a href="https://scheepsjongen.github.io/2021/09/24/perelik-problemnykh-zapytan.html"
                     class="btn btn-primary btn-lg">Перейти</a>
                 </div>
             </div>
