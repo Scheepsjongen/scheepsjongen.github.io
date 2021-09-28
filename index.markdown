@@ -83,7 +83,7 @@ layout: page
         <section class="container-text" data-bind="visible: !quizStarted()">
             <div class="section-content">
                 <div class="content">
-                    <h4>Перелік проблемних запитань</h4>
+                    <h4>Права на лодку тест</h4>
                 </div>
                 <div class="advertising-block">
                     <h6>Суперечливі запитання</h6>
