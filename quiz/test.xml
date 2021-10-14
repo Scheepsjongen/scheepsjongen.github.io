@@ -6771,18 +6771,20 @@
       навігаційних знаків, заздалегіть переконавшись, що судно не буде заважати іншим судам</section>
    </section>
    <section class="question" number="452">
-      <section class="text">Чи дозволяється судноводію маломірного судна перевозити пасажирів, що знаходяться в стані алкогольного або наркотичного сп'яніння будь-якого ступеня?</section>
-      <section class="answer">Не забороняється;</section>
-      <section class="answer">Забороняється, якщо пасажир знаходитьсяу стані тільки наркотичного сп'яніння;</section>
-      <section class="answer" data-correct="data-correct">Забороняється; </section>
-      <section class="answer">Забороняється, якщо пасажир знаходиться у стані тільки алкогольного сп'яніння;</section>
+      <section class="text">Чи дозволяється судноводію маломірного судна перевозити пасажирів, що
+      знаходяться в стані алкогольного або наркотичного сп'яніння будь-якого ступеня?</section>
+      <section class="answer" data-correct="data-correct">Забороняється</section>
+      <section class="answer">Не забороняється</section>
+      <section class="answer">Забороняється, якщо пасажир знаходитьсяу стані тільки наркотичного сп'яніння</section>
+      <section class="answer">Забороняється, якщо пасажир знаходиться у стані тільки алкогольного сп'яніння</section>
    </section>
    <section class="question" number="453">
-      <section class="text">Які дії повинен зробити судноводій, якщо під час руху судна, видимість різко зменшилась менше ніж на 500 метрів?</section>
-      <section class="answer">Зменшити швидкість руху до 10 км/год;</section>
-      <section class="answer">Продовжити рух;</section>
-      <section class="answer">Вибрати безпечну швидкість;</section>
-      <section class="answer" data-correct="data-correct">Зупинити судно; </section>
+      <section class="text">Які дії повинен зробити судноводій, якщо під час руху судна, видимість
+      різко зменшилась менше ніж на 500 метрів?</section>
+      <section class="answer" data-correct="data-correct">Зупинити судно</section>
+      <section class="answer">Зменшити швидкість руху до 10 км/год</section>
+      <section class="answer">Продовжити рух</section>
+      <section class="answer">Вибрати безпечну швидкість</section>
    </section>
    <section class="question" number="454">
       <section class="text">Що повинен знати судноводій маломірного судна при перевезенні вибухо та
@@ -6795,17 +6797,19 @@
    </section>
    <section class="question" number="455">
       <section class="text">Який основний міжнародний документ регламентує охорону оточуючого середовища на морі?</section>
-      <section class="answer" data-correct="data-correct">Міжнародна Конвенція MARPOL 73/78;</section>
-      <section class="answer">Міжнародна Конвенція SALVAGE-89;</section>
-      <section class="answer">Міжнародна Конвенція SOLAS-74;</section>
-      <section class="answer">Міжнародна Конвенція MERSAR-95;</section>
+      <section class="answer" data-correct="data-correct">Міжнародна Конвенція MARPOL 73/78</section>
+      <section class="answer">Міжнародна Конвенція SALVAGE-89</section>
+      <section class="answer">Міжнародна Конвенція SOLAS-74</section>
+      <section class="answer">Міжнародна Конвенція MERSAR-95</section>
    </section>
    <section class="question" number="456">
-      <section class="text">В чому полягають практичної дії судноводія при попередженні забруднення навколишнього середовища нафтовими продуктами?</section>
-      <section class="answer">Дотримання чистоти та використання чистячих засобів під час бункерувальних  (заправних) операцій;</section>
-      <section class="answer">Заборона викидів за борт речовин, речей,які містять нафтопродукти;</section>
-      <section class="answer">Заборона експлуатації технічно несправних механізмів, двигунів, паливних ємкостей;</section>
-      <section class="answer" data-correct="data-correct">Всі відповіді вірні; </section>
+      <section class="text">В чому полягають практичної дії судноводія при попередженні забруднення
+      навколишнього середовища нафтовими продуктами?</section>
+      <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
+      <section class="answer">Дотримання чистоти та використання чистячих засобів під час
+      бункерувальних (заправних) операцій</section>
+      <section class="answer">Заборона викидів за борт речовин, речей, які містять нафтопродукти</section>
+      <section class="answer">Заборона експлуатації технічно несправних механізмів, двигунів, паливних ємкостей</section>
    </section>
    <section class="question" number="457">
       <section class="text">Яке сміття категорично заборонено викидати в любому місці Світового
@@ -6816,32 +6820,39 @@
       <section class="answer">Всі відповіді вірні</section>
    </section>
    <section class="question" number="458">
-      <section class="text">На якій відстані від берега дозволяється викидати в море відходи з паперу, картону, скла, пляшок, черепків, за межами особливих районів?</section>
-      <section class="answer" data-correct="data-correct">Не ближче 12 морських миль від найближчого берегу; </section>
-      <section class="answer">Не ближче б морських миль від найближчого берегу;</section>
-      <section class="answer">Забороняється викидати в море будь-які відходи;</section>
-      <section class="answer">Не ближче 24 морських миль від найближчого берегу;</section>
+      <section class="text">На якій відстані від берега дозволяється викидати в море відходи з
+      паперу, картону, скла, пляшок, черепків, за межами особливих районів?</section>
+      <section class="answer" data-correct="data-correct">Не ближче 12 морських миль від найближчого берегу</section>
+      <section class="answer">Не ближче 6 морських миль від найближчого берегу</section>
+      <section class="answer">Забороняється викидати в море будь-які відходи</section>
+      <section class="answer">Не ближче 24 морських миль від найближчого берегу</section>
    </section>
    <section class="question" number="459">
-      <section class="text">В чому полягають практичні дії судноводія ММС при виявленні розливу нафтових продуктів?</section>
-      <section class="answer">Виявлення причини та місця розливу;</section>
-      <section class="answer">Локалізація розливу та прибирання нафтових продуктів;</section>
-      <section class="answer">Сповіщення відповідних органів у разі великого розливу та попадання нафтових продуктів у воду;</section>
-      <section class="answer" data-correct="data-correct">Всі відповіді вірні; </section>
+      <section class="text">В чому полягають практичні дії судноводія ММС при виявленні розливу
+      нафтових продуктів?</section>
+      <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
+      <section class="answer">Виявлення причини та місця розливу</section>
+      <section class="answer">Локалізація розливу та прибирання нафтових продуктів</section>
+      <section class="answer">Сповіщення відповідних органів у разі великого розливу та попадання
+      нафтових продуктів у воду</section>
    </section>
    <section class="question" number="460">
-      <section class="text">Де з метою посилення охорони довкілля від забруднення та охорони рибних запасів, забороняється рух маломірних суден?</section>
-      <section class="answer">Не ближче ніж 50 метрів до нерестилищ, заказників, заповідників;</section>
-      <section class="answer" data-correct="data-correct">Не ближче ніж 25 метрів до нерестилищ, заказників, заповідників та на малих річках; </section>
-      <section class="answer">Заборона для руху маломірних суден відсутня;</section>
-      <section class="answer">На малихрічках;</section>
+      <section class="text">Де з метою посилення охорони довкілля від забруднення та охорони рибних
+      запасів, забороняється рух маломірних суден?</section>
+      <section class="answer" data-correct="data-correct">Не ближче ніж 25 метрів до нерестилищ,
+      заказників, заповідників та на малих річках</section>
+      <section class="answer">Не ближче ніж 50 метрів до нерестилищ, заказників, заповідників</section>
+      <section class="answer">Заборона для руху маломірних суден відсутня</section>
+      <section class="answer">На малихрічках</section>
    </section>
    <section class="question" number="461">
       <section class="text">Де повинна проводитися заправка мото човнів паливно-мастильними матеріалами?</section>
-      <section class="answer">На території баз для стоянки для маломірних суден;</section>
-      <section class="answer" data-correct="data-correct">З борту плавучих заправних станцій або на території баз для стоянки для маломірних суден, за умов дотримання заходів для запобігання забруднення водної поверхні; </section>
-      <section class="answer">З борту плавучих заправнихстанцій;</section>
-      <section class="answer">Будь-де;</section>
+      <section class="answer" data-correct="data-correct">З борту плавучих заправних станцій або на
+      території баз для стоянки для маломірних суден, за умов дотримання заходів для запобігання
+      забруднення водної поверхні</section>
+      <section class="answer">На території баз для стоянки для маломірних суден</section>
+      <section class="answer">З борту плавучих заправних станцій</section>
+      <section class="answer">Будь-де</section>
    </section>
    <section class="question" number="462">
       <section class="text">Де дозволяється зберігати промаслене ганчір'я та інше сміття?</section>
@@ -6853,10 +6864,10 @@
    </section>
    <section class="question" number="463">
       <section class="text">Яка міжнародна Конвенція є нормативним документом з охорони життя на воді?</section>
-      <section class="answer" data-correct="data-correct">Міжнародна Конвенція SOLAS-74; </section>
-      <section class="answer">Міжнародна Конвенція MERSAR-95;</section>
-      <section class="answer">Міжнародна Конвенція MARPOL 73/78;</section>
-      <section class="answer">Міжнародна Конвенція SALVAGE-89;</section>
+      <section class="answer" data-correct="data-correct">Міжнародна Конвенція SOLAS-74</section>
+      <section class="answer">Міжнародна Конвенція MERSAR-95</section>
+      <section class="answer">Міжнародна Конвенція MARPOL 73/78</section>
+      <section class="answer">Міжнародна Конвенція SALVAGE-89</section>
    </section>
    <section class="question" number="464">
       <section class="text">Які основні причини загибелі людей на воді?</section>
@@ -6867,31 +6878,31 @@
    </section>
    <section class="question" number="465">
       <section class="text">Які основні вимоги правил поведінки на воді щодо безпеки?</section>
-      <section class="answer">Не запливати за попереджувальні знаки та буї.</section>
-      <section class="answer">Не вживати спиртні напої та наркотичні речовини.</section>
-      <section class="answer">Не купатися в темний час доби та не пірнати.</section>
-      <section class="answer" data-correct="data-correct">Всі відповіді вірні. </section>
+      <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
+      <section class="answer">Не запливати за попереджувальні знаки та буї</section>
+      <section class="answer">Не вживати спиртні напої та наркотичні речовини</section>
+      <section class="answer">Не купатися в темний час доби та не пірнати</section>
    </section>
    <section class="question" number="466">
       <section class="text">Хто повинен на судні організувати боротьбу з пожежею?</section>
-      <section class="answer" data-correct="data-correct">Капітан; </section>
-      <section class="answer">Всі люди, які присутні на борту;</section>
-      <section class="answer">Людина, яка має досвід у гасінні пожежі;</section>
+      <section class="answer" data-correct="data-correct">Капітан</section>
+      <section class="answer">Всі люди, які присутні на борту</section>
+      <section class="answer">Людина, яка має досвід у гасінні пожежі</section>
       <section class="answer">Кожен бажаючий</section>
    </section>
    <section class="question" number="467">
       <section class="text">Яка ціль боротьби з пожежею на судні?</section>
+      <section class="answer" data-correct="data-correct">Збереження життя людей та судна на плаву</section>
       <section class="answer">Збереження вантажу та судна</section>
       <section class="answer">Збереження власних речей та цінностей</section>
-      <section class="answer" data-correct="data-correct">Збереження життя людей та судна на плаву</section>
       <section class="answer">Всі відповіді вірні</section>
    </section>
    <section class="question" number="468">
       <section class="text">Що являється основними причинами пожеж на маломірних суднах?</section>
-      <section class="answer">Необережне поводження з вогнем;</section>
-      <section class="answer">Несправність електрообладнання;</section>
-      <section class="answer">Порушення правил безпеки при заправці суден;</section>
-      <section class="answer" data-correct="data-correct">Всі відповіді вірні; </section>
+      <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
+      <section class="answer">Необережне поводження з вогнем</section>
+      <section class="answer">Несправність електрообладнання</section>
+      <section class="answer">Порушення правил безпеки при заправці суден</section>
    </section>
    <section class="question" number="469">
       <section class="text">Які першочергові дії судноводія маломірного судна при виникненні спалаху
@@ -6904,10 +6915,10 @@
    </section>
    <section class="question" number="470">
       <section class="text">Які суднові дизельні двигуни, повинні мати Свідоцтво EIAPP?</section>
-      <section class="answer">Тільки головні двигуни;</section>
-      <section class="answer">Двигуни потужністю не менше 500 кВт;</section>
-      <section class="answer" data-correct="data-correct">Головні та допоміжні двигуни; </section>
-      <section class="answer">Тільки допоміжні двигуни;</section>
+      <section class="answer" data-correct="data-correct">Головні та допоміжні двигуни</section>
+      <section class="answer">Тільки головні двигуни</section>
+      <section class="answer">Двигуни потужністю не менше 500 кВт</section>
+      <section class="answer">Тільки допоміжні двигуни</section>
    </section>
    <section class="question" number="471">
       <section class="text">Яке адміністративне покарання передбачено за викидання за борт
@@ -6921,38 +6932,50 @@
    </section>
    <section class="question" number="472">
       <section class="text">3 якої сторони необхідно підходити до палаючого судна для надання допомоги?</section>
-      <section class="answer">Будь-якої;</section>
-      <section class="answer">Підвітряної;</section>
-      <section class="answer" data-correct="data-correct">Навітряної; </section>
-      <section class="answer">3 кормовоїчастини судна;</section>
+      <section class="answer" data-correct="data-correct">Навітряної</section>
+      <section class="answer">Будь-якої</section>
+      <section class="answer">Підвітряної</section>
+      <section class="answer">3 кормової частини судна</section>
    </section>
    <section class="question" number="473">
-      <section class="text">Яке адміністративне покарання передбачено за куріння у невстановлених місцях на суднах?</section>
-      <section class="answer">Усне попередження;</section>
-      <section class="answer">Штраф у розмірі від трьох до п'яти неоподатковуваних мінімумів доходів громадян;</section>
-      <section class="answer" data-correct="data-correct">Попередження або штраф від 0,5 до одного неоподаткованого мінімуму доходів громадян; </section>
-      <section class="answer">Заборона експлуатації судна строком на 6 місяців;</section>
+      <section class="text">Яке адміністративне покарання передбачено за куріння у невстановлених
+      місцях на суднах?</section>
+      <section class="answer" data-correct="data-correct">Попередження або штраф від 0,5 до одного
+      неоподаткованого мінімуму доходів громадян</section>
+      <section class="answer">Усне попередження</section>
+      <section class="answer">Штраф у розмірі від трьох до п'яти неоподатковуваних мінімумів доходів
+      громадян</section>
+      <section class="answer">Заборона експлуатації судна строком на 6 місяців</section>
    </section>
    <section class="question" number="474">
-      <section class="text">Що не можна використовувати для гасіння легкозаймистих речовин,таких як бензин і керосин?</section>
-      <section class="answer">Пінні засоби гасіння;</section>
-      <section class="answer" data-correct="data-correct">Вода; </section>
-      <section class="answer">Порошкові Засоби гасіння;</section>
-      <section class="answer">Вуглекислотні засоби гасіння;</section>
+      <section class="text">Що не можна використовувати для гасіння легкозаймистих речовин, таких як
+      бензин і керосин?</section>
+      <section class="answer" data-correct="data-correct">Воду</section>
+      <section class="answer">Пінні засоби гасіння</section>
+      <section class="answer">Порошкові засоби гасіння</section>
+      <section class="answer">Вуглекислотні засоби гасіння</section>
    </section>
    <section class="question" number="475">
-      <section class="text">З метою посилення охорони довкілля від забруднення та збереження рибних запасів, рух маломірних (малих) суден забороняється:</section>
-      <section class="answer">Не ближче ніж 50 метрів до нерестовищ, заказників, заповідників;</section>
-      <section class="answer" data-correct="data-correct">Не ближче ніж 25 метрів до нерестовищ, заказників, заповідників та на малих річках; </section>
-      <section class="answer">Заборона для руху маломірних суден відсутня;</section>
-      <section class="answer">На малихрічках;</section>
+      <section class="text">З метою посилення охорони довкілля від забруднення та збереження рибних
+      запасів, рух маломірних (малих) суден забороняється:</section>
+      <section class="answer" data-correct="data-correct">Не ближче ніж 25 метрів до нерестовищ,
+      заказників, заповідників та на малих річках</section>
+      <section class="answer">Не ближче ніж 50 метрів до нерестовищ, заказників, заповідників</section>
+      <section class="answer">Заборона для руху маломірних суден відсутня</section>
+      <section class="answer">На малих річках</section>
    </section>
    <section class="question" number="476">
-      <section class="text">Який порядок виклику при аварійній події, берегові аварійні служби у разі необхідності?</section>
-      <section class="answer">Виклик берегової аварійної служби здійснюється тільки у випадку загрози навколишньому середовищу</section>
-      <section class="answer">Виклик берегової аварійної служби здійснюється виключно за бажанням капітана</section>
-      <section class="answer">Виклик берегової аварійної служби здійснюється відразу після виникнення будь-якої аварійної події</section>
-      <section class="answer" data-correct="data-correct">Виклик берегової аварійної служби здійснюється за рішенням капітану, коли стає очевидним, що силами екіпажу не вдається впоратись з аварійною подією та її наслідками </section>
+      <section class="text">Який порядок виклику при аварійній події, берегові аварійні служби у
+      разі необхідності?</section>
+      <section class="answer" data-correct="data-correct">Виклик берегової аварійної служби
+      здійснюється за рішенням капітану, коли стає очевидним, що силами екіпажу не вдається
+      впоратись з аварійною подією та її наслідками</section>
+      <section class="answer">Виклик берегової аварійної служби здійснюється тільки у випадку
+      загрози навколишньому середовищу</section>
+      <section class="answer">Виклик берегової аварійної служби здійснюється виключно за бажанням
+      капітана</section>
+      <section class="answer">Виклик берегової аварійної служби здійснюється відразу після
+      виникнення будь-якої аварійної події</section>
    </section>
    <section class="question" number="477">
       <section class="text">Що являється основними причинами аварійності маломірних суден?</section>
@@ -6970,60 +6993,76 @@
       <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
    </section>
    <section class="question" number="479">
-      <section class="text">Перевертання маломірних суден з падінням людей за борт. В чому полягають обов'язки судноводіїв по запобіганню цих подій?</section>
+      <section class="text">Перевертання маломірних суден з падінням людей за борт. В чому полягають
+      обов'язки судноводіїв по запобіганню цих подій?</section>
+      <section class="answer" data-correct="data-correct">Всі відповіді вірні</section>
       <section class="answer">Дотримання правил плавання для маломірних суден</section>
       <section class="answer">Розміщення пасажирів та вантажу на борту судна</section>
-      <section class="answer">Дотримання Всіх обмежень під час експлуатації судна</section>
-      <section class="answer" data-correct="data-correct">Всі відповіді вірні </section>
+      <section class="answer">Дотримання всіх обмежень під час експлуатації судна</section>
    </section>
    <section class="question" number="480">
       <section class="text">Як повинен діяти судноводій ММС під час навала або зіткнення суден?</section>
-      <section class="answer">Зберігати спокій та розсудливість;</section>
-      <section class="answer">Зафіксувати на фото пошкодження судна та місце пригоди;</section>
-      <section class="answer">Продовжити рух до найближчого берегу;</section>
-      <section class="answer" data-correct="data-correct">З'ясувати кількість та стан постраждалих на суднах, оцінити розміри пошкодження суден та небезпеку їх затоплення; </section>
+      <section class="answer" data-correct="data-correct">З'ясувати кількість та стан постраждалих
+      на суднах, оцінити розміри пошкодження суден та небезпеку їх затоплення</section>
+      <section class="answer">Зберігати спокій та розсудливість</section>
+      <section class="answer">Зафіксувати на фото пошкодження судна та місце пригоди</section>
+      <section class="answer">Продовжити рух до найближчого берегу</section>
    </section>
    <section class="question" number="481">
-      <section class="text">У якому порядку, важливо, правильно розставити пріоритети з надання допомоги людям і судну в аварійної ситуації?</section>
+      <section class="text">У якому порядку, важливо, правильно розставити пріоритети з надання
+      допомоги людям і судну в аварійної ситуації?</section>
+      <section class="answer" data-correct="data-correct">Організація надання допомоги людям,
+      починаючиз тих, хто найбільше цього потребує з мінімальною втратою часу</section>
       <section class="answer">Організація надання допомоги людям з мінімальною втратою часу</section>
-      <section class="answer" data-correct="data-correct">Організація надання допомоги людям, починаючиз тих, хто найбільше цього потребує з мінімальною втратою часу </section>
       <section class="answer">Організація заходів зі збереження судна, надання допомоги людям</section>
-      <section class="answer">Організація заходів зі збереження судна,сповіщення відповідних органів влади про аварійну ситуацію</section>
+      <section class="answer">Організація заходів зі збереження судна, сповіщення відповідних
+      органів влади про аварійну ситуацію</section>
    </section>
    <section class="question" number="482">
       <section class="text">В чому полягають основні обов'язки судноводія МС стосовно безпеки судноплавства?</section>
-      <section class="answer" data-correct="data-correct">Безпечна експлуатація судна та дотримання правил плавання; </section>
-      <section class="answer">Запобігання забрудненню навколишнього середовища;</section>
-      <section class="answer">Збереження судна будь-якою ціною;</section>
-      <section class="answer">Забезпечення наявності суднових документів;</section>
+      <section class="answer" data-correct="data-correct">Безпечна експлуатація судна та дотримання
+      правил плавання</section>
+      <section class="answer">Запобігання забрудненню навколишнього середовища</section>
+      <section class="answer">Збереження судна будь-якою ціною</section>
+      <section class="answer">Забезпечення наявності суднових документів</section>
    </section>
    <section class="question" number="483">
-      <section class="text">Як підходити до аварійного судна, яке знаходиться в дрейфі в притопленому стані, для надання допомоги людям?</section>
+      <section class="text">Як підходити до аварійного судна, яке знаходиться в дрейфі в
+      притопленому стані, для надання допомоги людям?</section>
+      <section class="answer" data-correct="data-correct">Проти вітру (течії), з безпечною
+      швидкістю, зупинитися лагом до борту судна</section>
       <section class="answer">За вітром, з безпечною швидкістю</section>
-      <section class="answer">Лагом довітрута течії, з безпечною швидкістю</section>
-      <section class="answer" data-correct="data-correct">Проти вітру (течії), з безпечною швидкістю, зупинитися лагом до борту судна </section>
+      <section class="answer">Лагом до вітру та течії, з безпечною швидкістю</section>
       <section class="answer">За вітром (течією), з безпечною швидкістю, до кормової частини судна</section>
    </section>
    <section class="question" number="484">
       <section class="text">Як підходити до аварійного судна, що має великий крен для надання допомоги людям?</section>
-      <section class="answer">За вітром, з безпечною швидкістю;</section>
-      <section class="answer">Лагом до вітру та течії, з безпечною швидкістю;</section>
-      <section class="answer" data-correct="data-correct">Проти вітру (течії), з безпечною швидкістю, до частини судна, на якому найбільше скупчення людей; </section>
-      <section class="answer">За вітром (течією), з безпечною швидкістю, до кормовоїчастини судна;</section>
+      <section class="answer" data-correct="data-correct">Проти вітру (течії), з безпечною
+      швидкістю, до частини судна, на якому найбільше скупчення людей</section>
+      <section class="answer">За вітром, з безпечною швидкістю</section>
+      <section class="answer">Лагом до вітру та течії, з безпечною швидкістю</section>
+      <section class="answer">За вітром (течією), з безпечною швидкістю, до кормовоїчастини судна</section>
    </section>
    <section class="question" number="485">
-      <section class="text">Як підходити до аварійного судна, що має великий диферент (наніс, корму) для надання допомоги людям?</section>
+      <section class="text">Як підходити до аварійного судна, що має великий диферент (на ніс,
+      корму) для надання допомоги людям?</section>
+      <section class="answer" data-correct="data-correct">Проти вітру (течії), з безпечною
+      швидкістю, носом до частини судна, на якому найбільше скупчення людей та яке найбільше
+      виглядає з води</section>
       <section class="answer">За вітром (по течії ), з безпечною швидкістю</section>
-      <section class="answer" data-correct="data-correct">Проти вітру (течії), з безпечною швидкістю, носом до частини судна, на якому найбільше скупчення людей та яке найбільше виглядає з води </section>
-      <section class="answer">Лагом довітрута течії, з безпечною швидкістю, до частини судна, на якому найбільше скупчення людей та яке найбільше виглядає з води</section>
+      <section class="answer">Лагом до вітру та течії, з безпечною швидкістю, до частини судна, на
+      якому найбільше скупчення людей та яке найбільше виглядає з води</section>
       <section class="answer">За вітром (течією), з безпечною швидкістю, до кормової частини судна</section>
    </section>
    <section class="question" number="486">
-      <section class="text">Які дії, виконуються при наданні допомоги аварійному судну,під час сильного вітру і хвилюванні, якщо воно втратило хід і керованість?</section>
-      <section class="answer">Підхід судна для заведення буксирувального тросу, та буксирування аварійного судна до порту;</section>
-      <section class="answer" data-correct="data-correct">Надати допомогу для постановки аварійного судна на якір, та завести буксирувальний трос; </section>
-      <section class="answer">Очікування на поліпшення погодних умов, та буксирування до порту;</section>
-      <section class="answer">Підхід до борту аварійного судна, швартування, буксирування лагом до порту;</section>
+      <section class="text">Які дії, виконуються при наданні допомоги аварійному судну, під час
+      сильного вітру і хвилюванні, якщо воно втратило хід і керованість?</section>
+      <section class="answer" data-correct="data-correct">Надати допомогу для постановки аварійного
+      судна на якір, та завести буксирувальний трос</section>
+      <section class="answer">Підхід судна для заведення буксирувального тросу, та буксирування
+      аварійного судна до порту</section>
+      <section class="answer">Очікування на поліпшення погодних умов, та буксирування до порту</section>
+      <section class="answer">Підхід до борту аварійного судна, швартування, буксирування лагом до порту</section>
    </section>
    <section class="question" number="487">
       <section class="text">Як надати допомогу людям на маломірному судну, якщо воно знаходиться у
@@ -7040,17 +7079,23 @@
    </section>
    <section class="question" number="488">
       <section class="text">Як підходити до перекинутого парусного судна?</section>
-      <section class="answer">Підходити з розворотом на 360 градусів та зупинитись лагом до перевернутого судна;</section>
-      <section class="answer" data-correct="data-correct">Підходити з мінімальною швидкістю та підвищеною обережністю; </section>
-      <section class="answer">Підходити зі звичайною швидкістю проти вітру;</section>
-      <section class="answer">Підходити зі звичайною швидкістю за вітром;</section>
+      <section class="answer" data-correct="data-correct">Підходити з мінімальною швидкістю та
+      підвищеною обережністю</section>
+      <section class="answer">Підходити з розворотом на 360 градусів та зупинитись лагом до
+      перевернутого судна</section>
+      <section class="answer">Підходити зі звичайною швидкістю проти вітру</section>
+      <section class="answer">Підходити зі звичайною швидкістю за вітром</section>
    </section>
    <section class="question" number="489">
       <section class="text">Як підходити до судна, що на мілині?</section>
-      <section class="answer">Підходити кормою до суду на мілині, на мінімальній швидкості з розрахунком зменшення глибини</section>
-      <section class="answer">Підходити лагом до судна на мілині з розрахунком зменшення глибини,при можливості зразу подати буксирний трос</section>
-      <section class="answer">Підходити до суду на мілині зі сторони берегу на мінімальній швидкості з розрахунком зменшення глибини</section>
-      <section class="answer" data-correct="data-correct">Підходити носом до суду на мілині, на мінімальній швидкості з розрахунком зменшення глибини </section>
+      <section class="answer" data-correct="data-correct">Підходити носом до судна на мілині,
+      на мінімальній швидкості з розрахунком зменшення глибини</section>
+      <section class="answer">Підходити кормою до судна на мілині, на мінімальній швидкості з
+      розрахунком зменшення глибини</section>
+      <section class="answer">Підходити лагом до судна на мілині з розрахунком зменшення глибини,
+      при можливості зразу подати буксирний трос</section>
+      <section class="answer">Підходити до судна на мілині зі сторони берегу на мінімальній
+      швидкості з розрахунком зменшення глибини</section>
    </section>
    <section class="question" number="490">
       <section class="text">Як потрібно діяти при рятуванні людей коли на аварійному судні пожежа?</section>
@@ -7086,24 +7131,28 @@
       <section class="answer" data-correct="data-correct">Усі варіанти вірні</section>
    </section>
    <section class="question" number="494">
-      <section class="text">Чи можливо зняти з мілини маломірне судно до 6 метрів, якщо воно залишилося на мілині під час відливу і зняти його надзвичайно важко?</section>
-      <section class="answer">Можливо без пошкоджень судна;</section>
-      <section class="answer">Можливо без урахування погодних умов та особливостей плавання; 494, Неможливо;</section>
-      <section class="answer" data-correct="data-correct">Неможливо безпечно зняти судно з мілини без пошкоджень не дочекавшись приливу; </section>
+      <section class="text">Чи можливо зняти з мілини маломірне судно до 6 метрів, якщо воно
+      залишилося на мілині під час відливу і зняти його надзвичайно важко?</section>
+      <section class="answer" data-correct="data-correct">Неможливо безпечно зняти судно з мілини 
+      без пошкоджень не дочекавшись приливу</section>
+      <section class="answer">Можливо без пошкоджень судна</section>
+      <section class="answer">Можливо без урахування погодних умов та особливостей плавання</section>
+      <section class="answer">Неможливо</section>
    </section>
    <section class="question" number="495">
       <section class="text">Що повинен виконати судноводій маломірного судна при плаванні у сильний шторм?</section>
-      <section class="answer" data-correct="data-correct">Вибрати оптимальний курс та швидкість судна до найближчого сховища від штормових погодних умов </section>
+      <section class="answer" data-correct="data-correct">Вибрати оптимальний курс та швидкість
+      судна до найближчого сховища від штормових погодних умов</section>
       <section class="answer">Курсувати з максимальною швидкістю до місця призначення</section>
       <section class="answer">Маневрувати, змінюючи швидкість для запобігання потрапляння води на борт судна</section>
       <section class="answer">Накрити маломірне судно тентом</section>
    </section>
    <section class="question" number="496">
       <section class="text">Як розуміти сигнал, що подає судно у темний час доби. Правило 30. МППЗС-72?</section>
+      <section class="answer" data-correct="data-correct">Судно на якорі або на мілині</section>
       <section class="answer">Судно у дрейфі</section>
       <section class="answer">Судно на ходу</section>
       <section class="answer">Судно змінює свій курс вправо</section>
-      <section class="answer" data-correct="data-correct">Судно на якорі або на мілині </section>
    </section>
    <section class="question" number="497">
       <section class="text">Які причини можуть сприяти течі води до корпусу маломірного судна?</section>
@@ -7113,23 +7162,26 @@
       <section class="answer">Пошкодження корпусу судна</section>
    </section>
    <section class="question" number="498">
-      <section class="text">За допомогою яких засобів ліквідуються течії води, що стались від тріщин,швів, що розійшлися, невеликих пробоїни у корпусі ММС?</section>
+      <section class="text">За допомогою яких засобів ліквідуються течії води, що стались від
+      тріщин, швів, що розійшлися, невеликих пробоїн у корпусі ММС?</section>
+      <section class="answer" data-correct="data-correct">За допомогою аварійних пробок, клинів,
+      паклі, мастіки</section>
       <section class="answer">За допомогою аварійного обладнання</section>
-      <section class="answer" data-correct="data-correct">За допомогою аварійних пробок, клинів, паклі, мастіки </section>
       <section class="answer">За допомогою рятувальних засобів</section>
       <section class="answer">За допомогою ветоші, тенту, відра</section>
    </section>
    <section class="question" number="499">
       <section class="text">Що включає до себе порядок дії судноводія під час аварійної ситуації?</section>
-      <section class="answer" data-correct="data-correct">Забезпечення безпеки життя,судна, вантажу та навколишнього середовища; </section>
-      <section class="answer">Забезпечення безпеки судна, вантажу та навколишнього середовища;</section>
-      <section class="answer">Забезпечення безпеки життя та навколишнього середовища;</section>
-      <section class="answer">Забезпечення безпеки життя та судна;</section>
+      <section class="answer" data-correct="data-correct">Забезпечення безпеки життя, судна, вантажу
+      та навколишнього середовища</section>
+      <section class="answer">Забезпечення безпеки судна, вантажу та навколишнього середовища</section>
+      <section class="answer">Забезпечення безпеки життя та навколишнього середовища</section>
+      <section class="answer">Забезпечення безпеки життя та судна</section>
    </section>
    <section class="question" number="500">
       <section class="text">Червоне світло ракети, пущеної з судна, вказує на той факт, що:</section>
+      <section class="answer" data-correct="data-correct">Судно терпить лихо та потребує допомоги</section>
       <section class="answer">Екіпаж святкує день народження капітана на борту судна</section>
-      <section class="answer" data-correct="data-correct">Судно терпить лихо та потребує допомоги </section>
       <section class="answer">Екіпаж судна проводить навчальні тривоги</section>
       <section class="answer">Екіпаж судна проводить тестування піротехнічних засобів</section>
    </section>
@@ -7152,25 +7204,33 @@
       <section class="answer" data-correct="data-correct">Від порушень правил експлуатації та догляду</section>
    </section>
    <section class="question" number="503">
-      <section class="text">В чому полягають вимоги МППЗС - 72 щодо дії судноводіїв, по запобіганню аварійним подіям під час плавання?</section>
-      <section class="answer" data-correct="data-correct">Будь-яка дія для запобігання аварійної ситуація повинна бути впевнена, своєчасна, відповідати гарній морській практиці та правилам плавання </section>
+      <section class="text">В чому полягають вимоги МППЗС - 72 щодо дії судноводіїв, по запобіганню
+      аварійним подіям під час плавання?</section>
+      <section class="answer" data-correct="data-correct">Будь-яка дія для запобігання аварійної ситуації
+      повинна бути впевнена, своєчасна, відповідати гарній морській практиці та правилам плавання</section>
       <section class="answer">Необхідність дотримання правил плавання</section>
       <section class="answer">Необхідність дотримання безпеки на воді та охорони навколишнього середовища</section>
       <section class="answer">Необхідність забезпечення безпеки життя людей та охорони навколишнього середовища</section>
    </section>
    <section class="question" number="504">
       <section class="text">Які причини перегріву двигуна на моторному судні?</section>
-      <section class="answer">Низький заряд акумулятрних батарей;</section>
-      <section class="answer">Низький рівень масла в двигуні;</section>
-      <section class="answer" data-correct="data-correct">Нестача охолоджувальної рідини в системі охолодження двигуна; </section>
-      <section class="answer">Проблеми з системою виводу вихлопних газів;</section>
+      <section class="answer" data-correct="data-correct">Нестача охолоджувальної рідини в системі
+      охолодження двигуна</section>
+      <section class="answer">Низький заряд акумулятрних батарей</section>
+      <section class="answer">Низький рівень масла в двигуні</section>
+      <section class="answer">Проблеми з системою виводу вихлопних газів</section>
    </section>
    <section class="question" number="505">
-      <section class="text">Що повинні пам'ятати судноводії маломірних суден, застосовуючи МППЗС-72 відносно запобігання аварійним подіям?</section>
-      <section class="answer">МППЗС-72 застосовуються для всіх без виключення суден, незалежно від їх виду та розмірів</section>
-      <section class="answer">Необхідно звертати увагу на всякого роду небезпеку плавання, та на особливі обставини, які можуть викликати необхідність відступити від правил МППЗС-72 для запобігання безпосередньої небезпеки</section>
-      <section class="answer">Нічого не може звільнити ані судно,ані його власника,ані капітана, а ні екіпаж від відповідальності за наслідки, які можуть виникнути від невиконання МППЗС-72</section>
+      <section class="text">Що повинні пам'ятати судноводії маломірних суден, застосовуючи МППЗС-72
+      відносно запобігання аварійним подіям?</section>
       <section class="answer" data-correct="data-correct">Всі відповіді вірні </section>
+      <section class="answer">МППЗС-72 застосовуються для всіх без виключення суден, незалежно від
+      їх виду та розмірів</section>
+      <section class="answer">Необхідно звертати увагу на всякого роду небезпеку плавання, та на
+      особливі обставини, які можуть викликати необхідність відступити від правил МППЗС-72 для
+      запобігання безпосередньої небезпеки</section>
+      <section class="answer">Нічого не може звільнити ані судно, ані його власника, ані капітана,
+      ані екіпаж від відповідальності за наслідки, які можуть виникнути від невиконання МППЗС-72</section>
    </section>
    <section class="question" number="506">
       <section class="text">У разі виникнення аварійної події на судні, судноводій повинен негайно
@@ -7196,10 +7256,11 @@
       така небезпека існує</section>
    </section>
    <section class="question" number="508">
-      <section class="text">Червоне світло ракети з парашутом або фальшфеєр червоного кольору вказує на той факт, що:</section>
+      <section class="text">Червоне світло ракети з парашутом або фальшфеєр червоного кольору вказує
+      на той факт, що:</section>
+      <section class="answer" data-correct="data-correct">Судно терпить лихо та потребує допомоги</section>
       <section class="answer">Екіпаж проводить святкування</section>
       <section class="answer">Екіпаж судна проводить навчальні тривоги</section>
-      <section class="answer" data-correct="data-correct">Судно терпить лихо та потребує допомоги </section>
       <section class="answer">Екіпаж судна проводить тестування піротехнічних засобів</section>
    </section>
    <section class="question" number="509">
@@ -7212,9 +7273,10 @@
    </section>
    <section class="question" number="510">
       <section class="text">Надання допомоги судну, що зазнало лихана воді</section>
+      <section class="answer" data-correct="data-correct">Є обов'язковим для кожного з суден, які
+      знаходяться поруч</section>
       <section class="answer">Надається на розсуд та бажання капітана рятувального судна</section>
-      <section class="answer">Не є обов'язковим для кожного з суден,які знаходяться поруч</section>
-      <section class="answer" data-correct="data-correct">Є обов'язковим для кожного з суден, які знаходяться поруч </section>
+      <section class="answer">Не є обов'язковим для кожного з суден, які знаходяться поруч</section>
       <section class="answer">Є обов'язковим тільки після наказу рятувального координаційного центру</section>
    </section>
    <section class="question" number="511">
@@ -7231,78 +7293,84 @@
    </section>
    <section class="question" number="512">
       <section class="text">Основним рушієм вітрильного судна є:</section>
-      <section class="answer">Двигун;</section>
-      <section class="answer" data-correct="data-correct">Вітрила; </section>
-      <section class="answer">Такелажний набір;</section>
-      <section class="answer">Гвинт;</section>
+      <section class="answer" data-correct="data-correct">Вітрила</section>
+      <section class="answer">Двигун</section>
+      <section class="answer">Такелажний набір</section>
+      <section class="answer">Гвинт</section>
    </section>
    <section class="question" number="513">
       <section class="text">Які бувають види вітрил на вітрильних суднах?</section>
-      <section class="answer">Квадратні та прямокутні;</section>
-      <section class="answer">Трикутні та овальні;</section>
-      <section class="answer" data-correct="data-correct">Прямі та косі; </section>
-      <section class="answer">Овальні та сфероподібні;</section>
+      <section class="answer" data-correct="data-correct">Прямі та косі</section>
+      <section class="answer">Квадратні та прямокутні</section>
+      <section class="answer">Трикутні та овальні</section>
+      <section class="answer">Овальні та сфероподібні</section>
    </section>
    <section class="question" number="514">
       <section class="text">Від чого залежить висока остійність вітрильного судна?</section>
-      <section class="answer" data-correct="data-correct">Від водотоннажності та розміщення центра ваги відносно ватерлінії; </section>
-      <section class="answer">Від валової місткості та осадки судна;</section>
-      <section class="answer">Від площі вітрил та ширина судна;</section>
+      <section class="answer" data-correct="data-correct">Від водотоннажності та розміщення центра
+      ваги відносно ватерлінії</section>
+      <section class="answer">Від валової місткості та осадки судна</section>
+      <section class="answer">Від площі вітрил та ширина судна</section>
       <section class="answer">Від потужності двигуна та висоти надводного борту судна</section>
    </section>
    <section class="question" number="515">
-      <section class="text">Від чого залежить швидкість ходу вітрильного судна? 515: Від конструкції корпусу та площі вітрил</section>
+      <section class="text">Від чого залежить швидкість ходу вітрильного судна?</section>
+      <section class="answer" data-correct="data-correct">Усі варіанти вірні</section>
+      <section class="answer">Від конструкції корпусу та площі вітрил</section>
       <section class="answer">Від сили вітру та погодних умов</section>
-      <section class="answer">Від вміння та досвіду екіпажу з налаштування такелажу в залежності від умов плавання</section>
-      <section class="answer" data-correct="data-correct">Усі варіанти вірні </section>
+      <section class="answer">Від вміння та досвіду екіпажу з налаштування такелажу в залежності від
+      умов плавання</section>
    </section>
    <section class="question" number="516">
       <section class="text">Основні типи вітрил?</section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
       <section class="answer">Прямий та латинський</section>
-      <section class="answer">Гафельнийта стаксель</section>
-      <section class="answer">Бермудськийта латинський</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні </section>
+      <section class="answer">Гафельний та стаксель</section>
+      <section class="answer">Бермудський та латинський</section>
    </section>
    <section class="question" number="517">
-      <section class="text">Чи можуть вітрильні судна користуватися водними об'єктами в період закритої навігації?</section>
+      <section class="text">Чи можуть вітрильні судна користуватися водними об'єктами в період
+      закритої навігації?</section>
+      <section class="answer" data-correct="data-correct">Не можуть користуватися</section>
       <section class="answer">Можуть за умови сприятливих погодних умов</section>
-      <section class="answer" data-correct="data-correct">Не можуть користуватися </section>
       <section class="answer">Можуть з дозволу органу контролю за судноплавством</section>
       <section class="answer">Можуть за умови віддаленості від найближчого берега не більше ніж 500 метрів</section>
    </section>
    <section class="question" number="518">
       <section class="text">Як називається відстань між сусідніми шпангоутами?</section>
+      <section class="answer" data-correct="data-correct">Шпация</section>
       <section class="answer">Бимс</section>
       <section class="answer">Флор</section>
-      <section class="answer" data-correct="data-correct">Шпация </section>
       <section class="answer">Стингер</section>
    </section>
    <section class="question" number="519">
       <section class="text">Як називається вертикальний зв'язок (балка) бортового набору судна?</section>
-      <section class="answer" data-correct="data-correct">Шпация 219. Піллерс </section>
+      <section class="answer" data-correct="data-correct">Піллерс</section>
+      <section class="answer">Шпация</section>
       <section class="answer">Шпангоут</section>
       <section class="answer">Флор</section>
    </section>
    <section class="question" number="520">
       <section class="text">Для чого на задню стаксельну шкоту нашивається ультрафіолетовий захист?</section>
-      <section class="answer" data-correct="data-correct">Для боротьби з обростанням задньої шкаторини стакселю; </section>
-      <section class="answer">Для боротьбиз корозією стакселю;</section>
-      <section class="answer">Для покращення маневрених характеристик судна;</section>
-      <section class="answer">Для комфорту екіпажу судна;</section>
+      <section class="answer" data-correct="data-correct">Для боротьби з обростанням задньої шкаторини стакселю</section>
+      <section class="answer">Для боротьби з корозією стакселю</section>
+      <section class="answer">Для покращення маневрених характеристик судна</section>
+      <section class="answer">Для комфорту екіпажу судна</section>
    </section>
    <section class="question" number="521">
       <section class="text">Яким чином рекомендується складати знятий грот для подальшого його зберігання?</section>
-      <section class="answer">Складати знятий грот не рекомендується, щоб не пошкодити;</section>
-      <section class="answer">По діагоналі шарами різної величини;</section>
-      <section class="answer">У довільному порядку;</section>
-      <section class="answer" data-correct="data-correct">Шарами у вертикальному або горизонтальному напрямку; </section>
+      <section class="answer" data-correct="data-correct">Шарами у вертикальному або горизонтальному
+      напрямку</section>
+      <section class="answer">Складати знятий грот не рекомендується, щоб не пошкодити</section>
+      <section class="answer">По діагоналі шарами різної величини</section>
+      <section class="answer">У довільному порядку</section>
    </section>
    <section class="question" number="522">
       <section class="text">Який елемент вітрила є найбільш вразливим?</section>
-      <section class="answer" data-correct="data-correct">Шви вітрила; </section>
-      <section class="answer">Частина вітрила,яка знаходиться в лікпазу мачти ,гіка чи штага</section>
-      <section class="answer">Частина вітрила в місцях кріплення до мачти;</section>
-      <section class="answer">Усі елементи вітрила однаково вразливі;</section>
+      <section class="answer" data-correct="data-correct">Шви вітрила</section>
+      <section class="answer">Частина вітрила, яка знаходиться в лікпазу мачти,гіка чи штага</section>
+      <section class="answer">Частина вітрила в місцях кріплення до мачти</section>
+      <section class="answer">Усі елементи вітрила однаково вразливі</section>
    </section>
    <section class="question" number="523">
       <section class="text">Яким чином рекомендується підвішувати вітрило для просушки на березі?</section>
@@ -7322,11 +7390,12 @@
       <section class="answer">Плоским зажимом або скобою</section>
    </section>
    <section class="question" number="525">
-      <section class="text">Якщо степс щогли розташований нижче палуби, діаметр щогли біля шпора повинен становити:</section>
-      <section class="answer" data-correct="data-correct">Не менше 75 см </section>
+      <section class="text">Якщо степс щогли розташований нижче палуби, діаметр щогли біля шпора
+      повинен становити:</section>
+      <section class="answer" data-correct="data-correct">Не менше 75 см</section>
       <section class="answer">Не менше 50 см</section>
       <section class="answer">Не менше 75% від діаметру шпора</section>
-      <section class="answer">Небільше 75 см</section>
+      <section class="answer">Не більше 75 см</section>
    </section>
    <section class="question" number="526">
       <section class="text">Які види такелажів використовуються на вітрильних суднах?</section>
@@ -7344,49 +7413,54 @@
    </section>
    <section class="question" number="528">
       <section class="text">Із якого волокна не допускається використання тросів?</section>
+      <section class="answer" data-correct="data-correct">Допускається використання будь-яких волокон</section>
       <section class="answer">Комбінованих волокон</section>
       <section class="answer">Синтетичних волокон</section>
       <section class="answer">Сталевих волокон</section>
-      <section class="answer" data-correct="data-correct">Допускається використання будь-яких волокон </section>
    </section>
    <section class="question" number="529">
       <section class="text">Площа вітрильності повинна відповідати?</section>
-      <section class="answer" data-correct="data-correct">Розмірам та маневровим характеристикам судна; </section>
-      <section class="answer">Довжині та ширині судна;</section>
-      <section class="answer">Водотоннажності судна;</section>
-      <section class="answer">Розмірам та типу такелажу;</section>
+      <section class="answer" data-correct="data-correct">Розмірам та маневровим характеристикам судна</section>
+      <section class="answer">Довжині та ширині судна</section>
+      <section class="answer">Водотоннажності судна</section>
+      <section class="answer">Розмірам та типу такелажу</section>
    </section>
    <section class="question" number="530">
-      <section class="text">Рульова система для вітрильних суден в цілому повинна бути спроектована таким чином, щоб її робота забезпечувалася при тривалому крені до:</section>
+      <section class="text">Рульова система для вітрильних суден в цілому повинна бути спроектована
+      таким чином, щоб її робота забезпечувалася при тривалому крені до:</section>
+      <section class="answer" data-correct="data-correct">15 градусів</section>
       <section class="answer">25 градусів</section>
       <section class="answer">60 градусів</section>
-      <section class="answer" data-correct="data-correct">15 градусів </section>
       <section class="answer">90 градусів</section>
    </section>
    <section class="question" number="531">
-      <section class="text">Чи дозволяється встановлювати на вітрильному судні додаткові кругові червоний та зелений сигнально-розпізнавальні ліхтарі?</section>
-      <section class="answer">Не дозволяється;</section>
-      <section class="answer">Дозволяється тільки з дозволу Регістру судноплавства України;</section>
-      <section class="answer" data-correct="data-correct">Дозволяється; </section>
-      <section class="answer">Дозволяється тільки при плавання судна під час обмеженої види місті;</section>
+      <section class="text">Чи дозволяється встановлювати на вітрильному судні додаткові кругові
+      червоний та зелений сигнально-розпізнавальні ліхтарі?</section>
+      <section class="answer" data-correct="data-correct">Дозволяється</section>
+      <section class="answer">Не дозволяється</section>
+      <section class="answer">Дозволяється тільки з дозволу Регістру судноплавства України</section>
+      <section class="answer">Дозволяється тільки при плавання судна під час обмеженої видимості</section>
    </section>
    <section class="question" number="532">
       <section class="text">Який сигнально-розпізнавальний ліхтар має бути на кормі вітрильному судні?</section>
+      <section class="answer" data-correct="data-correct">Один білий вогонь з сектором освіченості
+      135 градусів</section>
       <section class="answer">Один жовтий вогонь з сектором освіченості 135 градусів</section>
       <section class="answer">Один білий вогонь з сектором освіченості 225 градусів</section>
       <section class="answer">Один червоний круговий вогонь</section>
-      <section class="answer" data-correct="data-correct">Один білий вогонь з сектором освіченості 135 градусів </section>
    </section>
    <section class="question" number="533">
-      <section class="text">Які типи сигнально-розпізнавальних ліхтарів використовуються на вітрильному судні?</section>
-      <section class="answer">Бортові та топові вогні;</section>
-      <section class="answer">Бортові та стояночні вогні;</section>
-      <section class="answer" data-correct="data-correct">Бортові та кормовий вогні; </section>
-      <section class="answer">Кормові та топові вогні;</section>
+      <section class="text">Які типи сигнально-розпізнавальних ліхтарів використовуються на
+      вітрильному судні?</section>
+      <section class="answer" data-correct="data-correct">Бортові та кормовий вогні</section>
+      <section class="answer">Бортові та топові вогні</section>
+      <section class="answer">Бортові та стояночні вогні</section>
+      <section class="answer">Кормові та топові вогні</section>
    </section>
    <section class="question" number="534">
       <section class="text">При повороті оверштаг вітрильне судно:</section>
-      <section class="answer" data-correct="data-correct">Змінює галс, перетинаючи носом лінію напрямку вітру </section>
+      <section class="answer" data-correct="data-correct">Змінює галс, перетинаючи носом лінію
+      напрямку вітру</section>
       <section class="answer">Здійснює поворот на 360 градусів на великій швидкості</section>
       <section class="answer">Здійснює поворот на 180 градусів на мінімальній швидкості</section>
       <section class="answer">Здійснює поворот на мінімальній швидкості</section>
@@ -7401,58 +7475,61 @@
    </section>
    <section class="question" number="536">
       <section class="text">Який вітер здійснює роботу у вітрилах судна та забезпечує його рух?</section>
-      <section class="answer">Бакштаг та Бейдвінд;</section>
-      <section class="answer">Галфвінд та Бакштаг;</section>
-      <section class="answer">Фордевінд та Галфвинд;</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні; </section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
+      <section class="answer">Бакштаг та Бейдвінд</section>
+      <section class="answer">Галфвінд та Бакштаг</section>
+      <section class="answer">Фордевінд та Галфвинд</section>
    </section>
    <section class="question" number="537">
-      <section class="text">В якому напрямку необхідно здійснювати поворот на зворотній курс за умови сильного бокового вітру?</section>
-      <section class="answer" data-correct="data-correct">Поворот «оверштаг» </section>
+      <section class="text">В якому напрямку необхідно здійснювати поворот на зворотній курс за
+      умови сильного бокового вітру?</section>
+      <section class="answer" data-correct="data-correct">Поворот "оверштаг"</section>
       <section class="answer">Поворот в напрямку вітру</section>
-      <section class="answer">Поворот «через фордевинд»</section>
+      <section class="answer">Поворот "через фордевинд"</section>
       <section class="answer">Поворот в протилежному напрямку вітру</section>
    </section>
    <section class="question" number="538">
       <section class="text">Напрямок якого вітру показує вітропокажчик який встановлюється на щоглі?</section>
+      <section class="answer" data-correct="data-correct">Уявний (вимпельний)</section>
       <section class="answer">Істинний</section>
       <section class="answer">Курсовий</section>
-      <section class="answer" data-correct="data-correct">Уявний (вимпельний)</section>
       <section class="answer">Реальний</section>
    </section>
    <section class="question" number="539">
       <section class="text">Загальна назва усіх снастей на вітрильному судні (тросів, канатів, линв, тощо):</section>
+      <section class="answer" data-correct="data-correct">Такелаж</section>
       <section class="answer">Палубний набір</section>
       <section class="answer">Боцманскі знаряддя</section>
-      <section class="answer" data-correct="data-correct">Такелаж </section>
       <section class="answer">Шкіперське устаткування</section>
    </section>
    <section class="question" number="540">
       <section class="text">Як називаються пристосування для натягування стоячого такелажу?</section>
-      <section class="answer" data-correct="data-correct">Талреп; </section>
-      <section class="answer">Скоба;</section>
-      <section class="answer">Домкрат;</section>
-      <section class="answer">Стягувальний ключ;</section>
+      <section class="answer" data-correct="data-correct">Талреп</section>
+      <section class="answer">Скоба</section>
+      <section class="answer">Домкрат</section>
+      <section class="answer">Стягувальний ключ</section>
    </section>
    <section class="question" number="541">
       <section class="text">При повороті через фордевінд вітрильне судно:</section>
-      <section class="answer" data-correct="data-correct">Змінює галс, перетинаючи кормою лінію напрямку вітру </section>
+      <section class="answer" data-correct="data-correct">Змінює галс, перетинаючи кормою лінію
+      напрямку вітру</section>
       <section class="answer">Здійснює поворот на 360 градусів на великій швидкості</section>
       <section class="answer">Здійснює поворот на 180 градусів на мінімальній швидкості</section>
       <section class="answer">Здійснює поворот на мінімальній швидкості</section>
    </section>
    <section class="question" number="542">
       <section class="text">Борт, що повернутий від вітру, називається:</section>
-      <section class="answer">Завітряний;</section>
-      <section class="answer" data-correct="data-correct">Підвітряний; </section>
-      <section class="answer">Навітряний;</section>
-      <section class="answer">Тихий;</section>
+      <section class="answer" data-correct="data-correct">Підвітряний</section>
+      <section class="answer">Завітряний</section>
+      <section class="answer">Навітряний</section>
+      <section class="answer">Тихий</section>
    </section>
    <section class="question" number="543">
-      <section class="text">Як називається зигзагоподібний рух вітрильного судна,коли суднолягає то на лівий галс, то на правий?</section>
+      <section class="text">Як називається зигзагоподібний рух вітрильного судна, коли суднолягає то
+      на лівий галс, то на правий?</section>
+      <section class="answer" data-correct="data-correct">Лавірування</section>
       <section class="answer">Маневрування</section>
-      <section class="answer">Рискання;</section>
-      <section class="answer" data-correct="data-correct">Лавірування; </section>
+      <section class="answer">Рискання</section>
       <section class="answer">Дрифтування</section>
    </section>
    <section class="question" number="544">
@@ -7487,25 +7564,31 @@
       <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
    </section>
    <section class="question" number="548">
-      <section class="text">Як необхідно діяти водієві гідроциклу при перетині хвильового сліду від минулого судна?</section>
-      <section class="answer" data-correct="data-correct">Зменшити швидкість та перетинати перпендикулярно хвильовому сліду; </section>
-      <section class="answer">Збільшити швидкість та перетинати перпендикулярно хвильовому сліду;</section>
-      <section class="answer">Перетинати під кутом не менше 30 градусів хвильовому сліду, не зменшуючи швидкості;</section>
-      <section class="answer">Перетинати під кутом не менше 60 градусів хвильовому сліду, зменшуючи швидкость;</section>
+      <section class="text">Як необхідно діяти водієві гідроциклу при перетині хвильового сліду від
+      минулого судна?</section>
+      <section class="answer" data-correct="data-correct">Зменшити швидкість та перетинати
+      перпендикулярно хвильовому сліду</section>
+      <section class="answer">Збільшити швидкість та перетинати перпендикулярно хвильовому сліду</section>
+      <section class="answer">Перетинати під кутом не менше 30 градусів хвильовому сліду, не
+      зменшуючи швидкості</section>
+      <section class="answer">Перетинати під кутом не менше 60 градусів хвильовому сліду, зменшуючи
+      швидкость</section>
    </section>
    <section class="question" number="549">
-      <section class="text">На яку відстань забороняється підпливати гідроциклам до пляжів і іншим організованим місцях купання?</section>
-      <section class="answer">Заборона відсутня;</section>
-      <section class="answer">Ближче ніж 50 метрів від буйків огородження;</section>
-      <section class="answer">Ближче ніж 10 метрів від буйків огородження;</section>
-      <section class="answer" data-correct="data-correct">Ближче ніж 25 метрів від буйків огородження; </section>
+      <section class="text">На яку відстань забороняється підпливати гідроциклам до пляжів і іншим
+      організованим місцях купання?</section>
+      <section class="answer" data-correct="data-correct">Ближче ніж 25 метрів від буйків огородження</section>
+      <section class="answer">Заборона відсутня</section>
+      <section class="answer">Ближче ніж 50 метрів від буйків огородження</section>
+      <section class="answer">Ближче ніж 10 метрів від буйків огородження</section>
    </section>
    <section class="question" number="550">
-      <section class="text">За допомогою якого пристрою здійснюється управління гідроциклом в горизонтальній площині?</section>
-      <section class="answer">Пера керма;</section>
-      <section class="answer">Підводних крил;</section>
-      <section class="answer" data-correct="data-correct">Поворотного сопла водометного двигуна; </section>
-      <section class="answer">Поворотних насадок;</section>
+      <section class="text">За допомогою якого пристрою здійснюється управління гідроциклом в
+      горизонтальній площині?</section>
+      <section class="answer" data-correct="data-correct">Поворотного сопла водометного двигуна</section>
+      <section class="answer">Пера керма</section>
+      <section class="answer">Підводних крил</section>
+      <section class="answer">Поворотних насадок</section>
    </section>
    <section class="question" number="551">
       <section class="text">У яких з нижче перерахованих випадків забороняється запускати двигун і
@@ -7517,17 +7600,18 @@
    </section>
    <section class="question" number="552">
       <section class="text">За яких умов можна на гідроциклі перевозити дітей дошкільного віку?</section>
-      <section class="answer" data-correct="data-correct">За умов супроводу дорослих та одягнені в рятувальні жилети; </section>
-      <section class="answer">За умов проведення інструктажу з безпеки та одягнуті в рятувальні жилети;</section>
-      <section class="answer">За умов наявності рятувальних жилетів на борту гідроциклу та супроводу дорослих;</section>
-      <section class="answer">Усі відповіді вірні;</section>
+      <section class="answer" data-correct="data-correct">За умов супроводу дорослих та одягнені в
+      рятувальні жилети</section>
+      <section class="answer">За умов проведення інструктажу з безпеки та одягнуті в рятувальні жилети</section>
+      <section class="answer">За умов наявності рятувальних жилетів на борту гідроциклу та супроводу дорослих</section>
+      <section class="answer">Усі відповіді вірні</section>
    </section>
    <section class="question" number="553">
       <section class="text">Чим регулюється диферент гідроциклу?</section>
-      <section class="answer">Шляхом розташування пасажирів або вантажу;</section>
-      <section class="answer">Підводними крилами;</section>
-      <section class="answer" data-correct="data-correct">Зміною нахилу сопла водометного двигуна; </section>
-      <section class="answer">Шляхом заповнення баласту;</section>
+      <section class="answer" data-correct="data-correct">Зміною нахилу сопла водометного двигуна</section>
+      <section class="answer">Шляхом розташування пасажирів або вантажу</section>
+      <section class="answer">Підводними крилами</section>
+      <section class="answer">Шляхом заповнення баласту</section>
    </section>
    <section class="question" number="554">
       <section class="text">Що забороняється при заправці гидроцикла паливом?</section>
@@ -7537,11 +7621,12 @@
       <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
    </section>
    <section class="question" number="555">
-      <section class="text">Як повинні маневрувати гідроцикли для розходження один з одним і іншими моторними плавзасобами акваторії, що не має судноплавної обстановки?</section>
-      <section class="answer">Розходження правими бортами;</section>
-      <section class="answer" data-correct="data-correct">Розходження лівими бортами; </section>
-      <section class="answer">Не заважати руху іншим судам, триматися в стороні;</section>
-      <section class="answer">Усі відповіді вірні;</section>
+      <section class="text">Як повинні маневрувати гідроцикли для розходження один з одним і іншими
+      моторними плавзасобами акваторії, що не має судноплавної обстановки?</section>
+      <section class="answer" data-correct="data-correct">Розходження лівими бортами</section>
+      <section class="answer">Розходження правими бортами</section>
+      <section class="answer">Не заважати руху іншим судам, триматися в стороні</section>
+      <section class="answer">Усі відповіді вірні</section>
    </section>
    <section class="question" number="556">
       <section class="text">Борт, що повернутий до вітру, називається:</section>
@@ -7552,24 +7637,31 @@
    </section>
    <section class="question" number="557">
       <section class="text">В яких випадках гідроциклу можна заходити і маневрувати на акваторії пляжів?</section>
-      <section class="answer">Підхід та маневрування гідроциклів на акваторіях пляжів дозволено за умови впевненості судноводія в безпечності руху;</section>
-      <section class="answer" data-correct="data-correct">Підхід та маневрування гідроциклів на акваторіях пляжів дозволено у випадку наявності спеціально відведеного та огородженого фарватеру; </section>
-      <section class="answer">Підхід та маневрування гідроциклів на акваторіях пляжів заборонено у будь-яких випадках;</section>
-      <section class="answer">Підхід та маневрування гідроциклів на акваторіях пляжів дозволено у будь-яких випадках;</section>
+      <section class="answer" data-correct="data-correct">Підхід та маневрування гідроциклів на
+      акваторіях пляжів дозволено у випадку наявності спеціально відведеного та огородженого фарватеру</section>
+      <section class="answer">Підхід та маневрування гідроциклів на акваторіях пляжів дозволено за
+      умови впевненості судноводія в безпечності руху</section>
+      <section class="answer">Підхід та маневрування гідроциклів на акваторіях пляжів заборонено у
+      будь-яких випадках</section>
+      <section class="answer">Підхід та маневрування гідроциклів на акваторіях пляжів дозволено у
+      будь-яких випадках</section>
    </section>
    <section class="question" number="558">
       <section class="text">При якому стані гідроциклу можна включати реверсивний пристрій?</section>
-      <section class="answer">При вимкненому двигуні;</section>
-      <section class="answer">У будь-який момент під час руху;</section>
-      <section class="answer">При віддаленості від берегу більш ніж 100 метрів та глибині не менше 2 метрів;</section>
-      <section class="answer" data-correct="data-correct">На холостому ходу; </section>
+      <section class="answer" data-correct="data-correct">На холостому ходу</section>
+      <section class="answer">При вимкненому двигуні</section>
+      <section class="answer">У будь-який момент під час руху</section>
+      <section class="answer">При віддаленості від берегу більш ніж 100 метрів та глибині не менше 2 метрів</section>
    </section>
    <section class="question" number="559">
-      <section class="text">Де має слідувати маломірне судно(в т.ч. гідроцикл) по судновому ходу, якщо немає можливості слідувати по кромці або за кромкою суднового ходу?</section>
-      <section class="answer">По судновомуходу в межах 25 метрової полоси від кромки суднового ходу;</section>
-      <section class="answer" data-correct="data-correct">По судовому ходу в межах 10 метрової полоси від кромки суднового ходу; </section>
-      <section class="answer">Будь-де по судновому ходу за умов відсутності інших суден;</section>
-      <section class="answer">Будь-де по судновому ходу за умови впевненості судноводія в безпеці руху та маневрування;</section>
+      <section class="text">Де має слідувати маломірне судно (в т.ч. гідроцикл) по судновому ходу,
+      якщо немає можливості слідувати по кромці або за кромкою суднового ходу?</section>
+      <section class="answer" data-correct="data-correct">По судовому ходу в межах 10 метрової
+      полоси від кромки суднового ходу</section>
+      <section class="answer">По судновомуходу в межах 25 метрової полоси від кромки суднового ходу</section>
+      <section class="answer">Будь-де по судновому ходу за умов відсутності інших суден</section>
+      <section class="answer">Будь-де по судновому ходу за умови впевненості судноводія в безпеці
+      руху та маневрування</section>
    </section>
    <section class="question" number="560">
       <section class="text">Який наслідок може викликати засмічення водного отвору водоводу водомета
@@ -7621,15 +7713,17 @@
    </section>
    <section class="question" number="564">
       <section class="text">В якому випадку гідроцикл стає некерованим?</section>
+      <section class="answer" data-correct="data-correct">Під час руху з непрацюючим двигуном</section>
       <section class="answer">Під час руху на мінімальній швидкості</section>
-      <section class="answer" data-correct="data-correct">Під час руху з непрацюючим двигуном </section>
       <section class="answer">Під час руху за вітром</section>
       <section class="answer">Під час руху на великому хвилюванні</section>
    </section>
    <section class="question" number="565">
-      <section class="text">Протягом якого терміну власник маломірного судна(гідроциклу) зобов'язаний повідомити в орган державної реєстрації судна про будь-яку зміну відомостей, внесених до Суднової Книги України?</section>
+      <section class="text">Протягом якого терміну власник маломірного судна (гідроциклу)
+      зобов'язаний повідомити в орган державної реєстрації судна про будь-яку зміну відомостей,
+      внесених до Суднової книги України?</section>
+      <section class="answer" data-correct="data-correct">На протязі двох тижнів</section>
       <section class="answer">На протязі одного місяця</section>
-      <section class="answer" data-correct="data-correct">На протязі двох тижнів </section>
       <section class="answer">На протязі одного року</section>
       <section class="answer">У будь-який зручний для себе час</section>
    </section>
@@ -7641,11 +7735,16 @@
       <section class="answer">Кріплення корінного кінця не є обов'язковим</section>
    </section>
    <section class="question" number="567">
-      <section class="text">Яке адміністративне покарання передбачається за недотримання особою, керуючим маломірним судном, встановленої швидкості?</section>
-      <section class="answer" data-correct="data-correct">Попередження або штраф від трьох до п'яти неоподатковуваних мінімумів доходів громадян або позбавлення права керування маломірним судном на строк до одного року; </section>
-      <section class="answer">Штраф від одного до п'яти неоподатковуваних мінімумів доходів громадян або позбавлення права керування маломірним судном на строк до одного року;</section>
-      <section class="answer">Попередження або штраф від трьох до п'яти неоподатковуваних мінімумів доходів громадян;</section>
-      <section class="answer">Усне попередження;</section>
+      <section class="text">Яке адміністративне покарання передбачається за недотримання особою,
+      керуючим маломірним судном, встановленої швидкості?</section>
+      <section class="answer" data-correct="data-correct">Попередження або штраф від трьох до п'яти
+      неоподатковуваних мінімумів доходів громадян або позбавлення права керування маломірним судном
+      на строк до одного року</section>
+      <section class="answer">Штраф від одного до п'яти неоподатковуваних мінімумів доходів громадян
+      або позбавлення права керування маломірним судном на строк до одного року</section>
+      <section class="answer">Попередження або штраф від трьох до п'яти неоподатковуваних мінімумів
+      доходів громадян</section>
+      <section class="answer">Усне попередження</section>
    </section>
    <section class="question" number="568">
       <section class="text">Яке з перерахованих нижче дій водія не входить в число обов'язкових при
@@ -7658,10 +7757,11 @@
    </section>
    <section class="question" number="569">
       <section class="text">Що забороняється маломірним суднам при плаванні по ВВШ?</section>
-      <section class="answer">Виходити у плавання без реєстраційних документів та свідоцтва судноводія маломірного судна;</section>
-      <section class="answer">Перевозити вибухонебезпечні та легкозаймисті вантажі;</section>
-      <section class="answer">Керувати судном у стані алкогольного сп яніння;</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні; </section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
+      <section class="answer">Виходити у плавання без реєстраційних документів та свідоцтва
+      судноводія маломірного судна</section>
+      <section class="answer">Перевозити вибухонебезпечні та легкозаймисті вантажі</section>
+      <section class="answer">Керувати судном у стані алкогольного сп яніння</section>
    </section>
    <section class="question" number="570">
       <section class="text">Яке адміністративне покарання особи, яка керує маломірним судном,
@@ -7683,10 +7783,12 @@
       <section class="answer">Можна, за умови впевненості судноводія в безпеці руху</section>
    </section>
    <section class="question" number="572">
-      <section class="text">Яким чином слід кріпити гідроцикл на платформі причепа при транспортуванні по суші?</section>
-      <section class="answer">За допомогою будь-якого кріплення;</section>
-      <section class="answer" data-correct="data-correct">За допомогою найтовів за носові та кормові буксирувальні гаки; </section>
-      <section class="answer">Кріплення гідроциклу на платформі не є обов'язковим;</section>
+      <section class="text">Яким чином слід кріпити гідроцикл на платформі причепа при
+      транспортуванні по суші?</section>
+      <section class="answer" data-correct="data-correct">За допомогою найтовів за носові та кормові
+      буксирувальні гаки</section>
+      <section class="answer">За допомогою будь-якого кріплення</section>
+      <section class="answer">Кріплення гідроциклу на платформі не є обов'язковим</section>
       <section class="answer">За допомогою тенту та мотузки</section>
    </section>
    <section class="question" number="573">
@@ -7698,85 +7800,110 @@
    </section>
    <section class="question" number="574">
       <section class="text">В якому з наступних випадків не дозволяється користуватися гідроциклом?</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні; </section>
-      <section class="answer">Судноводій перебуває у стані алкогольного сп'яніння;</section>
-      <section class="answer">Судноводій не має посвідчення на право керування маломірним судном відповідної категорії;</section>
-      <section class="answer">Судно не зареєстроване у встановленому порядку;</section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
+      <section class="answer">Судноводій перебуває у стані алкогольного сп'яніння</section>
+      <section class="answer">Судноводій не має посвідчення на право керування маломірним судном
+      відповідної категорії</section>
+      <section class="answer">Судно не зареєстроване у встановленому порядку</section>
    </section>
    <section class="question" number="575">
-      <section class="text">Яке адміністративне покарання передбачено за керування маломірним судном, не зареєстрованим в установленому порядку?</section>
+      <section class="text">Яке адміністративне покарання передбачено за керування маломірним судном,
+      не зареєстрованим в установленому порядку?</section>
+      <section class="answer" data-correct="data-correct">Попередження або штраф від одного до п'яти
+      неоподатковуваних мінімумів доходів громадян</section>
       <section class="answer">Усне попередження</section>
-      <section class="answer">Попередження або штраф від одного до трьох неоподатковуваних мінімумів доходів громадян</section>
-      <section class="answer" data-correct="data-correct">Попередження або штраф від одного до п'яти неоподатковуваних мінімумів доходів громадян </section>
-      <section class="answer">Попередження або штраф від одного до п'яти неоподатковуваних мінімумів доходів громадян або позбавлення права керування маломірним судном на строк до одного року</section>
+      <section class="answer">Попередження або штраф від одного до трьох неоподатковуваних мінімумів
+      доходів громадян</section>
+      <section class="answer">Попередження або штраф від одного до п'яти неоподатковуваних мінімумів
+      доходів громадян або позбавлення права керування маломірним судном на строк до одного року</section>
    </section>
    <section class="question" number="576">
-      <section class="text">Яке адміністративне покарання передбачається за управління маломірним судном, що не пройшло технічний огляд?</section>
-      <section class="answer">Попередження або штраф від одного до трьох неоподатковуваних мінімумів доходів громадян;</section>
-      <section class="answer">Попередження або штраф від одного до трьох неоподатковуваних мінімумів доходів громадян;</section>
-      <section class="answer" data-correct="data-correct">Попередження або штраф від одного до п'яти неоподатковуваних мінімумів доходів громадян; </section>
-      <section class="answer">Усне попередження;</section>
+      <section class="text">Яке адміністративне покарання передбачається за управління маломірним
+      судном, що не пройшло технічний огляд?</section>
+      <section class="answer" data-correct="data-correct">Попередження або штраф від одного до п'яти
+      неоподатковуваних мінімумів доходів громадян</section>
+      <section class="answer">Попередження або штраф від одного до трьох неоподатковуваних мінімумів
+      доходів громадян</section>
+      <section class="answer">Попередження або штраф від одного до трьох неоподатковуваних мінімумів
+      доходів громадян;</section>
+      <section class="answer">Усне попередження</section>
    </section>
    <section class="question" number="577">
       <section class="text">У яких випадках обов'язково необхідно від'єднати шнур безпеки від вимикача?</section>
-      <section class="answer">У випадку присутності поблизу сторонніх осіб;</section>
-      <section class="answer">У випадку чистки решітки вхідного отвору водоводу;</section>
-      <section class="answer">У випадку технічного обслуговування гідроциклу;</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні; </section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
+      <section class="answer">У випадку присутності поблизу сторонніх осіб</section>
+      <section class="answer">У випадку чистки решітки вхідного отвору водоводу</section>
+      <section class="answer">У випадку технічного обслуговування гідроциклу</section>
    </section>
    <section class="question" number="578">
-      <section class="text">На якій відстані від інших суден, берега і від тих, що купаються повинні знаходитися воднолижник і судно що його буксирує</section>
-      <section class="answer" data-correct="data-correct">На достатній та безпечній відстані </section>
+      <section class="text">На якій відстані від інших суден, берега і від тих, що купаються повинні
+      знаходитися воднолижник і судно що його буксирує</section>
+      <section class="answer" data-correct="data-correct">На достатній та безпечній відстані</section>
       <section class="answer">На відстані не менше 50 метрів</section>
       <section class="answer">На відстані не менше 100 метрів</section>
       <section class="answer">На відстані не менше як дві довжини буксирувального складу</section>
    </section>
    <section class="question" number="579">
-      <section class="text">Як необхідно діяти судноводія гідроциклу при перетині хвильового сліду від пройденого судна?</section>
-      <section class="answer" data-correct="data-correct">Зменшити швидкість та перетинати перпендикулярно хвильовому сліду; </section>
-      <section class="answer">Збільшити швидкість та перетинати перпендикулярно хвильовому сліду;</section>
-      <section class="answer">Перетинати під кутом не менше 30 градусів хвильовому сліду, не зменшуючи швидкості;</section>
-      <section class="answer">Перетинати під кутом не менше 60 градусів хвильовому сліду, зменшуючи швидкость;</section>
+      <section class="text">Як необхідно діяти судноводію гідроциклу при перетині хвильового сліду
+      від пройденого судна?</section>
+      <section class="answer" data-correct="data-correct">Зменшити швидкість та перетинати
+      перпендикулярно хвильовому сліду</section>
+      <section class="answer">Збільшити швидкість та перетинати перпендикулярно хвильовому сліду</section>
+      <section class="answer">Перетинати під кутом не менше 30 градусів хвильовому сліду, не
+      зменшуючи швидкості</section>
+      <section class="answer">Перетинати під кутом не менше 60 градусів хвильовому сліду, зменшуючи
+      швидкость</section>
    </section>
    <section class="question" number="580">
-      <section class="text">Чи дозволяється підхід водних мотоциклів до берега, місцях масового відпочинку громадян?</section>
-      <section class="answer">Підхід гідроциклів до берега в місцях масового відпочинку громадян дозволено за умови впевненості судноводія в безпечності руху</section>
-      <section class="answer" data-correct="data-correct">Підхід гідроциклів до берега в місцях масового відпочинку громадян дозволено у випадку наявності спеціально відведеного та огородженного фарватеру </section>
-      <section class="answer">Підхід гідроциклів до берега в місцях масового відпочинку громадян заборонено у будь-яких випадках</section>
-      <section class="answer">Підхід гідроциклів до берега в місцях масового відпочинку громадян дозволено у будь-яких випадках</section>
+      <section class="text">Чи дозволяється підхід водних мотоциклів до берега, місцях масового
+      відпочинку громадян?</section>
+      <section class="answer" data-correct="data-correct">Підхід гідроциклів до берега в місцях
+      масового відпочинку громадян дозволено у випадку наявності спеціально відведеного та
+      огородженного фарватеру</section>
+      <section class="answer">Підхід гідроциклів до берега в місцях масового відпочинку громадян
+      дозволено за умови впевненості судноводія в безпечності руху</section>
+      <section class="answer">Підхід гідроциклів до берега в місцях масового відпочинку громадян
+      заборонено у будь-яких випадках</section>
+      <section class="answer">Підхід гідроциклів до берега в місцях масового відпочинку громадян
+      дозволено у будь-яких випадках</section>
    </section>
    <section class="question" number="581">
-      <section class="text">Конструктивне забезпечення непотоплюваності гідроциклу.</section>
-      <section class="answer">Підводні крила гідроциклу</section>
+      <section class="text">Конструктивне забезпечення непотоплюваності гідроциклу</section>
       <section class="answer" data-correct="data-correct">Корпус гідроциклу закритого типу</section>
+      <section class="answer">Підводні крила гідроциклу</section>
       <section class="answer">Водонепроникні переборки корпусу</section>
       <section class="answer">Матеріал корпусу гідроциклу</section>
    </section>
    <section class="question" number="582">
-      <section class="text">Порядок посадки та висадки пасажирів на гідроцикл.</section>
+      <section class="text">Порядок посадки та висадки пасажирів на гідроцикл</section>
+      <section class="answer" data-correct="data-correct">Посадка (висадка) пасажирів повинна
+      відбуватися у обладнаного для цих цілей причалу (берега) при непрацюючому двигуні. Контроль за
+      безпекою посадки (висадки) людей повинен здійснювати особисто судноводій. Судноводій повинен
+      провести інструктаж про правила поведінки на судні і перевірити чи правильно одягнені
+      рятувальні жилети</section>
       <section class="answer">Правильна відповідь відсутня</section>
-      <section class="answer">Порядок посадки (висадки) пасажирів визначається в залежності від навігаційній обстановки.</section>
-      <section class="answer">Порядок посадки (висадки) пасажирів визначає особисто судноводій.</section>
-      <section class="answer" data-correct="data-correct">Посадка (висадка) пасажирів повинна відбуватися у обладнаного для цих цілей причалу (берега) при непрацюючому двигуні. Контроль за безпекою посадки (висадки) людей повинен здійснювати особисто судноводій. Судноводій повинен провести інструктаж про правила поведінки на судні і перевірити чи правильно одягнені рятувальні жилети. </section>
+      <section class="answer">Порядок посадки (висадки) пасажирів визначається в залежності від
+      навігаційній обстановки</section>
+      <section class="answer">Порядок посадки (висадки) пасажирів визначає особисто судноводій</section>
    </section>
    <section class="question" number="583">
-      <section class="text">Безпечні методи керування гідроциклом.</section>
-      <section class="answer">Уникати різких маневрів на великій швидкості;</section>
-      <section class="answer">Уникати рух у кільватері іншого судна;</section>
-      <section class="answer">Уникати експлуатації гідроциклу під час видимості не менше 1000 метрів;</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні; </section>
+      <section class="text">Безпечні методи керування гідроциклом</section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
+      <section class="answer">Уникати різких маневрів на великій швидкості</section>
+      <section class="answer">Уникати рух у кільватері іншого судна</section>
+      <section class="answer">Уникати експлуатації гідроциклу під час видимості не менше 1000 метрів</section>
    </section>
    <section class="question" number="584">
       <section class="text">Скільки спортсменів воднолижників одночасно може буксирувати гідроцикл?</section>
+      <section class="answer" data-correct="data-correct">Не більше одного</section>
       <section class="answer">Не більше трьох</section>
-      <section class="answer" data-correct="data-correct">Не більше одного </section>
       <section class="answer">Не більше двох</section>
       <section class="answer">Будь-яка кількість, залежно від потужності двигуна</section>
    </section>
    <section class="question" number="585">
       <section class="text">За якої видимості можливе використання гідроциклу?</section>
+      <section class="answer" data-correct="data-correct">Не менш як 1000 метрів</section>
       <section class="answer">Не менш як 500 метрів</section>
-      <section class="answer" data-correct="data-correct">Не менш як 1000 метрів </section>
       <section class="answer">Не менш як 200 метрів</section>
       <section class="answer">За будь-якої видимості з урахуванням безпечної швидкості</section>
    </section>
@@ -7789,10 +7916,10 @@
    </section>
    <section class="question" number="587">
       <section class="text">Які можливі причини перегріву двигуна гідроциклу?</section>
+      <section class="answer" data-correct="data-correct">Усі відповіді вірні</section>
       <section class="answer">Засмічена проточна система охолодження двигуна</section>
       <section class="answer">Засмічений вхідний отвір водоводної системи</section>
       <section class="answer">Двигун працює на не відповідних паливно-мастильних матеріалах</section>
-      <section class="answer" data-correct="data-correct">Усі відповіді вірні </section>
    </section>
    <section class="question" number="588">
       <section class="text">Державний нагляд за безпекою на морському та річковому транспорті, в
@@ -7805,11 +7932,15 @@
       <section class="answer">Національна поліція</section>
    </section>
    <section class="question" number="589">
-      <section class="text">Якою повинна бути швидкість маломірних/малих суден (ММС)в місцях масового відпочинку людей з буйковим огородженням?</section>
-      <section class="answer" data-correct="data-correct">Уздовж пляжів дозволяється рух ММС тільки за межами буйкового огородження і зі швидкістю 5 км / год. </section>
-      <section class="answer">Уздовж пляжів дозволяється рух ММС тільки за межами буйкового огородження і зі швидкістю 10 км / год.</section>
-      <section class="answer">Уздовж пляжів дозволяється рух ММС тільки за межами буйкового огородження і зі швидкістю 15 км / год.</section>
-      <section class="answer">Уздовж пляжів рух ММС заборонено.</section>
+      <section class="text">Якою повинна бути швидкість маломірних/малих суден (ММС) в місцях
+      масового відпочинку людей з буйковим огородженням?</section>
+      <section class="answer" data-correct="data-correct">Уздовж пляжів дозволяється рух ММС тільки
+      за межами буйкового огородження і зі швидкістю 5 км/год</section>
+      <section class="answer">Уздовж пляжів дозволяється рух ММС тільки за межами буйкового
+      огородження і зі швидкістю 10 км/год</section>
+      <section class="answer">Уздовж пляжів дозволяється рух ММС тільки за межами буйкового
+      огородження і зі швидкістю 15 км/год</section>
+      <section class="answer">Уздовж пляжів рух ММС заборонено</section>
    </section>
    <section class="question" number="590">
       <section class="text">Про що інформує береговий заборонний знак: "Якір не кидати!"?</section>
@@ -7828,26 +7959,38 @@
    <section class="question" number="591">
       <section class="text">Яке судно несе даний сигнал?<br/>
             <img src="/quiz/img/1.36.jpg"/></section>
-      <section class="answer" data-correct="data-correct">Це додаткова сигналізація суден, які використовуються для проведення водолазних робіт (сигнальний прапор «А»), як вдень так і вночі. </section>
+      <section class="answer" data-correct="data-correct">Це додаткова сигналізація суден, які
+      використовуються для проведення водолазних робіт (сигнальний прапор "А"), як вдень так і вночі</section>
       <section class="answer">Додаткова сигналізація суден лоцманської служби</section>
-      <section class="answer">Це додаткова сигналізація суден, які використовуються для проведення водолазних робіт (сигнальний прапор «А»), вдень.</section>
-      <section class="answer">Це додаткова сигналізація суден, які використовуються для проведення водолазних робіт (сигнальний прапор «А»), вночі.</section>
+      <section class="answer">Це додаткова сигналізація суден, які використовуються для проведення
+      водолазних робіт (сигнальний прапор "А"), вдень</section>
+      <section class="answer">Це додаткова сигналізація суден, які використовуються для проведення
+      водолазних робіт (сигнальний прапор "А"), вночі</section>
    </section>
    <section class="question" number="592">
       <section class="text">Що означають дані плавучі навігаційні знаки системи МАМС в репіоні А?<br/>
             <img src="/quiz/img/1.38.jpg"/></section>
-      <section class="answer" data-correct="data-correct">Зазначені плавучі навігаційні знаки огороджують окремі, незначних розмірів небезпеки, які можна обходити з будь-якого боку. </section>
-      <section class="answer">Зазначені плавучі навігаційні знаки огороджують значних розмірів небезпеки, які можна обходити з лівого боку.</section>
-      <section class="answer">Зазначені плавучі навігаційні знаки огороджують значних розмірів небезпеки,які можна обходитиз правого боку.</section>
-      <section class="answer">Зазначені плавучі навігаційні знаки огороджують окремі, значних розмірів небезпеки, які можна обходити з будь-якого боку.</section>
+      <section class="answer" data-correct="data-correct">Зазначені плавучі навігаційні знаки
+      огороджують окремі, незначних розмірів небезпеки, які можна обходити з будь-якого боку</section>
+      <section class="answer">Зазначені плавучі навігаційні знаки огороджують значних розмірів
+      небезпеки, які можна обходити з лівого боку</section>
+      <section class="answer">Зазначені плавучі навігаційні знаки огороджують значних розмірів
+      небезпеки, які можна обходитиз правого боку</section>
+      <section class="answer">Зазначені плавучі навігаційні знаки огороджують окремі, значних
+      розмірів небезпеки, які можна обходити з будь-якого боку</section>
    </section>
    <section class="question" number="593">
       <section class="text">Що означає даний береговий знак?<br/>
             <img src="/quiz/img/1.113.jpg"/></section>
-      <section class="answer" data-correct="data-correct">«Рух малих плавучих засобів ЗАБОРОНЕНО)».Даний береговий знак позначає ділянку, де на судновомуходу заборонено рух ММС (на рейдах в підхідних каналах, біля причаліві ін.). </section>
-      <section class="answer">«Рух малих плавучих засобів ЗАБОРОНЕНО!». Даний берегової знак позначає ділянку, де заборонено причалювати ММС до пляжу.</section>
-      <section class="answer">«Рух малих плавучих засобів ЗАБОРОНЕНО!».Даний знак забороняє використання ММС на водоймі.</section>
-      <section class="answer">«Рух малих плавучих засобів ЗАБОРОНЕНО». Даний берегової знак позначає ділянку, де заборонено використовувати двигуни для моторних ММС.</section>
+      <section class="answer" data-correct="data-correct">"Рух малих плавучих засобів ЗАБОРОНЕНО!".
+      Даний береговий знак позначає ділянку, де на судновомуходу заборонено рух ММС (на рейдах в
+      підхідних каналах, біля причалів і ін.)</section>
+      <section class="answer">"Рух малих плавучих засобів ЗАБОРОНЕНО!". Даний берегової знак
+      позначає ділянку, де заборонено причалювати ММС до пляжу</section>
+      <section class="answer">"Рух малих плавучих засобів ЗАБОРОНЕНО!". Даний знак забороняє
+      використання ММС на водоймі</section>
+      <section class="answer">"Рух малих плавучих засобів ЗАБОРОНЕНО!". Даний берегової знак
+      позначає ділянку, де заборонено використовувати двигуни для моторних ММС</section>
    </section>
    <section class="question" number="594">
       <section class="text">Що означають ці плавучі навігаційні знаки системи МАМС в регіоні А?<br/>
@@ -7878,16 +8021,17 @@
    <section class="question" number="595">
       <section class="text">Яке судно несе даний сигнал: чорна куля на видному місці?<br/>
             <img src="/quiz/img/1.43.jpg"/></section>
-      <section class="answer" data-correct="data-correct">Даний сигнал несе судно вдень при стоянці на якорі. </section>
-      <section class="answer">Даний сигнал несе судно що здійснює промисловий лов.</section>
-      <section class="answer">Даний сигнал несе судно, на якому виконуються водолазні роботи,вдень.</section>
-      <section class="answer">Даний сигнал несе судно яке не може маневрувати.</section>
+      <section class="answer" data-correct="data-correct">Даний сигнал несе судно вдень при стоянці
+      на якорі</section>
+      <section class="answer">Даний сигнал несе судно що здійснює промисловий лов</section>
+      <section class="answer">Даний сигнал несе судно, на якому виконуються водолазні роботи, вдень</section>
+      <section class="answer">Даний сигнал несе судно яке не може маневрувати</section>
    </section>
    <section class="question" number="596">
       <section class="text">Як називається огорожа, що складається з вертикальних стійок, з'єднаних
             між собою ланцюгами, тросами або круглими прутами?<br/>
             <img src="/quiz/img/1.48.jpg"/></section>
-      <section class="answer" data-correct="data-correct">Леєрне огородження </section>
+      <section class="answer" data-correct="data-correct">Леєрне огородження</section>
       <section class="answer">Обмежувальне огородження</section>
       <section class="answer">Швартове огородження</section>
       <section class="answer">Бортове огородження</section>
@@ -7895,17 +8039,24 @@
    <section class="question" number="597">
       <section class="text">Що означає даний плавучій навігаційний знак?<br/>
             <img src="/quiz/img/1.50.jpg"/></section>
-      <section class="answer">«Знак небезпеки». Даний плавучий навігаційний знак позначає особливо небезпечні ділянки суднового ходу (затоплені споруди, оголовки дамбі ін.).</section>
-      <section class="answer" data-correct="data-correct">«Знак небезпеки». Даний плавучий навігаційний знак позначає особливо небезпечні місця на лівій кромці суднового ходу (затоплені споруди, оголовки дамбі ін.) та дублює кромковий знак на лівій кромці суднового ходу. </section>
-      <section class="answer">«Знак небезпеки». Даний плавучий навігаційний знак позначає особливо небезпечні місця на правій кромці суднового ходу(затоплені споруди, оголовки дамбі ін.) та дублює кромковий знак на правій кромці суднового ходу.</section>
-      <section class="answer">«Знак небезпеки». Даний плавучий навігаційний знак позначає особливо небезпечні місця суднового ходу(затоплені споруди, оголовки дамбі ін.).</section>
+      <section class="answer" data-correct="data-correct">"Знак небезпеки". Даний плавучий
+      навігаційний знак позначає особливо небезпечні місця на лівій кромці суднового ходу (затоплені
+      споруди, оголовки дамб і ін.) та дублює кромковий знак на лівій кромці суднового ходу</section>
+      <section class="answer">"Знак небезпеки". Даний плавучий навігаційний знак позначає особливо
+      небезпечні ділянки суднового ходу (затоплені споруди, оголовки дамбі ін.)</section>
+      <section class="answer">"Знак небезпеки". Даний плавучий навігаційний знак позначає особливо
+      небезпечні місця на правій кромці суднового ходу (затоплені споруди, оголовки дамбі ін.) та
+      дублює кромковий знак на правій кромці суднового ходу</section>
+      <section class="answer">"Знак небезпеки". Даний плавучий навігаційний знак позначає особливо
+      небезпечні місця суднового ходу (затоплені споруди, оголовки дамбі ін.)</section>
    </section>
    <section class="question" number="598">
-      <section class="text">У який строк судновласники повинні інформувати про зміни відомостей, що вносяться в реєстри суден?</section>
-      <section class="answer" data-correct="data-correct">У 2-х тижневий термін. </section>
+      <section class="text">У який строк судновласники повинні інформувати про зміни відомостей, що
+      вносяться в реєстри суден?</section>
+      <section class="answer" data-correct="data-correct">У 2-х тижневий термін</section>
       <section class="answer">У тижневий термін</section>
       <section class="answer">У 3-х тижневий термін</section>
-      <section class="answer">На протязі 15 робочих днів з моменту набуття права власності.</section>
+      <section class="answer">На протязі 15 робочих днів з моменту набуття права власності</section>
    </section>
    <section class="question" number="599">
       <section class="text">Які суднові документи повинні бути на ММС (мале/маломірне судно)?</section>
@@ -7927,11 +8078,12 @@
       - класифікаційне свідоцтво та інші свідоцтва класифікаційного товариства стосовно класу</section>
    </section>
    <section class="question" number="600">
-      <section class="text">З якого борту може виконуватися обгін малого/маломірного судна (ММС) за межами суднового ходу?</section>
-      <section class="answer">З будь-якого борту.</section>
-      <section class="answer" data-correct="data-correct">Тільки з лівого борту. </section>
-      <section class="answer">Тільки з правого борту.</section>
-      <section class="answer">В залежності від навігаційної обстановки.</section>
+      <section class="text">З якого борту може виконуватися обгін малого/маломірного судна (ММС) за
+      межами суднового ходу?</section>
+      <section class="answer" data-correct="data-correct">Тільки з лівого борту</section>
+      <section class="answer">З будь-якого борту</section>
+      <section class="answer">Тільки з правого борту</section>
+      <section class="answer">В залежності від навігаційної обстановки</section>
    </section>
    <section class="question" number="601">
       <section class="text">Які дії застосовуються для попередження зіткнення?</section>
