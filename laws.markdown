@@ -22,6 +22,8 @@ permalink: /laws/
 
 [Міжнародна конвенція про підготовку і дипломування моряків та несення вахти (ПДМНВ-78/95)](https://zakon.rada.gov.ua/laws/show/995_053){:target="_blank"}
 
+[Стандартні фрази для морських комунікацій IMO SMCP Eng pdf](https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/A.918(22).pdf){:target="_blank"}
+
 [ПОЛОЖЕННЯ про порядок видачі посвідчення судноводія малого/маломірного судна](https://zakon.rada.gov.ua/laws/show/z0831-13){:target="_blank"}
 
 [ПОРЯДОК ведення Державного суднового реєстру України і Суднової книги України](https://zakon.rada.gov.ua/laws/show/1069-97-%D0%BF){:target="_blank"}
