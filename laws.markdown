@@ -22,7 +22,7 @@ permalink: /laws/
 
 [Міжнародна конвенція про підготовку і дипломування моряків та несення вахти (ПДМНВ-78/95)](https://zakon.rada.gov.ua/laws/show/995_053){:target="_blank"}
 
-[Стандартні фрази для морських комунікацій IMO SMCP Eng pdf](https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/A.918(22).pdf){:target="_blank"}
+Стандартні фрази для морських комунікацій [IMO SMCP Eng pdf](https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/A.918(22).pdf){:target="_blank"}, [Ru-Eng pdf](https://saillife.ru/wp-content/uploads/2015/04/Frazi.pdf){:target="_blank"}
 
 [ПОЛОЖЕННЯ про порядок видачі посвідчення судноводія малого/маломірного судна](https://zakon.rada.gov.ua/laws/show/z0831-13){:target="_blank"}
 
@@ -30,4 +30,4 @@ permalink: /laws/
 
 [Технічний регламент прогулянкових суден](https://zakon.rada.gov.ua/laws/show/1147-2011-%D0%BF){:target="_blank"}
 
-[Закон України Про внутрішній водний транспорт](https://zakon.rada.gov.ua/laws/show/1054-20){:target="_blank"} Набрання чинності відбудеться 01.01.2022
+[Закон України Про внутрішній водний транспорт](https://zakon.rada.gov.ua/laws/show/1054-20){:target="_blank"}
