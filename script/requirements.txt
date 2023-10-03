@@ -49,7 +49,7 @@ starlette==0.27.0
 toml==0.10.2
 typing-extensions==3.10.0.0
 uritemplate==3.0.1
-urllib3==1.26.6
+urllib3==1.26.17
 uvicorn==0.13.4
 Werkzeug==2.2.3
 wrapt==1.12.1
